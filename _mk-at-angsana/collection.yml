@@ -2,6 +2,7 @@ collections:
   mk-at-angsana:
     output: true
     order:
+      - Orientation Package.md
       - Our Events.md
       - Our Learning Environment.md
       - Our Family.md
