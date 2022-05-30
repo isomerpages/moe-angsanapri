@@ -2,6 +2,7 @@ collections:
   mk-at-angsana:
     output: true
     order:
+      - MK@Angsana Open House 2022.md
       - Kindergarten Care (KCare).md
       - Orientation Package.md
       - Our Events.md
