@@ -2,6 +2,7 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - Infocomm Technology.md
       - Physical And Health Education.md
       - Arts.md
       - Science.md
