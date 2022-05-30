@@ -7,21 +7,18 @@ third_nav_title: School Values
 ![Ren](https://angsanapri.moe.edu.sg/qql/slot/u167/about_us/School%20Values/REN_KAITI.png "Ren")
  **Benevolence, R3n**
 
-#### **Respect**
+### **Respect**
 
 I am kind and will appreciate others.
 
-#### **Resilience**
+### **Resilience**
 
 I am strong and will persevere in the face of challenges.
 
-#### **Responsibility**
+### **Responsibility**
 
 I am committed and will serve and love my family, school, community and nation with compassion.
 
-#### **Integrity**
+### **Integrity**
 
 I am morally upright, and will be accountable for my actions.
-
-
-
