@@ -4,7 +4,7 @@ permalink: /about-us/School-Anthem/permalink
 description: ""
 third_nav_title: School Anthem
 ---
-#### Upwards Angsana!
+### Upwards Angsana!
 ----------------
 
 Angsana is where our hopes and dreams begin, 
@@ -50,4 +50,3 @@ Our School, our Joy, our Pride!
 Upwards Angsana, Upwards Angsana 
 
 Our School, our Joy, our Pride!
-
