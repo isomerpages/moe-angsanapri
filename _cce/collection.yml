@@ -1,5 +1,5 @@
 collections:
-  character-development:
+  cce:
     output: true
     order:
       - CCE/National Education (NE).md
