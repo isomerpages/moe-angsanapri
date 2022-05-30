@@ -2,7 +2,7 @@ collections:
   our-staff:
     output: true
     order:
-      - School Administrative Team.md
+      - School Administration Team.md
       - Adjunct Support Staff.md
       - School Administration Team/School Administration Team.md
       - School Administration Team/.keep
