@@ -1,0 +1,4 @@
+collections:
+  key-personnel:
+    output: true
+    order: []
