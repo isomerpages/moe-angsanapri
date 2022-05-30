@@ -4,11 +4,10 @@ permalink: /about-us/2022-P1-Registration-Exercise/permalink
 description: ""
 third_nav_title: 2022 P1 Registration Exercise
 ---
-
-##### **E-Open House 2021**
+#### **E-Open House 2021**
 ---------------------
 
-#### **Engaging Minds, Empowering Lives**
+### **Engaging Minds, Empowering Lives**
 ------------------------------------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9u8mN8Oq0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
