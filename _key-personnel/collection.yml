@@ -2,6 +2,7 @@ collections:
   key-personnel:
     output: true
     order:
+      - Adjunct Support Staff/.keep
       - School Administration Team/.keep
       - Allied Educators/.keep
       - Teaching Staff/.keep
