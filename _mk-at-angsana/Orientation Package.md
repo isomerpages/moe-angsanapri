@@ -11,8 +11,10 @@ description: ""
 
 ![2a. Tips 1.png](https://angsanapri.moe.edu.sg/qql/slot/u167/MK@Angsana/2a.%20Tips%201.png)![2b. Tips 2.png](https://angsanapri.moe.edu.sg/qql/slot/u167/MK@Angsana/2b.%20Tips%202.png)  
 
+
   
 [MOE Kindergarten Family Handbook](/files/2021%20MOE%20Kindergarten%20Family%20Handbook.pdf)
+
 
 [MOE Kindergarten Family Handbook Acknowledgement Form](/files/MK%20Family%20Handbook%20Acknowledgement%20Form.pdf)
   
