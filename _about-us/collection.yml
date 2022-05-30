@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - 2022 P1 Registration Exercise/Example Title.md
+      - 2022 P1 Registration Exercise/2022 P1 Registration Exercise.md
       - 2022 P1 Registration Exercise/.keep
       - School Anthem/.keep
       - School Values/.keep
