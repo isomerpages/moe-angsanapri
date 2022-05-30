@@ -2,4 +2,5 @@ collections:
   mk-at-angsana:
     output: true
     order:
+      - Our Family.md
       - Our Vision, Mission, Values and Beliefs.md
