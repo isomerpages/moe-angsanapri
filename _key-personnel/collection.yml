@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Adjunct Support Staff/.keep
+      - School Administration Team/School Administration Team.md
       - School Administration Team/.keep
       - Allied Educators/Allied Educators.md
       - Allied Educators/.keep
