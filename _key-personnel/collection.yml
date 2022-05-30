@@ -1,4 +1,5 @@
 collections:
   key-personnel:
     output: true
-    order: []
+    order:
+      - Key Personnel/.keep
