@@ -2,6 +2,7 @@ collections:
   character-development:
     output: true
     order:
+      - CCE/Social Studies.md
       - CCE/NE and Values in Action.md
       - CCE/National Education (NE).md
       - CCE/Character and Citizenship Education (CCE).md
