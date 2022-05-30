@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 2022 P1 Registration Exercise.md
       - School Anthem.md
       - School Values.md
       - School Mission.md
