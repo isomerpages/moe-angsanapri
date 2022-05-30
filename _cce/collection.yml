@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - CCE/NE and Values in Action.md
       - CCE/National Education (NE).md
       - CCE/Character and Citizenship Education.md
       - CCE/.keep
