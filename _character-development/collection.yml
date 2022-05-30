@@ -2,4 +2,5 @@ collections:
   character-development:
     output: true
     order:
+      - National Education (NE).md
       - Character and Citizenship Education.md
