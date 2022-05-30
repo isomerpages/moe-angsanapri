@@ -2,6 +2,7 @@ collections:
   character-development:
     output: true
     order:
+      - Co Curricular Activities.md
       - CCE/Sexuality Education.md
       - CCE/Student Leadership Programme.md
       - CCE/Social Studies.md
