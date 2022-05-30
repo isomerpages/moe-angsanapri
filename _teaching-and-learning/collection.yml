@@ -2,6 +2,7 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - Assessment Plans.md
       - Applied Learning Programme.md
       - InfoComm Technology.md
       - Physical And Health Education.md
