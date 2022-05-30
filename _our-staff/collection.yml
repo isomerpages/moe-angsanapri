@@ -1,5 +1,5 @@
 collections:
-  key-personnel:
+  our-staff:
     output: true
     order:
       - Adjunct Support Staff/Adjunct Support Staff.md
