@@ -2,5 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our Staff
     url: /our-staff
-  - title: Example Page
-    url: /example-page/
+    sublinks:
+      - title: Key Personnel
+        url: /key-personnel/Key-Personnel/permalink
+      - title: Teaching Staff
+        url: /key-personnel/Teaching-Staff/permalink
+      - title: Submenu Title
+        url: /permalink
