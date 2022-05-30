@@ -2,6 +2,7 @@ collections:
   character-development:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/Student Leadership Programme.md
       - CCE/Social Studies.md
       - CCE/NE and Values in Action.md
