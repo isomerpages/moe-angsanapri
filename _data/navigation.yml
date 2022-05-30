@@ -34,4 +34,24 @@ links:
         url: /permalink
   - title: Teaching & Learning
     url: /teaching-&-learning
-    sublinks: []
+    sublinks:
+      - title: English Language
+        url: /teaching-and-learning/English-Language/permalink
+      - title: Mother Tongue Languages
+        url: /teaching-and-learning/Mother-Tongue-Languages/permalink
+      - title: Mathematics
+        url: /teaching-and-learning/Mathematics/permalink
+      - title: Science
+        url: /teaching-and-learning/Science/permalink
+      - title: Arts
+        url: /teaching-and-learning/Arts/permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Physical And Health Education
+        url: /teaching-and-learning/Physical-And-Health-Education/permalink
+      - title: InfoComm Technology
+        url: /teaching-and-learning/InfoComm-Technology/permalink
+      - title: Applied Learning Programme
+        url: /teaching-and-learning/Applied-Learning-Programme/permalink
+      - title: Assessment Plans
+        url: /teaching-and-learning/Assessment-Plans/permalink
