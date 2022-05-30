@@ -3,8 +3,6 @@ title: School Administration Team
 permalink: /our-staff/School-Administration-Team/permalink
 description: ""
 ---
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -12,28 +10,29 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ygxi{background-color:#27287B;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-pfgq{border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-2srx{background-color:#27287B;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-y8xx{border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ygxi" colspan="2">Designation</th>
+    <th class="tg-2srx">Designation</th>
+    <th class="tg-2srx">Name</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-y8xx">Administration Manager</td>
-    <td class="tg-y8xx">Mdm Tang Yee Siam Irene</td>
+    <td class="tg-pfgq">Mdm Tang Yee Siam Irene</td>
   </tr>
   <tr>
-    <td class="tg-pfgq">Operations Manager</td>
+    <td class="tg-y8xx">Operations Manager</td>
     <td class="tg-pfgq">Mr Muhd Hirwan Bin Muhd Som</td>
   </tr>
   <tr>
-    <td class="tg-pfgq">ICT Manager</td>
+    <td class="tg-y8xx">ICT Manager</td>
     <td class="tg-pfgq">Mr Dave Tan Chuan Huat</td>
   </tr>
   <tr>
