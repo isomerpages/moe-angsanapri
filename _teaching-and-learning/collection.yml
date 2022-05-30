@@ -2,4 +2,5 @@ collections:
   teaching-and-learning:
     output: true
     order:
+      - Mother Tongue Languages.md
       - English Language.md
