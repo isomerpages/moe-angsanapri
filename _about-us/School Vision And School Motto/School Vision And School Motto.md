@@ -4,8 +4,8 @@ permalink: /about-us/School-Vision-And-School-Motto/permalink
 description: ""
 third_nav_title: School Vision And School Motto
 ---
-#### **School Vision**
+### **School Vision**
 #### **Confident Leaders, Caring Citizens**
 
-#### **School Motto**
+### **School Motto**
 #### **Above and Beyond**
