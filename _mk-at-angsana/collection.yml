@@ -1,4 +1,5 @@
 collections:
   mk-at-angsana:
     output: true
-    order: []
+    order:
+      - Our Vision, Mission, Values and Beliefs.md
