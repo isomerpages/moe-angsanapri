@@ -195,3 +195,13 @@ c. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+**Information For Parents**
+
+8.    Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.  
+  
+9.    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](https://angsanapri.moe.edu.sg/qql/slot/u167/our_student_development/cce/2022%20SEd%20Opt%20Out%20Form.pdf)**. A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **28/01/2022**.  
+
+10\. Parents can contact the school at **67830427** for discussion or to seek clarification about the school’s sexuality education programme.   
+  
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
