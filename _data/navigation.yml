@@ -15,4 +15,20 @@ links:
         url: /key-personnel/Adjunct-Support-Staff/permalink
   - title: About Us
     url: /about-us
-    sublinks: []
+    sublinks:
+      - title: School History
+        url: /about-us/School-History/permalink
+      - title: School Crest
+        url: /about-us/School-Crest/permalink
+      - title: School Vision And Mission
+        url: /about-us/School-Vision-And-School-Motto/permalink
+      - title: School Mission
+        url: /about-us/School-Mission/permalink
+      - title: School Values
+        url: /about-us/School-Values/permalink
+      - title: School Anthem
+        url: /about-us/School-Anthem/permalink
+      - title: 2022 P1 Registration Exercise
+        url: /about-us/2022-P1-Registration-Exercise/permalink
+      - title: Submenu Title
+        url: /permalink
