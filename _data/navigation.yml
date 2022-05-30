@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our Staff
-    url: /our-staff
+    url: our-staff
     sublinks:
       - title: Key Personnel
         url: /our-staff/Key-Personnel/permalink
@@ -14,7 +14,7 @@ links:
       - title: Adjunct Support Staff
         url: /our-staff/Adjunct-Support-Staff/permalink
   - title: About Us
-    url: /about-us
+    url: about-us
     sublinks:
       - title: School History
         url: /about-us/School-History/permalink
@@ -33,7 +33,7 @@ links:
       - title: Submenu Title
         url: /permalink
   - title: Teaching & Learning
-    url: /teaching-&-learning
+    url: teaching-and-learning
     sublinks:
       - title: English Language
         url: /teaching-and-learning/English-Language/permalink
@@ -57,3 +57,5 @@ links:
         url: /teaching-and-learning/Assessment-Plans/permalink
   - title: Character Development
     collection: character-development
+  - title: MK @ Angsana
+    collection: mk-at-angsana
