@@ -2,4 +2,5 @@ collections:
   key-personnel:
     output: true
     order:
+      - Teaching Staff/.keep
       - Key Personnel/.keep
