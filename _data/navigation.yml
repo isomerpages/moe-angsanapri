@@ -1,60 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our Staff
-    url: our-staff
-    sublinks:
-      - title: Key Personnel
-        url: /our-staff/Key-Personnel/permalink
-      - title: Teaching Staff
-        url: /our-staff/Teaching-Staff/permalink
-      - title: Allied Educators
-        url: /our-staff/Allied-Educators/permalink
-      - title: School Administration Team
-        url: /our-staff/School-Administration-Team/permalink
-      - title: Adjunct Support Staff
-        url: /our-staff/Adjunct-Support-Staff/permalink
+    collection: our-staff
   - title: About Us
-    url: about-us
-    sublinks:
-      - title: School History
-        url: /about-us/School-History/permalink
-      - title: School Crest
-        url: /about-us/School-Crest/permalink
-      - title: School Vision And School Motto
-        url: /about-us/School-Vision-And-School-Motto/permalink
-      - title: School Mission
-        url: /about-us/School-Mission/permalink
-      - title: School Values
-        url: /about-us/School-Values/permalink
-      - title: School Anthem
-        url: /about-us/School-Anthem/permalink
-      - title: 2022 P1 Registration Exercise
-        url: /about-us/2022-P1-Registration-Exercise/permalink
-      - title: Submenu Title
-        url: /permalink
+    collection: about-us
   - title: Teaching & Learning
-    url: teaching-and-learning
-    sublinks:
-      - title: English Language
-        url: /teaching-and-learning/English-Language/permalink
-      - title: Mother Tongue Languages
-        url: /teaching-and-learning/Mother-Tongue-Languages/permalink
-      - title: Mathematics
-        url: /teaching-and-learning/Mathematics/permalink
-      - title: Science
-        url: /teaching-and-learning/Science/permalink
-      - title: Arts
-        url: /teaching-and-learning/Arts/permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Physical And Health Education
-        url: /teaching-and-learning/Physical-And-Health-Education/permalink
-      - title: InfoComm Technology
-        url: /teaching-and-learning/InfoComm-Technology/permalink
-      - title: Applied Learning Programme
-        url: /teaching-and-learning/Applied-Learning-Programme/permalink
-      - title: Assessment Plans
-        url: /teaching-and-learning/Assessment-Plans/permalink
+    collection: teaching-and-learning
   - title: Character Development
     collection: character-development
   - title: MK @ Angsana
