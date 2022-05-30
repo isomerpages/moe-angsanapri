@@ -1,5 +1,5 @@
 collections:
-  cce:
+  character-development:
     output: true
     order:
       - CCE/NE and Values in Action.md
