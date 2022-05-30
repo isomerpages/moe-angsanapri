@@ -2,5 +2,6 @@ collections:
   key-personnel:
     output: true
     order:
+      - Allied Educators/.keep
       - Teaching Staff/.keep
       - Key Personnel/.keep
