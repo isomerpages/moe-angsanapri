@@ -2,5 +2,4 @@ collections:
   information-and-services:
     output: true
     order:
-      - Photo Gallery.md
       - Contact Us.md
