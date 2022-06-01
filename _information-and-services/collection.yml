@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - Student Care Centre/.keep
       - School Rules & Regulations.md
       - School Homework Policy.md
       - School Calendar.md
