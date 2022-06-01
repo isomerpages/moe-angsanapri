@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - Photo Gallery/Teachers' Day Celebration 2019.md
       - Photo Gallery/Hari Raya Celebration 2019.md
       - Photo Gallery/Buddy Appreciation 2019.md
       - Photo Gallery/Chinese New Year 2019.md
