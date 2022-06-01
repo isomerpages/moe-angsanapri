@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Angsana Primary School
       background: /images/angsana banner.gif
       url: /contact-us/
   - infobar:
