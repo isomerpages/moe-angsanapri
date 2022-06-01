@@ -18,3 +18,10 @@ links:
     collection: our-partners-and-stakeholders
   - title: Quicklinks
     collection: quicklinks
+  - title: Others
+    url: /permalink
+    sublinks:
+      - title: Information & Services
+        url: https://angsanapri.moe.edu.sg/information-n-services/school-homework-policy
+      - title: Our Partners & Stakeholders
+        url: https://angsanapri.moe.edu.sg/our-partners-n-stakeholders/school-advisory-committee
