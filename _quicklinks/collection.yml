@@ -1,0 +1,4 @@
+collections:
+  quicklinks:
+    output: true
+    order: []
