@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - School Library.md
       - School Dental Health Service.md
       - School Bookshop and Uniform Operator.md
       - Student Care Centre.md
