@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - Photo Gallery 2018/.keep
       - Photo Gallery 2019/Beyond Boundaries To Xi'An 2019.md
       - Photo Gallery 2019/Teachers' Day Celebration 2019.md
       - Photo Gallery 2019/Hari Raya Celebration 2019.md
