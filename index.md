@@ -12,5 +12,5 @@ sections:
   - infobar:
       title: Announcements
       button: More
-      url: /announcements/permalink
+      url: /announcements/
 ---
