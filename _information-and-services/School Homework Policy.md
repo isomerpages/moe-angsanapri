@@ -62,5 +62,4 @@ Parents/guardians and learners all play an important role in ensuring that homew
 ### Non-completion of Homework
 Our teachers will work with students to find out the reasons for any non-submission of homework. Intervention strategies to support the student in this area will be based on the reasons and if need be, a parent-teacher conference will be arranged. If the student is medically excused from school for an extended length of time, arrangements can be made on how the student can be supported with homework and other areas of academic needs.
 _____________________________________________________________________________________________
-[1] Rutherford, William; Foyle, Harvey C.”How To Develop and Effective Homework Programme”. Tips for Principals from NASSP(October 1988). Educational Resources Information Centre (ERIC). 
- 
+[1] Rutherford, William; Foyle, Harvey C.”How To Develop and Effective Homework Programme”. Tips for Principals from NASSP(October 1988). Educational Resources Information Centre (ERIC).
