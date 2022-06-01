@@ -2,11 +2,11 @@ collections:
   information-and-services:
     output: true
     order:
-      - Photo Gallery/Beyond Boundaries To Xi'An 2019.md
-      - Photo Gallery/Teachers' Day Celebration 2019.md
-      - Photo Gallery/Hari Raya Celebration 2019.md
-      - Photo Gallery/Buddy Appreciation 2019.md
-      - Photo Gallery/Chinese New Year 2019.md
-      - Photo Gallery/First Day of School 2019.md
-      - Photo Gallery/.keep
+      - Photo Gallery 2019/Beyond Boundaries To Xi'An 2019.md
+      - Photo Gallery 2019/Teachers' Day Celebration 2019.md
+      - Photo Gallery 2019/Hari Raya Celebration 2019.md
+      - Photo Gallery 2019/Buddy Appreciation 2019.md
+      - Photo Gallery 2019/Chinese New Year 2019.md
+      - Photo Gallery 2019/First Day of School 2019.md
+      - Photo Gallery 2019/.keep
       - Contact Us.md
