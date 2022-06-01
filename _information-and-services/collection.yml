@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - School Insurance Claims.md
       - Photo Gallery/2017.md
       - Photo Gallery/2018.md
       - Photo Gallery/2019.md
