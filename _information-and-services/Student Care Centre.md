@@ -3,8 +3,6 @@ title: Student Care Centre
 permalink: /information-n-services/student-care-centre
 description: ""
 ---
-
-
 ### Student Care Centre
 
 ![Zenitant Student Care](/images/Zenitant%20Student%20Care%20Centre.jpg)
@@ -25,3 +23,4 @@ Closed on Centre Closure Days, Saturdays, Sundays and Gazetted Public Holidays.
 For more information, click [here](https://learningstudioeducare.com/)
 
 [Follow Us On Facebook](https://www.facebook.com/learningstudiobyzenitant/)
+
