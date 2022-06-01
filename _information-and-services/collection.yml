@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - Photo Gallery 2017/Angsana Celebrates 2017.md
       - Photo Gallery 2017/P1 Orientation 2017.md
       - Photo Gallery 2017/.keep
       - Photo Gallery 2018/Buddy Appreciation Day 2018.md
