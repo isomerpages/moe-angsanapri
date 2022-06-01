@@ -2,7 +2,6 @@ collections:
   information-and-services:
     output: true
     order:
-      - Photo Gallery/Chinese New Year 2019.md
       - Photo Gallery/First Day of School 2019.md
       - Photo Gallery/.keep
       - Contact Us.md
