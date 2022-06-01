@@ -1,4 +1,5 @@
 collections:
   quicklinks:
     output: true
-    order: []
+    order:
+      - For Parents.md
