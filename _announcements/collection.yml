@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Cyber Wellness Tips.md
       - LTA Handbrake requirement for bicycles.md
