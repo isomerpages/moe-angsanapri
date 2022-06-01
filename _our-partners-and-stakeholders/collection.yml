@@ -2,5 +2,6 @@ collections:
   our-partners-and-stakeholders:
     output: true
     order:
+      - Example Title.md
       - School Advisory Committee.md
       - Parent Support Group.md
