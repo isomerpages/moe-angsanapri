@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Contact Us
+title: Sitemap
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -14,4 +14,5 @@ sections:
       button: More
       url: /announcements/
 ---
+
 
