@@ -2,5 +2,6 @@ collections:
   quicklinks:
     output: true
     order:
+      - Booklist 2022.md
       - For Staff.md
       - For Parents.md
