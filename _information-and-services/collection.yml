@@ -2,6 +2,6 @@ collections:
   information-and-services:
     output: true
     order:
-      - Photo Gallery/First Day of School 2019.md
+      - Photo Gallery/Photo Gallery 2019.md
       - Photo Gallery/.keep
       - Contact Us.md
