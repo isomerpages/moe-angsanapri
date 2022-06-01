@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - Photo Gallery 2017/.keep
       - Photo Gallery 2018/Buddy Appreciation Day 2018.md
       - Photo Gallery 2018/Start of New Term 2018.md
       - Photo Gallery 2018/CNY Celebrations 2018.md
