@@ -12,15 +12,11 @@ links:
     collection: mk-at-angsana
   - title: Achievements
     collection: achievements
-  - title: Information & Services
-    collection: information-and-services
-  - title: Our Partners & Stakeholders
-    collection: our-partners-and-stakeholders
-  - title: Quicklinks
-    collection: quicklinks
   - title: Others
     url: /permalink
     sublinks:
+      - title: Achievements
+        url: /achievements/2020
       - title: Information & Services
         url: /information-n-services/school-homework-policy
       - title: Our Partners & Stakeholders
