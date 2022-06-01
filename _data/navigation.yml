@@ -22,6 +22,8 @@ links:
     url: /permalink
     sublinks:
       - title: Information & Services
-        url: https://angsanapri.moe.edu.sg/information-n-services/school-homework-policy
+        url: /information-n-services/school-homework-policy
       - title: Our Partners & Stakeholders
-        url: https://angsanapri.moe.edu.sg/our-partners-n-stakeholders/school-advisory-committee
+        url: /our-partners-n-stakeholders/school-advisory-committee
+      - title: Quicklinks
+        url: /quicklinks
