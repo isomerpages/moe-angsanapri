@@ -12,6 +12,5 @@ sections:
   - infobar:
       title: Announcements
       button: More
-      url: /announcements/attendance/permalink
+      url: /others/announcements/school-attendance-matters
 ---
-
