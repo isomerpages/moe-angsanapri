@@ -2,10 +2,6 @@ collections:
   character-development:
     output: true
     order:
-      - Student Management.md
-      - Student Leadership Development.md
-      - Programme for Active Learning.md
-      - Co Curricular Activities.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education (NE).md
@@ -13,3 +9,7 @@ collections:
       - CCE/Social Studies.md
       - CCE/Student Leadership Programme.md
       - CCE/Sexuality Education.md
+      - Co Curricular Activities.md
+      - Programme for Active Learning.md
+      - Student Leadership Development.md
+      - Student Management.md
