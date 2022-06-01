@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - LTA Handbrake requirement for bicycles.md
