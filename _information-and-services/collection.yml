@@ -2,6 +2,7 @@ collections:
   information-and-services:
     output: true
     order:
+      - Student Care Centre/Studio News @ ASPS.md
       - Student Care Centre/Student Care Centre.md
       - Student Care Centre/.keep
       - School Rules & Regulations.md
