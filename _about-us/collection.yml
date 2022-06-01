@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - 2022 P1 Registration Exercise.md
-      - School Anthem.md
-      - School Values.md
-      - School Mission.md
-      - School Vision And School Motto.md
-      - School Crest.md
       - School History.md
+      - School Crest.md
+      - School Vision And School Motto.md
+      - School Mission.md
+      - School Values.md
+      - School Anthem.md
+      - 2022 P1 Registration Exercise.md
