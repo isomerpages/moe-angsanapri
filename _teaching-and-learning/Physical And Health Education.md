@@ -3,7 +3,6 @@ title: Physical And Health Education
 permalink: /teaching-n-learning/physical-and-health-education
 description: ""
 ---
-
 ### Learning Outcomes
 
   
@@ -17,7 +16,7 @@ We aim to do the following through the Physical Education Curriculum at Angsana 
 
 Our PE teachers are all qualified PE teachers and they employ a wide spectrum of approaches in the teaching of Physical Education. These include the Movement Education Model, Games Concept Approach (GCA) and Sports Education Model.
 
-Catering to the profile of our pupils, we engage them through various instructional techniques encapsulated in Mosston’s teaching styles for PE. 
+Catering to the profile of our pupils, we engage them through various instructional techniques encapsulated in Mosston’s teaching styles for PE.&nbsp;
 
 ### Key Programmes
 
@@ -30,9 +29,20 @@ Our PE Curriculum includes the following components:
 *   Physical Health and Fitness
 *   Outdoor Education
 *   Swimming
-*   Athletics 
+*   Athletics&nbsp;
 
-### ![PE Pictures Modified.PNG](https://angsanapri.moe.edu.sg/qql/slot/u167/academic_programmes/pe/PE%20Pictures%20Modified.PNG)
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:400px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://angsanapri.moe.edu.sg/qql/slot/u167/academic_programmes/pe/PE%20Pictures%20Modified.PNG">
+
 
 ### Our Calendar  
 
