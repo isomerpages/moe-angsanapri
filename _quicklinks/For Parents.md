@@ -15,9 +15,6 @@ width:100px;height:200px;margin:10px;border-width:0px;border-color:#000000;borde
 <!-- HTML Code -->
 <img src="https://angsanapri.moe.edu.sg/qql/slot/u167/quicklinks/forpupils/.tn.Journeying%20with%20our%20Children%20Booklet.png.2.jpg" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
 
-
-
-
 Journeying with Our Children Booklet
 
 <!-- Codes by HTML.am -->
