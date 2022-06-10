@@ -3,8 +3,18 @@ title: SLS Student Learning Space
 permalink: /quicklinks/sls-student-learning-space
 description: ""
 ---
+<!-- Codes by HTML.am -->
 
-[![SLS](/images/SLS.png)](https://vle.learning.moe.edu.sg/login)
+<!-- CSS Code -->
+<style type="text/css" scoped>
+img.GeneratedImage {
+width:300px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img src="https://angsanapri.moe.edu.sg/qql/slot/u167/quicklinks/forstaff/SLS.png" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." class="GeneratedImage">
+
 
 Click to download the[ SLS FAQ and Instructions for Password Reset ](https://angsanapri.moe.edu.sg/qql/slot/u167/quicklinks/SLS/SLS%20FAQ%20and%20Instructions%20for%20Password%20Reset%20(New).pdf)
 
