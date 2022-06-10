@@ -4,12 +4,6 @@ permalink: /character-development/character-and-citizenship-education
 description: ""
 third_nav_title: CCE
 ---
-
-
-
-
-
-
 ### Learning Outcomes
 
 Our Character and Citizenship Education programmes are designed to help our students to:
@@ -22,12 +16,12 @@ Our Character and Citizenship Education programmes are designed to help our stud
 *   Be resilient and have the ability to turn challenges into opportunities  
     
 *   Take pride in our national identity, have a sense of belonging to Singapore, and be committed to nation-building.
-*    Value Singapore’s socio-cultural sensitivity, and promote social cohesion and harmony 
-*   Care for others and contribute actively to the progress of our community and nation 
+*   &nbsp;Value Singapore’s socio-cultural sensitivity, and promote social cohesion and harmony&nbsp;
+*   Care for others and contribute actively to the progress of our community and nation&nbsp;
 *   and respond to community, national and global issues, as an informed and responsible citizen.  
 
 
- 
+&nbsp;
 
 ### Pedagogical Approaches
 
@@ -35,7 +29,18 @@ Our Character and Citizenship Education (CCE) teaching pedagogy stems from the c
 
 ### Key Programmes
 
-![CCE_01.JPG](https://angsanapri.moe.edu.sg/qql/slot/u167/our_student_development/cce/CCE_01.JPG "CCE textbook")  
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:300px;height:400px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://angsanapri.moe.edu.sg/qql/slot/u167/our_student_development/cce/CCE_01.JPG">
+
 
 **CCE Lessons**
   
@@ -45,16 +50,16 @@ CCE lessons are taught in the Mother Tongue Languages (MTL) and English Language
   
 **Form Teacher Guidance Period (FTGP)**  
   
-To nurture skills for students’ social and emotional, and mental well-being, our FTGP lessons are time and space created for meaningful teacher-student interactions. Through these specially designed interaction activities, our teachers garner a firmer understanding of every student, strengthen the holistic development of every student, to build a good rapport as well as quality class and team spirit. Topics covered include Cyberwellness, Peer-Support and Social Skills.   
+To nurture skills for students’ social and emotional, and mental well-being, our FTGP lessons are time and space created for meaningful teacher-student interactions. Through these specially designed interaction activities, our teachers garner a firmer understanding of every student, strengthen the holistic development of every student, to build a good rapport as well as quality class and team spirit. Topics covered include Cyberwellness, Peer-Support and Social Skills.&nbsp;  
   
 
 **Assembly Programmes** 
   
-Assembly programme is conducted weekly, to support the holistic development of every student.   
+Assembly programme is conducted weekly, to support the holistic development of every student.&nbsp;  
  ![CCE_02.jpg](https://angsanapri.moe.edu.sg/qql/slot/u167/our_student_development/cce/CCE_02.jpg "CCE Assembly Programme") 
   
 
-**Good Morning Angsana** 
+**Good Morning Angsana**&nbsp;
 
 Good Morning Angsana is conducted weekly to explicitly teach current affairs and values.
 
@@ -88,4 +93,4 @@ Students go through various learning experiences to develop socially as responsi
   
 **Education and Career Guidance (ECG)**
   
-Through our structured ECG lessons and programmes, our students develop an awareness on their interests, abilities and career aspirations as well as develop a better understanding of oneself in relation to others and their work. They also become aware of their initial preferences in occupational roles assumed in play. Our Primary 5 and 6 pupils are given opportunities to explore their educational and career interests via the online resource ecareers.sg portal during FTGP lessons. 
+Through our structured ECG lessons and programmes, our students develop an awareness on their interests, abilities and career aspirations as well as develop a better understanding of oneself in relation to others and their work. They also become aware of their initial preferences in occupational roles assumed in play. Our Primary 5 and 6 pupils are given opportunities to explore their educational and career interests via the online resource ecareers.sg portal during FTGP lessons.
