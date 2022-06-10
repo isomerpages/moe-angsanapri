@@ -4,11 +4,20 @@ permalink: /information-n-services/student-care-centre
 description: ""
 third_nav_title: Student Care Centre
 ---
-
-
 ### Student Care Centre
 
-![Zenitant Student Care](/images/Zenitant%20Student%20Care%20Centre.jpg)
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css">
+img.GeneratedImage {
+width:200px;height:200px;margin:10px;border-width:0px;border-color:#000000;border-style:solid;
+}
+</style>
+
+<!-- HTML Code -->
+<img class="GeneratedImage" alt="Photo of the Remarkables mountain range in Queenstown, New Zealand." src="https://angsanapri.moe.edu.sg/qql/slot/u167/school_information/School_Services/Student_Care_Centre/.tn.Zenitant%20Student%20Care%20Centre.jpg.2.jpg">
+
 
 Learning Studio Educare by Zenitant @ Angsana Primary School
 Student Care Centre
@@ -26,4 +35,3 @@ Closed on Centre Closure Days, Saturdays, Sundays and Gazetted Public Holidays.
 For more information, click [here](https://learningstudioeducare.com/)
 
 [Follow Us On Facebook](https://www.facebook.com/learningstudiobyzenitant/)
-
