@@ -96,3 +96,5 @@ To provide support and expertise in the following areas:
   </tr>
 </tbody>
 </table>
+
+If you are interested in joining the PSG, please email us at [angsanapsg@gmail.com](mailto:angsanapsg@gmail.com)
