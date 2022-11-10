@@ -98,3 +98,17 @@ To provide support and expertise in the following areas:
 </table>
 
 If you are interested in joining the PSG, please email us at [angsanapsg@gmail.com](mailto:angsanapsg@gmail.com)
+
+
+### School-based workshops on Parenting Tips for Angsana Parents
+------------------------------------------------------------
+
+With consultation with PSG members and the school’s Family Matter Coordinator, the school has selected a variety of talks on Parenting Tips for all our parents. These talks are heavily subsidized and we would like to encourage all our parents to take this advantage of this opportunity and sign up for these talks.
+
+  
+
+A brief summary of talks that have been conducted and upcoming talks:
+
+  
+
+**2 January 2018: Preparing Your Child for Primary One**
