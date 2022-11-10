@@ -15,9 +15,8 @@ School Advisory Committee
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-roda{background-color:#DDD;color:#666;font-size:100%;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-kbjf{background-color:#DDD;color:#666;font-size:14px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dos6{background-color:#FFF;font-size:14px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 642px">
 <colgroup>
@@ -26,34 +25,34 @@ School Advisory Committee
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-roda"><span style="color:#666;background-color:#DDD">Designation</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-kbjf"><span style="color:#666;background-color:#DDD">Designation</span></th>
+    <th class="tg-kbjf"><span style="color:#666;background-color:#DDD">Name</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">Chairman</td>
-    <td class="tg-zr06">Mr Christopher Yeo</td>
+    <td class="tg-dos6">Chairman</td>
+    <td class="tg-dos6">Mr Christopher Yeo</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Hon. Secretary</td>
-    <td class="tg-zr06">Ms Foong Yin Wei</td>
+    <td class="tg-dos6">Hon. Secretary</td>
+    <td class="tg-dos6">Ms Foong Yin Wei</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Member</td>
-    <td class="tg-zr06">Mr Abdollah Bin Ibrahim</td>
+    <td class="tg-dos6">Member</td>
+    <td class="tg-dos6">Mr Abdollah Bin Ibrahim</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Member</td>
-    <td class="tg-zr06">Mdm Lani Tjoa</td>
+    <td class="tg-dos6">Member</td>
+    <td class="tg-dos6">Mdm Lani Tjoa</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Member</td>
-    <td class="tg-zr06">Mr Mohamed Azahari Bin Mohamed Said</td>
+    <td class="tg-dos6">Member</td>
+    <td class="tg-dos6">Mr Mohamed Azahari Bin Mohamed Said</td>
   </tr>
   <tr>
-    <td class="tg-zr06">Member</td>
-    <td class="tg-zr06">Mr Jason Ang</td>
+    <td class="tg-dos6">Member</td>
+    <td class="tg-dos6">Mr Jason Ang</td>
   </tr>
 </tbody>
 </table>
