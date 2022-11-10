@@ -10,15 +10,24 @@ School History
 
 ### The Angsana rises
 
-Our school is named after the majestic angsana tree.  This is a common wayside tree, which was systematically and extensively planted in Singapore in the early years of Singapore’s history – in the late 1960s and 1970s; as part of the Garden City Campaigns. Today, Angsana trees can be found around the island, lining and gracing important roads, including Orchard Road.
+Our school is named after the majestic angsana tree. This is a common wayside tree, which was systematically and extensively planted in Singapore in the early years of Singapore’s history – in the late 1960s and 1970s; as part of the Garden City Campaigns. Today, Angsana trees can be found around the island, lining and gracing important roads, including Orchard Road.
+
+  
 
 The Angsana tree was introduced to Singapore in the early 19th century. This beautiful tree can grow up to 40 m high; it has a dense, dome-shaped crown with drooping lower branches. Indeed, it provides very good shade. The wood from the tree is said to be one of the best furniture wood. Parts of the tree are used in native medicine.
 
-Angsana Primary School is a merged school formed from the former Qiaonan Primary School and Griffiths Primary School in 2015. 2015 was also the year when we celebrated Singapore’s 50 years of Independence, a very special year for our nation and for our school. We are the SG50 school.
+  
+
+Angsana Primary School is a merged school formed from the former Qiaonan Primary School and Griffiths Primary School in 2015. 2015 was also the year when we celebrated Singapore’s 50 years of Independence, a very special year for our nation and for our school. We are the SG50 school.
+
+  
 
 Like the Angsana tree, Angsana Primary School aims to live up to the usefulness and beauty of the tree which it is named after; and will provide the shade under which generations of good citizens will be nurtured and groomed for the future.
 
-Angsana Primary School will be relocating to 51 Tampines St 61 by June 2022.  You can read more about the histories of Angsana Primary School, and our heritage at :  
+  
+
+Angsana Primary School relocated to our new campus at 51 Tampines St 61 on 6 June 2022. You can read more about the histories of Angsana Primary School, and our heritage at :
+
 ######  **[Singapore School Histories Online Repository](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories)** 
 
 
