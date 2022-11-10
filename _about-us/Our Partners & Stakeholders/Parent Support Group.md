@@ -12,3 +12,52 @@ Parent Support Group
 ### The Angsana Primary School Parents Support Group
 
 The ASPS Parent Support Group (PSG) is a voluntary group of parents and an integral part of the school community. The PSG works with the school to provide opportunities for parents to take part in the intellectual, social and emotional development of the children. Support is provided through a range of activities and services for our pupils, teachers and parents. We would like to encourage you to be involved and contribute to foster a vibrant and nurturing community. It is a wonderful opportunity to meet other parents and get involved in the life of the school. We welcome your participation and assure you that it is a worthwhile endeavour that you will find personally rewarding and fun!
+
+### 3 Key Roles of PSG:
+-------------------
+
+1. **Supporting Partner in Education**
+
+The PSG complements the school by aligning the PSG-run activities with the school’s objectives, supporting and strengthening the school’s programmes to improve our children’s well-being and learning
+
+  
+
+2. **Bridge Between Parents and School**
+
+The PSG listens to parents’ feedback on school operations, practices and programmes, and provides feedback to the school. The PSG also facilitates the school’s communication to parents.
+
+  
+
+3. **Magnet to Attract Other Parents**
+
+Parents who are actively involved in the PSG are better able to reach out to other parents and involve them. Over time, more parents can contribute to make the school environment more conducive for learning
+
+  
+
+**Possible Areas For Contributions by PSG**
+
+Partner and support the school by volunteering your 3Ts..
+
+  
+
+1. **Time**
+
+Parents can volunteer their time to support school’s programmes and events. Supporting PSG members can help to make the school a safe place for our children to learn in, making school life more vibrant and caring
+
+  
+
+2. **Talent**
+
+Parents can volunteer their expertise, talents, individual interests or personal networks. In this way, parents can significantly expand the pool of help available to the school and PSG.
+
+  
+
+3. **Thoughts**
+
+Parents can brainstorm and contribute constructive feedback and ideas to improve school and PSG. More experienced parents can share experience and advice with younger parents too
+
+  
+
+**Possible Areas For Contributions by PSG**
+
+To provide support and expertise in the following areas:
