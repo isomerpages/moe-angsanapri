@@ -3,7 +3,10 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
-![Angsana School Logo](https://angsanapri.moe.edu.sg/qql/slot/u167/about_us/The_Angsana_Crest/Angsana-Crest.png "Angsana School Logo")
+School Crest
+============
+
+<img src="/images/Angsana-Crest%20(1).png" style="width:50%">
 
 <b><u> Introduction </u></b>
 
