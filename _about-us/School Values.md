@@ -5,6 +5,9 @@ description: ""
 ---
 ![](/images/About%20Us.jpg)
 
+School Values
+=============
+
 ![Ren](https://angsanapri.moe.edu.sg/qql/slot/u167/about_us/School%20Values/REN_KAITI.png "Ren")
  **Benevolence, R3n**
 
