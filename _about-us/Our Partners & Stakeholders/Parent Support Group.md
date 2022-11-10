@@ -112,3 +112,5 @@ A brief summary of talks that have been conducted and upcoming talks:
   
 
 **2 January 2018: Preparing Your Child for Primary One**
+
+![](/images/PSG1.jpeg)
