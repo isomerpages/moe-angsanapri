@@ -1,8 +1,9 @@
 ---
 title: School History
-permalink: /about-us/school-history
+permalink: /about-us/school-history/
 description: ""
 ---
+![](/images/About%20Us.jpg)
 
 ### The Angsana rises
 
