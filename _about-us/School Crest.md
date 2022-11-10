@@ -3,6 +3,8 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
+![](/images/About%20Us.jpg)
+
 School Crest
 ============
 
