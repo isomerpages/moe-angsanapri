@@ -61,3 +61,39 @@ Parents can brainstorm and contribute constructive feedback and ideas to improve
 **Possible Areas For Contributions by PSG**
 
 To provide support and expertise in the following areas:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xj1m{background-color:#FFF;font-size:14px;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 672px">
+<colgroup>
+<col style="width: 201px">
+<col style="width: 471px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xj1m">• School Libary</th>
+    <th class="tg-xj1m">• Career Talks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">• Buddy Reading Programme</td>
+    <td class="tg-ktyi">• Learning Journeys</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">• Recess Parent</td>
+    <td class="tg-ktyi">• School Events (Eg Racial Harmony Day, Teacher's Day, Sports Day)</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">• Science Garden</td>
+    <td class="tg-ktyi">• Any other PSG initiated programmes/bonding</td>
+  </tr>
+</tbody>
+</table>
