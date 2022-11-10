@@ -19,10 +19,10 @@ School Advisory Committee
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 552px">
+<table class="tg" style="undefined;table-layout: fixed; width: 642px">
 <colgroup>
-<col style="width: 201px">
-<col style="width: 351px">
+<col style="width: 321px">
+<col style="width: 321px">
 </colgroup>
 <thead>
   <tr>
