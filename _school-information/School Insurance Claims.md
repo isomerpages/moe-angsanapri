@@ -20,3 +20,5 @@ b) check on the claim status
 c) submit follow up claims
 
 [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
+
+<img src="/images/School%20Insurance.png" style="width:50%">
