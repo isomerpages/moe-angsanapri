@@ -129,3 +129,13 @@ A brief summary of talks that have been conducted and upcoming talks:
 **6 July 2018: Managing Exam Anxiety and Stress**
 
 ![](/images/psg05.jpg)
+
+Upcoming Talks on Parenting Tips:
+
+  
+
+Sat 28 August 2018 (10am-12pm): Understanding, Preventing and Overcoming excessive gaming.
+
+Sat 20 October 2018(10am-12pm): Hot Tips on Parenting.
+
+**Active PSG support in school’s recess activities**
