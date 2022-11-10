@@ -8,8 +8,7 @@ description: ""
 School Values
 =============
 
-![Ren](https://angsanapri.moe.edu.sg/qql/slot/u167/about_us/School%20Values/REN_KAITI.png "Ren")
- **Benevolence, R3n**
+<img src="/images/REN.png" style="width:50%">
 
 ### **Respect**
 
