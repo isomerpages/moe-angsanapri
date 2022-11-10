@@ -116,3 +116,5 @@ A brief summary of talks that have been conducted and upcoming talks:
 ![](/images/PSG1.jpeg)
 
 **21 April 2018: The 5 Languages of Love – Connecting with your loved ones**
+
+![](/images/PSG3.jpeg)
