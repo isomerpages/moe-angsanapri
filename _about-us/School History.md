@@ -5,6 +5,9 @@ description: ""
 ---
 ![](/images/About%20Us.jpg)
 
+School History
+==============
+
 ### The Angsana rises
 
 Our school is named after the majestic angsana tree.  This is a common wayside tree, which was systematically and extensively planted in Singapore in the early years of Singapore’s history – in the late 1960s and 1970s; as part of the Garden City Campaigns. Today, Angsana trees can be found around the island, lining and gracing important roads, including Orchard Road.
