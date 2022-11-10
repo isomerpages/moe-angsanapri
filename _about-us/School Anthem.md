@@ -1,9 +1,12 @@
 ---
 title: School Anthem
-permalink: /about-us/school-anthem
+permalink: /about-us/school-anthem/
 description: ""
 ---
+![](/images/About%20Us.jpg)
 
+School Anthem
+=============
 
 ### Upwards Angsana!
 ----------------
