@@ -52,3 +52,5 @@ School Anthem
   </tr>
 </tbody>
 </table>
+
+Note: School song audio requires own Youtube/Vimeo
