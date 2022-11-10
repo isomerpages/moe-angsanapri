@@ -121,3 +121,5 @@ A brief summary of talks that have been conducted and upcoming talks:
 ![](/images/PSG2.jpeg)
 
 ![](/images/PSG3.jpeg)
+
+**18 May 2018: Correcting in Love – Positive Discipline**
