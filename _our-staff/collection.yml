@@ -1,7 +1,0 @@
-collections:
-  our-staff:
-    output: true
-    order:
-      - Key Personnel.md
-      - Teaching Staff.md
-      - Allied Educators.md
