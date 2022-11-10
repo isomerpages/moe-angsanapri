@@ -4,3 +4,7 @@ permalink: /about-us/Our-Staff/Key-Personnel/
 description: ""
 third_nav_title: Our Staff
 ---
+![](/images/About%20Us.jpg)
+
+Key Personnel
+=============
