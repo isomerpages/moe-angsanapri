@@ -1,9 +1,8 @@
 ---
 title: School Crest
-permalink: /about-us/school-crest
+permalink: /about-us/school-crest/
 description: ""
 ---
-
 ![Angsana School Logo](https://angsanapri.moe.edu.sg/qql/slot/u167/about_us/The_Angsana_Crest/Angsana-Crest.png "Angsana School Logo")
 
 **Introduction**
