@@ -7,3 +7,14 @@ description: ""
 
 School Insurance Claims
 =======================
+
+
+Parents may click on the link below or scan the QR code to do the following:
+
+  
+
+a) submit new claims
+
+b) check on the claim status
+
+c) submit follow up claims
