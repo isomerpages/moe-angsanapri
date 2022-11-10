@@ -5,7 +5,8 @@ description: ""
 ---
 ![Angsana School Logo](https://angsanapri.moe.edu.sg/qql/slot/u167/about_us/The_Angsana_Crest/Angsana-Crest.png "Angsana School Logo")
 
-**Introduction**
+<b> <u> Introduction </u> </b>
+
 
 The Angsana Crest represents the emergence of a school with a fresh pioneering spirit, built upon the strong heritage of two schools from early Singapore.  Our school is named after the Angsana Tree, a majestic tree that graces many of the main roads around our island, providing shade and shelter with its lush foliage and expansive canopy.
 
