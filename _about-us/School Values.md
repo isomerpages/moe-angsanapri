@@ -3,6 +3,8 @@ title: School Values
 permalink: /about-us/school-values/
 description: ""
 ---
+![](/images/About%20Us.jpg)
+
 ![Ren](https://angsanapri.moe.edu.sg/qql/slot/u167/about_us/School%20Values/REN_KAITI.png "Ren")
  **Benevolence, R3n**
 
