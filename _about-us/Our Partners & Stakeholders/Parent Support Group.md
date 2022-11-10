@@ -68,31 +68,31 @@ To provide support and expertise in the following areas:
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pzve{background-color:#FFF;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-5sko{background-color:#FFF;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 862px">
+<table class="tg" style="undefined;table-layout: fixed; width: 822px">
 <colgroup>
 <col style="width: 261px">
-<col style="width: 601px">
+<col style="width: 561px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-pzve">• School Libary</th>
-    <th class="tg-pzve">• Career Talks</th>
+    <th class="tg-5sko">• School Libary</th>
+    <th class="tg-5sko">• Career Talks</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pzve">• Buddy Reading Programme</td>
-    <td class="tg-pzve">• Learning Journeys</td>
+    <td class="tg-5sko">• Buddy Reading Programme</td>
+    <td class="tg-5sko">• Learning Journeys</td>
   </tr>
   <tr>
-    <td class="tg-pzve">• Recess Parent</td>
-    <td class="tg-pzve">• School Events (Eg Racial Harmony Day, Teacher's Day, Sports Day)</td>
+    <td class="tg-5sko">• Recess Parent</td>
+    <td class="tg-5sko">• School Events (Eg Racial Harmony Day, Teacher's Day, Sports Day)</td>
   </tr>
   <tr>
-    <td class="tg-pzve">• Science Garden</td>
-    <td class="tg-pzve">• Any other PSG initiated programmes/bonding</td>
+    <td class="tg-5sko">• Science Garden</td>
+    <td class="tg-5sko">• Any other PSG initiated programmes/bonding</td>
   </tr>
 </tbody>
 </table>
