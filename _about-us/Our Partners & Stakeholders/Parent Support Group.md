@@ -139,3 +139,5 @@ Sat 28 August 2018 (10am-12pm): Understanding, Preventing and Overcoming excessi
 Sat 20 October 2018(10am-12pm): Hot Tips on Parenting.
 
 **Active PSG support in school’s recess activities**
+
+![](/images/PSG.png)
