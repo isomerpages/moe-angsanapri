@@ -127,3 +127,5 @@ A brief summary of talks that have been conducted and upcoming talks:
 ![](/images/psg04.jpg)
 
 **6 July 2018: Managing Exam Anxiety and Stress**
+
+![](/images/psg05.jpg)
