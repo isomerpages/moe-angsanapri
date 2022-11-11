@@ -36,3 +36,5 @@ Our PE Curriculum includes the following components:
 *   Outdoor Education
 *   Swimming
 *   Athletics
+
+![](/images/PE.png)
