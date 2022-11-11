@@ -42,3 +42,4 @@ Englishtopia is a week-long celebration of the English Language in Angsana Prima
 
 Children who love reading and have a strong foundation in the English Language.
 
+<b> STELLAR and Language Learning </b>
