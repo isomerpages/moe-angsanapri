@@ -52,3 +52,10 @@ E2K is an inquiry-based programme for P4 and P5 students who demonstrate interes
 The financial literacy programme aims to impart in our P1 and P2 students’ basic financial literacy skills through hands-on activities. We hope to inculcate good saving habits from young and equip our students with basic knowledge of managing their money.
 
 ![](/images/Math2.png)
+
+<u> GEM@Recess </u>
+
+<u> Games and Engagement through Mathematics </u> 
+
+GEM@ Recess aims to inculcate the love for Mathematics in all our students by engaging them in fun activities through games and hands-on competitions.
+
