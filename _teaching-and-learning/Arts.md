@@ -79,3 +79,12 @@ Our Arts Curriculum
 *   P4 Museum-based Learning
 
 ![](/images/Art2.png)
+
+Gallery tour and print workshop at Singapore Tyler print Institute (STPI) in Term 1.
+
+  
+
+*   Leave a Legacy Project for P6
+*   Art Outreach Assembly Programmes
+*   Art Outreach Presentation by Students
+*   Arts Alive @ Angsana
