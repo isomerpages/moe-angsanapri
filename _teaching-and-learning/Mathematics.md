@@ -60,3 +60,7 @@ The financial literacy programme aims to impart in our P1 and P2 students’ bas
 GEM@ Recess aims to inculcate the love for Mathematics in all our students by engaging them in fun activities through games and hands-on competitions.
 
 ![](/images/Math3.png)
+
+<u> P3-P4 Mathematics Trail </u>
+
+Students will embark on station based learning trail that ties in the themes of community and neighbourhood. There will be station work where students will attempt questions and tasks related to topics in Mathematics.
