@@ -26,10 +26,11 @@ The school adopts the STELLAR (**St**rategies for **E**nglish **L**anguage **
 
 ### Key Programmes
 
+![](/images/EL1.png)
+
 <b> Englishtopia </b>
 
 Englishtopia is a week-long celebration of the English Language in Angsana Primary School. It provides opportunities for students to explore the beauty of the English Language through various activities ranging from classroom quizzes and competitions to school-wide performances and talks by students and professionals.
 
 
 <figure><img src="/images/STELLAR.jpg" style="width:50%"><figcaption> <b>The STELLAR (STrategies for English Language Learning And Reading) Programme </b> </figcaption></figure>
-
