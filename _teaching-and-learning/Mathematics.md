@@ -50,3 +50,5 @@ E2K is an inquiry-based programme for P4 and P5 students who demonstrate interes
 <u> Financial Literacy </u>
 
 The financial literacy programme aims to impart in our P1 and P2 students’ basic financial literacy skills through hands-on activities. We hope to inculcate good saving habits from young and equip our students with basic knowledge of managing their money.
+
+![](/images/Math2.png)
