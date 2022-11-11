@@ -37,3 +37,7 @@ Englishtopia is a week-long celebration of the English Language in Angsana Prima
 ![](/images/EL3.png)
 
 <figure><img src="/images/STELLAR.jpg" style="width:50%"><figcaption> <b>The STELLAR (STrategies for English Language Learning And Reading) Programme </b> </figcaption></figure>
+
+<b> The STELLAR Vision </b>
+
+Children who love reading and have a strong foundation in the English Language.
