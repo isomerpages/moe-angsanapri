@@ -60,3 +60,20 @@ Through the 4E framework, the Arts programme is carefully crafted to provide a d
   </tr>
 </tbody>
 </table>
+
+### Key Programmes
+
+Our Arts Curriculum
+
+*   A progressive 6-years Art Curriculum
+
+    *   Developing an artistic child through Seeing, Expressing, Appreciating
+
+*   Art Appreciation of local and western artists and art forms
+*   Use of ICT to enhance teaching and learning
+
+    *   Core Draw
+
+*   Art Experience with Ceramics
+*   Art Experience with Digital Media
+*   P4 Museum-based Learning
