@@ -5,15 +5,18 @@ description: ""
 ---
 ![](/images/Teaching%20and%20Learning.jpg)
 
+English Language
+================
 
-
-### **Learning Outcomes**
+### Learning Outcomes
 
 The English Language programme at Angsana Primary School aims to:
 
 *   develop the love for the English Language in students;
 *   develop our students to be effective and confident communicators of the English Language; and
 *   engage our students in rich learning experiences to develop the language skills of reading, listening, speaking and writing.
+
+
 
 ### **Pedagogical Approaches**
 
