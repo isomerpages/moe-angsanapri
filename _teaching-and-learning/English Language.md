@@ -58,3 +58,43 @@ Teaching and learning of English using more speaking and listening activities. C
 	*   expressions of thoughts in oral and written forms
 	*   discussions with other children and the teacher
 	*   informal peer interaction
+
+Each STELLAR unit includes:
+
+A)    Focused reading using big books (P1 to P3a) and readers (P4 to P6)
+
+*   reading for enjoyment
+*   reading for knowledge
+
+B)    Key Teaching Points
+
+*   Concepts about print
+*   Vocabulary
+*   Word identification activities
+*   Grammar
+
+C)    Development of the four language skills
+
+*   Listening
+*   Speaking
+*   Reading
+*   Writing
+
+D)    Development of social skills
+
+*   Oral interaction among peers in non-threatening situations
+*   Working in partnership with other children
+*   Turn taking and respect for others during class discussion
+
+E)    Independent learning
+
+*   Individual reading
+*   Individual writing
+*   Working at learning centres/activity centres
+
+<b> How Parents Can Help </b>
+
+*   Home support – help your child learn English by providing English language materials at home.
+*   Activate child’s interest – show your child you believe learning English is both enjoyable and useful in your daily life.
+*   Role models – read and write notes and messages in front of your child.
+*   Understanding – English language learning requires frequent exposure to listening, speaking, reading and writing opportunities and activities rather than use of worksheets alone.
