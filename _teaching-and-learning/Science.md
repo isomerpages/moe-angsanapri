@@ -47,3 +47,5 @@ This programme focuses on developing, building on the existing or prior knowledg
   
 
 Singapore Primary Science Olympiads organised by Raffles Institution and NUS High School are postponed to 2021.
+
+![](/images/Science.png)
