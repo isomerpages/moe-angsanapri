@@ -44,3 +44,5 @@ The programme takes off by introducing the lower primary students to the five Co
 Learning experiences to develop CT attitudes such as imagination, thinking out of the box, making productive mistakes, collaboration and persevering to find solutions through various modes are created for students at different levels.
 
 ![](/images/ALP3.png)
+
+![](/images/ALP4.png)
