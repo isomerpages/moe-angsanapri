@@ -32,3 +32,15 @@ Apart from experiencing how technology is used to complement the learning in dif
 
 
 To equip our students with life-long social-emotional competencies and sound values to be safe, respectful and responsible users of technology, cyber wellness values are taught through a variety of learning activities using a thematic approach (see table below).
+
+![](/images/ICT2.png)
+
+### Tips for parents
+
+
+Look out Angsana Tops (our monthly bulletin) for tips, resources and useful links to help you to reinforce Cyber Wellness education at home.
+
+### NEU PC Plus Programme
+
+
+The availability of computing devices and internet access at home will enable our students to enjoy learning anytime, anywhere and even provide opportunities for meaningful online collaboration to consolidate and share what they have learnt with their peers. The NEU PC Plus Programme by Infocomm Media Development Authority (IMDA) offers students from low income households the opportunity to own a computer at affordable price. Please call 6684 8858 for enquiries or go to [https://www.imda.gov.sg/programme-listing/neu-pc-plus](https://www.imda.gov.sg/programme-listing/neu-pc-plus) for more details.
