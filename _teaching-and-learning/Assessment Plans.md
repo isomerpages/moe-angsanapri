@@ -1,15 +1,19 @@
 ---
 title: Assessment Plans
-permalink: /teaching-n-learning/assessment-plans
+permalink: /teaching-n-learning/assessment-plans/
 description: ""
 ---
+![](/images/Teaching%20and%20Learning.jpg)
+
+Assessment Plans
+================
 
 Assessment is an integral part of the learning process, and must be closely aligned with curricular objectives, content and pedagogy. Both school-based assessment and national examinations play important and different roles in our education system. A balanced assessment should have both Assessment of Learning as well as Assessment for Learning. Whether implemented as national exams or in the classroom, assessment should lead to meaningful learning.  
   
   
 
 ### Assessment Plans 2022
----------------------
+
 
 [ASPS P1 Assessment Plans 2022](/files/ASPS%20P1%20Assessment%20Plans%202022.pdf)
 
