@@ -44,3 +44,5 @@ Assessment is an integral part of the learning process, and must be closely alig
 [ASPS P6 Assessment Plans 2022 4F.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%204F.pdf)
 
 [ASPS P6 Assessment Plans 2022 4S.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%204S.pdf)
+
+[ASPS P6 Assessment Plans 2022 4S1H.pdf](/files/4S1H.pdf)
