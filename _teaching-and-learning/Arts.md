@@ -116,3 +116,25 @@ Gallery tour and print workshop at Singapore Tyler print Institute (STPI) in Ter
   </tr>
 </tbody>
 </table>
+
+### Key Programmes
+
+Our Music Curriculum
+
+*   A progressive 6-years Music Curriculum
+
+    *   Developing the musical child through Singing, Listening, Playing, Listening and Creating
+
+*   Use of ICT to enhance teaching and learning
+
+    *   Garageband
+
+*   P3 Celebrating Folksongs from Singapore and Our Neighbours
+*   P4 Celebrating Tunes from Musicals
+*   Arts Experience with Sound Shapes
+*   Arts Experience with Ethnic Percussion
+*   Music Appreciation of Western and Chinese Orchestra
+*   Community sing along sessions – Just Sing Wednesdays
+*   Happy Thursdays – Music Recital & Presentation and Just Dance sessions
+*   Music Outreach Assembly Programmes
+*   Arts Alive
