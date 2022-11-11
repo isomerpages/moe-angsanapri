@@ -45,3 +45,16 @@ Children who love reading and have a strong foundation in the English Language.
 <b> STELLAR and Language Learning </b>
 
 Teaching and learning of English using more speaking and listening activities. Children learn reading and writing using rich and interesting books, with discussions led by the teacher.
+
+<b> Features of a STELLAR Classroom </b> 
+
+
+*   Focused on children’s interaction rather than teacher talk.
+*   Enriched with children’s written language.
+*   Filled with various reading materials for children’s use.
+*   English language learning is achieved through:
+
+	*   vocabulary learned in books
+	*   expressions of thoughts in oral and written forms
+	*   discussions with other children and the teacher
+	*   informal peer interaction
