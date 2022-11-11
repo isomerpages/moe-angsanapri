@@ -98,3 +98,12 @@ E)    Independent learning
 *   Activate child’s interest – show your child you believe learning English is both enjoyable and useful in your daily life.
 *   Role models – read and write notes and messages in front of your child.
 *   Understanding – English language learning requires frequent exposure to listening, speaking, reading and writing opportunities and activities rather than use of worksheets alone.
+
+<b> Tips for parents </b>
+
+*   Go to the library together
+*   Have lots of books, magazines and newspapers in your home
+*   Give your child books about their special interests
+*   Allow your child to choose books to read and reread
+*   Read to and with your child or have your child read to you
+*   Talk about the books and characters read
