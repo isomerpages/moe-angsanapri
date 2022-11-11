@@ -18,14 +18,12 @@ In Angsana, we aim to :
 1.  Promote the joy of learning Mother Tongue languages and culture in our students.
 2.  Nurture our students to be confident and effective in communicating in their Mother Tongue.
 
-
-
 ### We offer the following Mother Tongue Languages in our curriculum:
 
-*   Chinese Language (华文)
-*   Malay Language (Bahasa Melayu)
-*   Tamil Language (தமிழ் மொழி)
 
+*   Chinese Language (华文)
+*   Malay Language (Bahasa Melayu)
+*   Tamil Language (தமிழ் மொழி)
   
 
 ### Pedagogical Approaches  
@@ -38,10 +36,8 @@ We adopt a communicative approach towards the teaching of Mother Tongue Language
 
 We plan and implement several programmes to provide our students with diverse and authentic learning experiences. We believed that other than learning in a classroom, going beyond the boundaries of classroom, will enable our students to widen their horizon and enrich their learning. Having a bustling environment can enable our students to learn and use their Mother Tongue languages.
 
-*   Mother Tongue Language Fortnight
-    
+*   Mother Tongue Language Fortnight   
 *   Mother Tongue Language Cultural Camp
-    
 *   Celebration of Cultural Festivals
 *   Cultural Learning Journeys
 *   Language-related cultural performances
