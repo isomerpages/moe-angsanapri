@@ -38,3 +38,47 @@ Our PE Curriculum includes the following components:
 *   Athletics
 
 ![](/images/PE.png)
+
+
+### Our Calendar
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gqad{font-size:16px;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 632px">
+<colgroup>
+<col style="width: 61px">
+<col style="width: 571px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-qv16">Term</th>
+    <th class="tg-qv16">Event</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gqad">1</td>
+    <td class="tg-x5q1"><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>CCA Induction and Orientation<br><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>Sports Captain Training</td>
+  </tr>
+  <tr>
+    <td class="tg-gqad">2</td>
+    <td class="tg-x5q1"><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>NAPFA Challenge</td>
+  </tr>
+  <tr>
+    <td class="tg-gqad">3</td>
+    <td class="tg-x5q1"><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>Healthy Week Programme @ Angsana<br><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>e-CCA Open House</td>
+  </tr>
+  <tr>
+    <td class="tg-gqad">4</td>
+    <td class="tg-x5q1"><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>Sports Education Programme<br><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>Upper Primary Sports League - Primary 4, 5 and 6</td>
+  </tr>
+</tbody>
+</table>
