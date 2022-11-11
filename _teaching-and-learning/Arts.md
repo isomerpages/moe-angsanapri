@@ -90,3 +90,29 @@ Gallery tour and print workshop at Singapore Tyler print Institute (STPI) in Ter
 *   Arts Alive @ Angsana
 
 ### Music
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 802px">
+<colgroup>
+<col style="width: 401px">
+<col style="width: 401px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-qv16">Big Ideas in Music<br><span style="font-weight:400;color:#000">Music facilitates learning and encourage creative expression</span><br><span style="font-weight:400;color:#000">Music helps us to relate to self and other things that are of meaning in life.</span><br><span style="font-weight:400;color:#000">Music fosters connection to other aspects of our world</span></th>
+    <th class="tg-qv16">Five Key Components of the Learning Content<br><span style="font-weight:400;color:#000">Singing</span><br><span style="font-weight:400;color:#000">Listening</span><br><span style="font-weight:400;color:#000">Moving</span><br><span style="font-weight:400;color:#000">Playing</span><br><span style="font-weight:400;color:#000">Creating</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qv16" colspan="2">Guiding Principles<br><span style="font-weight:400;color:#000">Student Centricity; Direct Experiences in Listening, Performing &amp; Creating;</span><br><span style="font-weight:400;color:#000">Foster Appreciation of Music in Local and Global Culture;</span><br><span style="font-weight:400;color:#000">Nurture a Lifelong Connection to Music through the Acquisition of Basic Music Literacy &amp; Performing </span><br><span style="font-weight:400;color:#000">Skills;</span><br><span style="font-weight:400;color:#000">Joy of Learning</span></td>
+  </tr>
+</tbody>
+</table>
