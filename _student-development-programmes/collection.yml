@@ -1,5 +1,5 @@
 collections:
-  character-development:
+  student-development-programmes:
     output: true
     order:
       - CCE/.keep
