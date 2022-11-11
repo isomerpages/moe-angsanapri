@@ -45,6 +45,8 @@ Englishtopia is a week-long celebration of the English Language in Angsana Prima
 
  ![Englishtopia 3 with caption.JPG](https://angsanapri.moe.edu.sg/qql/slot/u167/academic_programmes/English/Englishtopia%203%20with%20caption.JPG) ![STELLAR.jpg](https://angsanapri.moe.edu.sg/qql/slot/u167/academic_programmes/English/STELLAR.jpg)
 
+![](/images/STELLAR.jpg)
+
 The STELLAR (**STrategies for English Language Learning And Reading) Programme**
 
 **The STELLAR Vision**
