@@ -70,3 +70,15 @@ Students will embark on station based learning trail that ties in the themes of 
 <u> P5-P6 Learning Journey </u>
 
 Through authentic learning experiences in and beyond classroom, our students are able to appreciate and apply what they have learnt in Mathematics in real-life contexts.
+
+<b> Support Programmes </b>
+
+Early intervention programmes are provided to help support identified students address misconceptions, consolidate and reinforce their learning as well as build their confidence in learning Mathematics.
+
+<b> Learning Support for Mathematics (LSM) Programme (P1 and P2) </b> 
+
+Learning Support for Mathematics (LSM) is a resource-based support aimed at providing intervention for selected Primary 1 and 2 students who require more individual help in developing their numeracy skills. Through small group setting, students are able to benefit from the various hands-on strategies to help them in Mathematics.
+
+<b> Improving Confidence and Achievement in Numeracy (ICAN) Programme (P3, P4) </b>
+
+The programme aims to raise confidence and improve Mathematics achievement of identified students who are weak in numeracy skills and faced challenges in the subject. Intervention strategies and models that are guided by research to tackle the 4 key issues of learning gaps, language, motivation and memory are deployed. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.
