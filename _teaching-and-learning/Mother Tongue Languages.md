@@ -43,6 +43,4 @@ We plan and implement several programmes to provide our students with diverse an
 *   Language-related cultural performances
 *   Conversational Chinese and Malay
 
-  
-
-![MT Fortnight Modified.PNG](https://angsanapri.moe.edu.sg/qql/slot/u167/academic_programmes/mother_tongue/chinese/MT%20Fortnight%20Modified.PNG)
+![](/images/MTL.png)
