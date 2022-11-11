@@ -140,3 +140,5 @@ Our Music Curriculum
 *   Arts Alive
 
 ![](/images/Art3.png)
+
+![](/images/Art4.png)
