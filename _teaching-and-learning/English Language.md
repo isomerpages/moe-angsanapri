@@ -24,11 +24,12 @@ The English Language programme at Angsana Primary School aims to:
 The school adopts the STELLAR (**St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) programme in the teaching and learning of English Language. Learning tasks and activities are designed for students to learn language skills in authentic and meaningful contexts. The skills will be taught, revised and revisited at increasing levels of difficulty and complexity as the child progresses from the foundational level to higher levels of language use.
   
 
-**Key Programmes**
+### Key Programmes
+--------------
 
 **Englishtopia**
 
-Englishtopia is a week-long celebration of the English Language in Angsana Primary School. It provides opportunities for students to explore the beauty of the English Language through various activities ranging from classroom quizzes and competitions to school-wide performances and talks by students and professionals. 
+Englishtopia is a week-long celebration of the English Language in Angsana Primary School. It provides opportunities for students to explore the beauty of the English Language through various activities ranging from classroom quizzes and competitions to school-wide performances and talks by students and professionals.
 
   
 
