@@ -1,8 +1,9 @@
 ---
 title: Mother Tongue Languages
-permalink: /teaching-n-learning/mother-tongue-languages
+permalink: /teaching-n-learning/mother-tongue-languages/
 description: ""
 ---
+![](/images/Teaching%20and%20Learning.jpg)
 
 ### **Objective**
 -------------
