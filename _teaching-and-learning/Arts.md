@@ -88,3 +88,5 @@ Gallery tour and print workshop at Singapore Tyler print Institute (STPI) in Ter
 *   Art Outreach Assembly Programmes
 *   Art Outreach Presentation by Students
 *   Arts Alive @ Angsana
+
+### Music
