@@ -138,3 +138,5 @@ Our Music Curriculum
 *   Happy Thursdays – Music Recital & Presentation and Just Dance sessions
 *   Music Outreach Assembly Programmes
 *   Arts Alive
+
+![](/images/Art3.png)
