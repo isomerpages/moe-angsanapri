@@ -33,3 +33,30 @@ Through the 4E framework, the Arts programme is carefully crafted to provide a d
 4.Development of interests & talents, nurture creative expression, <b> Excel </b> & pursue a lifelong passion in the arts
 
 ### Art
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lvth{font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 762px">
+<colgroup>
+<col style="width: 381px">
+<col style="width: 381px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-lvth"><span style="font-weight:bold">Big Ideas in Art</span><br><span style="color:#000">Art helps us to see in new ways</span><br><span style="color:#000">Art tells stories about our world</span><br><span style="color:#000">Art influences how we live</span></th>
+    <th class="tg-lvth"><span style="font-weight:bold;font-style:normal;text-decoration:none">Four Key Components of the Learning Content</span><br><span style="color:#000">Context</span><br><span style="color:#000">Artistic Processes</span><br><span style="color:#000">Media</span><br><span style="color:#000">Visual Qualities</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qv16" colspan="2">Guiding Principles<br><span style="font-weight:400;color:#000">Student centricity; Process, Progress &amp; product; Contextualised learning; Range and choice;</span><br><span style="font-weight:400;color:#000">Interactive engagement; Culture of inquiry; Shared and inclusive memories of art learning; Joy of learning</span></td>
+  </tr>
+</tbody>
+</table>
