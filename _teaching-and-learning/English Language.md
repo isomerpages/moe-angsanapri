@@ -18,10 +18,10 @@ The English Language programme at Angsana Primary School aims to:
 
 
 
-### **Pedagogical Approaches**
+### Pedagogical Approaches
 
-The school adopts the STELLAR (**St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) programme in the teaching and learning of English Language. Learning tasks and activities are designed for students to learn language skills in authentic and meaningful contexts. The skills will be taught, revised and revisited at increasing levels of difficulty and complexity as the child progresses from the foundational level to higher levels of language use.  
 
+The school adopts the STELLAR (**St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) programme in the teaching and learning of English Language. Learning tasks and activities are designed for students to learn language skills in authentic and meaningful contexts. The skills will be taught, revised and revisited at increasing levels of difficulty and complexity as the child progresses from the foundational level to higher levels of language use.
   
 
 **Key Programmes**
