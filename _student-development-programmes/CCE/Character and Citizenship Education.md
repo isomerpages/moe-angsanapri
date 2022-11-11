@@ -13,20 +13,14 @@ Character and Citizenship Education
 
 Our Character and Citizenship Education programmes are designed to help our students to:
 
-*   Acquire self-awareness and apply self-management skills to achieve personal well-being and effectiveness  
-    
+*   Acquire self-awareness and apply self-management skills to achieve personal well-being and effectiveness
 *   Act with integrity and make responsible decisions that uphold moral principles
-*   Acquire social awareness and apply interpersonal skills to build and maintain positive relationship based on mutual respect  
-    
-*   Be resilient and have the ability to turn challenges into opportunities  
-    
+*   Acquire social awareness and apply interpersonal skills to build and maintain positive relationship based on mutual respect
+*   Be resilient and have the ability to turn challenges into opportunities
 *   Take pride in our national identity, have a sense of belonging to Singapore, and be committed to nation-building.
-*   &nbsp;Value Singapore’s socio-cultural sensitivity, and promote social cohesion and harmony&nbsp;
-*   Care for others and contribute actively to the progress of our community and nation&nbsp;
-*   and respond to community, national and global issues, as an informed and responsible citizen.  
-
-
-&nbsp;
+*   Value Singapore’s socio-cultural sensitivity, and promote social cohesion and harmony
+*   Care for others and contribute actively to the progress of our community and nation
+*   and respond to community, national and global issues, as an informed and responsible citizen.
 
 ### Pedagogical Approaches
 
