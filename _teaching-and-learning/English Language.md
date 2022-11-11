@@ -1,8 +1,10 @@
 ---
 title: English Language
-permalink: /teaching-n-learning/english-language
+permalink: /teaching-n-learning/english-language/
 description: ""
 ---
+![](/images/Teaching%20and%20Learning.jpg)
+
 
 
 ### **Learning Outcomes**
