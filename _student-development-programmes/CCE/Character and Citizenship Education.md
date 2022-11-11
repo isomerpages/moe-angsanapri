@@ -31,3 +31,7 @@ Our Character and Citizenship Education (CCE) teaching pedagogy stems from the c
 <b> CCE Lessons </b>
 
 CCE lessons are taught in the Mother Tongue Languages (MTL) and English Language. Lessons are thematic or event-based and aim to teach the knowledge, skills, values and attitudes to develop our students to become good individuals and useful citizens.
+
+<b> Form Teacher Guidance Period (FTGP) </b>
+
+To nurture skills for students’ social and emotional, and mental well-being, our FTGP lessons are time and space created for meaningful teacher-student interactions. Through these specially designed interaction activities, our teachers garner a firmer understanding of every student, strengthen the holistic development of every student, to build a good rapport as well as quality class and team spirit. Topics covered include Cyberwellness, Peer-Support and Social Skills.
