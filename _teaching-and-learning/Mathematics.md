@@ -32,3 +32,11 @@ As we strive to nurture our students to be critical thinkers and effective probl
 The Concrete, Pictorial and Abstract (CPA) approach is a system of learning that uses physical and visual aids to build a child’s understanding of abstract topics. Students are introduced to a new Mathematical concept through the use of concrete manipulatives likes fraction discs, linking cubes, number discs etc. to solve the problems. When students are comfortable solving problems with physical aids, they are given problems in pictorial representations which include drawings, graphs or diagrams for the students to read and interpret the information. In the abstract phase, students use symbolic representations such as numbers and letters to solve problems.
 
 ![](/images/Math1.png)
+
+### Key Programmes
+
+<b> Math Talent Programme </b>
+
+<u> Mathematics Olympiad Training Programme </u>
+
+This programme aims to stretch students with non-routine problems. Students are given opportunities to learn computational thinking processes as they engage in mathematical problem solving. In addition, selected P5 and P6 students who demonstrate the disposition and ability to pursue the learning of Mathematics at a higher level attend a series of training sessions after school hours to learn different approaches to solve higher order thinking questions such that their learning is not restricted to the confinements of the syllabus. Students are then given the opportunities to represent the school in selected Mathematics Olympiad competitions.
