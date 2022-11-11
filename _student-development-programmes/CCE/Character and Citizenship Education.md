@@ -4,6 +4,8 @@ permalink: /Student-Development-Programmes/character-and-citizenship-education/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/School%20Development%20Programmes.jpg)
+
 Character and Citizenship Education
 ===================================
 
