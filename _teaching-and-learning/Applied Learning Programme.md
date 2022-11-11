@@ -24,3 +24,23 @@ Through our Applied Learning Programme (ALP), students develop Computational Thi
   
 
 By equipping our students with these key attitudes and skills early at the primary school level, we lay the foundation for our students to remain steadfast, competitive and be well adapted in the volatile, uncertain, complex and ambiguous (VUCA) world. Through our Applied Learning Programme (ALP), students develop Computational Thinking (CT) concepts such as decomposition, pattern recognition, abstraction and algorithm design. They also develop CT attitudes such as imagination, thinking out of the box, making productive mistakes, collaboration and persevering to find solutions.
+
+<b> Positive outcomes of ALP for students </b>
+
+Students develop critical thinking skills that enhance their abilities to solve problems in real life proactively and effectively. They work well in teams and collaborate with their peers to achieve a common goal. Through it all, students cultivate a lively curiosity about their environment and want to do something to make it better.
+
+<b> Our Programmes </b>
+
+![](/images/ALP.png)
+
+<b> Integration into the Curriculum </b>
+
+The programme takes off by introducing the lower primary students to the five Computational Thinking (CT) concepts; pattern recognition, decomposition, algorithmic design and, generalisation and abstraction through enrichment lessons. Thereafter, the teaching of problem solving skills through Computational Thinking are infused in our Mathematics curriculum in a spiral approach.
+
+![](/images/ALP2.png)
+
+<b> Customised Coding Lessons </b>
+
+Learning experiences to develop CT attitudes such as imagination, thinking out of the box, making productive mistakes, collaboration and persevering to find solutions through various modes are created for students at different levels.
+
+![](/images/ALP3.png)
