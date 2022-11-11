@@ -40,3 +40,13 @@ The Concrete, Pictorial and Abstract (CPA) approach is a system of learning that
 <u> Mathematics Olympiad Training Programme </u>
 
 This programme aims to stretch students with non-routine problems. Students are given opportunities to learn computational thinking processes as they engage in mathematical problem solving. In addition, selected P5 and P6 students who demonstrate the disposition and ability to pursue the learning of Mathematics at a higher level attend a series of training sessions after school hours to learn different approaches to solve higher order thinking questions such that their learning is not restricted to the confinements of the syllabus. Students are then given the opportunities to represent the school in selected Mathematics Olympiad competitions.
+
+<u> Excellence 2000 (E2K) Mathematics Programme </u>
+
+E2K is an inquiry-based programme for P4 and P5 students who demonstrate interest and ability in Mathematics. It aims to develop Mathematical thinking, communication and collaboration skills through the use of stories, games and puzzles to solve challenging Mathematics problems.
+
+<b> Math Activities </b>
+
+<u> Financial Literacy </u>
+
+The financial literacy programme aims to impart in our P1 and P2 students’ basic financial literacy skills through hands-on activities. We hope to inculcate good saving habits from young and equip our students with basic knowledge of managing their money.
