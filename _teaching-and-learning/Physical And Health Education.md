@@ -52,9 +52,9 @@ Our PE Curriculum includes the following components:
 .tg .tg-qv16{font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-gqad{font-size:16px;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 632px">
+<table class="tg" style="undefined;table-layout: fixed; width: 662px">
 <colgroup>
-<col style="width: 61px">
+<col style="width: 91px">
 <col style="width: 571px">
 </colgroup>
 <thead>
