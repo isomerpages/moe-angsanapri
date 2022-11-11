@@ -31,3 +31,5 @@ Through the 4E framework, the Arts programme is carefully crafted to provide a d
 3.Create opportunities for learners to <b> Express </b> knowledge and skills
 
 4.Development of interests & talents, nurture creative expression, <b> Excel </b> & pursue a lifelong passion in the arts
+
+### Art
