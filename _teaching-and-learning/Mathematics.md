@@ -24,3 +24,9 @@ Each child is unique and learns differently. We vary our instruction and include
 2.<b> Reasoning, Communication and Connections is our Cornerstone </b> 
 
 As we strive to nurture our students to be critical thinkers and effective problem solvers, opportunities are provided for our students to express Mathematical ideas and arguments precisely, concisely and logically.
+
+<b> Main Pedagogy </b>
+
+<b> C-P-A Approach </b>
+
+The Concrete, Pictorial and Abstract (CPA) approach is a system of learning that uses physical and visual aids to build a child’s understanding of abstract topics. Students are introduced to a new Mathematical concept through the use of concrete manipulatives likes fraction discs, linking cubes, number discs etc. to solve the problems. When students are comfortable solving problems with physical aids, they are given problems in pictorial representations which include drawings, graphs or diagrams for the students to read and interpret the information. In the abstract phase, students use symbolic representations such as numbers and letters to solve problems.
