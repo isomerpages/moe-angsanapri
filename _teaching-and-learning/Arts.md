@@ -17,3 +17,5 @@ Every Angsana Student will realise their passion through the appreciation and pu
 <b> Our Mission </b>
 
 We aim to create a vibrant, engaging and holistic environment that nurtures the artistic and creative potential of our students, building their confidence, developing an innovative mind and a resilient spirit.
+
+### Pedagogical Approaches
