@@ -21,3 +21,6 @@ At Angsana Primary School, the Mathematics department is committed to providing 
 
 Each child is unique and learns differently. We vary our instruction and included hands-on activities and technology in our lessons to allow our students to explore, reflect and evaluate their own understanding and develop problem-solving skills.
 
+2.<b> Reasoning, Communication and Connections is our Cornerstone </b> 
+
+As we strive to nurture our students to be critical thinkers and effective problem solvers, opportunities are provided for our students to express Mathematical ideas and arguments precisely, concisely and logically.
