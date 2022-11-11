@@ -64,3 +64,9 @@ GEM@ Recess aims to inculcate the love for Mathematics in all our students by en
 <u> P3-P4 Mathematics Trail </u>
 
 Students will embark on station based learning trail that ties in the themes of community and neighbourhood. There will be station work where students will attempt questions and tasks related to topics in Mathematics.
+
+![](/images/Math4.png)
+
+<u> P5-P6 Learning Journey </u>
+
+Through authentic learning experiences in and beyond classroom, our students are able to appreciate and apply what they have learnt in Mathematics in real-life contexts.
