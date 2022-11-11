@@ -27,3 +27,7 @@ Our Character and Citizenship Education programmes are designed to help our stud
 Our Character and Citizenship Education (CCE) teaching pedagogy stems from the constructivism paradigm in which our students will construct their own understanding and knowledge of the world, through experiencing things and reflecting on those experiences. The teaching of CCE is process-based and focuses on the “why” and “how” instead of “what”. We aim to facilitate the learning of skills and internalisation of values through action and reflection as our students learn best when they are actively engaged. Our teachers use a repertoire of process-based approaches and select the most appropriate instructional strategies to engage students in the learning of CCE.
 
 ### Key Programmes
+
+<b> CCE Lessons </b>
+
+CCE lessons are taught in the Mother Tongue Languages (MTL) and English Language. Lessons are thematic or event-based and aim to teach the knowledge, skills, values and attitudes to develop our students to become good individuals and useful citizens.
