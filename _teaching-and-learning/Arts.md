@@ -23,3 +23,11 @@ We aim to create a vibrant, engaging and holistic environment that nurtures the 
 ![](/images/Art1.png)
 
 Through the 4E framework, the Arts programme is carefully crafted to provide a diverse arts experience for our students.
+
+1.<b> Expose </b> learners to different art forms to enhance learning beyond the classrooms.
+
+2.Allow learners to <b> Experience </b> and immerse in an arts environment to deepen and enrich learning.
+
+3.Create opportunities for learners to <b> Express </b> knowledge and skills
+
+4.Development of interests & talents, nurture creative expression, <b> Excel </b> & pursue a lifelong passion in the arts
