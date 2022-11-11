@@ -77,3 +77,5 @@ Our Arts Curriculum
 *   Art Experience with Ceramics
 *   Art Experience with Digital Media
 *   P4 Museum-based Learning
+
+![](/images/Art2.png)
