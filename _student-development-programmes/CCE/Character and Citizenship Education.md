@@ -45,6 +45,9 @@ To nurture skills for students’ social and emotional, and mental well-being, o
 
 Assembly programme is conducted weekly, to support the holistic development of every student.
 
+```
+
+```
 
 <b>Good Morning Angsana</b>
 
@@ -57,6 +60,9 @@ Good Morning Angsana is conducted weekly to explicitly teach current affairs and
 
 To build positive teacher-student relationships, our students get to meet their Form and Co-form teachers at least once per term. This one-to-one teacher-student interaction time allows our teachers to build quality teacher-student relationships via an in-depth knowledge of every child. Our teachers are able to identify our students’ needs and nurture character traits, dispositions and attitudes. In addition, through this platform, we are able to guide our students to set realistic academic and non-academic targets as well as provide timely feedback on their learning progress.
 
+```
+
+```
 
 <img src="/images/CCE4.jpeg" style="width:280px;height:250px;margin-left:15px;" align = "right">
 
