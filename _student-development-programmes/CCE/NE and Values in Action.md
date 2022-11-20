@@ -33,7 +33,7 @@ NE-focused lessons are integrated into Social Studies and Character & Citizenshi
 ### Key Programmes
 
 
-**NE Core Events**
+<b>NE Core Events</b>
 
   
 
@@ -50,7 +50,7 @@ The commemoration of NE events run on themes where classroom and / or level acti
 
   
 
-**Values-in-Action**
+<b>Values-in-Action</b>
 
 Values-in-Action (VIA) are experiences that support pupils development as socially responsible citizens who contribute meaningfully to the community, through learning and application of values, knowledge and skills.
 
@@ -60,7 +60,7 @@ In Angsana Primary, pupils are given opportunities to demonstrate the school val
 
   
 
-**Project Sparkles**
+<b>Project Sparkles</b>
 
 Project Sparkles takes pupils on a journey where they develop a deeper understanding of and make an impact in the importance of keeping our environment clean. All pupils of Angsana are on board to keep Angsana Primary School sparkling clean, where they take ownership of the canteen.
 
