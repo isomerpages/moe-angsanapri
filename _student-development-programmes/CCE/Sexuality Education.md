@@ -75,12 +75,12 @@ iii.  Character and Citizenship Education (CCE)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7klg{border-color:#ffffff;font-size:24px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-6hjr{border-color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-7klg">Primary 5</td>
+    <td class="tg-6hjr">Primary 5</td>
   </tr>
 </thead>
 </table>
