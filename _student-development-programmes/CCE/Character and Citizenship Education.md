@@ -28,6 +28,8 @@ Our Character and Citizenship Education (CCE) teaching pedagogy stems from the c
 
 ### Key Programmes
 
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "left">
+
 <b> CCE Lessons </b>
 
 CCE lessons are taught in the Mother Tongue Languages (MTL) and English Language. Lessons are thematic or event-based and aim to teach the knowledge, skills, values and attitudes to develop our students to become good individuals and useful citizens.
