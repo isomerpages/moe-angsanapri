@@ -28,7 +28,7 @@ Our Character and Citizenship Education (CCE) teaching pedagogy stems from the c
 
 ### Key Programmes
 
-<img src="/images/CCE1.jpeg" style="width:180px;height:280px;margin-right:25px;" align = "left">
+<img src="/images/CCE1.jpeg" style="width:180px;height:260px;margin-right:25px;" align = "left">
 
 <b> CCE Lessons </b>
 
