@@ -8,3 +8,5 @@ third_nav_title: CCE
 
 Student Leadership Programme
 ============================
+
+_To Nurture Leaders of Character_
