@@ -39,8 +39,13 @@ CCE lessons are taught in the Mother Tongue Languages (MTL) and English Language
 To nurture skills for students’ social and emotional, and mental well-being, our FTGP lessons are time and space created for meaningful teacher-student interactions. Through these specially designed interaction activities, our teachers garner a firmer understanding of every student, strengthen the holistic development of every student, to build a good rapport as well as quality class and team spirit. Topics covered include Cyberwellness, Peer-Support and Social Skills.
 
 
-<img src="/images/CCE2.jpeg" style="width:300px;height:220px;margin-left:15px;" align = "right">
+<img src="/images/CCE2.jpeg" style="width:300px;height:210px;margin-left:15px;" align = "right">
 
 <b>Assembly Programmes</b>
 
 Assembly programme is conducted weekly, to support the holistic development of every student.
+
+
+<b>Good Morning Angsana</b>
+
+Good Morning Angsana is conducted weekly to explicitly teach current affairs and values.
