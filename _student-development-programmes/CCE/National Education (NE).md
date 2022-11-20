@@ -1,16 +1,16 @@
 ---
 title: National Education (NE)
-permalink: /character-development/character-and-citizenship-education/national-education-ne
+permalink: /character-development/character-and-citizenship-education/national-education-ne/
 description: ""
 third_nav_title: CCE
 ---
+![](/images/School%20Development%20Programmes.jpg)
 
-
-
-
-
+National Education (NE)
+=======================
 
 ### Learning Outcomes
+
 
 As part of holistic education, National Education in Angsana Primary teaches our pupils to:
 
@@ -19,20 +19,23 @@ As part of holistic education, National Education in Angsana Primary teaches our
 
 ### Pedagogical Approaches
 
-In Angsana Primary School, we provide opportunities for our pupils to be familiar with and internalise the NE messages at the end of six years of their primary education. 
+
+In Angsana Primary School, we provide opportunities for our pupils to be familiar with and internalise the NE messages at the end of six years of their primary education.
+
+  
 
 Through classroom discussions and engaging NE events and activities, which are customised to different levels, pupils are engaged in meaningful ways that enable them to understand Singapore her history and people better. NE is also integrated into Social Studies and Character & Citizenship Education lessons.
 
 ### Key Programmes
 
-NE Core Events The 4 core NE events commemorates annually on the dates listed :
 
-     • Total Defence Day – 15 February
+NE Core Events The 4 core NE events commemorates annually on the dates listed:
 
-     • International Friendship Day- the third Friday in Term 2 
+*   Total Defence Day – 15 February
+*   International Friendship Day- the third Friday in Term 2
+*   Racial Harmony Day – 21 July
+*   National Day – 8 August
 
-     • Racial Harmony Day – 21 July 
-
-     • National Day – 8 August 
+  
 
 The commemoration of NE events are organized around themes which allows the pupils to have a holistic experience of the event.
