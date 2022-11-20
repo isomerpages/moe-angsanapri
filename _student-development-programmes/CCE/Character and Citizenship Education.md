@@ -69,3 +69,9 @@ To build positive teacher-student relationships, our students get to meet their 
 <b>Kindness@Angsana</b>
 
 Kindness@Angsana aims to educate and motivate all of our students to engage in kind actions. Our Friend of Singa (FoS) student ambassadors are empowered to find and implement solutions to promote kindness within the school and the community.
+
+```
+
+```
+
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
