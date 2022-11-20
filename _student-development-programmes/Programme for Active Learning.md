@@ -1,8 +1,12 @@
 ---
 title: Programme for Active Learning
-permalink: /character-development/programme-for-active-learning
+permalink: /character-development/programme-for-active-learning/
 description: ""
 ---
+![](/images/School%20Development%20Programmes.jpg)
+
+Programme for Active Learning
+=============================
 
 ### Learning Outcomes
 
