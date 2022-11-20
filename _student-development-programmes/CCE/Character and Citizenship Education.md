@@ -28,7 +28,7 @@ Our Character and Citizenship Education (CCE) teaching pedagogy stems from the c
 
 ### Key Programmes
 
-<img src="/images/CCE1.jpeg" style="width:180px;height:260px;margin-right:25px;" align = "left">
+<img src="/images/CCE1.jpeg" style="width:180px;height:260px;margin-right:15px;" align = "left">
 
 <b> CCE Lessons </b>
 
@@ -51,4 +51,8 @@ Assembly programme is conducted weekly, to support the holistic development of e
 Good Morning Angsana is conducted weekly to explicitly teach current affairs and values.
 
 
-<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/CCE3.jpeg" style="width:240px;height:220px;margin-right:15px;" align = "left">
+
+<b>Meet My Teacher</b>
+
+To build positive teacher-student relationships, our students get to meet their Form and Co-form teachers at least once per term. This one-to-one teacher-student interaction time allows our teachers to build quality teacher-student relationships via an in-depth knowledge of every child. Our teachers are able to identify our students’ needs and nurture character traits, dispositions and attitudes. In addition, through this platform, we are able to guide our students to set realistic academic and non-academic targets as well as provide timely feedback on their learning progress.
