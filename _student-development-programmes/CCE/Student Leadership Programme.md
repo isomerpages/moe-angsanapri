@@ -1,11 +1,9 @@
 ---
 title: Student Leadership Programme
-permalink: /character-development/character-and-citizenship-education/student-leadership-programme
+permalink: /character-development/character-and-citizenship-education/student-leadership-programme/
 description: ""
 third_nav_title: CCE
 ---
-
-
 ### _To Nurture Leaders of Character_
 
 In Angsana Primary School, we want all students to be Leaders of Character. They are able to lead themselves in terms of words and actions, which are grounded on school values. 'Leading self' is the fundamental of the student leadership programme (as illustrated in the framework).
