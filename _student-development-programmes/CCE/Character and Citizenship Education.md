@@ -79,3 +79,9 @@ Kindness@Angsana aims to educate and motivate all of our students to engage in k
 <b>Beyond Boundaries</b>
 
 To develop a sense of global perspective beyond Singapore in our students, our local and overseas immersion programmes deepen our students’ knowledge about cultures, practices and traditions in other countries. It also provides opportunities for interaction between Angsana Primary School students and their overseas counterparts.
+
+```
+
+```
+
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
