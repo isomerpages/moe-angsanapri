@@ -32,7 +32,14 @@ All CCAs emphasize social interaction by providing a common space for friendship
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 751px">
+<colgroup>
+<col style="width: 163px">
+<col style="width: 132px">
+<col style="width: 104px">
+<col style="width: 107px">
+<col style="width: 245px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Category</span></th>
