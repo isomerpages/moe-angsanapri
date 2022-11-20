@@ -31,3 +31,52 @@ In Angsana Primary School, we want all students to be Leaders of Character. They
   
 
 Students with leadership qualities are given the opportunities to take on other leadership roles such as Class Monitors, Sports Captains and Prefects. These roles enable them to lead their class, grade level or school. To prepare the student leaders, the school conducts training sessions and camp, twice a year to equip the student leaders with the knowledge and skills.
+
+![](/images/SLP.png)
+
+
+The Student Leadership Programme @ Angsana is grounded on the 5 Practices of Exemplary Behaviour (Kouzes & Posner). Empowered with the different leadership roles, all student leaders are committed to :
+
+  
+
+<b>Model the Way</b>
+
+\- Create standards of excellence
+
+\- Set an example for others to follow. Be a good role model
+
+\- Set goals and achieve small wins while working towards larger objectives
+
+  
+
+<b>Inspire a Shared Vision</b>
+
+\- Envision the future
+
+\- Create an ideal to work towards
+
+\- Get people to see exciting possibilities for the future
+
+  
+
+<b>Challenge the Process</b>
+
+\- Look for innovative ways to improve
+
+\- Be a risk taker to make things better
+
+  
+
+<b>Enable Other to Act</b>
+
+\- Be a great team player
+
+\- Work with others with respect
+
+  
+
+<b>Encourage the Heart</b>
+
+\- Recognise efforts
+
+\- Celebrate success
