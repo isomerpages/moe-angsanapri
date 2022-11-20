@@ -49,3 +49,6 @@ Assembly programme is conducted weekly, to support the holistic development of e
 <b>Good Morning Angsana</b>
 
 Good Morning Angsana is conducted weekly to explicitly teach current affairs and values.
+
+
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
