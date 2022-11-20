@@ -22,3 +22,40 @@ Every pupil will embark on a cultural and historical experiential learning progr
   
 
 The following table lists the level and the corresponding heritage sites to be visited.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 502px">
+<colgroup>
+<col style="width: 251px">
+<col style="width: 251px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Level</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Heritage Site</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix">Primary 4</td>
+    <td class="tg-nrix">Kampong Glam</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Primary 5</td>
+    <td class="tg-nrix">Little India</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Primary 6</td>
+    <td class="tg-nrix">Chinatown</td>
+  </tr>
+</tbody>
+</table>
