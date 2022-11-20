@@ -84,4 +84,8 @@ To develop a sense of global perspective beyond Singapore in our students, our l
 
 ```
 
-<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/CCE6.jpeg" style="width:250px;height:350px;margin-left:15px;" align = "right">
+
+<b>Values-in-Action (VIA)</b>
+
+Students go through various learning experiences to develop socially as responsible citizens who contribute meaningfully to their home and community. Students at every level get to be part of a VIA project which enables them to put into practice the values, knowledge and skills that they have learnt. They also do their part to daily keep their classroom and school clean as part of their ‘Everyday Responsibilities’.
