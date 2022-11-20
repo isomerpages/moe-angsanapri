@@ -64,3 +64,6 @@ iii.  Character and Citizenship Education (CCE)
   
 
 7.  The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+
+
+<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in 2022:</b>
