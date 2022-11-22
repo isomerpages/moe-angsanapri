@@ -6,4 +6,33 @@ description: ""
 Contact Us
 ==========
 
-<table class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">Address</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">: 51 Tampines Street 61 Singapore 528565</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">Telephone</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">: 67830427</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">Fax</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">: 67845293</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">Email</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-weight: 400;">:<span class="Apple-converted-space">&nbsp;</span><a href="mailto:angsana_pri@moe.edu.sg" target="_blank" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 151, 131); font-weight: 600; text-decoration: underline;">angsana_pri@moe.edu.sg</a></div></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uxdp{border-color:#ffffff;font-size:15px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uxdp"><span style="font-weight:400;color:#000">Address</span></th>
+    <th class="tg-uxdp"><span style="font-weight:400;color:#000">: 51 Tampines Street 61 Singapore 528565</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-uxdp"><span style="font-weight:400;color:#000">Telephone</span></td>
+    <td class="tg-uxdp"><span style="font-weight:400;color:#000">: 67830427</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uxdp"><span style="font-weight:400;color:#000">Fax</span></td>
+    <td class="tg-uxdp"><span style="font-weight:400;color:#000">: 67845293</span></td>
+  </tr>
+  <tr>
+    <td class="tg-uxdp"><span style="font-weight:400;color:#000">Email</span></td>
+    <td class="tg-uxdp"><span style="font-weight:400;color:#000">:</span> <a href="mailto:angsana_pri@moe.edu.sg"><span style="font-weight:600;text-decoration:underline;color:#009783">angsana_pri@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
