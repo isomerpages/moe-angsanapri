@@ -13,3 +13,24 @@ We believe preschool children are curious, active and competent learners. They a
   
 
 Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project. Here in MK@Angsana, we organise occasional field trips to places of interest, so your child can better understand the people and places in Singapore, and the world they live in. Additionally, families play an important role in nurturing children’s holistic development. We routinely involve families in children’s learning through our Leading and Inspiring Families of Early Learners @ MOE Kindergarten (LIFE@MK) programme.
+
+
+<u><b>Operating Hours</u></b>
+
+MK: 8am – 5pm
+
+KCare: 7am – 7pm
+
+  
+
+Angsana Primary School (NEW LOCATION)
+
+51 Tampines Street 61 Singapore 528565
+
+(+65) 6783 0427
+
+[mk\_angsana@moe.edu.sg](mailto:mk_angsana@moe.edu.sg)
+
+  
+
+For more information on MOE Kindergarten, you may wish to visit the [MOE Kindergarten website](https://www.moe.gov.sg/preschool/moe-kindergarten) or read a copy of our [brochure](https://www.moe.gov.sg/-/media/files/mk/moe-brochure-english-2021.pdf?la=en)!
