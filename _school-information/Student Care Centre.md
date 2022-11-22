@@ -10,3 +10,4 @@ Student Care Centre
 ===================
 
 <img src="/images/SCC.jpeg" style="width:30%">
+
