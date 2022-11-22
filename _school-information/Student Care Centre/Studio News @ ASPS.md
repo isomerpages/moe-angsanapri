@@ -9,3 +9,5 @@ third_nav_title: Student Care Centre
 
 Studio News @ ASPS
 ==================
+
+<img src="/images/Newletter.jpg" style="width:35%">
