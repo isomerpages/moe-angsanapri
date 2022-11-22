@@ -120,32 +120,44 @@ Parents/guardians and learners all play an important role in ensuring that homew
 
   
 
-**Parents/guardians** are to:
+<b>Parents/guardians</b> are to:
 
-1.  create a home environment conducive for studying and completion of homework, with good light and space for studying;
+a.  create a home environment conducive for studying and completion of homework, with good light and space for studying;
 
-2.  set a regular schedule for completing homework for each day that is not be interrupted by family plans, school activities or television time;
+b.  set a regular schedule for completing homework for each day that is not be interrupted by family plans, school activities or television time;
 
-3.  check Pupils’ Companion for the daily list of homework assignments so that both the parents and the child can monitor progress on work;
+c.  check Pupils’ Companion for the daily list of homework assignments so that both the parents and the child can monitor progress on work;
 
-4.  supervise and provide support for child’s learning;
+d.  supervise and provide support for child’s learning;
 
-5.  reinforce good study habits and attitudes by encouraging and motivating your child;
+e.  reinforce good study habits and attitudes by encouraging and motivating your child;
 
-6.  be mindful of the stresses arising from school homework and out-of-school activities, and help your children prioritise their time among these activities; and
+f.  be mindful of the stresses arising from school homework and out-of-school activities, and help your children prioritise their time among these activities; and
 
-7.  work in partnership with our teachers to support your child’s learning and development.
+g.  work in partnership with our teachers to support your child’s learning and development.
 
   
 
-**Students** are to:
+<b>Students</b> are to:
 
-1.  understand the purpose of homework and what is expected of them;
+a.  understand the purpose of homework and what is expected of them;
 
-2.  use their Pupils’ Companion keep track of homework instructions and deadlines;
+b.  use their Pupils’ Companion keep track of homework instructions and deadlines;
 
-3.  manage time well to ensure that homework is completed and submitted on time;
+c.  manage time well to ensure that homework is completed and submitted on time;
 
-4.  give his / her best effort in completing homework; and
+d.  give his / her best effort in completing homework; and
 
-5.  review feedback from teachers on homework submitted.
+e.  review feedback from teachers on homework submitted.
+
+
+### Non-completion of Homework
+
+
+Our teachers will work with students to find out the reasons for any non-submission of homework. Intervention strategies to support the student in this area will be based on the reasons and if need be, a parent-teacher conference will be arranged. If the student is medically excused from school for an extended length of time, arrangements can be made on how the student can be supported with homework and other areas of academic needs.
+
+  
+
+* * *
+
+_\[1\] Rutherford, William; Foyle, Harvey C.”How To Develop and Effective Homework Programme”. Tips for Principals from NASSP(October 1988). Educational Resources Information Centre (ERIC)._
