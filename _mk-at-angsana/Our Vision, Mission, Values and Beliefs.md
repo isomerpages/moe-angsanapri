@@ -3,6 +3,8 @@ title: Our Vision, Mission, Values and Beliefs
 permalink: /mk-at-angsana/our-vision-mission-values-and-beliefs/
 description: ""
 ---
+![](/images/MK-Angsana.jpg)
+
 Our Vision, Mission, Values and Beliefs
 =======================================
 
