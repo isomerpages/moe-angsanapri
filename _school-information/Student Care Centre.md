@@ -9,4 +9,4 @@ description: ""
 Student Care Centre
 ===================
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/SCC.jpeg" style="width:30%">
