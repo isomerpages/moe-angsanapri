@@ -19,3 +19,6 @@ b) check on the claim status
 c) submit follow up claims
 
 [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
+
+
+<img src="/images/xxx.png" style="width:80%">
