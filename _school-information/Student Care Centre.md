@@ -74,4 +74,4 @@ Student Care Centre
 For more information, click [here](http://www.learningstudioeducare.com/)
 
 
-
+<img src="/images/FollowUs-FB.png" style="width:25%">
