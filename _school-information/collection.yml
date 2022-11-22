@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Student Care Centre.md
       - School Bus Operator.md
       - School Insurance Claims.md
       - Contact Us.md
