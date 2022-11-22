@@ -25,3 +25,5 @@ In Angsana Primary School, it is our vision to develop and nurture every of our 
   </tr>
 </thead>
 </table>
+
+![](/images/SLD1.png)
