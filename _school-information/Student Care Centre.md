@@ -8,3 +8,5 @@ description: ""
 
 Student Care Centre
 ===================
+
+<img src="/images/xxx.png" style="width:80%">
