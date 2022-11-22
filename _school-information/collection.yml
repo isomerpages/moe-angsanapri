@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Care Centre/.keep
-      - Student Care Centre.md
       - School Bus Operator.md
       - School Insurance Claims.md
       - Contact Us.md
