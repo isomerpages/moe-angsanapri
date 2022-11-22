@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School Bus Operator.md
       - School Insurance Claims.md
       - Contact Us.md
