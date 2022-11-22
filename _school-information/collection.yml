@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Bookshop and Uniform Operator.md
       - Student Care Centre/.keep
       - Student Care Centre/Student Care Centre.md
       - Student Care Centre/Studio News @ ASPS.md
