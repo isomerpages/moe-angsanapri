@@ -74,4 +74,5 @@ Student Care Centre
 For more information, click [here](http://www.learningstudioeducare.com/)
 
 
-<img src="/images/FollowUs-FB.png" style="width:25%">
+
+<p><a href="https://www.facebook.com/learningstudiobyzenitant/"><img style="width:25%" src="/images/FollowUs-FB.png"></a></p>
