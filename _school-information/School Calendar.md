@@ -9,4 +9,4 @@ School Calendar
 ===============
 
 
-<b>angsanapri@gmail.com</b>
+angsanapri@gmail.com(mailto:schools@bedoktransport.com)
