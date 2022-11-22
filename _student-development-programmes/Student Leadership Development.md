@@ -16,12 +16,12 @@ In Angsana Primary School, it is our vision to develop and nurture every of our 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-aw21{border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-hovb{border-color:#ffffff;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-aw21">The outcome of Student Leadership Development@Angsana Primary</td>
+    <td class="tg-hovb">The outcome of Student Leadership Development@Angsana Primary</td>
   </tr>
 </thead>
 </table>
