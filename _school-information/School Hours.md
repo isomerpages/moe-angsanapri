@@ -42,3 +42,21 @@ School Hours
   </tr>
 </tbody>
 </table>
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-54l1{border-color:#ffffff;font-size:15px;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-54l1">Additional Remedial and Enrichment programmes are held in the afternoons,<br><span style="font-weight:400;font-style:normal;text-decoration:none">from 2.00 p.m. to 4.00 p.m.</span></td>
+  </tr>
+</thead>
+</table>
