@@ -7,19 +7,19 @@ Our Vision, Mission, Values and Beliefs
 =======================================
 
 
-**Our Vision**
+<b>Our Vision</b>
 
 A Strong Start for Every Child
 
   
 
-**Our Mission**
+<b>Our Mission</b>
 
 To provide quality pre-school education that is affordable to Singaporeans and catalyse quality improvements in the sector
 
   
 
-**Our Values**
+<b>Our Values</b>
 
 Integrity the Foundation
 
@@ -31,7 +31,7 @@ Excellence our Pursuit
 
   
 
-**Our Beliefs**
+<b>Our Beliefs</b>
 
 Children are curious learners
 
