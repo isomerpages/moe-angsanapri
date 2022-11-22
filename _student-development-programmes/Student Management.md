@@ -78,3 +78,20 @@ The student recognition platform recognises students who demonstrate positive va
     The value of the award for Primary school is as follows:
     
     *   $250 for Primary 4 to 6 students
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-irxu{border-color:#ffffff;color:#000000;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-irxu">Student Recognition Platforms</td>
+  </tr>
+</thead>
+</table>
