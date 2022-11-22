@@ -3,6 +3,8 @@ title: MK@Angsana
 permalink: /mk-at-angsana/MK-at-Angsana/
 description: ""
 ---
+![](/images/MK-Angsana.jpg)
+
 MK@Angsana
 ==========
 
