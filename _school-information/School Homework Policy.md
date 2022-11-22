@@ -65,3 +65,51 @@ d.  Homework will be relatively less for long school days when students have ext
 <b>Types and Purposes of Homework \[1\]</b>
 
 In general, there are four types of homework that will be assigned by our teachers. The purposes of these types of homework are:
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 832px">
+<colgroup>
+<col style="width: 148px">
+<col style="width: 346px">
+<col style="width: 338px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Type</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Purpose</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Examples of Homework</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">Preparation</span><br>(Getting ready before)</td>
+    <td class="tg-0lax">Provide opportunities to help students inform and prepare themselves for the coming lessons.</td>
+    <td class="tg-0lax">Collecting materials for class demonstrations<br>Background Readings and Library research<br>Learning of spelling &amp; multiplication tables</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">Practice</span><br>(Doing again after)</td>
+    <td class="tg-0lax">Provide students with needed review and reinforcement about content covered in a previous lesson so as to facilitate retention of facts and deepen understanding of concepts</td>
+    <td class="tg-0lax">Workbook, worksheet and revision exercises<br>Post-lesson assignments/tasks and reporting findings to the class.</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">Extension</span><br>(Going beyond)</td>
+    <td class="tg-0lax">Provide opportunities for students to expand on concepts that were taught in class as well as to pursue knowledge collaboratively and independently.</td>
+    <td class="tg-0lax">Project-based work (Group as well as individual)<br>Creative Writing<br>Non-routine tasks based on the topics covered.</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">Creative</span><br>(Putting together)</td>
+    <td class="tg-0lax">Provide opportunities for students to engage in learning activities that include analysis, synthesis and evaluation requiring the students to be more inventive and resourceful.</td>
+    <td class="tg-0lax">Tasks requiring students to come up with their own ideas related to class topic and then share those ideas with the class.<br>Creating a new invention based on a class topic.</td>
+  </tr>
+</tbody>
+</table>
