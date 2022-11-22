@@ -18,7 +18,16 @@ School Hours
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 947px">
+<colgroup>
+<col style="width: 89px">
+<col style="width: 124px">
+<col style="width: 179px">
+<col style="width: 162px">
+<col style="width: 174px">
+<col style="width: 143px">
+<col style="width: 76px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Day</span><br></th>
