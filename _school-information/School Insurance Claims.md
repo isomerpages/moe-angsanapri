@@ -21,4 +21,4 @@ c) submit follow up claims
 [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg/)
 
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/QR.png" style="width:40%">
