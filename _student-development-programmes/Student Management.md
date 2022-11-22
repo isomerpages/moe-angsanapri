@@ -86,12 +86,12 @@ The student recognition platform recognises students who demonstrate positive va
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-irxu{border-color:#ffffff;color:#000000;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0qn0{border-color:#ffffff;color:#000000;font-size:20px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-irxu">Student Recognition Platforms</td>
+    <td class="tg-0qn0">Student Recognition Platforms</td>
   </tr>
 </thead>
 </table>
