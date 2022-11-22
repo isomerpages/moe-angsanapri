@@ -11,3 +11,7 @@ Studio News @ ASPS
 ==================
 
 <img src="/images/Newletter.jpg" style="width:35%">
+
+
+
+*   [Studio news issue 4](/files/Studio%20News%20Issue%204.pdf)
