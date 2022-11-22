@@ -69,3 +69,6 @@ Student Care Centre
   </tr>
 </tbody>
 </table>
+
+
+For more information, click [here](http://www.learningstudioeducare.com/)
