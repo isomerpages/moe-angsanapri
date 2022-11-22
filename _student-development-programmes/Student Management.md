@@ -96,4 +96,4 @@ The student recognition platform recognises students who demonstrate positive va
 </thead>
 </table>
 
-![](/images/SDP.jpeg)
+<img src="/images/SDP.jpeg" style="width:60%">
