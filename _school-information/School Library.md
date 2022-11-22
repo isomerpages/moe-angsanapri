@@ -26,3 +26,5 @@ To encourage reading in the school, our library features monthly book collection
 <b>Storytelling Sessions</b>
 
 During recess on some days, students get to enjoy storytelling sessions conducted by the staff in school. The aim of the session is to promote joy of reading and to encourage students to explore books of different genres.
+
+![](/images/SchLib.png)
