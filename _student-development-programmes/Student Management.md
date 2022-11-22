@@ -16,17 +16,20 @@ Student Management
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pct3{border-color:#ffffff;color:#32cb00;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-5bbi{border-color:#ffffff;color:#32cb00;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 654px">
+<colgroup>
+<col style="width: 654px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-pct3">Vision: To Discipline is to Care</th>
+    <th class="tg-5bbi">Vision: To Discipline is to Care</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pct3">Goal: Self-disciplined students of good moral character</td>
+    <td class="tg-5bbi">Goal: Self-disciplined students of good moral character</td>
   </tr>
 </tbody>
 </table>
