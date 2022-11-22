@@ -1,5 +1,4 @@
 collections:
   school-information:
     output: true
-    order:
-      - School Insurance Claims.md
+    order: []
