@@ -56,7 +56,7 @@ ii.  Form Teacher Guidance Period (FTGP)
 iii.  Character and Citizenship Education (CCE)
 
 
-<u><b>Sexuality Education:</u></b> “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+<b>Sexuality Education:</b> “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
 
   
 
