@@ -31,3 +31,5 @@ Our Events
 * 25 May 2022 I Busy Bees and Mid-Year Celebration
 
 ![](/images/Busy%20Bees%20Mid-Year%20Celebration.png)
+
+* 22 July 2022 I Racial Harmony Day Celebration
