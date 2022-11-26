@@ -29,3 +29,5 @@ Our Events
 ![](/images/Hari%20Raya%20Celebration.jpg)
 
 * 25 May 2022 I Busy Bees and Mid-Year Celebration
+
+![](/images/Busy%20Bees%20Mid-Year%20Celebration.png)
