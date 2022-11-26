@@ -14,3 +14,6 @@ Our Events
 
 
 ![](/images/First%20Day%20of%20School.png)
+
+*   29 January 2022 | Open House
+*   31 January 2022 | Chinese New Year Celebration
