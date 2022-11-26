@@ -144,6 +144,7 @@ Orientation Package
 
 <u><b>MOE Kindergarten Family Handbook</b></u>
 
+[2021 MOE Kindergarten Family Handbook.pdf](/files/MOE%20Kindergarten%20Family%20Handbook.pdf)
 
 
 
