@@ -33,3 +33,10 @@ Our Events
 ![](/images/Busy%20Bees%20Mid-Year%20Celebration.png)
 
 * 22 July 2022 I Racial Harmony Day Celebration
+
+![](/images/Racial%20Harmony%20Day%20Celebration.jpg)
+
+<b>Upcoming:</b>
+
+* 8 August 2022 I National Day Celebration
+* 1 September 2022 I Teacher’s Day Celebration
