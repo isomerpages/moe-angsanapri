@@ -39,7 +39,7 @@ Student Management is actually an educative process focusing on the development 
 
   
 
-<u><b>Student Recognition</u></b>
+<u><b>Student Recognition </u></b>
 
   
 
