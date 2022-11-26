@@ -17,7 +17,7 @@ We believe preschool children are curious, active and competent learners. They a
 Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starlight Literacy Programme for English and MTL. In addition, each term at MK will conclude in a Weeks of Wonder project. Here in MK@Angsana, we organise occasional field trips to places of interest, so your child can better understand the people and places in Singapore, and the world they live in. Additionally, families play an important role in nurturing children’s holistic development. We routinely involve families in children’s learning through our Leading and Inspiring Families of Early Learners @ MOE Kindergarten (LIFE@MK) programme.
 
 
-<u><b>Operating Hours</u></b>
+<u><b>Operating Hours</b></u>
 
 MK: 8am – 5pm
 
