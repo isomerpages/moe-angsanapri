@@ -23,6 +23,7 @@ ii.  To help students know themselves and build healthy and rewarding relationsh
 
 iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
 
+
 3.  The key messages of Sexuality Education are:
 
 i.  Love and respect yourself as you love and respect others;
