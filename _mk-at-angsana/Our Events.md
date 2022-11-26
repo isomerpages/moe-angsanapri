@@ -27,3 +27,5 @@ Our Events
 * 4 May 2022 I Hari Raya Puasa Celebration
 
 ![](/images/Hari%20Raya%20Celebration.jpg)
+
+* 25 May 2022 I Busy Bees and Mid-Year Celebration
