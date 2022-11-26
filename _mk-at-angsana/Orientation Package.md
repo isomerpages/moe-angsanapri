@@ -8,3 +8,5 @@ description: ""
 
 Orientation Package
 ===================
+
+**Key Features of the MK Curriculum**
