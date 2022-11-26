@@ -18,3 +18,5 @@ Our Events
 *   31 January 2022 | Chinese New Year Celebration
 
 ![](/images/Chinese%20New%20Year%20Celebration.jpg)
+
+*   4 May 2022 | Hari Raya Puasa Celebration
