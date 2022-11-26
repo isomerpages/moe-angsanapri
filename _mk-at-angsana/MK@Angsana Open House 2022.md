@@ -7,3 +7,5 @@ description: ""
 
 MK@Angsana Open House 2022
 ==========================
+
+[Overview Slides Open House 2022](/files/Overview%20Slides_Open%20House%202022.pdf)
