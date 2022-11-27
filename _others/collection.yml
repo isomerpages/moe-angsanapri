@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Announcements/Welcome to Angsana!.md
       - Announcements/School Attendance Matters.md
       - Announcements/.keep
       - Quicklinks.md
