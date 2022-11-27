@@ -22,3 +22,4 @@ Click [here](/others/announcements/lta-handbrake-requirement-for-bicycles/) to 
 <img src="/images/welcome.jpeg" style="width:150px;height:190px;margin-right:15px;" align = "left">
 
 ##### Welcome to Angsana!
+Click  to read more.
