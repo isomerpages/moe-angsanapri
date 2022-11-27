@@ -8,4 +8,30 @@ description: ""
 Our Learning Environment
 ========================
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Respect.jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;color:#000">K1 Respect</span></th>
+    <th class="tg-baqh"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Patience.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;color:#000">K1 Patience</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Care.jpg" alt="K1 Patience.jpg" width="300" height="225"></td>
+    <td class="tg-0lax"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/ML_TL%20Classroom.jpg" alt="K1 Patience.jpg" width="300" height="225"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Playground.jpg" alt="K1 Patience.jpg" width="300" height="225"></td>
+    <td class="tg-0lax"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Garden%20(Front).jpg" alt="K1 Patience.jpg" width="300" height="225"></td>
+  </tr>
+</tbody>
+</table>
