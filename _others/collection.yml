@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Cyber Wellness Tips.md
       - Announcements/LTA Handbrake requirement for bicycles.md
       - Announcements/Welcome to Angsana!.md
       - Announcements/School Attendance Matters.md
