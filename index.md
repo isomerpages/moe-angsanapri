@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/angsana banner.gif
       url: /contact-us/
+      button: Contact Us
   - infobar:
       title: Announcements
       button: More
       url: /others/announcements/school-attendance-matters
 ---
-
