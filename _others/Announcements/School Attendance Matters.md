@@ -4,8 +4,6 @@ permalink: /others/announcements/school-attendance-matters/
 description: ""
 third_nav_title: Announcements
 ---
-
-
 ![](/images/About%20Us.jpg)
 
 School Attendance Matters
