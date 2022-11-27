@@ -10,14 +10,3 @@ links:
     collection: school-information
   - title: MK @ Angsana
     collection: mk-at-angsana
-  - title: Others
-    url: /permalink
-    sublinks:
-      - title: Achievements
-        url: /achievements/2020
-      - title: Information & Services
-        url: /information-n-services/school-homework-policy
-      - title: Our Partners & Stakeholders
-        url: /our-partners-n-stakeholders/school-advisory-committee
-      - title: Quicklinks
-        url: /quicklinks/for-pupils
