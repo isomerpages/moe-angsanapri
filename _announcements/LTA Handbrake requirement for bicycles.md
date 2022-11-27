@@ -7,3 +7,5 @@ description: ""
 
 LTA Handbrake requirement for bicycles
 ======================================
+
+![](/images/LTA.jpeg)
