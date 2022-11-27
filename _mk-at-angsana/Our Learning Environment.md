@@ -32,5 +32,9 @@ Our Learning Environment
     <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Playground.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Playground</span></td>
     <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Garden%20(Front).jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Garden (Front)</span></td>
   </tr>
+  <tr>
+    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Garden%20(Back).jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Garden (Back)</span></td>
+    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Music%20and%20Movement%20Room.jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Music and Movement Room</span></td>
+  </tr>
 </tbody>
 </table>
