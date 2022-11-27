@@ -12,4 +12,4 @@ Announcements
 <img src="/images/lta.jpeg" style="width:120px;height:150px;margin-right:15px;" align = "left"> 
 
 ##### LTA Handbrake requirement for bicycles
-Click  to read more.
+Click [here](/others/announcements/lta-handbrake-requirement-for-bicycles/) to read more.
