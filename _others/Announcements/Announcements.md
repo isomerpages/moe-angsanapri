@@ -9,7 +9,8 @@ third_nav_title: Announcements
 Announcements
 =============
 
-<img src="/images/lta.jpeg" style="width:120px;height:150px;margin-right:15px;" align = "left"> 
+
+<img src="/images/lta.jpeg" style="width:150px;height:190px;margin-right:5px;" align = "left"> 
 
 ##### LTA Handbrake requirement for bicycles
 Click [here](/others/announcements/lta-handbrake-requirement-for-bicycles/) to read more.
