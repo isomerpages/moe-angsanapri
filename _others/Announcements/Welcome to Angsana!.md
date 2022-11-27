@@ -4,9 +4,6 @@ permalink: /others/Announcements/Welcome-to-Angsana/
 description: ""
 third_nav_title: Announcements
 ---
-
-
-
 ![](/images/About%20Us.jpg)
 
 # Welcome to Angsana!
