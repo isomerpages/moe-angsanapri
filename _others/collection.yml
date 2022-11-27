@@ -2,4 +2,5 @@ collections:
   others:
     output: true
     order:
+      - Search.md
       - FAQs.md
