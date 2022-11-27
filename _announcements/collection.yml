@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - School Attendance Matters.md
-      - Welcome to Angsana!.md
-      - Cyber Wellness Tips.md
       - LTA Handbrake requirement for bicycles.md
+      - Welcome to Angsana!.md
+      - School Attendance Matters.md
+      - Cyber Wellness Tips.md
