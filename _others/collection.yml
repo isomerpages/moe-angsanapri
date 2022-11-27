@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - School Attendance Matters.md
       - Announcements/.keep
       - Quicklinks.md
       - Search.md
