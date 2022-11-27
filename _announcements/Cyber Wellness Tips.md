@@ -17,7 +17,7 @@ Cyber Wellness Tips
 
   
 
-<u><b>Tips #3:</b></u> Appropriate online expression refers to online communication which is socially appropriate and does not bring about conflicting opinions and stereotypes. Inappropriate online expression may affect a child’s social, emotional and mental well-being. Click [here](https://angsanapri.moe.edu.sg/qql/slot/u167/announcements/appropriate%20online%20expression.pdf) to read up on how parents can help.
+<u><b>Tips #3:</b></u> Appropriate online expression refers to online communication which is socially appropriate and does not bring about conflicting opinions and stereotypes. Inappropriate online expression may affect a child’s social, emotional and mental well-being. Click [here](/files/appropriate%20online%20expression.pdf) to read up on how parents can help.
 
   
 
