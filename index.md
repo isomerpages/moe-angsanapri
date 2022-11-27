@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/angsana banner.gif
-      url: /contact-us/
+      url: /school-information/Contact-Us/
       button: Contact Us
   - infobar:
       title: Announcements
