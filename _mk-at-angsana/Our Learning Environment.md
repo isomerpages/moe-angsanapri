@@ -36,5 +36,19 @@ Our Learning Environment
     <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Garden%20(Back).jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Garden (Back)</span></td>
     <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Music%20and%20Movement%20Room.jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Music and Movement Room</span></td>
   </tr>
+  <tr>
+    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Motor%20Skills%20Development%20Room.jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Motor Skills Development Room</span></td>
+    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Literacy%20and%20Numeracy%20Room.jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Literacy and Numeracy Room</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lvth" colspan="2"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Art%20Room.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Art Room</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Water%20Play%20Area.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Water Play Area</span></td>
+    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Sand%20Play%20Area.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Sand Play Area</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lvth" colspan="2"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/Tricycle%20Play%20Area.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tricycle Play Area</span></td>
+  </tr>
 </tbody>
 </table>
