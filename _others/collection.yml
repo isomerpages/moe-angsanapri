@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Announcements/Example Title.md
       - Announcements/.keep
       - Announcements/School Attendance Matters.md
       - Announcements/Cyber Wellness Tips.md
