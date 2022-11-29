@@ -17,8 +17,4 @@ sections:
         - title: Quick Links
           description: ""
           url: ""
-  - infobar:
-      title: Announcements
-      button: More
-      url: /others/announcements/school-attendance-matters
 ---
