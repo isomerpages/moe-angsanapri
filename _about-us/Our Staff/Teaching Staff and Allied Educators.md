@@ -378,3 +378,48 @@ Teaching Staff and Allied Educators
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 718px">
+<colgroup>
+<col style="width: 359px">
+<col style="width: 359px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="2">Allied Educators<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Designation</td>
+    <td class="tg-1wig">Name</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Senior School Counsellor</td>
+    <td class="tg-cly1">Mr Heng Hung Yong</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">School Counsellor</td>
+    <td class="tg-cly1">Mdm Martilah Binte Sukern</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">SEN Officer</td>
+    <td class="tg-cly1">Mdm Koh Bee Lay Sharon</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">SEN Officer</td>
+    <td class="tg-cly1">Mdm Nordiana Santy</td>
+  </tr>
+</tbody>
+</table>
