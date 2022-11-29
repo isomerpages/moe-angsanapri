@@ -1,6 +1,0 @@
-collections:
-  our-partners-and-stakeholders:
-    output: true
-    order:
-      - School Advisory Committee.md
-      - Parent Support Group.md
