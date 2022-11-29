@@ -19,10 +19,10 @@ Teaching Staff and Allied Educators
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 713px">
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
 <colgroup>
-<col style="width: 127px">
-<col style="width: 198px">
+<col style="width: 131px">
+<col style="width: 201px">
 <col style="width: 179px">
 <col style="width: 209px">
 </colgroup>
