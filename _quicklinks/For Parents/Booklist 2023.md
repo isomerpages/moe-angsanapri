@@ -20,3 +20,5 @@ Please click on the link to download.
 [P4 Booklist 2023.pdf](/files/P4%20Booklist%202023.pdf)
 
 [P5F Booklist 2023.pdf](/files/P5F%20Booklist%202023.pdf)
+
+[P5S Booklist 2023.pdf](/files/P5S%20Booklist%202023.pdf)
