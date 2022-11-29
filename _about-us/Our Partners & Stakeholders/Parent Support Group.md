@@ -16,49 +16,49 @@ The ASPS Parent Support Group (PSG) is a voluntary group of parents and an integ
 ### 3 Key Roles of PSG:
 
 
-1. **Supporting Partner in Education**
+1. <u><b>Supporting Partner in Education</b></u>
 
 The PSG complements the school by aligning the PSG-run activities with the school’s objectives, supporting and strengthening the school’s programmes to improve our children’s well-being and learning
 
   
 
-2. **Bridge Between Parents and School**
+2. <u><b>Bridge Between Parents and School</b></u>
 
 The PSG listens to parents’ feedback on school operations, practices and programmes, and provides feedback to the school. The PSG also facilitates the school’s communication to parents.
 
   
 
-3. **Magnet to Attract Other Parents**
+3. <u><b>Magnet to Attract Other Parents</b></u>
 
 Parents who are actively involved in the PSG are better able to reach out to other parents and involve them. Over time, more parents can contribute to make the school environment more conducive for learning
 
   
 
-**Possible Areas For Contributions by PSG**
+<b>Possible Areas For Contributions by PSG</b>
 
 Partner and support the school by volunteering your 3Ts..
 
   
 
-1. **Time**
+1. <u><b>Time</b></u>
 
 Parents can volunteer their time to support school’s programmes and events. Supporting PSG members can help to make the school a safe place for our children to learn in, making school life more vibrant and caring
 
   
 
-2. **Talent**
+2. <u><b>Talent</b></u>
 
 Parents can volunteer their expertise, talents, individual interests or personal networks. In this way, parents can significantly expand the pool of help available to the school and PSG.
 
   
 
-3. **Thoughts**
+3. <u><b>Thoughts</b></u>
 
 Parents can brainstorm and contribute constructive feedback and ideas to improve school and PSG. More experienced parents can share experience and advice with younger parents too
 
   
 
-**Possible Areas For Contributions by PSG**
+<b>Possible Areas For Contributions by PSG</b>
 
 To provide support and expertise in the following areas:
 
