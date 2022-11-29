@@ -101,7 +101,7 @@ If you are interested in joining the PSG, please email us at [angsanapsg@gmail.
 
 
 ### School-based workshops on Parenting Tips for Angsana Parents
-------------------------------------------------------------
+
 
 With consultation with PSG members and the school’s Family Matter Coordinator, the school has selected a variety of talks on Parenting Tips for all our parents. These talks are heavily subsidized and we would like to encourage all our parents to take this advantage of this opportunity and sign up for these talks.
 
@@ -111,22 +111,22 @@ A brief summary of talks that have been conducted and upcoming talks:
 
   
 
-**2 January 2018: Preparing Your Child for Primary One**
+<b>2 January 2018: Preparing Your Child for Primary One</b>
 
 ![](/images/PSG1.jpeg)
 
-**21 April 2018: The 5 Languages of Love – Connecting with your loved ones**
+<b>21 April 2018: The 5 Languages of Love – Connecting with your loved ones</b>
 
 
 ![](/images/PSG2.jpeg)
 
 ![](/images/PSG3.jpeg)
 
-**18 May 2018: Correcting in Love – Positive Discipline**
+<b>18 May 2018: Correcting in Love – Positive Discipline</b>
 
 ![](/images/psg04.jpg)
 
-**6 July 2018: Managing Exam Anxiety and Stress**
+<b>6 July 2018: Managing Exam Anxiety and Stress</b>
 
 ![](/images/psg05.jpg)
 
@@ -138,6 +138,6 @@ Sat 28 August 2018 (10am-12pm): Understanding, Preventing and Overcoming excessi
 
 Sat 20 October 2018(10am-12pm): Hot Tips on Parenting.
 
-**Active PSG support in school’s recess activities**
+<b>Active PSG support in school’s recess activities</b>
 
 ![](/images/PSG.png)
