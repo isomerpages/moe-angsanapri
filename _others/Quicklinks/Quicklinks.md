@@ -38,4 +38,8 @@ Quicklinks
 [Read More...](https://angsanapri.moe.edu.sg/quicklinks/sls-student-learning-space)
 
 
-### For Staff
+<img src="/images/Staff.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+
+##### For Staff
+
+[Read More...](https://angsanapri.moe.edu.sg/quicklinks/for-staff)
