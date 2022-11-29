@@ -281,3 +281,54 @@ Teaching Staff and Allied Educators
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 201px">
+<col style="width: 179px">
+<col style="width: 209px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="4">Primary 5<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Class</td>
+    <td class="tg-1wig">Form Teacher 1</td>
+    <td class="tg-1wig">Form Teacher 2</td>
+    <td class="tg-1wig">Form Teacher 3</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">5 Respect</td>
+    <td class="tg-cly1">Mdm Ellianie bte Sahrom</td>
+    <td class="tg-cly1">Mdm Rashidah bte Harun</td>
+    <td class="tg-cly1">Mrs Tan - Lee Mi Liang</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">5 Resilience</td>
+    <td class="tg-cly1">Mdm Ng Wai Ting</td>
+    <td class="tg-cly1">Mdm Meenah bte Mohd Salleh</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">5 Responsibility</td>
+    <td class="tg-cly1">Mr Yam Choon Hian</td>
+    <td class="tg-cly1">Mdm Erlin bte Amir</td>
+    <td class="tg-cly1">Mdm Joy Ho Shi Hui</td>
+  </tr>
+</tbody>
+</table>
