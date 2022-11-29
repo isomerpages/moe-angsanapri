@@ -16,7 +16,10 @@ Quicklinks
 
 [Read More...](https://sites.google.com/moe.edu.sg/aspshbl2020/home)
 
-### Student iCON
+
+<img src="/images/Stu.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+
+##### Student iCON
 
 
 ### Booklist
