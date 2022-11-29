@@ -11,10 +11,15 @@ sections:
       url: /school-information/Contact-Us/
       button: Contact Us
       key_highlights:
-        - title: Announcements
-          description: ""
+        - title: Quick Links
+          description: For Parents
+          url: /quicklinks/For-Parents/Booklist-2023/
+        - title: Quick Links
+          description: For Students
           url: ""
         - title: Quick Links
-          description: ""
+          description: For Staff
           url: ""
+  - infobar:
+      title: Announcements
 ---
