@@ -12,3 +12,5 @@ Booklist 2023
 Please click on the link to download.
 
 [P1 Booklist 2023.pdf](/files/P1%20Booklist%202023.pdf)
+
+[P2 Booklist 2023.pdf](/files/P2%20Booklist%202023.pdf)
