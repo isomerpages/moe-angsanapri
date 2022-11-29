@@ -20,7 +20,7 @@ The Angsana Crest represents the emergence of a school with a fresh pioneering s
 <b><u> The design </u></b>
 
 
-The silhouette of the letter “A” is symbolic of the name of our school.  The two lines merge to form the tree trunk, leading to a circular crown of the tree.  The tree represents the holistic education offered to all pupils, promising growth and potential for a bright and better future.  The tree rises up and goes above and beyond the frame of the letter “A”, signifying the aspirations of our staff and pupils to continuously strive and aim for excellence in all our pursuits. The heart signifies the importance of character and citizenship education in our programmes, guided by our **R3n** (仁) values – **R**espect, **R**esilience, **R**esponsibility and I**n**tegrity.
+The silhouette of the letter “A” is symbolic of the name of our school.  The two lines merge to form the tree trunk, leading to a circular crown of the tree.  The tree represents the holistic education offered to all pupils, promising growth and potential for a bright and better future.  The tree rises up and goes above and beyond the frame of the letter “A”, signifying the aspirations of our staff and pupils to continuously strive and aim for excellence in all our pursuits. The heart signifies the importance of character and citizenship education in our programmes, guided by our <b>R3n</b> (仁) values –<b>R</b>espect, <b>R</b>esilience, <b>R</b>esponsibility and I<b>n</b>tegrity.
 
 
 
