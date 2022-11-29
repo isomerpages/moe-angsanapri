@@ -43,3 +43,10 @@ Quicklinks
 ##### For Staff
 
 [Read More...](https://angsanapri.moe.edu.sg/quicklinks/for-staff)
+
+
+<img src="/images/Pupils.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+
+##### For Pupils
+
+[Read More...](https://angsanapri.moe.edu.sg/quicklinks/for-pupils)
