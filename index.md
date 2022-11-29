@@ -16,7 +16,7 @@ sections:
           url: /quicklinks/For-Parents/Booklist-2023/
         - title: Quick Links
           description: For Students
-          url: ""
+          url: /quicklinks/For-Students/
         - title: Quick Links
           description: For Staff
           url: ""
