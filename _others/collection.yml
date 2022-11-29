@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Quicklinks.md
-      - Quicklinks/.keep
       - Announcements/Announcements.md
       - Announcements/.keep
       - Announcements/School Attendance Matters.md
