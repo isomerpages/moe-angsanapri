@@ -9,7 +9,6 @@ third_nav_title: For Parents
 2022 P1 Registration Exercise For Pupils
 ========================================
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -19,9 +18,9 @@ third_nav_title: For Parents
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-huin{color:#009783;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 502px">
+<table class="tg" style="undefined;table-layout: fixed; width: 601px">
 <colgroup>
-<col style="width: 201px">
+<col style="width: 300px">
 <col style="width: 301px">
 </colgroup>
 <thead>
