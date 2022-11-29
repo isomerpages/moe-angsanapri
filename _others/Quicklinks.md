@@ -61,6 +61,8 @@ Quicklinks
 *   [Journeying With Our Children](https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1)
 *   [Schoolbag.sg](https://www.schoolbag.edu.sg/)
 
+Note: Journeying With Our Children page not found. 
+
 ### For Students
 
 *   [SLS Student Learning Space](https://vle.learning.moe.edu.sg/login)
