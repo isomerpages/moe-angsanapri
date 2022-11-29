@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Sitemap
+title: Angsana Primary School
 description: Angsana Primary School
 image: /images/isomer-logo.svg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       url: /others/Announcements/Announcements/
       button: Click here to read more
 ---
+
