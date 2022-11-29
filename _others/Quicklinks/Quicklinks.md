@@ -23,8 +23,12 @@ Quicklinks
 
 [Read More...](https://workspace.google.com/dashboard)
 
-### Booklist
 
+<img src="/images/Book.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+
+##### Booklist
+
+[Read More...](https://angsanapri.moe.edu.sg/quicklinks/booklist-2022)
 
 ### Student Learning Space (SLS)
 
