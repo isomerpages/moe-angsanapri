@@ -211,3 +211,73 @@ Teaching Staff and Allied Educators
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 201px">
+<col style="width: 179px">
+<col style="width: 209px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="4">Primary 4<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Class</td>
+    <td class="tg-1wig">Form Teacher 1</td>
+    <td class="tg-1wig">Form Teacher 2</td>
+    <td class="tg-1wig">Form Teacher 3</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">4 Respect</td>
+    <td class="tg-cly1">Mr Jeremy Wong Chun Kiat</td>
+    <td class="tg-cly1">Ms Marianne Long Li Ling</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">4 Resilience</td>
+    <td class="tg-cly1">Mdm Julia Lim Bee Fung</td>
+    <td class="tg-cly1">Mdm Nur Hidayati bte A Rahman</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">4 Responsibility</td>
+    <td class="tg-cly1">Mdm Jamilah bte Abdullah</td>
+    <td class="tg-cly1">Mrs Lim - Chan Pao Yin</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">4 Integrity</td>
+    <td class="tg-cly1">Ms Li Siyi</td>
+    <td class="tg-cly1">Mr Jerome Leow Yong Long</td>
+    <td class="tg-cly1">Mr Mohd Zafran b Mohd Osman</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">4 Kindness</td>
+    <td class="tg-cly1">Mdm Sheila Chin Hui Min</td>
+    <td class="tg-cly1">Mrs Cynthia Tan-Lim Lixia</td>
+    <td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">4 Harmony</td>
+    <td class="tg-cly1">Mr Jonathan Tay Kim Loong</td>
+    <td class="tg-cly1">Mr Mohd Razali b Jambari</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
