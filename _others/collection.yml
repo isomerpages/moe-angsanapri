@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Quicklinks/For Students.md
       - Quicklinks/For Staff.md
       - Quicklinks/Quicklinks.md
       - Quicklinks/.keep
