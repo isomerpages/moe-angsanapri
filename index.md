@@ -10,6 +10,13 @@ sections:
       background: /images/angsana banner.gif
       url: /school-information/Contact-Us/
       button: Contact Us
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
+        - title: Quick Links
+          description: ""
+          url: ""
   - infobar:
       title: Announcements
       button: More
