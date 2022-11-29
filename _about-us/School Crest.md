@@ -27,12 +27,12 @@ The silhouette of the letter “A” is symbolic of the name of our school.  Th
 <b><u> The colours </u></b>
 
   
-**Red – Heart to Care:** symbolic of our love and appreciation for our family, school, community and nation
+<b>Red – Heart to Care:</b> symbolic of our love and appreciation for our family, school, community and nation
 
   
 
-**Green – Committed to Learn:** for an environment of harmony and growth that we will create in our school
+<b>Green – Committed to Learn</b> for an environment of harmony and growth that we will create in our school
 
   
 
-**Blue – Steadfast to Serve:** for honesty and the strong sense of responsibility that we will seek to nurture in everyone who walks through the portals of our school
+<b>Blue – Steadfast to Serve:</b> for honesty and the strong sense of responsibility that we will seek to nurture in everyone who walks through the portals of our school
