@@ -332,3 +332,49 @@ Teaching Staff and Allied Educators
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 201px">
+<col style="width: 179px">
+<col style="width: 209px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="4">Primary 6<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Class</td>
+    <td class="tg-1wig">Form Teacher 1</td>
+    <td class="tg-1wig">Form Teacher 2</td>
+    <td class="tg-1wig">Form Teacher 3</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">6 Respect</td>
+    <td class="tg-cly1">Mr Mazher s/o Tayeb</td>
+    <td class="tg-cly1">Mrs Camilia Cribbett</td>
+    <td class="tg-cly1">Mr Tan Ghee Kiat</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">6 Resilience</td>
+    <td class="tg-cly1">Mr Muhd Fadhli b Jamaluddin</td>
+    <td class="tg-cly1">Mdm Fatimah Bte Mohd</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
