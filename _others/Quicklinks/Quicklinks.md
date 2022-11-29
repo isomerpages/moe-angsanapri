@@ -21,6 +21,7 @@ Quicklinks
 
 ##### Student iCON
 
+[Read More...](https://workspace.google.com/dashboard)
 
 ### Booklist
 
