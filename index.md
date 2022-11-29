@@ -22,4 +22,6 @@ sections:
           url: /quicklinks/For-Staff/
   - infobar:
       title: Announcements
+      url: /others/Announcements/Announcements/
+      button: Click here to read more
 ---
