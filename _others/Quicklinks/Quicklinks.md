@@ -30,7 +30,12 @@ Quicklinks
 
 [Read More...](https://angsanapri.moe.edu.sg/quicklinks/booklist-2022)
 
-### Student Learning Space (SLS)
+
+<img src="/images/SLS.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+
+##### Student Learning Space (SLS)
+
+[Read More...](https://angsanapri.moe.edu.sg/quicklinks/sls-student-learning-space)
 
 
 ### For Staff
