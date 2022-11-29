@@ -88,3 +88,79 @@ Teaching Staff and Allied Educators
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 201px">
+<col style="width: 179px">
+<col style="width: 209px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-a4yv" colspan="4">Primary 2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Class</td>
+    <td class="tg-1wig">Form Teacher 1</td>
+    <td class="tg-1wig">Form Teacher 2</td>
+    <td class="tg-1wig">Form Teacher 3</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 Respect</td>
+    <td class="tg-cly1">Mdm Nurul Arini bte Junaidi</td>
+    <td class="tg-cly1">Mdm Huang Liyi</td>
+    <td class="tg-cly1">Mrs Ang-Ng Swee Lai</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 Resilience</td>
+    <td class="tg-cly1">Mdm Mayrah Abdullah Loh</td>
+    <td class="tg-cly1">Ms Toh Ying Han</td>
+    <td class="tg-cly1">Mrs Sangeet Bajaj</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 Responsibility</td>
+    <td class="tg-cly1">Mdm Heryani Bte Hamid</td>
+    <td class="tg-cly1">Mdm Kavita d/o L Deluger</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 Integrity</td>
+    <td class="tg-cly1">Mrs Weinie Tan</td>
+    <td class="tg-cly1">Mr Yin Jian</td>
+    <td class="tg-cly1"></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 Kindness</td>
+    <td class="tg-cly1">Ms Gloria Lim Wei</td>
+    <td class="tg-cly1">Mdm Maszlita bte Abdul Aziz</td>
+    <td class="tg-cly1">Mr Richard Chng Lijie</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 Harmony</td>
+    <td class="tg-cly1">Mdm Ratna Sari bte Hussain</td>
+    <td class="tg-cly1">Ms Cui Rong Rong</td>
+    <td class="tg-cly1">Mdm Jane Too Yen Wei</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 Gratitude</td>
+    <td class="tg-cly1">Ms Chung Sin Le</td>
+    <td class="tg-cly1">Mr Hasvinnath Pillai Shastri</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
