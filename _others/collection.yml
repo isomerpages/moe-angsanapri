@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Quicklinks/Quicklinks.md
       - Quicklinks/.keep
       - Announcements/Announcements.md
       - Announcements/.keep
