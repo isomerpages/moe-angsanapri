@@ -18,10 +18,10 @@ third_nav_title: For Parents
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-huin{color:#009783;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 473px">
+<table class="tg" style="undefined;table-layout: fixed; width: 467px">
 <colgroup>
 <col style="width: 166px">
-<col style="width: 307px">
+<col style="width: 301px">
 </colgroup>
 <thead>
   <tr>
