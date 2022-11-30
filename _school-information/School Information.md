@@ -15,3 +15,4 @@ School Information
 *   [School Hours](/school-information/School-Hours/)
 *   [School Library](/school-information/School-Library/)
 *   [School Dental Health Service](/school-information/School-Dental-Health-Service/)
+*   [School Bookshop and Uniform Operator](/school-information/School-Bookshop-and-Uniform-Operator/)
