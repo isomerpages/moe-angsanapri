@@ -9,7 +9,7 @@ Applied Learning Programme
 ==========================
 
 ### Nurturing Problem Solvers using Computational Thinking
-------------------------------------------------------
+
 
 In our school, we lead our students to experience the joy of learning and be intrinsically motivated to embrace lifelong learning. In alignment with our mission to engage and empower our students to be future-ready, we recognise the importance of intentionally teaching 21st century skills thus we provide opportunities for our students to develop aptitudes and attitudes such as critical thinking skills and problem-solving abilities.
 
