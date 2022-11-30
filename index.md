@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/angsana banner.gif
+      background: /images/Homepage.gif
       url: /school-information/Contact-Us/
       button: Contact Us
       key_highlights:
