@@ -13,3 +13,4 @@ School Information
 *   [School Homework Policy](/school-information/School-Homework-Policy/)
 *   [School Calendar](/school-information/School-Calendar/)
 *   [School Hours](/school-information/School-Hours/)
+*   [School Library](/school-information/School-Library/)
