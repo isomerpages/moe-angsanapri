@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.gif
+      background: /images/home.gif
       url: /school-information/Contact-Us/
       button: Contact Us
       key_highlights:
