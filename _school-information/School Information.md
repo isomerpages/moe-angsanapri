@@ -14,4 +14,4 @@ School Information
 *   [School Calendar](/school-information/School-Calendar/)
 *   [School Hours](/school-information/School-Hours/)
 *   [School Library](/school-information/School-Library/)
-*   
+*   [School Dental Health Service](/school-information/School-Dental-Health-Service/)
