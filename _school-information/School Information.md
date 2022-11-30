@@ -19,3 +19,4 @@ School Information
 *   [Student Care Centre](/school-information/Student-Care-Centre/Student-Care-Centre/)
 *   [School Bus Operator](/school-information/School-Bus-Operator/)
 *   [School Insurance Claims](/school-information/School-Insurance-Claims/)
+*   [Contact Us](/school-information/Contact-Us/)
