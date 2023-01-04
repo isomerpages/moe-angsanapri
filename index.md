@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage2.gif
-      url: /school-information/Contact-Us/
-      button: Contact Us
       key_highlights:
         - title: Quick Links
           description: For Parents
