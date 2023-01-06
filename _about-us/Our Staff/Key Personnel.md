@@ -36,7 +36,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-hsqg">Vice-Principal (EO)</td>
-    <td class="tg-hsqg">Mr Bhimbahadur Gurung</td>
+    <td class="tg-hsqg">Mdm Sulasni Bte Abdul Rahman</td>
   </tr>
   <tr>
     <td class="tg-hsqg">Vice-Principal (Admin)</td>
