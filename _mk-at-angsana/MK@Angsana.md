@@ -29,7 +29,7 @@ Angsana Primary School (NEW LOCATION)
 
 51 Tampines Street 61 Singapore 528565
 
-(+65) 6783 0427
+(+65) 6229 6455
 
 [mk\_angsana@moe.edu.sg](mailto:mk_angsana@moe.edu.sg)
 
