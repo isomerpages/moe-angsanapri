@@ -94,11 +94,7 @@ Key Personnel
     <td class="tg-hsqg">SH Science</td>
     <td class="tg-hsqg">Mdm Chia Jye Teng</td>
   </tr>
-  <tr>
-    <td class="tg-hsqg">SH Guidance</td>
-    <td class="tg-hsqg">Mdm Kavita d/o Logaumania Deluger</td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-hsqg">SH Student Leadership</td>
     <td class="tg-hsqg">Ms Sharon Tan Mei Ling</td>
   </tr>
