@@ -8,7 +8,7 @@ description: ""
 School Anthem
 =============
 <audio controls>
-        <source src="https://drive.google.com/file/d/1IoJ6LYpgRw7EVZhC_ttsjg9k9t1HBAXe/preview?usp=sharing" type="audio/mp3">
+        <source src="https://drive.google.com/file/d/1IoJ6LYpgRw7EVZhC_ttsjg9k9t1HBAXe/preview" type="audio/mp3">
     </audio>
 
 
