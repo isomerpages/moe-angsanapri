@@ -91,10 +91,9 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">1 Diligence</td>
     <td class="tg-cly1">Mdm Sheila Chin Huimin</td>
     <td class="tg-cly1">Mr Richard Chng Lijie</td>
-   </tr>
-</tbody>
+	</tr>
+	</tbody>
 </table>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
