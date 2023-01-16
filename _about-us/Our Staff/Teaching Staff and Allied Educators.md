@@ -277,40 +277,17 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">4 Respect</td>
-    <td class="tg-cly1">Mr Jeremy Wong Chun Kiat</td>
-    <td class="tg-cly1">Ms Marianne Long Li Ling</td>
+    <td class="tg-cly1">Mdm Nur Hidayati Bte Abdul Rahmant</td>
+    <td class="tg-cly1">Ms Lim Mei Wah</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">4 Resilience</td>
-    <td class="tg-cly1">Mdm Julia Lim Bee Fung</td>
-    <td class="tg-cly1">Mdm Nur Hidayati bte A Rahman</td>
+    <td class="tg-cly1">Mr Danial Tan Shao Wei </td>
+    <td class="tg-cly1">Miss Shainas Bte Hassan</td>
     <td class="tg-cly1"></td>
   </tr>
-  <tr>
-    <td class="tg-cly1">4 Responsibility</td>
-    <td class="tg-cly1">Mdm Jamilah bte Abdullah</td>
-    <td class="tg-cly1">Mrs Lim - Chan Pao Yin</td>
-    <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">4 Integrity</td>
-    <td class="tg-cly1">Ms Li Siyi</td>
-    <td class="tg-cly1">Mr Jerome Leow Yong Long</td>
-    <td class="tg-cly1">Mr Mohd Zafran b Mohd Osman</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">4 Kindness</td>
-    <td class="tg-cly1">Mdm Sheila Chin Hui Min</td>
-    <td class="tg-cly1">Mrs Cynthia Tan-Lim Lixia</td>
-    <td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">4 Harmony</td>
-    <td class="tg-cly1">Mr Jonathan Tay Kim Loong</td>
-    <td class="tg-cly1">Mr Mohd Razali b Jambari</td>
-    <td class="tg-0lax"></td>
-  </tr>
+  
 </tbody>
 </table>
 
