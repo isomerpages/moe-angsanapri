@@ -167,6 +167,11 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
 		<td class="tg-cly1">Ms Yeo Pei Pei</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">2 Empthy</td>
+    <td class="tg-cly1">Ms Lam Yi Xin </td>
+    <td class="tg-cly1">Mrs Sangeet Bajaj</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
