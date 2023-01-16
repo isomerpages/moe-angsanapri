@@ -240,6 +240,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Mr Jeremy Wong Chun Kiat</td>
     <td class="tg-cly1">Mdm Maszlita Bte Abdul Aziz</td>
     <td class="tg-cly1">Ms Lam Ai Wei</td>
+		<td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
@@ -285,7 +286,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">4 Resilience</td>
     <td class="tg-cly1">Mr Danial Tan Shao Wei </td>
     <td class="tg-cly1">Miss Shainas Bte Hassan</td>
-    <td class="tg-cly1"></td>
+		<td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
