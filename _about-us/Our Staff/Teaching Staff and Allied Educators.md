@@ -147,10 +147,9 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">2 Integrity</td>
-    <td class="tg-cly1">Mrs Weinie Tan</td>
-    <td class="tg-cly1">Mr Yin Jian</td>
+    <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
+    <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
     <td class="tg-cly1"></td>
-  </tr>
   <tr>
     <td class="tg-cly1">2 Kindness</td>
     <td class="tg-cly1">Ms Gloria Lim Wei</td>
