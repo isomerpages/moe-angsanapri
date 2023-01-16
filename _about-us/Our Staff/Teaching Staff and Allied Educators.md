@@ -179,8 +179,6 @@ Teaching Staff and Allied Educators
 </tbody>
 </table>
 
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -227,7 +225,6 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">3 Responsibilty</td>
     <td class="tg-cly1">Mr Victor Kiew Kwok Fong</td>
     <td class="tg-cly1">Mrs Lim - Chan Pao Yin</td>
-    <td class="tg-0lax"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">3 Integrity</td>
@@ -244,7 +241,6 @@ Teaching Staff and Allied Educators
   </tr>
 </tbody>
 </table>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -290,7 +286,6 @@ Teaching Staff and Allied Educators
   </tr>
 </tbody>
 </table>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -349,7 +344,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">5 Kindness</td>
     <td class="tg-cly1">Mr Jerome Leow Yong Long</td>
     <td class="tg-cly1">Ms Ng Kay Gek</td>
-    <td class="tg-cly1"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
