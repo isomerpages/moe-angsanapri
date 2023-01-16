@@ -40,52 +40,56 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">1 Respect</td>
-    <td class="tg-cly1">Ms Nur Amalina bte M Ishak</td>
-    <td class="tg-cly1">Mdm Grace Yeo Kim Keow</td>
+    <td class="tg-cly1">Mdm Huang Liyi</td>
+    <td class="tg-cly1">Mdm Siti Aliah Mahirah Bte Abdullah</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Resilience</td>
-    <td class="tg-cly1">Mrs Tan - Ong Yian Ping</td>
-    <td class="tg-cly1">Ms Sharon Tan Mei Ling</td>
+    <td class="tg-cly1">Ms Marianne Long Liling</td>
+    <td class="tg-cly1">Mdm Heryani Bte Hamid</td>
     <td class="tg-cly1">Mdm Salamah bte Husein Shah</td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Responsibility</td>
-    <td class="tg-cly1">Mrs Sherry Wong Yoke Ying</td>
-    <td class="tg-cly1">Mdm Siti Aliah Mahirah</td>
+    <td class="tg-cly1">Ms Li Siyi</td>
+    <td class="tg-cly1">Mdm Merwani Bte Ahmad</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Integrity</td>
-    <td class="tg-cly1">Mdm Safura bte Sallim</td>
-    <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
+    <td class="tg-cly1">Mdm Ratna Sari Bte Hussain</td>
+    <td class="tg-cly1">Mdm Jane Too Yen Wei </td>
     <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Kindness</td>
-    <td class="tg-cly1">Mdm Nur Yaisyah bte M Yasin</td>
-    <td class="tg-cly1">Mrs Lim - Low Hui Ling</td>
+    <td class="tg-cly1">Mrs Gloria Jones-Lim Wei</td>
+    <td class="tg-cly1">Mdm Safura Bte Sallim</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Harmony</td>
-    <td class="tg-cly1">Mr Marcus Goh Yong Sheng</td>
-    <td class="tg-cly1">Ms Ng Kay Gek</td>
+    <td class="tg-cly1">Mrs Weinie Tan - Teo Wei Chiew</td>
+    <td class="tg-cly1">Mrs Cynthia Tan - Lim Li Xia</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Gratitude</td>
-    <td class="tg-cly1">Ms Joanne Ng Si Wei</td>
-    <td class="tg-cly1">Ms Maragatham</td>
+    <td class="tg-cly1">Ms Chung Sin Le</td>
+    <td class="tg-cly1">Ms Ma Jingying</td>
     <td class="tg-cly1">Mdm Karen Yong</td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Empathy</td>
-    <td class="tg-cly1">Ms Lam Yi Xin</td>
-    <td class="tg-cly1">Mdm Shainas bte Hassan</td>
-    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
-  </tr>
+    <td class="tg-cly1">Ms Toh Ying Han</td>
+    <td class="tg-cly1">Mdm Chia Jye Teng</td>
+   </tr>
+	<tr>
+    <td class="tg-cly1">1 Diligence</td>
+    <td class="tg-cly1">Mdm Sheila Chin Huimin</td>
+    <td class="tg-cly1">Mr Richard Chng Lijie</td>
+   </tr>
 </tbody>
 </table>
 
