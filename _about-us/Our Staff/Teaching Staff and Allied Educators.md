@@ -128,20 +128,21 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">2 Respect</td>
-    <td class="tg-cly1">Mdm Nurul Arini bte Junaidi</td>
-    <td class="tg-cly1">Mdm Huang Liyi</td>
-    <td class="tg-cly1">Mrs Ang-Ng Swee Lai</td>
+    <td class="tg-cly1">Ms Nur Amalina Bte Mohamed Ishak</td>
+    <td class="tg-cly1">Ms Cui Rong Rong</td>
+    <td class="tg-cly1">Mrs Wong-Leng Poh Lan</td>
   </tr>
   <tr>
     <td class="tg-cly1">2 Resilience</td>
-    <td class="tg-cly1">Mdm Mayrah Abdullah Loh</td>
-    <td class="tg-cly1">Ms Toh Ying Han</td>
-    <td class="tg-cly1">Mrs Sangeet Bajaj</td>
+    <td class="tg-cly1">Mr Hasvinnath Pillai Shastri</td>
+    <td class="tg-cly1">Ms Sharon Tan Mei Ling</td>
+  <td class="tg-cly1"></td>  
   </tr>
   <tr>
     <td class="tg-cly1">2 Responsibility</td>
-    <td class="tg-cly1">Mdm Heryani Bte Hamid</td>
-    <td class="tg-cly1">Mdm Kavita d/o L Deluger</td>
+    <td class="tg-cly1">Mrs Sherry Wong - Chan Yoke Ying</td>
+    <td class="tg-cly1">Mr Tan Ghee Kiat</td>
+		<td class="tg-cly1">Mdm Roslina Binte Sulaiman</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
