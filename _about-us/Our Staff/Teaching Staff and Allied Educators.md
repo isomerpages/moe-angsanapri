@@ -148,6 +148,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">2 Integrity</td>
     <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
     <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
+		<td class="tg-cly1">Mdm Karen Yong Lee Yen</td>
     <td class="tg-cly1"></td>
 	  
   <tr>
