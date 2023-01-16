@@ -287,7 +287,6 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Miss Shainas Bte Hassan</td>
     <td class="tg-cly1"></td>
   </tr>
-  
 </tbody>
 </table>
 
