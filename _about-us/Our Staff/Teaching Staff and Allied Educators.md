@@ -329,15 +329,15 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">5 Resilience</td>
-    <td class="tg-cly1">Mdm Ng Wai Ting</td>
-    <td class="tg-cly1">Mdm Meenah bte Mohd Salleh</td>
+    <td class="tg-cly1">Mr Muhammad Fadhli B Jamaluddin</td>
+    <td class="tg-cly1">Mrs Ramakrishnan Naidu</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">5 Responsibility</td>
-    <td class="tg-cly1">Mr Yam Choon Hian</td>
-    <td class="tg-cly1">Mdm Erlin bte Amir</td>
-    <td class="tg-cly1">Mdm Joy Ho Shi Hui</td>
+    <td class="tg-cly1">Mdm Jamilah Bte Abdullah</td>
+    <td class="tg-cly1">Mr Mohd Zafran B Mohd Osman</td>
+    <td class="tg-cly1">Ms Chim Wei Ching</td>
   </tr>
 </tbody>
 </table>
