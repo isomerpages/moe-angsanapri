@@ -150,12 +150,13 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
 		<td class="tg-cly1">Mdm Karen Yong Lee Yen</td>
     <td class="tg-cly1"></td>
-	  
+	</tr>
   <tr>
     <td class="tg-cly1">2 Kindness</td>
     <td class="tg-cly1">Ms Nurul Arini Bte Junaidi </td>
     <td class="tg-cly1">Mrs Lim - Low Hui Ling</td>
   <td class="tg-cly1"></td>  
+	</tr>
   <tr>
     <td class="tg-cly1">2 Harmony</td>
     <td class="tg-cly1">Mr Marcus Goh Yong Sheng</td>
