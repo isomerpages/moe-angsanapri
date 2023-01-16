@@ -213,15 +213,33 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">3 Respect</td>
-    <td class="tg-cly1">Mr Victor Kiew</td>
-    <td class="tg-cly1">Mdm Sarah Amnah</td>
-    <td class="tg-cly1">Ms Lim Mei Wah</td>
+    <td class="tg-cly1">Ms Maragatham d/o Sivalingam</td>
+    <td class="tg-cly1">Mdm Joy Ho Shi Hui</td>
+    <td class="tg-cly1">Mr Mohamad Zakie Bin Mohd Aiksan</td>
   </tr>
   <tr>
     <td class="tg-cly1">3 Resilience</td>
-    <td class="tg-cly1">Mr Danial Tan Shao Wei</td>
-    <td class="tg-cly1">Mdm Chia Jye Teng</td>
+    <td class="tg-cly1">Mr Jonathan Tay Kim Loong</td>
+    <td class="tg-cly1">Mdm Rashidah Bte Harun</td>
     <td class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">3 Responsibilty</td>
+    <td class="tg-cly1">Mr Victor Kiew Kwok Fong</td>
+    <td class="tg-cly1">Mrs Lim - Chan Pao Yin</td>
+    <td class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">3 Integrity</td>
+    <td class="tg-cly1">Mr Mohamad Razali B Jambari</td>
+    <td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
+    <td class="tg-cly1">Mdm Marcia Yong Yin Siong</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">3 Kindness</td>
+    <td class="tg-cly1">Mr Jeremy Wong Chun Kiat</td>
+    <td class="tg-cly1">Mdm Maszlita Bte Abdul Aziz</td>
+    <td class="tg-cly1">Ms Lam Ai Wei</td>
   </tr>
 </tbody>
 </table>
