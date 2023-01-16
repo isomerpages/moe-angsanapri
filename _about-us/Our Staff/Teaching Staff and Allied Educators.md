@@ -158,13 +158,14 @@ Teaching Staff and Allied Educators
   <tr>
     <td class="tg-cly1">2 Harmony</td>
     <td class="tg-cly1">Mr Marcus Goh Yong Sheng</td>
-    
-    <td class="tg-cly1">Mdm Jane Too Yen Wei</td>
+    <td class="tg-cly1">Mrs Tan - Ong Yian Ping</td>
+		<td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">2 Gratitude</td>
-    <td class="tg-cly1">Ms Chung Sin Le</td>
-    <td class="tg-cly1">Mr Hasvinnath Pillai Shastri</td>
+    <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
+    <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
+		<td class="tg-cly1">Ms Yeo Pei Pei</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
