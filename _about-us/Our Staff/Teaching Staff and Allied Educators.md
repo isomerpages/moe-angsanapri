@@ -389,6 +389,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">6 Respect</td>
     <td class="tg-cly1">Mr Yam Choon Hian</td>
     <td class="tg-cly1">Mdm Erlin Bte Amir</td>
+		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">6 Resilience</td>
