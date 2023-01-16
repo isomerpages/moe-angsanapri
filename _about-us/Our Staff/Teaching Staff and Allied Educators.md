@@ -387,14 +387,19 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">6 Respect</td>
-    <td class="tg-cly1">Mr Mazher s/o Tayeb</td>
-    <td class="tg-cly1">Mrs Camilia Cribbett</td>
-    <td class="tg-cly1">Mr Tan Ghee Kiat</td>
+    <td class="tg-cly1">Mr Yam Choon Hian</td>
+    <td class="tg-cly1">Mdm Erlin Bte Amir</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">6 Resilience</td>
+    <td class="tg-cly1">Mdm Ellianie Bte Sahrom</td>
+    <td class="tg-cly1">Mrs Tan - Lee Mi Liang</td>
+    <td class="tg-cly1"></td>
   </tr>
   <tr>
-    <td class="tg-cly1">6 Resilience</td>
-    <td class="tg-cly1">Mr Muhd Fadhli b Jamaluddin</td>
-    <td class="tg-cly1">Mdm Fatimah Bte Mohd</td>
+    <td class="tg-cly1">6 Responsibility</td>
+    <td class="tg-cly1">Mdm Ng Wai Ting </td>
+    <td class="tg-cly1">Mdm Meenah Bte Mohd Salleh</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
