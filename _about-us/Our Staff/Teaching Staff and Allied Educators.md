@@ -150,6 +150,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
     <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
     <td class="tg-cly1"></td>
+	  
   <tr>
     <td class="tg-cly1">2 Kindness</td>
     <td class="tg-cly1">Ms Nurul Arini Bte Junaidi </td>
@@ -157,8 +158,8 @@ Teaching Staff and Allied Educators
   <td class="tg-cly1"></td>  
   <tr>
     <td class="tg-cly1">2 Harmony</td>
-    <td class="tg-cly1">Mdm Ratna Sari bte Hussain</td>
-    <td class="tg-cly1">Ms Cui Rong Rong</td>
+    <td class="tg-cly1">Mr Marcus Goh Yong Sheng</td>
+    
     <td class="tg-cly1">Mdm Jane Too Yen Wei</td>
   </tr>
   <tr>
