@@ -169,6 +169,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
 		<td class="tg-cly1">Ms Yeo Pei Pei</td>
+		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">2 Empthy</td>
@@ -214,23 +215,26 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Ms Maragatham d/o Sivalingam</td>
     <td class="tg-cly1">Mdm Joy Ho Shi Hui</td>
     <td class="tg-cly1">Mr Mohamad Zakie Bin Mohd Aiksan</td>
+		<td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">3 Resilience</td>
     <td class="tg-cly1">Mr Jonathan Tay Kim Loong</td>
     <td class="tg-cly1">Mdm Rashidah Bte Harun</td>
-    <td class="tg-0lax"></td>
+		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">3 Responsibilty</td>
     <td class="tg-cly1">Mr Victor Kiew Kwok Fong</td>
     <td class="tg-cly1">Mrs Lim - Chan Pao Yin</td>
+		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">3 Integrity</td>
     <td class="tg-cly1">Mr Mohamad Razali B Jambari</td>
     <td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
     <td class="tg-cly1">Mdm Marcia Yong Yin Siong</td>
+		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">3 Kindness</td>
@@ -333,12 +337,14 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">Mdm Jamilah Bte Abdullah</td>
     <td class="tg-cly1">Mr Mohd Zafran B Mohd Osman</td>
     <td class="tg-cly1">Ms Chim Wei Ching</td>
+		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">5 Integrity</td>
     <td class="tg-cly1">Ms Nur Yaisyah Bte Mohd Yasin</td>
     <td class="tg-cly1">Mr Yin Jian</td>
-    </tr>
+		<td class="tg-cly1"></td>
+  </tr>
   <tr>
     <td class="tg-cly1">5 Kindness</td>
     <td class="tg-cly1">Mr Jerome Leow Yong Long</td>
