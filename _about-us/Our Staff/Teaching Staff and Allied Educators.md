@@ -338,8 +338,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">5 Integrity</td>
     <td class="tg-cly1">Ms Nur Yaisyah Bte Mohd Yasin</td>
     <td class="tg-cly1">Mr Yin Jian</td>
-  <td class="tg-cly1">  
-  </tr>
+    </tr>
   <tr>
     <td class="tg-cly1">5 Kindness</td>
     <td class="tg-cly1">Mr Jerome Leow Yong Long</td>
