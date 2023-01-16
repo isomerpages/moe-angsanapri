@@ -48,7 +48,7 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">1 Resilience</td>
     <td class="tg-cly1">Ms Marianne Long Liling</td>
     <td class="tg-cly1">Mdm Heryani Bte Hamid</td>
-    <td class="tg-cly1">Mdm Salamah bte Husein Shah</td>
+    <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Responsibility</td>
@@ -60,12 +60,13 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">1 Integrity</td>
     <td class="tg-cly1">Mdm Ratna Sari Bte Hussain</td>
     <td class="tg-cly1">Mdm Jane Too Yen Wei </td>
-    <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
+    <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Kindness</td>
     <td class="tg-cly1">Mrs Gloria Jones-Lim Wei</td>
     <td class="tg-cly1">Mdm Safura Bte Sallim</td>
+		<td class="tg-cly1">Mdm Khairunnisa Bte Abdul Samat</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
@@ -78,12 +79,13 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1">1 Gratitude</td>
     <td class="tg-cly1">Ms Chung Sin Le</td>
     <td class="tg-cly1">Ms Ma Jingying</td>
-    <td class="tg-cly1">Mdm Karen Yong</td>
+    <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Empathy</td>
     <td class="tg-cly1">Ms Toh Ying Han</td>
     <td class="tg-cly1">Mdm Chia Jye Teng</td>
+		<td class="tg-cly1"></td>
    </tr>
 	<tr>
     <td class="tg-cly1">1 Diligence</td>
