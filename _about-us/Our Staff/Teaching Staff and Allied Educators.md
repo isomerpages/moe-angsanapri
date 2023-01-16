@@ -323,9 +323,9 @@ Teaching Staff and Allied Educators
   </tr>
   <tr>
     <td class="tg-cly1">5 Respect</td>
-    <td class="tg-cly1">Mdm Ellianie bte Sahrom</td>
-    <td class="tg-cly1">Mdm Rashidah bte Harun</td>
-    <td class="tg-cly1">Mrs Tan - Lee Mi Liang</td>
+    <td class="tg-cly1">Mr Mazher s/o Tayeb</td>
+    <td class="tg-cly1">Mrs Camilia Cribbett</td>
+    <td class="tg-cly1">Mdm Poonguzhali Narayanasamy</td>
   </tr>
   <tr>
     <td class="tg-cly1">5 Resilience</td>
