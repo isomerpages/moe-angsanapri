@@ -152,10 +152,9 @@ Teaching Staff and Allied Educators
     <td class="tg-cly1"></td>
   <tr>
     <td class="tg-cly1">2 Kindness</td>
-    <td class="tg-cly1">Ms Gloria Lim Wei</td>
-    <td class="tg-cly1">Mdm Maszlita bte Abdul Aziz</td>
-    <td class="tg-cly1">Mr Richard Chng Lijie</td>
-  </tr>
+    <td class="tg-cly1">Ms Nurul Arini Bte Junaidi </td>
+    <td class="tg-cly1">Mrs Lim - Low Hui Ling</td>
+  <td class="tg-cly1"></td>  
   <tr>
     <td class="tg-cly1">2 Harmony</td>
     <td class="tg-cly1">Mdm Ratna Sari bte Hussain</td>
