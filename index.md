@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage2.gif
+      background: /images/Embracing Diversity.jpg
       key_highlights:
         - title: Quick Links
           description: For Parents
