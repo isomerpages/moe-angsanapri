@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Embracing Diversity.jpg
+      background: /images/Inspiring Innovation and Creativity.jpg
       key_highlights:
         - title: Quick Links
           description: For Parents
