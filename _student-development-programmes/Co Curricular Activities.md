@@ -130,7 +130,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Mr Yam Choon Hian<br>Mr Goh Yong Sheng<br>Mdm Merwani</td>
 	</tr>
 	 <tr>
-    <td class="tg-0lax">Scouts</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
 </tbody>
 </table>
