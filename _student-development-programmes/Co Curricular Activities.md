@@ -107,8 +107,8 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-0lax">Choir</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax">Ms Marianne Long<br>Mr Tay Kim Loong Jonathan<br></td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Ms Marianne Long<br>Ms Lam Yi Xin<br>Ms Cui Rong Rong<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">International Dance</td>
