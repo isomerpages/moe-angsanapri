@@ -120,8 +120,8 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-cly1" rowspan="2">Uniformed Groups</td>
     <td class="tg-0lax">Red Cross</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax">Mdm Chin Huimin Sheila<br>Ms Wong Yi Ling Elieen<br>Mr Mazhar s/o Tayeb<br></td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mdm Chin Huimin Sheila<br>Ms Shainas<br>Mr Tay Kim Loong Jonathan <br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Scouts</td>
