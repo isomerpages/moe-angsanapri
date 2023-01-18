@@ -15,7 +15,7 @@ The CCA Programme is an integral part of our students' holistic education in Ang
 
   
 
-The CCA Programme provides students with a platform to discover their interests and talents. Students progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation in any of the CCA groups. CCA also offer excellent platforms for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies.
+The CCA Programme provides students with a platform to discover their interests and talents. Students progressively develop CCA-specific knowledge, skills, values and attitudes through sustained participation in any of the CCA groups. CCA also offer excellent platforms for students to learn core values, social and emotional competencies and the emerging 21st&nbsp;Century Competencies.
 
   
 
@@ -32,7 +32,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 782px">
+<table style="undefined;table-layout: fixed; width: 782px" class="tg">
 <colgroup>
 <col style="width: 163px">
 <col style="width: 151px">
@@ -51,7 +51,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1" rowspan="4">Physical Sports</td>
+    <td rowspan="4" class="tg-cly1">Physical Sports</td>
     <td class="tg-0lax">Football</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">3pm - 5.30pm</td>
@@ -76,7 +76,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Mdm Safura<br>Ms Ma Jingying<br>Mrs Tan-Ong Yian Ping<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">Clubs &amp; Societies</td>
+    <td rowspan="2" class="tg-cly1">Clubs &amp; Societies</td>
     <td class="tg-0lax">Info Comm Club</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
@@ -89,11 +89,11 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Mr Hasvinnath Pillai Shastri<br>Ms Chung Sin Le<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="5">Visual &amp; Performing Arts</td>
-    <td class="tg-cly1" rowspan="2">Concert Band</td>
-    <td class="tg-0lax">Tuesday & Friday</td>
+    <td rowspan="5" class="tg-cly1">Visual &amp; Performing Arts</td>
+    <td rowspan="2" class="tg-cly1">Concert Band</td>
+    <td class="tg-0lax">Tuesday &amp; Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax" rowspan="2">Ms Maragatham d/o Sivalingam<br>Ms Toh Ying Han<br></td>
+    <td rowspan="2" class="tg-0lax">Ms Maragatham d/o Sivalingam<br>Ms Toh Ying Han<br></td>
   </tr>
   <tr>
   </tr>
@@ -117,7 +117,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Ms Li Siyi<br>Ms Nurul Arini Bte Junaidi<br>Mdm Estelle Goh<br></td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">Uniformed Groups</td>
+    <td rowspan="2" class="tg-cly1">Uniformed Groups</td>
     <td class="tg-0lax">Red Cross</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
@@ -128,6 +128,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
     <td class="tg-0lax">Mr Yam Choon Hian<br>Mr Goh Yong Sheng<br>Mdm Merwani</td>
-  </tr>
+  <td class="tg-cly1"></td></tr>
+	 
 </tbody>
 </table>
