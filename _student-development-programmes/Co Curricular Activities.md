@@ -129,8 +129,8 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">2.30pm - 4.30pm</td>
     <td class="tg-0lax">Mr Yam Choon Hian<br>Mr Goh Yong Sheng<br>Mdm Merwani</td>
 	</tr>
-	 <tr>
+	<tr>
     <td class="tg-0lax"></td>
-		 </tr>
+	</tr>
 </tbody>
 </table>
