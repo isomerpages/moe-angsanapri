@@ -99,9 +99,10 @@ All CCAs emphasize social interaction by providing a common space for friendship
   </tr>
   <tr>
     <td class="tg-0lax">Art Club</td>
-    <td class="tg-0lax">Tuesday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax">Mdm Jamilah Bte Abdullah<br>Ms Joanne Ng Si Wei<br></td>
+    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mdm Maszlita<br>Ms Joanne Ng Si Wei<br>
+		Mdm Jamilah Bte Abdullah<br>Ms Lam Ai Wei<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Choir</td>
