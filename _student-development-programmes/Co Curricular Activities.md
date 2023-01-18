@@ -91,9 +91,9 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-cly1" rowspan="5">Visual &amp; Performing Arts</td>
     <td class="tg-cly1" rowspan="2">Concert Band</td>
-    <td class="tg-0lax">Tuesday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax" rowspan="2">Mdm Mayrah Abdullah Loh<br>Ms Maragatham d/o Sivalingam<br>Mdm Fatimah Bte Mohd<br>Ms Toh Ying Han<br></td>
+    <td class="tg-0lax">Tuesday & Friday</td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax" rowspan="2">Ms Maragatham d/o Sivalingam<br>Ms Toh Ying Han<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Friday</td>
