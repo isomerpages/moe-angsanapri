@@ -25,7 +25,7 @@ KCare: 7am – 7pm
 
   
 
-Angsana Primary School (NEW LOCATION)
+Angsana Primary School 
 
 51 Tampines Street 61 Singapore 528565
 
