@@ -85,8 +85,8 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-0lax">Young Explorers</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax">Ms Chung Sin Le<br>Mr Hasvinnath Pillai Shastri<br>Mdm Lim Bee Fung Julia<br></td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mr Hasvinnath Pillai Shastri<br>Ms Chung Sin Le<br></td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="5">Visual &amp; Performing Arts</td>
