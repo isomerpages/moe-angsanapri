@@ -96,8 +96,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax" rowspan="2">Ms Maragatham d/o Sivalingam<br>Ms Toh Ying Han<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
+   
   </tr>
   <tr>
     <td class="tg-0lax">Art Club</td>
