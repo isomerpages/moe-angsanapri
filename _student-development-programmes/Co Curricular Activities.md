@@ -131,5 +131,6 @@ All CCAs emphasize social interaction by providing a common space for friendship
 	</tr>
 	 <tr>
     <td class="tg-0lax"></td>
+		 </tr>
 </tbody>
 </table>
