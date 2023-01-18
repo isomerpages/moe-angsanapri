@@ -53,27 +53,27 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-cly1" rowspan="4">Physical Sports</td>
     <td class="tg-0lax">Football</td>
-    <td class="tg-0lax">Tuesday<br>Thursday</td>
+    <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">3pm - 5.30pm</td>
-    <td class="tg-0lax">Mr Mohamad Razali Jambari<br>Mr Tan Shao Wei Danial<br>Mr Muhammad Fadhli bin Jamaluddin<br></td>
+    <td class="tg-0lax">Mr Tan Shao Wei Danial<br>Mr Muhammad Fadhli bin Jamaluddin<br>Mr Mohamad Razali Jambari<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Netball</td>
-    <td class="tg-0lax">Tuesday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew<br>Ms Nur Yaisyah Bte Mohd Yasin<br></td>
+    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">2.30pm - 5.30pm</td>
+    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew<br>Ms Nur Yaisyah Bte Mohd Yasin<br>Ms Nur Amalina<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Badminton</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax">Mr Kiew Kwok Fong Victor<br>Mdm Ratna Sari Hussain<br>Mdm Heryani Bte Hamid<br></td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mdm Ratna Sari Hussain<br>Mr Mazher s/o Tayeb<br>Mr Kiew Kwok Fong Victor</td>
   </tr>
   <tr>
     <td class="tg-0lax">Wushu</td>
-    <td class="tg-0lax">Monday Friday</td>
-    <td class="tg-0lax">3pm - 5pm</td>
-    <td class="tg-0lax">Mrs Tan-Ong Yian Ping<br>Mdm Safura Bte Sallim<br></td>
+    <td class="tg-0lax"> Friday</td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mdm Safura<br>Ms Ma Jingying<br>Mrs Tan-Ong Yian Ping<br></td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">Clubs &amp; Societies</td>
