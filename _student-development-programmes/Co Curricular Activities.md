@@ -132,7 +132,6 @@ All CCAs emphasize social interaction by providing a common space for friendship
 	 <tr>
     <td class="tg-0lax">Scouts</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">2.30pm - 4.30pm</td>
    
 </tbody>
 </table>
