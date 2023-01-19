@@ -256,3 +256,5 @@ iii.  Character and Citizenship Education (CCE)
   
 
 11.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+[Click Test](/files/2023%20SEd%20Opt%20Out%20Form.pdf)
