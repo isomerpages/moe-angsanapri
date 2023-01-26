@@ -35,8 +35,7 @@ iii.  Make responsible decisions for yourself, your family and society; and
 iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 
-You may click [here](https://go.gov.sg/moe-sexuality-
-education) for more information on MOE Sexuality Education. 
+You may click [Here](https://go.gov.sg/moe-sexuality- education) for more information on MOE Sexuality Education. 
 
 Note: MOE Sexuality Education page not found
 
@@ -252,7 +251,3 @@ b.  Character and Citizenship Education (CCE)
 
 
 10.Parents can contact your child’s form teacher or email the school at <b>angsana_pri@moe.edu.sg or call 67830427</b> for discussion or to seek clarification about the school’s sexuality education programme.
-
-  
-
-
