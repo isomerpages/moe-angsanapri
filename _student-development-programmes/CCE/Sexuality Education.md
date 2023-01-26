@@ -220,7 +220,7 @@ towards each other.</td>
     <td class="tg-nrix">Term 2 Week 2<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Did You Know? *<br>(60 min)<br></td>
+    <td class="tg-nrix">Did You Know?*<br>(60 min)<br></td>
     <td class="tg-0lax">This lesson focuses on helping students to know what
 pornography is and how it can affect themselves andothers. Students will learn the dangers of being exposed
 to sexually explicit materials and reject the viewing
