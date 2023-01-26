@@ -224,7 +224,8 @@ comfortable during the discussions.</td>
   </tr>
 </tbody>
 </table>
-
+Please Note:
+*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.
 
 ### Information For Parents
 
