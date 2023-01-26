@@ -151,6 +151,7 @@ classrooms, so that the students will feel more comfortable during
 the discussions.</td>
     <td class="tg-nrix">Term 2 Week 9<br></td>
   </tr>
+<td class="tg-0lax"></td>
 </tbody>
 </table>
 
@@ -179,7 +180,7 @@ the discussions.</td>
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:center}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -230,8 +231,9 @@ pornography by applying the strategy ‘Stop-Think-Do’.
 This lesson is conducted separately for boys and girls in
 different classrooms, so that the students will feel more
 comfortable during the discussions.</td>
-    <td class="tg-nrix">Term 2 Week 6<br></td>
+		<td class="tg-nrix">Term 2 Week 6</br></td>
   </tr>
+	<td class="tg-0lax"></td>
 </tbody>
 </table>
 Please Note:
