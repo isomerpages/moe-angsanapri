@@ -188,7 +188,7 @@ the discussions.</td>
   <tr>
     <th class="tg-amwm">UNIT<br></th>
     <th class="tg-amwm">LESSONS / DURATION<br></th>
-    <th class="tg-amwm">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:<br></th>
+    <th class="tg-amwm">LESSON OVERVIEW<br></th>
     <th class="tg-amwm">TIME PERIOD<br></th>
   </tr>
 </thead>
