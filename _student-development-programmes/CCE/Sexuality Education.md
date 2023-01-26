@@ -222,28 +222,6 @@ different classrooms, so that the students will feel more
 comfortable during the discussions.</td>
     <td class="tg-nrix">Term 2 Week 6<br></td>
   </tr>
-  
-  <tr>
-    <td class="tg-nrix">Main Task<br>(30 min)<br></td>
-    <td class="tg-0lax"><span style="font-weight:400;color:#000">Description of the Main Task:</span><br><span style="font-weight:400;color:#000">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
-    <td class="tg-nrix">Term 2 Week 4<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix" rowspan="3">Friends or Foes?<br></td>
-    <td class="tg-nrix">Are You Really My Friend?<br>(30 min)<br></td>
-    <td class="tg-0lax">identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-nrix">Term 2 Week 4<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Is It All Safe?<br>(30 min)<br></td>
-    <td class="tg-0lax">know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td class="tg-nrix">Term 2 Week 5<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Main Task<br>(30 min)<br></td>
-    <td class="tg-0lax"><span style="font-weight:400;color:#000">Description of the Main Task:</span><br><span style="font-weight:400;color:#000">Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span></td>
-    <td class="tg-nrix">Term 2 Week 5</td>
-  </tr>
 </tbody>
 </table>
 
