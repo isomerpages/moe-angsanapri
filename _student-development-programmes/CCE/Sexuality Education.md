@@ -248,7 +248,7 @@ b.  Character and Citizenship Education (CCE)
 
   
 
-9.Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022%20SEd%20Opt%20Out%20Form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **13/02/2023**.
+9.Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [Here](/files/2023%20SEd%20Opt%20Out%20Form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **13/02/2023**.
 
 
 10.Parents can contact your child’s form teacher or email the school at <b>angsana_pri@moe.edu.sg or call 67830427</b> for discussion or to seek clarification about the school’s sexuality education programme.
@@ -256,4 +256,3 @@ b.  Character and Citizenship Education (CCE)
   
 
 
-[2023 form](/files/2023%20SEd%20Opt%20Out%20Form.pdf)
