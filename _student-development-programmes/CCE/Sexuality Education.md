@@ -139,18 +139,6 @@ classrooms, so that the students will feel more comfortable during
 the discussions.</td>
     <td class="tg-nrix">Term 2 Week 9<br></td>
   </tr>
-  
-  
-    <td class="tg-nrix" rowspan="2">How Do I Keep Myself Safe?<br></td>
-    <td class="tg-nrix">What is Safety?<br>(30 min)<br></td>
-    <td class="tg-0lax">know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
-    <td class="tg-nrix">Term 2 Week 5<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Stop It! Run! Tell!<br>(30 min)<br></td>
-    <td class="tg-0lax">protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm</td>
-    <td class="tg-nrix">Term 2 Week 5</td>
-  </tr>
 </tbody>
 </table>
 
