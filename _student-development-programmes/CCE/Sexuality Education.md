@@ -114,7 +114,7 @@ informed and responsible decisions on sexuality matters.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" rowspan="4">Growing Years<br></td>
+		<td class="tg-nrix" rowspan="4"><b>Growing Years</b><br></td>
     <td class="tg-nrix">The Changes in Me<br>(60 min)<br></td>
     <td class="tg-0lax">This lesson focuses on helping students identify the emotions and
 stress caused by physical changes during puberty. Students will
@@ -193,7 +193,7 @@ the discussions.</td>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" rowspan="5">Growing Years<br></td>
+		<td class="tg-nrix" rowspan="5"><b>Growing Years</b><br></td>
     <td class="tg-nrix">Are We More than Friends?
 Lesson 1<br>(60 min)<br></td>
     <td class="tg-0lax">In this lesson, students will learn to distinguish between
