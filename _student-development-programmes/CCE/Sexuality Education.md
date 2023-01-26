@@ -183,10 +183,19 @@ the discussions.</td>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" rowspan="5">Are We More Than Friends?<br></td>
-    <td class="tg-nrix">Who Are My Friends?<br>(30 min)<br></td>
-    <td class="tg-0lax">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
-    <td class="tg-nrix">Term 1 Week 6<br></td>
+    <td class="tg-nrix" rowspan="5">Growing Years<br></td>
+    <td class="tg-nrix">Are We More than Friends?
+Lesson 1<br>(60 min)<br></td>
+    <td class="tg-0lax">In this lesson, students will learn to distinguish between
+the characteristics of love and infatuation, and identify
+the strong emotions that may arise from experiencing the
+feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up
+and becoming infatuated with someone does not mean
+that they should be involved in a romantic relationship.
+Instead, they should focus on building strong and healthy
+friendships with their circles of friends.</td>
+    <td class="tg-nrix">Term 1 Week 10<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Am I A Good Friend?<br>(30 min)<br></td>
