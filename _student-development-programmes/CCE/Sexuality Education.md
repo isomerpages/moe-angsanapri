@@ -37,7 +37,6 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
 
-Note: MOE Sexuality Education page not found
 
 ### Overview of Angsana Primary School’s Sexuality Education Programme for 2023
 
