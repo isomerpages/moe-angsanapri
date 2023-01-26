@@ -210,15 +210,19 @@ towards each other.</td>
     <td class="tg-nrix">Term 2 Week 2<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix">What is Love?<br>(30 min)<br></td>
-    <td class="tg-0lax">identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation<br>identify strong feelings arising from infatuation</td>
-    <td class="tg-nrix">Term 1 Week 8<br></td>
+    <td class="tg-nrix">Did You Know? *<br>(60 min)<br></td>
+    <td class="tg-0lax">This lesson focuses on helping students to know what
+pornography is and how it can affect themselves andothers. Students will learn the dangers of being exposed
+to sexually explicit materials and reject the viewing
+and/or reading of pornographic materials. They will learn
+to evaluate their own responses when they encounter
+pornography by applying the strategy ‘Stop-Think-Do’.
+This lesson is conducted separately for boys and girls in
+different classrooms, so that the students will feel more
+comfortable during the discussions.</td>
+    <td class="tg-nrix">Term 2 Week 6<br></td>
   </tr>
-  <tr>
-    <td class="tg-nrix">Am I Falling In Love?<br>(30 min)<br></td>
-    <td class="tg-0lax">manage strong feelings arising from infatuation<br>identify ways to manage and cope with teasing from peers</td>
-    <td class="tg-nrix">Term 1 Week 9<br></td>
-  </tr>
+  
   <tr>
     <td class="tg-nrix">Main Task<br>(30 min)<br></td>
     <td class="tg-0lax"><span style="font-weight:400;color:#000">Description of the Main Task:</span><br><span style="font-weight:400;color:#000">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
