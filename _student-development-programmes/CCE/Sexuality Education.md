@@ -95,46 +95,52 @@ b.  Character and Citizenship Education (CCE)
 <thead>
   <tr>
     <th class="tg-tzkj">UNIT<br></th>
-    <th class="tg-amwm">LESSONS / DURATION<br></th>
-    <th class="tg-amwm">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:<br></th>
+    <th class="tg-amwm">LESSONS TITLE / DURATION<br></th>
+    <th class="tg-amwm">LESSON OVERVIEW</th>
     <th class="tg-amwm">TIME PERIOD<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nrix" rowspan="4">Gosh! I Am Changing<br></td>
-    <td class="tg-nrix">What Is Happening To Me?<br>(30 min)<br></td>
-    <td class="tg-0lax">know what puberty is<br>identify the physical changes during puberty</td>
-    <td class="tg-nrix">Term 1 Week 6<br></td>
+    <td class="tg-nrix" rowspan="4">Growing Years<br></td>
+    <td class="tg-nrix">The Changes in Me<br>(60 min)<br></td>
+    <td class="tg-0lax">This lesson focuses on helping students identify the emotions and
+stress caused by physical changes during puberty. Students will
+learn to describe the healthy ways to manage their negative
+feelings during this time. They will also learn to recognise that
+one’s identity need not be negatively affected, even when one’s
+body is experiencing changes due to puberty.
+This lesson is conducted separately for boys and girls in different
+classrooms, so that the students will feel more comfortable during
+the discussions.</td>
+    <td class="tg-nrix">Term 2 Week 7<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix">What Can I Do? (Part 1)<br>(30 min)<br></td>
-    <td class="tg-0lax">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td class="tg-nrix">Term 1 Week 6<br></td>
+    <td class="tg-nrix">Did You Know?<br>(60 min)<br></td>
+    <td class="tg-0lax">This lesson focuses on helping students know what pornography
+is and how it can affect themselves and others. Students will learn
+about the dangers of being exposed to sexually explicit materials
+and reject the viewing and/or reading of pornographic materials.
+They will learn to evaluate their own responses when they
+encounter pornography by applying the strategy ‘Stop-Think-Do’.
+This lesson is conducted separately for boys and girls in different
+classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-nrix">Term 2 Week 8<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix">What Can I Do? (Part 2)<br>(30 min)<br></td>
-    <td class="tg-0lax">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td class="tg-nrix">Term 1 Week 8<br></td>
+    <td class="tg-nrix">Keeping Myself Safe<br>(60 min)<br></td>
+    <td class="tg-0lax">In this lesson, students will learn about sexual abuse, how it can
+happen during online and offline interactions and the impact of
+such abuse on victims. They also learn how to take precautionary
+measures to be safe and how to seek help for themselves and
+their friends.
+This lesson is conducted separately for boys and girls in different
+classrooms, so that the students will feel more comfortable during
+the discussions.</td>
+    <td class="tg-nrix">Term 2 Week 9<br></td>
   </tr>
-  <tr>
-    <td class="tg-nrix">Main Task<br>(30 min)<br></td>
-    <td class="tg-0lax"><span style="font-weight:400;color:#000">Description of the Main Task:</span><br><span style="font-weight:400;color:#000">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
-    <td class="tg-nrix">Term 1 Week 8<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Where I Belong<br></td>
-    <td class="tg-nrix">What Are Families?<br>(30 min)<br></td>
-    <td class="tg-0lax">know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
-    <td class="tg-nrix">Term 2 Week 4<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Where I Belong<br></td>
-    <td class="tg-nrix">What is My Role?<br>(30 min)<br></td>
-    <td class="tg-0lax">know that gender is about being male or female<br>choose not to stereotype by gender</td>
-    <td class="tg-nrix">Term 2 Week 4<br></td>
-  </tr>
-  <tr>
+  
+  
     <td class="tg-nrix" rowspan="2">How Do I Keep Myself Safe?<br></td>
     <td class="tg-nrix">What is Safety?<br>(30 min)<br></td>
     <td class="tg-0lax">know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
