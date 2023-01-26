@@ -40,25 +40,24 @@ education) for more information on MOE Sexuality Education.
 
 Note: MOE Sexuality Education page not found
 
-### Overview of Angsana Primary School’s Sexuality Education Programme for 2022
+### Overview of Angsana Primary School’s Sexuality Education Programme for 2023
 
 
-4.Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum.
+4.Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-Note: Link above not found  
 
 5.The subjects that incorporate topics on sexuality include:
 
 
-i.  Science
-
-ii.  Form Teacher Guidance Period (FTGP)
-
-iii.  Character and Citizenship Education (CCE)
+a.  Science
 
 
-<u><b>Sexuality Education:</b></u> 
-	“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+
+b.  Character and Citizenship Education (CCE)
+
+
+<u><b>Sexuality Education Lessons:</b></u> 
+	
 
   
 
@@ -69,7 +68,7 @@ iii.  Character and Citizenship Education (CCE)
 7.The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 
-<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in 2022:</b>
+<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in 2023:</b>
 
 
 <style type="text/css">
@@ -249,13 +248,12 @@ iii.  Character and Citizenship Education (CCE)
 
   
 
-9.Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022%20SEd%20Opt%20Out%20Form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **28/01/2022**.
+9.Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2022%20SEd%20Opt%20Out%20Form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **13/02/2023**.
 
 
-10.Parents can contact the school at <b>67830427</b> for discussion or to seek clarification about the school’s sexuality education programme.
+10.Parents can contact your child’s form teacher or email the school at <b>angsana_pri@moe.edu.sg or call 67830427</b> for discussion or to seek clarification about the school’s sexuality education programme.
 
   
 
-11.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
 [2023 form](/files/2023%20SEd%20Opt%20Out%20Form.pdf)
