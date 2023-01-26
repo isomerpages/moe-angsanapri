@@ -198,9 +198,16 @@ friendships with their circles of friends.</td>
     <td class="tg-nrix">Term 1 Week 10<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Am I A Good Friend?<br>(30 min)<br></td>
-    <td class="tg-0lax">identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend</td>
-    <td class="tg-nrix">Term 1 Week 6<br></td>
+    <td class="tg-nrix">Are We More than Friends?
+Lesson 2<br>(60 min)<br></td>
+    <td class="tg-0lax">In this lesson, students will learn healthy ways to
+manage the emotions arising from infatuation and
+recognise the importance of respecting the boundaries of
+any relationship. They will also recognise the negative
+impact of teasing their peers who may be experiencing
+the feelings of infatuation and learn to behave maturely
+towards each other.</td>
+    <td class="tg-nrix">Term 2 Week 2<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">What is Love?<br>(30 min)<br></td>
