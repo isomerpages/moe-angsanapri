@@ -47,18 +47,13 @@ Note: MOE Sexuality Education page not found
 
 5.The subjects that incorporate topics on sexuality include:
 
-
 a.  Science
-
-
 
 b.  Character and Citizenship Education (CCE)
 
 
 <u><b>Sexuality Education Lessons:</b></u> 
 	
-
-  
 
 6.The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
