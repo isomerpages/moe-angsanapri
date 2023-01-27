@@ -2,4 +2,5 @@ collections:
   test-folder:
     output: true
     order:
+      - Page 2.md
       - Test Page.md
