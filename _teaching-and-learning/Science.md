@@ -44,7 +44,6 @@ The Learn, Explore, Make program leverages on hands-on activities to develop con
 <b><u>Science Olympiad</b></u>
 <br>
 This programme focuses on developing, building on the existing or prior knowledge of the pupils. Pupils are require to make use of their inquiry and critical thinking skills to understand the concept behind each topic covered. The lessons are based on the broad science themes in the primary science curriculum and are focused on introducing the various domains of Science to the pupils and also to enhance their general knowledge. Primary 5 pupils with suitable aptitude and skills will be selected to participate in the Singapore Primary Science Olympiads organised by Raffles Institution and NUS High School.
-
 ![](/images/P5%20Science%20Olympiad%202022.jpg)
 
 <b><u>Excellence 2000 (E2K) Science Programme</b></u>
