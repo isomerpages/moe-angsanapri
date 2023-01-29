@@ -8,6 +8,21 @@ description: ""
 Our Learning Environment
 ========================
 
+
+
+| 
+![](/images/MK@Angsana/K1%20Respect%20resized.jpg)
+K1 Respect |![](/images/MK@Angsana/K1%20Patience%20resized.jpg) K1 Patience | 
+| -------- | -------- | 
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
