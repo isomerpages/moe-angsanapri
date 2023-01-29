@@ -23,7 +23,7 @@ Hands-on activities engage pupils as well as develop in them an understanding of
 
 ### Key Programmes
 
-<b><u> Engaging Students to Take Climate Action for a Sustainable Future </b></u>
+<b><u> Engaging Students to Take Climate Action for a Sustainable Future </u></b>
 <br>
 Singapore has designated 2019 as the Year Towards Zero Waste. This involves getting Singaporeans to reduce, reuse, recycle more, and recycle right, to adopt lifestyle habits that minimise waste generation.
 
@@ -33,7 +33,7 @@ Notwithstanding, our Environment Champions learn to manage food waste in a holis
 
 ![](/images/Sustainability%20Week%202022%20-%203.jpg)
 
-<b><u>Learn, Explore, Make Programme</b></u>
+<b><u>Learn, Explore, Make Programme</u></b>
 <br>
 The Learn, Explore, Make program leverages on hands-on activities to develop concepts and stimulate students’ curiosity about themselves and their environment. In doing so, students develop skills, dispositions, and attitudes for scientific inquiry. The programme also integrates computational thinking routine in science.
 
@@ -41,12 +41,12 @@ The Learn, Explore, Make program leverages on hands-on activities to develop con
 
 ### Science Talent Programme
 
-<b><u>Science Olympiad</b></u>
+<b><u>Science Olympiad</u></b>
 <br>
 This programme focuses on developing, building on the existing or prior knowledge of the pupils. Pupils are require to make use of their inquiry and critical thinking skills to understand the concept behind each topic covered. The lessons are based on the broad science themes in the primary science curriculum and are focused on introducing the various domains of Science to the pupils and also to enhance their general knowledge. Primary 5 pupils with suitable aptitude and skills will be selected to participate in the Singapore Primary Science Olympiads organised by Raffles Institution and NUS High School.
 ![](/images/P5%20Science%20Olympiad%202022.jpg)
 
-<b><u>Excellence 2000 (E2K) Science Programme </b></u>
+<b><u>Excellence 2000 (E2K) Science Programme </u></b>
 <br>
 This talent management programme aims to develop scientific inquiry process skills among high-ability primary pupils in science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
