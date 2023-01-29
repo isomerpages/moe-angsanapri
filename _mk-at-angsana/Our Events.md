@@ -25,7 +25,9 @@ Our Events
 * 4 January 2022 I First Day of School
 ![](/images/MK@Angsana/First%20Day%20of%20School.png)
 
+```
 
+```
 * 31 January 2022 I Chinese New Year Celebration
 ![](/images/MK@Angsana/Chinese%20New%20Year%20Celebration.jpg)
 
