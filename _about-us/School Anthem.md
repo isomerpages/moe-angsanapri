@@ -51,5 +51,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-Note: School anthem audio requires own Youtube/Vimeo
