@@ -3,13 +3,7 @@ title: School Vision And School Motto
 permalink: /about-us/school-vision-and-school-motto/
 description: ""
 ---
-![](/images/About%20Us.jpg)
-
-School Vision and School Motto
-==============================
-
-
-<style type="text/css">
+'<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
