@@ -7,7 +7,11 @@ description: ""
 
 Our Events
 ==========
+<b>Events (2023)</b>
 
+* 3 January 2023 | First Day of School
+
+* 20 January 2023 | Chinese New Year Celebration
 
 <b>Upcoming:</b>
 
