@@ -3,14 +3,14 @@ title: MK@Angsana Open House 2023
 permalink: /mk-at-angsana/mk-at-angsana-open-house-2023/
 description: ""
 ---
-
-
 ![](/images/MK-Angsana.jpg)
 
 MK@Angsana Open House 2023
 ==========================
 
 ![MK Poster](/images/MK%20Poster%202023.png)
+
+![](/images/MK@Angsana/Access%20to%20MK@Angsana.jpg)
 
 [Click here to sign up with us](https://go.gov.sg/mkopenhouse2023pmk)
 
