@@ -3,8 +3,6 @@ title: School Crest
 permalink: /about-us/school-crest/
 description: ""
 ---
-
-
 <img src="/images/Angsana-Crest%20(1).png" style="width:50%">
 
 <b><u> Introduction </u></b>
