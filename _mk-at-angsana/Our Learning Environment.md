@@ -9,20 +9,6 @@ Our Learning Environment
 ========================
 
 
-
-| 
-![](/images/MK@Angsana/K1%20Respect%20resized.jpg)
-K1 Respect |![](/images/MK@Angsana/K1%20Patience%20resized.jpg) K1 Patience | 
-| -------- | -------- | 
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
-
-
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,6 +27,10 @@ K1 Respect |![](/images/MK@Angsana/K1%20Patience%20resized.jpg) K1 Patience |
 <tbody>
   <tr>
     <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Care.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Care</span></td>
+    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/ML_TL%20Classroom.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">ML/TL Classroom</span></td>
+  </tr>
+  <tr>
+		   <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Care.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Care</span></td>
     <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/ML_TL%20Classroom.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">ML/TL Classroom</span></td>
   </tr>
   <tr>
