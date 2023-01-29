@@ -3,11 +3,6 @@ title: English Language
 permalink: /teaching-n-learning/english-language/
 description: ""
 ---
-![](/images/Teaching%20and%20Learning.jpg)
-
-English Language
-================
-
 ### Learning Outcomes
 
 The English Language programme at Angsana Primary School aims to:
@@ -27,7 +22,7 @@ The school adopts the STELLAR (**St**rategies for **E**nglish **L**anguage **
 ### Key Programmes
 
 <b> Englishtopia </b>
-
+<br>
 Englishtopia is a week-long celebration of the English Language in Angsana Primary School. It provides opportunities for students to explore the beauty of the English Language through various activities ranging from classroom quizzes and competitions to school-wide performances and talks by students and professionals.
 
 ![](/images/EL1.png)
@@ -39,16 +34,15 @@ Englishtopia is a week-long celebration of the English Language in Angsana Prima
 <figure><img src="/images/STELLAR.jpg" style="width:50%"><figcaption> <b>The STELLAR (STrategies for English Language Learning And Reading) Programme </b> </figcaption></figure>
 
 <b> The STELLAR Vision </b>
-
+<br>
 Children who love reading and have a strong foundation in the English Language.
 
 <b> STELLAR and Language Learning </b>
-
+<br>
 Teaching and learning of English using more speaking and listening activities. Children learn reading and writing using rich and interesting books, with discussions led by the teacher.
 
 <b> Features of a STELLAR Classroom </b> 
-
-
+<br>
 *   Focused on children’s interaction rather than teacher talk.
 *   Enriched with children’s written language.
 *   Filled with various reading materials for children’s use.
@@ -60,14 +54,14 @@ Teaching and learning of English using more speaking and listening activities. C
 	*   informal peer interaction
 
 Each STELLAR unit includes:
-
+<br>
 A)    Focused reading using big books (P1 to P3a) and readers (P4 to P6)
-
+<br>
 *   reading for enjoyment
 *   reading for knowledge
 
 B)    Key Teaching Points
-
+<br>
 *   Concepts about print
 *   Vocabulary
 *   Word identification activities
