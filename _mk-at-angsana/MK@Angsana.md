@@ -18,19 +18,19 @@ Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starl
 
 
 <u><b>Operating Hours</b></u>
-
+<br>
 MK: 8am – 5pm
-
+<br>
 KCare: 7am – 7pm
 
   
 
 Angsana Primary School 
-
+<br>
 51 Tampines Street 61 Singapore 528565
-
+<br>
 (+65) 6229 6455
-
+<br>
 [mk\_angsana@moe.edu.sg](mailto:mk_angsana@moe.edu.sg)
 
   
