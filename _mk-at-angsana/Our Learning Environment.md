@@ -27,11 +27,11 @@ Our Learning Environment
 <tbody>
   <tr>
     <td class="tg-lvth"><img src="/images/MK@Angsana/K1%20Care%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Care</span></td>
-    <td class="tg-lvth"><img src="/images/MK@Angsana/K1%20Joy%20resized.jpg"width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Joy</span></td>
+    <td class="tg-lvth"><img src="/images/MK@Angsana/K1%20Joy%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Joy</span></td>
   </tr>
   <tr>
 		<td class="tg-lvth"><img src="/images/MK@Angsana/K2%20Kindness%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K2 Kindness</span></td>
-    <td class="tg-lvth"><img src="/images/MK@Angsana/K2%20Courage%20resized.jpg"width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K2 Courage</span></td>
+    <td class="tg-lvth"><img src="/images/MK@Angsana/K2%20Courage%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K2 Courage</span></td>
   </tr>
   <tr>
 		   <td class="tg-lvth"><img src="/images/MK@Angsana/K2%20Honesty%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K2 Honesty</span></td>
