@@ -3,11 +3,6 @@ title: InfoComm Technology
 permalink: /teaching-n-learning/infocomm-technology/
 description: ""
 ---
-![](/images/Teaching%20and%20Learning.jpg)
-
-InfoComm Technology
-===================
-
 ### Approach
 
 Students are given opportunities to use technology to build 21st century competencies essential for them to meet the demands of the future world. The use of technology is meaningfully integrated into our core curriculum for our students to (a) experience and demonstrate learning beyond the traditional pen and paper mode of assessment, (b) be engaged in self-directed learning (SDL) and collaborative learning (CoL) within and beyond the classrooms (c) learn how to be safe digital learners and show responsible behaviours online. To complement and enrich our students’ learning, baseline lessons are also designed and assigned to our students via the Singapore Student Learning Space.
