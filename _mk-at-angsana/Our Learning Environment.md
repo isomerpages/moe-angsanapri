@@ -20,14 +20,14 @@ Our Learning Environment
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Respect.jpg" alt="K1 Respect.jpg" width="300" height="225"><br><span style="font-weight:400;color:#000">K1 Respect</span></th>
-    <th class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Patience.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;color:#000">K1 Patience</span></th>
+    <th class="tg-lvth"><img src="/images/MK@Angsana/K1%20Respect%20resized.jpg" width="290" height="215"><br><span style="font-weight:400;color:#000">K1 Respect</span></th>
+    <th class="tg-lvth"><img src="/images/MK@Angsana/K1%20Patience%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;color:#000">K1 Patience</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Care.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Care</span></td>
-    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/ML_TL%20Classroom.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">ML/TL Classroom</span></td>
+    <td class="tg-lvth"><img src="/images/MK@Angsana/K1%20Care%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Care</span></td>
+    <td class="tg-lvth"><img src="/images/MK@Angsana/K1%20Joy%20resized.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Joy</span></td>
   </tr>
   <tr>
 		   <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/K1%20Care.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K1 Care</span></td>
