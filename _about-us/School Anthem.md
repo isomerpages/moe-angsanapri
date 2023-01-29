@@ -3,10 +3,6 @@ title: School Anthem
 permalink: /about-us/school-anthem/
 description: ""
 ---
-![](/images/About%20Us.jpg)
-
-School Anthem
-=============
 <audio controls>
         <source src="https://docs.google.com/uc?export=download&id=1IoJ6LYpgRw7EVZhC_ttsjg9k9t1HBAXe" type="audio/mp3">
 </audio>
