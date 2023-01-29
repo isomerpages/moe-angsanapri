@@ -21,7 +21,7 @@ Our Learning Environment
 <thead>
   <tr>
     <th class="tg-lvth"><img src="/images/MK@Angsana/K1%20Respect%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;color:#000">K1 Respect</span></th>
-    <th class="tg-lvth"><img src="/images/MK@Angsana/K1%20Patience%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;color:#000">K1 Patience</span></th>
+    <th class="tg-lvth"><img src="/images/MK@Angsana/K1%20Patience%20resized.jpg" width="303" height="227.5"><br><span style="font-weight:400;color:#000">K1 Patience</span></th>
   </tr>
 </thead>
 <tbody>
