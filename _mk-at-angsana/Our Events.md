@@ -18,7 +18,7 @@ Our Events
 
 <b>Upcoming:</b>
 
-* 18 January 2023 | Open House
+* 18 January 2023 I Open House
 
 <b>Events (2022)</b>
 
