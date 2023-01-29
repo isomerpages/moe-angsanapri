@@ -3,20 +3,14 @@ title: Mother Tongue Languages
 permalink: /teaching-n-learning/mother-tongue-languages/
 description: ""
 ---
-![](/images/Teaching%20and%20Learning.jpg)
-
-Mother Tongue Languages
-=======================
-
 ### Objective
 
 In Singapore, bilingualism is especially important. It is also an essential part of what makes us unique as a nation. Learning your mother tongue is about survival and knowing who we are. Through learning of Mother Tongue Languages, we make connections to our heritage and culture, we acquire communication skills to connect with each other and also deepen our understanding of our culture.
 
 
-In Angsana, we aim to :
-
-1.  Promote the joy of learning Mother Tongue languages and culture in our students.
-2.  Nurture our students to be confident and effective in communicating in their Mother Tongue.
+**In Angsana, we aim to :**
+<br>1. Promote the joy of learning Mother Tongue languages and culture in our students.
+<br>2. Nurture our students to be confident and effective in communicating in their Mother Tongue.
 
 ### We offer the following Mother Tongue Languages in our curriculum:
 
