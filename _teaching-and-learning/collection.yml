@@ -1,0 +1,13 @@
+collections:
+  teaching-and-learning:
+    output: true
+    order:
+      - English Language.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - Arts.md
+      - Physical And Health Education.md
+      - InfoComm Technology.md
+      - Applied Learning Programme.md
+      - Assessment Plans.md

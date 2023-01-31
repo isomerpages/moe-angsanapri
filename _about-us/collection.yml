@@ -1,0 +1,25 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School History.md
+      - School Crest.md
+      - School Vision And School Motto.md
+      - School Mission.md
+      - School Values.md
+      - School Anthem.md
+      - Our Staff/.keep
+      - Our Staff/Key Personnel.md
+      - Our Staff/Teaching Staff and Allied Educators.md
+      - Our Staff/School Administration Team.md
+      - Our Staff/Adjunct Support Staff.md
+      - Our Partners & Stakeholders/.keep
+      - Our Partners & Stakeholders/School Advisory Committee.md
+      - Our Partners & Stakeholders/Parent Support Group.md
+      - Achievements/.keep
+      - Achievements/2020.md
+      - Achievements/2019.md
+      - Achievements/2018.md
+      - Achievements/2017.md
+      - Achievements/2016.md
+      - Achievements/2015.md
