@@ -3,14 +3,12 @@ title: For Students
 permalink: /quicklinks/For-Students/
 description: ""
 ---
-
-
 ![](/images/About%20Us.jpg)
 
 # For Students
 
 *   [SLS Student Learning Space](https://vle.learning.moe.edu.sg/login)
-*   [Online Library Catalogue](https://schoolibrary.moe.edu.sg/angsanapri)
+*   [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/angsanapri)
 *   [Kindsville](https://kindsville.kindness.sg/)
 *   [KooBits Login](https://member.koobits.com/)
 *   [EPIC](https://www.getepic.com/)
