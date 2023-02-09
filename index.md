@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Inspiring Innovation and Creativity.jpg
       key_highlights:
         - title: Quick Links
           description: For Parents
