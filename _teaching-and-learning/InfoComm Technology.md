@@ -19,16 +19,16 @@ At the end of 6 years in Angsana Primary School, we want our students to be able
 ### Digital Literacy Programme
 
 
-Apart from experiencing how technology is used to complement the learning in different subjects, school-wide routines and expectations for the use of technology is also put in place to equip our students with the necessary skills during e-learning. More details can be found in pages 44 to 45 of the Pupil’s Companion.
+Apart from experiencing how technology is used to complement the learning in different subjects, school-wide routines and expectations for the use of technology is also put in place to equip our students with the necessary skills required to learn with technology. More details can be found in pages 45 to 55 of the Pupil’s Companion.
+![](/images/Digital%20Literacy%20Table.jpg)
 
-![](/images/ICT.png)
 
 ### Cyber Wellness Programme
 
 
 To equip our students with life-long social-emotional competencies and sound values to be safe, respectful and responsible users of technology, cyber wellness values are taught through a variety of learning activities using a thematic approach (see table below).
 
-![](/images/ICT2.png)
+![](/images/Cyber%20Wellness%20Topics%20Table.jpg)
 
 ### Tips for parents
 
