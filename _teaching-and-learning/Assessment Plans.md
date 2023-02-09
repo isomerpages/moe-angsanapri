@@ -10,34 +10,34 @@ Assessment is an integral part of the learning process, and must be closely alig
 ### Assessment Plans 2022
 
 
-[ASPS P1 Assessment Plans 2022.pdf](/files/ASPS%20P1%20Assessment%20Plans%202022.pdf)
+[ASPS P1 Assessment Plans 2023](/files/ASPS%20Primary%201%20Assessment%20Plans%202023.pdf)
 
-[ASPS P2 Assessment Plans 2022.pdf](/files/ASPS%20P2%20Assessment%20Plans%202022.pdf)
+[ASPS P2 Assessment Plans 2023](/files/ASPS%20Primary%202%20Assessment%20Plans%202023.pdf)
 
-[ASPS P3 Assessment Plans 2022.pdf](/files/ASPS%20P3%20Assessment%20Plans%202022.pdf)
+[ASPS P3 Assessment Plans 2023](/files/ASPS%20Primary%203%20Assessment%20Plans%202023.pdf)
 
-[ASPS P4 Assessment Plans 2022.pdf](/files/ASPS%20P4%20Assessment%20Plans%202022.pdf)
+[ASPS P4 Assessment Plans 2023](/files/ASPS%20Primary%204%20Assessment%20Plans%202023.pdf)
 
-[ASPS Assessment Plan for 2022 - P5 3S v2.pdf](/files/ASPS%20Assessment%20Plan%20for%202022%20-%20P5%203S%20v2.pdf)
+[ASPS P5 (3S) Assessment Plans 2023](/files/ASPS%20Primary%205%20(3S)%20Assessment%20Plans%202023.pdf)
 
-[ASPS Assessment Plan for 2022 - P5 3S1FFMT v2.pdf](/files/ASPS%20Assessment%20Plan%20for%202022%20-%20P5%203S1FFMT%20v2.pdf)
+[ASPS P5 (3S1F) Assessment Plans 2023](/files/ASPS%20Primary%205%20(3S1F)%20Assessment%20Plans%202023.pdf)
 
-[ASPS Assessment Plan for 2022 - P5 4F v2.pdf](/files/ASPS%20Assessment%20Plan%20for%202022%20-%20P5%204F%20v2.pdf)
+[ASPS P5 (4F) Assessment Plans 2023](/files/ASPS%20Primary%205%20(4F)%20Assessment%20Plans%202023.pdf)
 
-[ASPS Assessment Plan for 2022 - P5 4S v2.pdf](/files/ASPS%20Assessment%20Plan%20for%202022%20-%20P5%204S%20v2.pdf)
+[ASPS P5 (4S) Assessment Plans 2023](/files/ASPS%20Primary%205%20(4S)%20Assessment%20Plans%202023.pdf)
 
-[ASPS Assessment Plan for 2022 - P5 4S1H v2.pdf](/files/ASPS%20Assessment%20Plan%20for%202022%20-%20P5%204S1H%20v2.pdf)
+[ASPS P5 (4S1H) Assessment Plans 2023](/files/ASPS%20Primary%205%20(4S1H)%20Assessment%20Plans%202023.pdf)
 
-[ASPS P6 Assessment Plans 2022 2S2F.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%202S2F.pdf)
+[ASPS P6 (2S2F) Assessment Plans 2023](/files/ASPS%20Primary%206%20(2S2F)%20Assessment%20Plans%202023.pdf)
 
-[ASPS P6 Assessment Plans 2022 3F.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%203F.pdf)
+[ASPS P6 (3F) Assessment Plans 2023](/files/ASPS%20Primary%206%20(3F)%20Assessment%20Plans%202023.pdf)
 
-[ASPS P6 Assessment Plans 2022 3S.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%203S.pdf)
+[ASPS P6 (3S) Assessment Plans 2023](/files/ASPS%20Primary%205%20(3S)%20Assessment%20Plans%202023.pdf)
 
-[ASPS P6 Assessment Plans 2022 3S1F.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%203S1F.pdf)
+[ASPS P6 (3S1F) Assessment Plans 2023](/files/ASPS%20Primary%206%20(3S1F)%20Assessment%20Plans%202023.pdf)
 
-[ASPS P6 Assessment Plans 2022 4F.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%204F.pdf)
+[ASPS P6 (4F) Assessment Plans 2023](/files/ASPS%20Primary%206%20(4F)%20Assessment%20Plans%202023.pdf)
 
-[ASPS P6 Assessment Plans 2022 4S.pdf](/files/ASPS%20P6%20Assessment%20Plans%202022%204S.pdf)
+[ASPS P6 (4S) Assessment Plans 2023](/files/ASPS%20Primary%206%20(4S)%20Assessment%20Plans%202023.pdf)
 
-[ASPS P6 Assessment Plans 2022 4S1H.pdf](/files/4S1H.pdf)
+[ASPS P6 (4S1H) Assessment Plans 2023](/files/ASPS%20Primary%206%20(4S1H)%20Assessment%20Plans%202023.pdf)
