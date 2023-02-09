@@ -20,6 +20,7 @@ At the end of 6 years in Angsana Primary School, we want our students to be able
 
 
 Apart from experiencing how technology is used to complement the learning in different subjects, school-wide routines and expectations for the use of technology is also put in place to equip our students with the necessary skills required to learn with technology. More details can be found in pages 45 to 55 of the Pupil’s Companion.
+
 ![](/images/Digital%20Literacy%20Table.jpg)
 
 
