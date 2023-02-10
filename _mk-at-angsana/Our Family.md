@@ -41,7 +41,7 @@ Our Family
   </tr>
   <tr>
     <td class="tg-vox4">Chinese Language Team</td>
-    <td class="tg-cqfb">Zhang Shan Laoshi 张老师 <span style="font-weight:bold">(Senior Teacher)</span><br>Luo Huangli Laoshi 罗老师<br>Yang Lu Laoshi 杨老师<br>Hong Qiaobo Laoshi 洪巧波</td>
+    <td class="tg-cqfb">Zhang Shan Laoshi 张老师 <span style="font-weight:bold">(Senior Teacher)</span><br>Luo Huangli Laoshi 罗老师<br>Yang Lu Laoshi 杨老师<br>Hong Qiaobo Laoshi 洪老师</td>
   </tr>
   <tr>
     <td class="tg-vox4">Malay Language Team</td>
