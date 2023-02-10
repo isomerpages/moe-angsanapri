@@ -18,6 +18,9 @@ The programme includes meals as well as activities designed to provide time and 
 *   Indoor and outdoor modular activities, such as tinkering, cookery and gardening activities.
 *   Indoor and outdoor play, such as dramatic play, and sand and water play.
 
-  
+![](/images/KCare%20Programme.png) 
+![](/images/Sample%20Timetable%20(AM).png)
+![](/images/Sample%20Timetable%20(PM).png)
+	![](/images/KCare%20Fee.jpeg) 
 
 For more information on KCare, please visit [https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care).
