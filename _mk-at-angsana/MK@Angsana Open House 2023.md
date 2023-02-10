@@ -8,7 +8,7 @@ description: ""
 MK@Angsana Open House 2023
 ==========================
 
-![](/images/MK@Angsana/MK%20Poster%202023.png)
+![](/images/Open%20House%20Poster%20(New%20-%20resize).png)
 
 ![](/images/MK@Angsana/Access%20to%20MK@Angsana.jpg)
 
