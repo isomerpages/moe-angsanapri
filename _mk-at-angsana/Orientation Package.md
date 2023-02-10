@@ -58,12 +58,11 @@ Orientation Package
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-csj1">Important Information</td>
-  </tr>
-</thead>
-</table>
+    <td class="tg-csj1">Important Information</td></tr></thead></table>
 
-![](/images/OP3.png)
+![](/images/K2%20Important%20Information.jpg)
+
+![](/images/K1%20Important%20Information.jpg)
 
 
 <style type="text/css">
@@ -82,8 +81,7 @@ Orientation Package
 </thead>
 </table>
 
-![](/images/OP4.png)
-
+![](/images/K1%20First%202%20Days%20Programme.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -101,8 +99,7 @@ Orientation Package
 </thead>
 </table>
 
-![](/images/OP6.png)
-
+![](/images/Calendar%20of%20Events%20(Term%201).png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
