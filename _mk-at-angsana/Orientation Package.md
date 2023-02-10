@@ -59,46 +59,18 @@ Orientation Package
 <thead>
   <tr>
     <td class="tg-csj1">Important Information</td></tr></thead></table>
-
+		
+![](/images/K1%20Important%20Information.jpg)
 ![](/images/K2%20Important%20Information.jpg)
 
-![](/images/K1%20Important%20Information.jpg)
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-csj1{border-color:#ffffff;font-size:16px;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-csj1">First 2 Days Programme</td>
-  </tr>
-</thead>
-</table>
+<center><b><u> First 2 Days Programme 
 
 ![](/images/K1%20First%202%20Days%20Programme.png)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-csj1{border-color:#ffffff;font-size:16px;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-csj1">Calendar of Events (Term 1)</td>
-  </tr>
-</thead>
-</table>
-
+	
+<center><b><u> Calendar of Events (Term 1) 
+	
 ![](/images/Calendar%20of%20Events%20(Term%201).png)
 
 <style type="text/css">
@@ -117,7 +89,8 @@ Orientation Package
 </thead>
 </table>
 
-![](/images/OP7.png)
+![](/images/Sample%20Timetable%20(AM).png)
+![](/images/Sample%20Timetable%20(PM).png)
 
 
 <style type="text/css">
@@ -138,7 +111,8 @@ Orientation Package
 
 ![](/images/OP9.png)
 
-
+	
+	
 <u><b>MOE Kindergarten Family Handbook</b></u>
 
 [2021 MOE Kindergarten Family Handbook.pdf](/files/MOE%20Kindergarten%20Family%20Handbook.pdf)
