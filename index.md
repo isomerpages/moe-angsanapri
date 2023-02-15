@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Inspiring Innovation and Creativity.jpg
       key_highlights:
         - title: Quick Links
           description: For Parents
@@ -18,6 +17,7 @@ sections:
         - title: Quick Links
           description: For Staff
           url: /quicklinks/For-Staff/
+      background: /images/2022 Joy of Learning Science blurred.jpg
   - infobar:
       title: Announcements
       url: /others/Announcements/Announcements/

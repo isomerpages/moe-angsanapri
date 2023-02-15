@@ -71,10 +71,6 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">Operations Support Officer<br></td>
-    <td class="tg-cly1">Mr Abdul Karim Bin Salleh<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Operations Support Officer<br></td>
     <td class="tg-cly1">Mdm Nguyen Do Thu Hien</td>
   </tr>
 </tbody>

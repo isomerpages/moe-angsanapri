@@ -94,10 +94,6 @@ third_nav_title: Our Staff
     <td class="tg-hsqg">Ms Sharon Tan Mei Ling</td>
   </tr>
   <tr>
-    <td class="tg-hsqg">ST English</td>
-    <td class="tg-hsqg">Mrs Cynthia Tan - Lim Li Xia</td>
-  </tr>
-  <tr>
     <td class="tg-hsqg">ST Chinese Language</td>
     <td class="tg-hsqg">Mr Yin Jian</td>
   </tr>

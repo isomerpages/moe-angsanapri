@@ -25,7 +25,6 @@ In Singapore, bilingualism is especially important. It is also an essential part
 We adopt a communicative approach towards the teaching of Mother Tongue Languages. Students learn best when they are given the opportunity to use the language. As students have a spectrum of learning style, teachers also make an effort to differentiate their teaching. Teachers helped our students to accomplish the same learning content using different instructional strategies, or delivering lessons at various levels of difficulty based on the ability of each student.
 
   
-
 ### Key Programmes
 
 We plan and implement several programmes to provide our students with diverse and authentic learning experiences. We believed that other than learning in a classroom, going beyond the boundaries of classroom, will enable our students to widen their horizon and enrich their learning. Having a bustling environment can enable our students to learn and use their Mother Tongue languages.
@@ -37,4 +36,4 @@ We plan and implement several programmes to provide our students with diverse an
 *   Language-related cultural performances
 *   Conversational Chinese and Malay
 
-![](/images/MTL.png)
+ ![](/images/MTL%20collage.jpg)
