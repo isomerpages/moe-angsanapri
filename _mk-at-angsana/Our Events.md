@@ -10,7 +10,7 @@ Our Events
 <b>Events (2023)</b>
 
 * 3 January 2023 | First Day of School
-![](/images/MK@Angsana/First%20Day%20of%20School%202023%20resized.jpg)
+![](/images/MK@Angsana/First%20Day%20of%20School%202023%20(New)%20resized.png)
 
 
 * 20 January 2023 | Chinese New Year Celebration
