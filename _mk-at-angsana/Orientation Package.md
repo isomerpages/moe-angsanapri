@@ -9,9 +9,9 @@ description: ""
 Orientation Package
 ===================
 
-<center><b><u>Key Features of the MK Curriculum
-
+**Key Features of the MK Curriculum**
 ![](/images/OP.png)
+
 	
 
 
