@@ -9,6 +9,18 @@ description: ""
 Orientation Package
 ===================
 
+<center><b><u>Key Features of the MK Curriculum
+
+![](/images/OP.png)
+	
+
+
+
+
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
