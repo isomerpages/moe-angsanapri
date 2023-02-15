@@ -64,9 +64,9 @@ Orientation Package
 
 ![](/images/MK@Angsana/K2%20Important%20Information.jpg)
 
-<center><b><u> First 2 Days Programme 
-	
-	
+<center><b><u> First 2 Days Programme </center></b></u>
+<br>
+
 ![](/images/MK@Angsana/K1%20First%202%20Days%20Programme.png)
 
 	
