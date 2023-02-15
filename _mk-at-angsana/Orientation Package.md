@@ -65,13 +65,14 @@ Orientation Package
 
 
 <center><b><u> First 2 Days Programme 
-
-![](/images/K1%20First%202%20Days%20Programme.png)
+	
+![](/images/MK@Angsana/K1%20First%202%20Days%20Programme.png)
 
 	
 <center><b><u> Calendar of Events (Term 1) 
 	
-![](/images/Calendar%20of%20Events%20(Term%201).png)
+![](/images/MK@Angsana/Calendar%20of%20Events%20(Term%201).png)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -97,7 +98,7 @@ Orientation Package
 
 [2021 MOE Kindergarten Family Handbook.pdf](/files/MOE%20Kindergarten%20Family%20Handbook.pdf)
 
-
+[MOE Kindergarten Family Handbook](/files/2021%20MOE%20Kindergarten%20Family%20Handbook.pdf)
 
 <u><b>MOE Kindergarten Family Handbook Acknowledgement Form</b></u>
 
