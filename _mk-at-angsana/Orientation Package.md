@@ -94,6 +94,7 @@ Orientation Package
 
 ![](/images/MK@Angsana/OP8.png)
 
+	
 [MOE Kindergarten Family Handbook](/files/2021%20MOE%20Kindergarten%20Family%20Handbook.pdf)
 
 [MK Family Handbook Acknowledgement Form](/files/MK%20Family%20Handbook%20Acknowledgement%20Form.pdf)
