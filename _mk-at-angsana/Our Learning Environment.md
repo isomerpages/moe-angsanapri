@@ -35,7 +35,7 @@ Our Learning Environment
   </tr>
   <tr>
 		   <td class="tg-lvth"><img src="/images/MK@Angsana/K2%20Honesty%20resized.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">K2 Honesty</span></td>
-    <td class="tg-lvth"><img src="https://angsanapri.moe.edu.sg/qql/slot/u167/2022/MK@Angsana/Our%20Learning%20Environment/ML_TL%20Classroom.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">ML/TL Classroom</span></td>
+    <td class="tg-lvth"><img src="/images/MK@Angsana/ML%20TL%20Classroom.jpg" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">ML/TL Classroom</span></td>
   </tr>
   <tr>
     <td class="tg-lvth"><img src="/images/MK@Angsana/Playground.png" alt="K1 Patience.jpg" width="300" height="225"><br><span style="font-weight:400;font-style:normal;text-decoration:none">Playground</span></td>
