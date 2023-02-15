@@ -66,10 +66,12 @@ Orientation Package
 
 <center><b><u> First 2 Days Programme 
 	
+	
 ![](/images/MK@Angsana/K1%20First%202%20Days%20Programme.png)
 
 	
 <center><b><u> Calendar of Events (Term 1) 
+	
 	
 ![](/images/MK@Angsana/Calendar%20of%20Events%20(Term%201).png)
 
