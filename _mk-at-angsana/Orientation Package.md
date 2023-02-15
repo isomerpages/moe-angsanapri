@@ -60,9 +60,8 @@ Orientation Package
   <tr>
     <td class="tg-csj1">Important Information</td></tr></thead></table>
 		
-![](/images/K1%20Important%20Information.jpg)
-![](/images/K2%20Important%20Information.jpg)
-
+![](/images/MK@Angsana/K1%20Important%20Information.jpg)
+![](/images/MK@Angsana/K2%20Important%20Information.jpg)
 
 <center><b><u> First 2 Days Programme 
 	
@@ -90,17 +89,9 @@ Orientation Package
 </thead>
 </table>
 
-![](/images/OP9.png)
-
-	
-	
-<u><b>MOE Kindergarten Family Handbook</b></u>
-
-[2021 MOE Kindergarten Family Handbook.pdf](/files/MOE%20Kindergarten%20Family%20Handbook.pdf)
+![](/images/MK@Angsana/OP8.png)
 
 [MOE Kindergarten Family Handbook](/files/2021%20MOE%20Kindergarten%20Family%20Handbook.pdf)
 
-<u><b>MOE Kindergarten Family Handbook Acknowledgement Form</b></u>
+[MK Family Handbook Acknowledgement Form](/files/MK%20Family%20Handbook%20Acknowledgement%20Form.pdf)
 
-
-[MK Family Handbook Acknowledgement Form.pdf](/files/Acknowledgement%20Form.pdf)
