@@ -60,8 +60,8 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-0lax">Netball</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">2.30pm - 5.30pm</td>
-    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew<br>Ms Nur Yaisyah Bte Mohd Yasin<br>Ms Nur Amalina<br></td>
+    <td class="tg-0lax">2.00pm - 5.00pm</td>
+    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew<br>Mdm Nur Yaisyah Bte Md Yasin<br>Ms Nur Amalina<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Badminton</td>
