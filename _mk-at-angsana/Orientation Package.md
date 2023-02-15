@@ -13,14 +13,6 @@ Orientation Package
 
 ![](/images/OP.png)
 
-	
-
-
-
-
-
-
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -77,13 +69,13 @@ Orientation Package
 
 ![](/images/MK@Angsana/K2%20Important%20Information.jpg)
 
-<center><b><u> First 2 Days Programme </center></b></u>
+<center><b><u> First 2 Days Programme </u></b></center>
 <br>
 
 ![](/images/MK@Angsana/K1%20First%202%20Days%20Programme.png)
 
 	
-<center><b><u> Calendar of Events (Term 1) 
+<center><b><u> Calendar of Events (Term 1) </u></b></center>
 	
 	
 ![](/images/MK@Angsana/Calendar%20of%20Events%20(Term%201).png)
