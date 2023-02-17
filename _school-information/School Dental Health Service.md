@@ -9,8 +9,4 @@ description: ""
 School Dental Health Service
 ============================
 
-Please contact mobile dental clinic at 93895107 for an appointment.
-
-  
-
-The school dental clinic is operating on a roving model. The dental therapist will be back onsite in August 2022.
+For dental related enquiries, please contact 98632732 

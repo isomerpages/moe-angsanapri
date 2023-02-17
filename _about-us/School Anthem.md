@@ -49,5 +49,11 @@ description: ""
   <tr>
     <td class="tg-fa7u">Upwards Angsana, Upwards Angsana<br><span style="font-weight:400;font-style:normal">Our School, our Joy, our Pride!</span></td>
   </tr>
+	  <tr>
+    <td class="tg-fa7u"></td>
+  </tr>
+  <tr>
+    <td class="tg-fa7u">Composer: Mr Benjamin Low<br><span style="font-weight:400;font-style:normal"></span></td>
+  </tr>
 </tbody>
 </table>

@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - School Information.md
       - School Rules & Regulations.md
       - School Homework Policy.md
       - School Calendar.md
