@@ -167,7 +167,7 @@ third_nav_title: Our Staff
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
-    <td class="tg-cly1">2 Empthy</td>
+    <td class="tg-cly1">2 Empathy</td>
     <td class="tg-cly1">Ms Lam Yi Xin </td>
     <td class="tg-cly1">Mrs Sangeet Bajaj</td>
     <td class="tg-0lax"></td>
@@ -235,7 +235,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">3 Kindness</td>
     <td class="tg-cly1">Mr Jeremy Wong Chun Kiat</td>
     <td class="tg-cly1">Mdm Maszlita Bte Abdul Aziz</td>
-    <td class="tg-cly1">Ms Lam Ai Wei</td>
+    <td class="tg-cly1">Mdm Lam Ai Wei</td>
 		<td class="tg-0lax"></td>
   </tr>
 </tbody>
@@ -280,7 +280,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">4 Resilience</td>
     <td class="tg-cly1">Mr Danial Tan Shao Wei </td>
-    <td class="tg-cly1">Miss Shainas Bte Hassan</td>
+    <td class="tg-cly1">Mdm Shainas Bte Hassan</td>
 		<td class="tg-0lax"></td>
   </tr>
 </tbody>

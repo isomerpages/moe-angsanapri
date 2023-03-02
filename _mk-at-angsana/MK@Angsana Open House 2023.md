@@ -16,6 +16,9 @@ MK@Angsana Open House 2023
 
 [Click here to know more about Mk Open House 2023](https://go.gov.sg/mkpmk)
 
+[MK@Angsana Open House Slides 2023](/files/MK%20Open%20House%20Slides%202023.pdf)
+
+
 <u><b>Children Video</b></u>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-MU3AReEgbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
