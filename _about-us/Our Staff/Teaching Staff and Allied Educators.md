@@ -383,8 +383,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">6 Respect</td>
-    <td class="tg-cly1">Mr Yam Choon Hian</td>
     <td class="tg-cly1">Mdm Erlin Bte Amir</td>
+    <td class="tg-cly1">Mr Khairul Usmab B Salim</td>
+		<td class="tg-cly1">Mr Rizanudin B Jusary</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
