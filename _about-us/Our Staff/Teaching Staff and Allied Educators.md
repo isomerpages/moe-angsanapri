@@ -228,8 +228,8 @@ third_nav_title: Our Staff
 	<tr>
     <td class="tg-cly1">3 Integrity</td>
     <td class="tg-cly1">Mr Mohamad Razali B Jambari</td>
+    <td class="tg-cly1">Mr Ho Jia Ling Joycelyn</td>
     <td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
-    <td class="tg-cly1">Mdm Marcia Yong Yin Siong</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
