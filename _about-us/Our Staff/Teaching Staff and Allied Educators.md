@@ -169,8 +169,9 @@ third_nav_title: Our Staff
 	<tr>
     <td class="tg-cly1">2 Empathy</td>
     <td class="tg-cly1">Ms Lam Yi Xin </td>
+    <td class="tg-cly1">Mr Lee Sze Cheng</td>
     <td class="tg-cly1">Mrs Sangeet Bajaj</td>
-    <td class="tg-0lax"></td>
+		<td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
