@@ -163,7 +163,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">2 Gratitude</td>
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
-		<td class="tg-cly1">Ms Yeo Pei Pei</td>
+		<td class="tg-cly1">Mr Bryan Foo Chuan Kiat</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
