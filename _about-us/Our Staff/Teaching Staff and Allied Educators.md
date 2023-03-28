@@ -143,8 +143,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">2 Integrity</td>
     <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
-    <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
-		<td class="tg-cly1">Mdm Karen Yong Lee Yen</td>
+    <td class="tg-cly1">Mr Norhaziq Amalee B Jaafar</td>
+		<td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
     <td class="tg-cly1"></td>
 	</tr>
   <tr>
