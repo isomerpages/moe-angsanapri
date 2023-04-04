@@ -3,7 +3,7 @@ title: For Parent
 permalink: /quicklinks/permalink/
 description: ""
 ---
-[Booklist](https://www.angsanapri.moe.edu.sg/quicklinks/For-Parents/Booklist-2023/)![](/images/About%20Us.jpg)
+![](/images/About%20Us.jpg)
 
 # For Parents
 
