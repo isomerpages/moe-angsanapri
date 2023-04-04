@@ -2,7 +2,6 @@ collections:
   quicklinks:
     output: true
     order:
-      - Example Title.md
       - For Parents/Resources for Parents.md
       - For Parents/.keep
       - For Parents/Booklist 2023.md
