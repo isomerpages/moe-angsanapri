@@ -7,4 +7,5 @@ description: ""
 
 # For Parents
 
-*   [SLS Student Learning Space](https://vle.learning.moe.edu.sg/login)
+*   Click here to join our [Parent Support Group](go.gov.sg/asps-psg).
+*   
