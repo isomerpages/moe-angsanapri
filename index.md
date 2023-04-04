@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Quick Links
           description: For Parents
-          url: https://staging.d3gpav8vrds84p.amplifyapp.com/quicklinks/for-parents/permalink/
+          url: /quicklinks/for-parents/permalink/
         - title: Quick Links
           description: For Students
           url: /quicklinks/For-Students/
