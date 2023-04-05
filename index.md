@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Quick Links
           description: For Parents
-          url: /quicklinks/for-parents/
+          url: /quicklinks/For-Parents/
         - title: Quick Links
           description: For Students
           url: /quicklinks/For-Students/
