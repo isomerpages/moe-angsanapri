@@ -8,7 +8,7 @@ description: ""
 Quicklinks
 ==========
 
-<img src="/images/Home.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+<img src="/images/Home.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
 
 ##### Home-Based Learning (HBL)
@@ -16,35 +16,35 @@ Quicklinks
 [Read More...](https://sites.google.com/moe.edu.sg/aspshbl2020/home)
 
 
-<img src="/images/Stu.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+<img src="/images/Stu.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
 ##### Student iCON
 
 [Read More...](https://workspace.google.com/dashboard)
 
 
-<img src="/images/Book.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+<img src="/images/Book.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
 ##### Booklist
 
 [Read More...](https://angsanapri.moe.edu.sg/quicklinks/booklist-2022)
 
 
-<img src="/images/SLS.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+<img src="/images/SLS.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
 ##### Student Learning Space (SLS)
 
 [Read More...](https://angsanapri.moe.edu.sg/quicklinks/sls-student-learning-space)
 
 
-<img src="/images/Staff.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+<img src="/images/Staff.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
 ##### For Staff
 
 [Read More...](https://angsanapri.moe.edu.sg/quicklinks/for-staff)
 
 
-<img src="/images/Pupils.jpeg" style="width:100px;height:150px;margin-right:15px;" align = "left">
+<img src="/images/Pupils.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
 ##### For Pupils
 
@@ -56,7 +56,6 @@ Quicklinks
 
 
 *   [Booklist 2023](/quicklinks/For-Parents/Booklist-2023/)
-*   [2022 P1 Registration Exercise For Pupils](/quicklinks/For-Parents/2022-P1-Registration-Exercise-For-Pupils/)
 *   [Parents Gateway FAQ](/files/Parents%20Gateway%20FAQs.pdf)
 *   [Journeying With Our Children](https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1)
 *   [Schoolbag.sg](https://www.schoolbag.edu.sg/)
