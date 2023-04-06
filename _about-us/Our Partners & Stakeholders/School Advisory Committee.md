@@ -39,15 +39,19 @@ third_nav_title: Our Partners & Stakeholders
   </tr>
   <tr>
     <td class="tg-dos6">Member</td>
-    <td class="tg-dos6">Mdm Lani Tjoa</td>
+    <td class="tg-dos6">Mdm Lani Tjoawarmansjah</td>
   </tr>
   <tr>
     <td class="tg-dos6">Member</td>
     <td class="tg-dos6">Mr Mohamed Azahari Bin Mohamed Said</td>
   </tr>
+	<tr>
+    <td class="tg-dos6">Member</td>
+    <td class="tg-dos6">Mr Yeo Yuen Kee</td>
+  </tr>
   <tr>
     <td class="tg-dos6">Member</td>
-    <td class="tg-dos6">Mr Jason Ang</td>
+    <td class="tg-dos6">Assoc Prof Jason Ang Kwang Lin</td>
   </tr>
 </tbody>
 </table>

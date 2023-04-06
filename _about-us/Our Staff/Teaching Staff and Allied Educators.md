@@ -143,8 +143,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">2 Integrity</td>
     <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
-    <td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
-		<td class="tg-cly1">Mdm Karen Yong Lee Yen</td>
+    <td class="tg-cly1">Mr Norhaziq Amalee B Jaafar</td>
+		<td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
     <td class="tg-cly1"></td>
 	</tr>
   <tr>
@@ -163,14 +163,15 @@ third_nav_title: Our Staff
     <td class="tg-cly1">2 Gratitude</td>
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
-		<td class="tg-cly1">Ms Yeo Pei Pei</td>
+		<td class="tg-cly1">Mr Bryan Foo Chuan Kiat</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">2 Empathy</td>
     <td class="tg-cly1">Ms Lam Yi Xin </td>
+    <td class="tg-cly1">Mr Lee Sze Cheng</td>
     <td class="tg-cly1">Mrs Sangeet Bajaj</td>
-    <td class="tg-0lax"></td>
+		<td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
@@ -227,8 +228,8 @@ third_nav_title: Our Staff
 	<tr>
     <td class="tg-cly1">3 Integrity</td>
     <td class="tg-cly1">Mr Mohamad Razali B Jambari</td>
+    <td class="tg-cly1">Mr Ho Jia Ling Joycelyn</td>
     <td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
-    <td class="tg-cly1">Mdm Marcia Yong Yin Siong</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
@@ -382,8 +383,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">6 Respect</td>
-    <td class="tg-cly1">Mr Yam Choon Hian</td>
     <td class="tg-cly1">Mdm Erlin Bte Amir</td>
+    <td class="tg-cly1">Mr Khairul Usmab B Salim</td>
+		<td class="tg-cly1">Mr Rizanudin B Jusary</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>

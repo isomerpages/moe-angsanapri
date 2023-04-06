@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Quick Links
           description: For Parents
-          url: /quicklinks/For-Parents/Booklist-2023/
+          url: /quicklinks/for-parents/
         - title: Quick Links
           description: For Students
           url: /quicklinks/For-Students/
