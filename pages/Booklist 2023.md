@@ -18,3 +18,5 @@ description: ""
 [P6 Foundation Booklist](/files/P6F%20Booklist%202023.pdf)
 
 [P6 Standard Booklist](/files/P6S%20Booklist%202023.pdf)
+
+[P1 Booklist](/files/P1%20Booklist%202023.pdf)
