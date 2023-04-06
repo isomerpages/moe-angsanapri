@@ -2,6 +2,7 @@ collections:
   quicklinks:
     output: true
     order:
+      - Example Title.md
       - Booklist 2023.md
       - For Parents.md
       - For Students.md
