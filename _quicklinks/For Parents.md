@@ -8,4 +8,4 @@ description: ""
 # For Parents
 
 *   Click here to join our [Parent Support Group](https://go.gov.sg/asps-psg).
-*   Click here for [Booklist 2023](https://www.open.gov.sg/temp)
+*   Click here for [Booklist 2023](https://www.open.gov.sg/Booklist)
