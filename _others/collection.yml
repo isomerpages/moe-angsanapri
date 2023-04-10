@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Booklist 2023.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/School Attendance Matters.md
