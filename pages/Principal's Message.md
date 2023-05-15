@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/ANGSANA%20CELEBRATES.png)
 <center><b> Miss Foong Yin Wei, Principal </b></center>
-Welcome to Angsana Primary School, we are glad to be on the ..........
+Welcome to Angsana Primary School, <b>we are glad to be on the ......</b>...jkjdgfkjgdkjgdkg   jglskj  kjfklgjslkgg.
