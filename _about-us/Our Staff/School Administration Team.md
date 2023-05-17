@@ -77,5 +77,13 @@ third_nav_title: Our Staff
     <td class="tg-cly1">Operations Support Officer<br></td>
     <td class="tg-cly1">Mdm Nguyen Do Thu Hien</td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Operations Support Officer<br></td>
+    <td class="tg-cly1">Mdm Ng Meow Eng</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">Operations Support Officer<br></td>
+    <td class="tg-cly1">Mr Mohamad Yusof Bin Md Som </td>
+  </tr>
 </tbody>
 </table>
