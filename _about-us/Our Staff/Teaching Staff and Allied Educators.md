@@ -164,12 +164,11 @@ third_nav_title: Our Staff
     <td class="tg-cly1">2 Gratitude</td>
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
-		<td class="tg-cly1">Mr Bryan Foo Chuan Kiat</td>
+		<td class="tg-cly1">Mr Muhammad Khairul Amshar Bin Anuar</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">2 Empathy</td>
-    <td class="tg-cly1">Ms Lam Yi Xin </td>
     <td class="tg-cly1">Mr Lee Sze Cheng</td>
     <td class="tg-cly1">Mrs Sangeet Bajaj</td>
 		<td class="tg-0lax"></td>
