@@ -49,6 +49,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">1 Responsibility</td>
     <td class="tg-cly1">Ms Li Siyi</td>
     <td class="tg-cly1">Mdm Merwani Bte Ahmad</td>
+		<td class="tg-cly1">Ms Vivien Goh Yen Ling</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
