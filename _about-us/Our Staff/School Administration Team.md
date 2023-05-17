@@ -33,6 +33,10 @@ third_nav_title: Our Staff
     <td class="tg-cly1">Operations Manager<br></td>
     <td class="tg-cly1">Mr Muhd Hirwan Bin Muhd Som<br></td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Operations Manager<br></td>
+    <td class="tg-cly1">Mr Fida Mohamed Ghouse B Yahya<br></td>
+  </tr>
   <tr>
     <td class="tg-cly1">ICT Manager<br></td>
     <td class="tg-cly1">Mr Dave Tan Chuan Huat<br></td>
