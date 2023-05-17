@@ -41,11 +41,15 @@ third_nav_title: Our Staff
     <td class="tg-cly1">ICT Manager<br></td>
     <td class="tg-cly1">Mr Dave Tan Chuan Huat<br></td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Administration Executive<br>Administration Executive<br></td>
-    <td class="tg-cly1">Mdm Lydia Aziz<br>Ms Ng Chien Wei Cynthia<br></td>
+	<tr>
+    <td class="tg-cly1">Administration Executive<br></td>
+    <td class="tg-cly1">Ms Ng Chien Wei Cynthia<br></td>
   </tr>
   <tr>
+    <td class="tg-cly1">Administration Executive<br></td>
+    <td class="tg-cly1">Mdm Lydia Aziz<br></td>
+  </tr>
+	<tr>
     <td class="tg-cly1">Administration Executive<br></td>
     <td class="tg-cly1">Mdm Siti Nur Baidura Bte Rahman<br></td>
   </tr>
