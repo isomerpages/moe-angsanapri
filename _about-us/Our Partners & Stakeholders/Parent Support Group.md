@@ -119,10 +119,10 @@ A brief summary of talks that have been conducted and upcoming talks:
 ![psg_2023_3](/images/psg_2023_3.jfif)
 
 <b>Working tirelessly for the Big Move!</b>
-<br>
-![](/images/psg05.jpg)
+![psg_2023_4](/images/psg_2023_4.jpg)
+	![psg_2023_5](/images/psg_2023_5.jpg)
 
 
-<b>Active PSG support in school’s recess activities</b>
+<b>Bonding activity during PSG appreciation Day</b>
 <br>
 ![](/images/PSG.png)
