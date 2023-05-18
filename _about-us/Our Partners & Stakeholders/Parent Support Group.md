@@ -110,7 +110,7 @@ A brief summary of talks that have been conducted and upcoming talks:
 ![psg_2023_1](/images/psg_2023_1.jpeg)
 
 
-<b>21 April 2018: The 5 Languages of Love – Connecting with your loved ones</b>
+<b>A PSG member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
 ![](/images/PSG2.jpeg)
 
