@@ -118,7 +118,7 @@ A brief summary of talks that have been conducted and upcoming talks:
 <br>
 ![psg_2023_3](/images/psg_2023_3.jfif)
 
-<b>6 July 2018: Managing Exam Anxiety and Stress</b>
+<b>Working tirelessly for the Big Move!</b>
 <br>
 ![](/images/psg05.jpg)
 
