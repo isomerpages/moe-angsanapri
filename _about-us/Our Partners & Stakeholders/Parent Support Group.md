@@ -110,13 +110,13 @@ A brief summary of talks that have been conducted and upcoming talks:
 ![psg_2023_1](/images/psg_2023_1.jpeg)
 
 
-<b>A PSG member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
+<b>A  member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
 ![psg_2023_2](/images/psg_2023_2.jpg)
 
-<b>18 May 2018: Correcting in Love – Positive Discipline</b>
+<b>Busy preparing for Teacher's Day. Hush! It's a surprise</b>
 <br>
-![](/images/psg04.jpg)
+![psg_2023_3](/images/psg_2023_3.jfif)
 
 <b>6 July 2018: Managing Exam Anxiety and Stress</b>
 <br>
