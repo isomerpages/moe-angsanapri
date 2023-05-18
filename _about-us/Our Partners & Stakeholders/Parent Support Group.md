@@ -105,7 +105,7 @@ A brief summary of talks that have been conducted and upcoming talks:
 
   
 
-<b>2 January 2018: Preparing Your Child for Primary One</b>
+<b>Some of our vibrant and enthusiastic Parent Support Group members</b>
 <br>
 ![psg_2023_1](/images/psg_2023_1.jpeg)
 
