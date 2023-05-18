@@ -112,9 +112,7 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <b>A PSG member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
-![](/images/PSG2.jpeg)
-
-![](/images/PSG3.jpeg)
+![psg_2023_2](/images/psg_2023_2.jpg)
 
 <b>18 May 2018: Correcting in Love – Positive Discipline</b>
 <br>
