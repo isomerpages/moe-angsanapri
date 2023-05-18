@@ -120,7 +120,7 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <b>Working tirelessly for the Big Move!</b>
 ![psg_2023_4](/images/psg_2023_4.jpg)
-	![psg_2023_5](/images/psg_2023_5.jpg)
+![psg_2023_5](/images/psg_2023_5.jpg)
 
 
 <b>Bonding activity during PSG appreciation Day</b>
