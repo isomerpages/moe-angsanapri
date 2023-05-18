@@ -125,4 +125,4 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <b>Bonding activity during PSG appreciation Day</b>
 <br>
-![](/images/PSG.png)
+![psg_2023_6](/images/psg_2023_6.jfif)![psg_2023_7](/images/psg_2023_7.jfif)
