@@ -3,8 +3,8 @@ title: School Anthem
 permalink: /about-us/school-anthem/
 description: ""
 ---
-<audio controls>
-        <source src="https://docs.google.com/uc?export=download&id=1IoJ6LYpgRw7EVZhC_ttsjg9k9t1HBAXe" type="audio/mp3">
+<audio controls="">
+        <source src="https://docs.google.com/uc?export=download&amp;id=1IoJ6LYpgRw7EVZhC_ttsjg9k9t1HBAXe" type="audio/mp3">
 </audio>
 
 ### Upwards Angsana!
@@ -54,6 +54,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fa7u">Composer: Mr Benjamin Low<br><span style="font-weight:400;font-style:normal"></span></td>
+		<td class="tg-fa7u">Lyrics by Staff of Angsana Primary School 2016<br><span style="font-weight:400;font-style:normal"></span></td>
   </tr>
 </tbody>
 </table>
