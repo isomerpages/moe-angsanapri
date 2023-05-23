@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:55%" src="/images/ANGSANA%20CELEBRATES.png">
 <center><b>Ms Foong Yin Wei, Principal </b><br>
-Bsc, DipEd,DipEd, MA(Applied Psychology)</center>
+Bsc, DipEd, DipEd Admin, MA(Applied Psychology)</center>
 
      
 
