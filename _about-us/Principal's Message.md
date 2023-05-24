@@ -4,8 +4,8 @@ permalink: /principal-message/
 description: ""
 ---
 <img style="width:55%" src="/images/ANGSANA%20CELEBRATES.png">
-<center><b>Ms Foong Yin Wei, Principal </b><br>
-Bsc, DipEd, DipEd Admin, MA(Applied Psychology)</center>
+<center><b>Ms Foong Yin Wei, Principal </b>
+<p style="font-size:11px">Bsc,DipEd, DipEd Admin, MA(Applied Psychology)</p></center>
 
      
 
