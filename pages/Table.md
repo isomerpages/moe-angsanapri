@@ -16,22 +16,22 @@ table, th, td {
   <tbody><tr>
     <th>Name</th>
     <th>Designation</th>
-    <th>Type</th>
+    <th>Team</th>
   </tr>
   <tr>
     <td>Dave</td>
     <td>ICT Mgr</td>
-    <td>EAS</td>
+    <td>Sat</td>
   </tr>
   <tr>
     <td>Tan Eng Lee</td>
     <td>Senior DE</td>
-    <td>NCS</td>
+    <td>Ncs</td>
   </tr>
 	<tr>
     <td>TB Fill</td>
     <td>DE</td>
-    <td>NCS</td>
+    <td>Ncs</td>
   </tr>
 </tbody></table>
 
