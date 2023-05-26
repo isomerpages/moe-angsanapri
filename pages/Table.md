@@ -3,8 +3,6 @@ title: Table
 permalink: /table/
 description: ""
 ---
-
-
 <style>
 table, th, td {
   border:5px solid green;
@@ -38,6 +36,3 @@ table, th, td {
 </tbody></table>
 
 <p>To understand the example better, we have added borders to the table.</p>
-
-
-
