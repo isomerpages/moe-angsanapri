@@ -3,16 +3,8 @@ title: Principal's Message
 permalink: /principal-message/
 description: ""
 ---
-<img style="width:25%" src="/images/ms%20foong.JPG">
-<center><b>Ms Foong Yin Wei, Principal </b>
-<p style="font-size:11px; margin-top:0px">Bsc,DipEd, DipEd Admin, MA(Applied Psychology)</p></center>
-
-     
 
 Welcome to the website of Angsana Primary School! The contents will give you a good understanding of our school and our mission in preparing our students for the future.
-
-
-
 
 <b>A Little about me</b>
 
@@ -50,3 +42,6 @@ Our staff has displayed remarkable resilience and adaptability in navigating the
 
 
 We invite you to explore our website to find out more about our school programmes and our community.
+<img style="width:20%" src="/images/ms%20foong.JPG">
+<center><b>Ms Foong Yin Wei, Principal </b>
+<p style="font-size:11px; margin-top:0px">Bsc,DipEd, DipEd Admin, MA(Applied Psychology)</p></center>
