@@ -10,7 +10,7 @@ table, th, td {
 </style>
 
 
-<h2>A basic HTML table</h2>
+<h2>ASPS table</h2>
 
 <table style="width:100%">
   <tbody><tr>
