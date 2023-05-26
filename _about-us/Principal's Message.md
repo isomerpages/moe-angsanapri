@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /principal-message/
 description: ""
 ---
-<img style="width:30%" src="/images/ms%20foong.JPG">
+<img style="width:25%" src="/images/ms%20foong.JPG">
 <center><b>Ms Foong Yin Wei, Principal </b>
 <p style="font-size:11px; margin-top:0px">Bsc,DipEd, DipEd Admin, MA(Applied Psychology)</p></center>
 
@@ -46,3 +46,7 @@ Today we provide a good spread of Co-curricular Activities (CCAs) across four di
 I sincerely thank our School Advisory Committee members, Parent Support Group members, and dedicated alumni for their unwavering support during last year's relocation. Your invaluable assistance and commitment were instrumental in ensuring a smooth transition for our school. In addition, I am deeply grateful for your ongoing involvement and encouragement as we forge ahead, embracing new learning opportunities for our students. Your steadfast support is very much appreciated.
 
 Our staff has displayed remarkable resilience and adaptability in navigating the many changes over the past two years. Our dedicated teaching and support staff have demonstrated unwavering commitment, investing tireless effort to cultivate a nurturing and enjoyable environment where every child is known, safe, inspired, challenged, and empowered. My deep gratitude goes to all of you for embodying the true essence of our school motto and consistently going above and beyond to fulfil our shared vision.
+
+
+
+We invite you to explore our website to find out more about our school programmes and our community.
