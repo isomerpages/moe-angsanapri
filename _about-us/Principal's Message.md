@@ -43,4 +43,4 @@ Our staff has displayed remarkable resilience and adaptability in navigating the
 We invite you to explore our website to find out more about our school programmes and our community.
 <img style="width:20%" src="/images/ms%20foong.JPG">
 <center><b>Ms Foong Yin Wei, Principal </b>
-<p style="font-size:10px; margin-top:0px">Bsc,DipEd, DipEd Admin, MA(Applied Psychology)</p></center>
+<p style="font-size:9px; margin-top:0px">Bsc,DipEd, DipEd Admin, MA(Applied Psychology)</p></center>
