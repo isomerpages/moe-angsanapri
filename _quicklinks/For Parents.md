@@ -9,4 +9,4 @@ description: ""
 
 *   Click here to join our [Parent Support Group](https://go.gov.sg/asps-psg).
 *  Click here for  [Booklist](/booklist-2023/).
-*  Click here for [P1 Registration](https://www.moe.gov.sg/primary/p1-registration).
+*  Click here for .
