@@ -33,15 +33,23 @@ third_nav_title: Our Staff
     <td class="tg-cly1">Operations Manager<br></td>
     <td class="tg-cly1">Mr Muhd Hirwan Bin Muhd Som<br></td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Operations Manager<br></td>
+    <td class="tg-cly1">Mr Fida Mohamed Ghouse B Yahya<br></td>
+  </tr>
   <tr>
     <td class="tg-cly1">ICT Manager<br></td>
     <td class="tg-cly1">Mr Dave Tan Chuan Huat<br></td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Administration Executive<br>Administration Executive<br></td>
-    <td class="tg-cly1">Mdm Lydia Aziz<br>Ms Ng Chien Wei Cynthia<br></td>
+	<tr>
+    <td class="tg-cly1">Administration Executive<br></td>
+    <td class="tg-cly1">Ms Ng Chien Wei Cynthia<br></td>
   </tr>
   <tr>
+    <td class="tg-cly1">Administration Executive<br></td>
+    <td class="tg-cly1">Mdm Lydia Aziz<br></td>
+  </tr>
+	<tr>
     <td class="tg-cly1">Administration Executive<br></td>
     <td class="tg-cly1">Mdm Siti Nur Baidura Bte Rahman<br></td>
   </tr>
@@ -72,6 +80,14 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">Operations Support Officer<br></td>
     <td class="tg-cly1">Mdm Nguyen Do Thu Hien</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">Operations Support Officer<br></td>
+    <td class="tg-cly1">Mdm Ng Meow Eng</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">Operations Support Officer<br></td>
+    <td class="tg-cly1">Mr Mohamad Yusof Bin Md Som </td>
   </tr>
 </tbody>
 </table>

@@ -27,7 +27,7 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-cly1">Desktop Engineer<br></td>
-    <td class="tg-cly1">Mr Tan Eng Lee<br>Mr Joseph Hong Ze En<br></td>
+    <td class="tg-cly1">Mr Tan Eng Lee</td>
   </tr>
   <tr>
     <td class="tg-cly1">Librarian<br></td>

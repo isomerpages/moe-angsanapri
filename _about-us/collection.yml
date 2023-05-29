@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - School History.md
       - School Crest.md
       - School Vision And School Motto.md
@@ -16,10 +17,8 @@ collections:
       - Our Partners & Stakeholders/.keep
       - Our Partners & Stakeholders/School Advisory Committee.md
       - Our Partners & Stakeholders/Parent Support Group.md
+      - Achievements/2022.md
+      - Achievements/2021.md
       - Achievements/.keep
       - Achievements/2020.md
       - Achievements/2019.md
-      - Achievements/2018.md
-      - Achievements/2017.md
-      - Achievements/2016.md
-      - Achievements/2015.md

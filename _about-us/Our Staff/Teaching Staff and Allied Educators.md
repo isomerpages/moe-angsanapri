@@ -49,6 +49,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">1 Responsibility</td>
     <td class="tg-cly1">Ms Li Siyi</td>
     <td class="tg-cly1">Mdm Merwani Bte Ahmad</td>
+		<td class="tg-cly1">Ms Vivien Goh Yen Ling</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
@@ -163,12 +164,11 @@ third_nav_title: Our Staff
     <td class="tg-cly1">2 Gratitude</td>
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
-		<td class="tg-cly1">Mr Bryan Foo Chuan Kiat</td>
+		<td class="tg-cly1">Mr Muhammad Khairul Amshar Bin Anuar</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">2 Empathy</td>
-    <td class="tg-cly1">Ms Lam Yi Xin </td>
     <td class="tg-cly1">Mr Lee Sze Cheng</td>
     <td class="tg-cly1">Mrs Sangeet Bajaj</td>
 		<td class="tg-0lax"></td>
@@ -221,7 +221,7 @@ third_nav_title: Our Staff
   </tr>
 	<tr>
     <td class="tg-cly1">3 Responsibilty</td>
-    <td class="tg-cly1">Mr Victor Kiew Kwok Fong</td>
+    <td class="tg-cly1">Ms Lam Yi Xin</td>
     <td class="tg-cly1">Mrs Lim - Chan Pao Yin</td>
 		<td class="tg-cly1"></td>
   </tr>
@@ -235,7 +235,6 @@ third_nav_title: Our Staff
 	<tr>
     <td class="tg-cly1">3 Kindness</td>
     <td class="tg-cly1">Mr Jeremy Wong Chun Kiat</td>
-    <td class="tg-cly1">Mdm Maszlita Bte Abdul Aziz</td>
     <td class="tg-cly1">Mdm Lam Ai Wei</td>
 		<td class="tg-0lax"></td>
   </tr>
@@ -385,7 +384,6 @@ third_nav_title: Our Staff
     <td class="tg-cly1">6 Respect</td>
     <td class="tg-cly1">Mdm Erlin Bte Amir</td>
     <td class="tg-cly1">Mr Khairul Usmab B Salim</td>
-		<td class="tg-cly1">Mr Rizanudin B Jusary</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
@@ -396,7 +394,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">6 Responsibility</td>
-    <td class="tg-cly1">Mdm Ng Wai Ting </td>
+    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
     <td class="tg-cly1">Mdm Meenah Bte Mohd Salleh</td>
     <td class="tg-0lax"></td>
   </tr>

@@ -11,19 +11,19 @@ The ASPS Parent Support Group (PSG) is a voluntary group of parents and an integ
 ### 3 Key Roles of PSG:
 
 
-1. <u><b>Supporting Partner in Education</b></u>
+1.&nbsp;<u><b>Supporting Partner in Education</b></u>
 <br>
 The PSG complements the school by aligning the PSG-run activities with the school’s objectives, supporting and strengthening the school’s programmes to improve our children’s well-being and learning
 
   
 
-2. <u><b>Bridge Between Parents and School</b></u>
+2.&nbsp;<u><b>Bridge Between Parents and School</b></u>
 <br>
 The PSG listens to parents’ feedback on school operations, practices and programmes, and provides feedback to the school. The PSG also facilitates the school’s communication to parents.
 
   
 
-3. <u><b>Magnet to Attract Other Parents</b></u>
+3.&nbsp;<u><b>Magnet to Attract Other Parents</b></u>
 <br>
 Parents who are actively involved in the PSG are better able to reach out to other parents and involve them. Over time, more parents can contribute to make the school environment more conducive for learning
 
@@ -92,7 +92,7 @@ To provide support and expertise in the following areas:
 </tbody>
 </table>
 
-If you are interested in joining the PSG, please email us at [angsanapsg@gmail.com](mailto:angsanapsg@gmail.com)
+If you are interested in joining the PSG, please email us at&nbsp;[angsanapsg@gmail.com](mailto:angsanapsg@gmail.com)
 
 
 ### School-based workshops on Parenting Tips for Angsana Parents
@@ -105,25 +105,27 @@ A brief summary of talks that have been conducted and upcoming talks:
 
   
 
-<b>2 January 2018: Preparing Your Child for Primary One</b>
+<b>Some of our vibrant and enthusiastic Parent Support Group members</b>
 <br>
-![](/images/PSG1.jpeg)
+![psg_2023_1](/images/psg_2023_1.jpeg)
 
-<b>21 April 2018: The 5 Languages of Love – Connecting with your loved ones</b>
+
+<b>A  member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
-![](/images/PSG2.jpeg)
+![psg_2023_2](/images/psg_2023_2.jpg)
 
-![](/images/PSG3.jpeg)
-
-<b>18 May 2018: Correcting in Love – Positive Discipline</b>
+<b>Busy preparing for Teacher's Day. Hush! It's a surprise</b>
 <br>
-![](/images/psg04.jpg)
+![psg_2023_3](/images/psg_2023_3.jfif)
 
-<b>6 July 2018: Managing Exam Anxiety and Stress</b>
+<b>Working tirelessly for the Big Move!</b>
+![psg_2023_4](/images/psg_2023_4.jpg)
+
+![psg_2023_5](/images/jpg_2023_5.png)
+
+
+<b>Bonding activity during PSG appreciation Day</b>
 <br>
-![](/images/psg05.jpg)
+![psg_2023_6](/images/psg_2023_6.jfif)
 
-
-<b>Active PSG support in school’s recess activities</b>
-<br>
-![](/images/PSG.png)
+![psg_2023_7](/images/psg_2023_7.jfif)
