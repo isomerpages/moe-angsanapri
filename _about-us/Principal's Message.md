@@ -11,7 +11,7 @@ I embarked on my career in education as a Chemistry and Mathematics teacher. Due
 
 <b>A merger of two great schools</b>
          
-Angsana Primary School today is the result of <b><u>the merging of two long-established primary schools</u></b> in the Tampines. These two institutions have nurtured young minds for an impressive 145 years, giving us a vibrant heritage.
+Angsana Primary School today is the result of [the merging of two long-established primary schools](/about-us/school-history/)<b><u>the merging of two long-established primary schools</u></b> in the Tampines. These two institutions have nurtured young minds for an impressive 145 years, giving us a vibrant heritage.
 
 <b>Where we are now</b>
         
