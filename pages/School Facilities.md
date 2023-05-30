@@ -14,14 +14,14 @@ table {
 
 <h2>Schools Facilities</h2>
 
-<table style="width: 1200px">
+<table style="width: 1000px">
   <tbody><tr>
     <th>Description</th>
-    <th>Picture</th> 
+    <th></th> 
   </tr>
   <tr>
     <td>Indoor Sport Hall</td>
-    <td><img src="/images/ALP2.png"></td></tr>
+    <td><img alt="Hall" src="/images/ALP2.png"></td></tr>
   <tr>
     <td>Pal Rooms</td>
     <td><img src="/images/ALP%202023.jpg"></td>
