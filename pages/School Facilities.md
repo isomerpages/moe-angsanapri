@@ -22,13 +22,10 @@ table {
   </tr>
   <tr>
     <td>Indoor Sport Hall</td>
-    <td><img src="/images/ALP 2023.png"></td></tr><tr>
-    
-  </tr>
+    <td><img src="/images/ALP%202023.jpg"></td></tr>
   <tr>
     <td>Pal Rooms</td>
-    <td><img src="(/images/ALP%202023.jpg)"></td>
+    <td><img src="/images/ALP%202023.jpg"></td>
 
   </tr>
 </tbody></table>
-
