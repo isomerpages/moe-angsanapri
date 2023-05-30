@@ -3,6 +3,7 @@ title: School Facilities
 permalink: /school-facility/
 description: ""
 ---
+![](/images/ALP%202023.jpg)
 <style>
 table, th, td {
   border: 2px solid blue;
@@ -22,13 +23,12 @@ table {
   <tr>
     <td>Indoor Sport Hall</td>
     <td><img src="/images/ALP 2023.png"></td></tr><tr>
-    <td>Music Room</td>
-    <td>Jackson</td>
-
+    
   </tr>
   <tr>
     <td>Pal Rooms</td>
-    <td>Doe</td>
+    <td><img src="(/images/ALP%202023.jpg)"></td>
 
   </tr>
 </tbody></table>
+
