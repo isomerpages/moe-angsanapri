@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 table, th, td {
-  border: 1px solid black;
+  border: 2px solid black;
 }
 table {
   border-spacing: 0px;
@@ -21,7 +21,7 @@ table {
   </tr>
   <tr>
     <td>Indoor Sport Hall</td>
-    <td><img src="(/images/edrmodel2023.png)</td"></td></tr><tr>
+    <td><img src="/images/ALP 2023.png"></td></tr><tr>
     <td>Music Room</td>
     <td>Jackson</td>
 
