@@ -21,7 +21,7 @@ table {
   </tr>
   <tr>
     <td>Indoor Sport Hall</td>
-    <td></td></tr><tr>
+    <td><img src="(/images/edr%20model2023.png)</td"></td></tr><tr>
     <td>Music Room</td>
     <td>Jackson</td>
 
