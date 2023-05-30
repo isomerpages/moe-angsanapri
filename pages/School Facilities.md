@@ -12,8 +12,6 @@ table {
 }
 </style>
 
-
-
 <h2>Schools Facilities</h2>
 
 <table style="width: 1050px">
@@ -23,10 +21,7 @@ table {
   </tr>
   <tr>
     <td>Indoor Sport Hall</td>
-    <td>![](/images/BEYOND%20BOUNDARIES.png)</td>
-
-  </tr>
-  <tr>
+    <td></td></tr><tr>
     <td>Music Room</td>
     <td>Jackson</td>
 
