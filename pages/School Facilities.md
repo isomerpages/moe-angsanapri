@@ -3,7 +3,6 @@ title: School Facilities
 permalink: /school-facility/
 description: ""
 ---
-![](/images/ALP%202023.jpg)
 <style>
 table, th, td {
   border: 2px solid blue;
