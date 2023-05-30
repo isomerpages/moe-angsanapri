@@ -3,9 +3,6 @@ title: School Facilities
 permalink: /school-facility/
 description: ""
 ---
-
-
-
 <style>
 table, th, td {
   border: 1px solid black;
@@ -19,14 +16,14 @@ table {
 
 <h2>Schools Facilities</h2>
 
-<table style="width:100%">
+<table style="width: 1050px">
   <tbody><tr>
     <th>Description</th>
     <th>Picture</th> 
   </tr>
   <tr>
     <td>Indoor Sport Hall</td>
-    <td>Smith</td>
+    <td>![](/images/BEYOND%20BOUNDARIES.png)</td>
 
   </tr>
   <tr>
@@ -40,6 +37,3 @@ table {
 
   </tr>
 </tbody></table>
-
-
-
