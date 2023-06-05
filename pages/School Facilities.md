@@ -16,7 +16,7 @@ table {
 
 <table style="width: 1000px">
   <tbody><tr>
-    <th>Description</th>
+    <th>Facility</th>
     <th></th> 
   </tr>
   <tr>
