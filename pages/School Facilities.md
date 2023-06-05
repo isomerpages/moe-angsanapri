@@ -6,7 +6,6 @@ description: ""
 <style>
 table, th, td {
   border: 2px solid blue;
-	border-collapse : collapse;
 }
 table {
   border-spacing: 2px;
@@ -21,7 +20,7 @@ table {
     <th></th> 
   </tr>
   <tr>
-		<th rowspan="2">Indoor Sport Hall</th>
+		<th rowspan="2"><br><br><br><br><br><br><br><br><br><br><br><br>Indoor Sport Hall</th>
     <td><img width="200" alt="Hall" src="/images/ALP2.png"></td>
 	</tr>
 	<tr>
