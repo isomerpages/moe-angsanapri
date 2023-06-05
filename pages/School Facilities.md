@@ -6,7 +6,7 @@ description: ""
 <style>
 table, th, td {
   border: 2px solid blue;
-	border-collapse: collapse;
+	border-collapse:collapse;
 }
 table {
   border-spacing: 2px;
