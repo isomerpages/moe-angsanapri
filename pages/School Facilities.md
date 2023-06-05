@@ -24,7 +24,7 @@ table {
     <td><img width="200" alt="Hall" src="/images/ALP2.png"></td>
 	</tr>
 	<tr>
-    <td><img width="200" alt="Hall" src="/images/ALP2.png"></td>
+    <td><img width="200" alt="Hall" src="/images/ALP4.png"></td>
 	</tr>
   <tr>
     <td>Pal Rooms</td>
