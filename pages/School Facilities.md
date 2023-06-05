@@ -20,8 +20,12 @@ table {
     <th></th> 
   </tr>
   <tr>
-    <td>Indoor Sport Hall</td>
-    <td><img width="200" alt="Hall" src="/images/ALP2.png"></td></tr>
+		<th rowspan="2">Indoor Sport Hall</th>
+    <td><img width="200" alt="Hall" src="/images/ALP2.png"></td>
+	</tr>
+	<tr>
+    <td><img width="200" alt="Hall" src="/images/ALP2.png"></td>
+	</tr>
   <tr>
     <td>Pal Rooms</td>
     <td><img width="200" src="/images/ALP%202023.jpg"></td>
