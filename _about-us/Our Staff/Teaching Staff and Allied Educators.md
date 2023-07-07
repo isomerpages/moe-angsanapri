@@ -384,7 +384,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">6 Respect</td>
     <td class="tg-cly1">Mdm Erlin Bte Amir</td>
-    <td class="tg-cly1">Mr Khairul Usmab B Salim</td>
+    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
+		<td class="tg-cly1">Mr Khairul Usmab B Salim</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
@@ -395,8 +396,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">6 Responsibility</td>
-    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
     <td class="tg-cly1">Mdm Meenah Bte Mohd Salleh</td>
+		<td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
