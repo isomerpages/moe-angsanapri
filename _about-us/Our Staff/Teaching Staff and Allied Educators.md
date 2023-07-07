@@ -138,7 +138,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">2 Responsibility</td>
     <td class="tg-cly1">Mrs Sherry Wong - Chan Yoke Ying</td>
-    <td class="tg-cly1">Mr Tan Ghee Kiat</td>
+    <td class="tg-cly1">Mr Hafizuddin Bin Zulkefeli</td>
 		<td class="tg-cly1">Mdm Roslina Binte Sulaiman</td>
     <td class="tg-cly1"></td>
   </tr>
@@ -165,7 +165,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">2 Gratitude</td>
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
-		<td class="tg-cly1">Mr Muhammad Khairul Amshar Bin Anuar</td>
+		<td class="tg-cly1">Mr Tan Ghee Kiat</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
