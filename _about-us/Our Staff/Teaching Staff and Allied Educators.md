@@ -324,7 +324,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">5 Resilience</td>
     <td class="tg-cly1">Mr Muhammad Fadhli B Jamaluddin</td>
-    <td class="tg-cly1">Mdm Thamilchelvi</td>
+    <td class="tg-cly1">Mrs Ramakrishnan Naidu</td>
 		<td class="tg-cly1">Mr Foo Jun Wei</td>
     <td class="tg-cly1"></td>
   </tr>
