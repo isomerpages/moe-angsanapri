@@ -55,7 +55,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">1 Integrity</td>
     <td class="tg-cly1">Mdm Ratna Sari Bte Hussain</td>
-    <td class="tg-cly1">Mdm Jane Too Yen Wei </td>
+    <td class="tg-cly1">Mdm Mayrah Abdullah Loh </td>
+		<td class="tg-cly1">Ms How Bi Ee </td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
