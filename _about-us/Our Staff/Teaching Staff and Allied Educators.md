@@ -319,12 +319,13 @@ third_nav_title: Our Staff
     <td class="tg-cly1">5 Respect</td>
     <td class="tg-cly1">Mr Mazher s/o Tayeb</td>
     <td class="tg-cly1">Mrs Camilia Cribbett</td>
-    <td class="tg-cly1">Mdm Poonguzhali Narayanasamy</td>
+    <td class="tg-cly1">Mdm Aishah Binte Mohamed Maideen</td>
   </tr>
   <tr>
     <td class="tg-cly1">5 Resilience</td>
     <td class="tg-cly1">Mr Muhammad Fadhli B Jamaluddin</td>
-    <td class="tg-cly1">Mrs Ramakrishnan Naidu</td>
+    <td class="tg-cly1">Mdm Thamilchelvi</td>
+		<td class="tg-cly1">Mr Foo Jun Wei</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
