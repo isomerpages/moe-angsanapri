@@ -38,7 +38,7 @@ School Bookshop and Uniform Operator
 </tbody>
 </table>
 
-##### School Bookshop Operating Hours (9.00 am to 3.30 pm)
+##### Operating Hours (9.00 am to 3.30 pm)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
