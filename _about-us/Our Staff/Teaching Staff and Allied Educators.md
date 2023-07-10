@@ -55,7 +55,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">1 Integrity</td>
     <td class="tg-cly1">Mdm Ratna Sari Bte Hussain</td>
-    <td class="tg-cly1">Mdm Jane Too Yen Wei </td>
+    <td class="tg-cly1">Mdm Mayrah Abdullah Loh </td>
+		<td class="tg-cly1">Ms How Bi Ee </td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
@@ -137,7 +138,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">2 Responsibility</td>
     <td class="tg-cly1">Mrs Sherry Wong - Chan Yoke Ying</td>
-    <td class="tg-cly1">Mr Tan Ghee Kiat</td>
+    <td class="tg-cly1">Mr Hafizuddin Bin Zulkefeli</td>
 		<td class="tg-cly1">Mdm Roslina Binte Sulaiman</td>
     <td class="tg-cly1"></td>
   </tr>
@@ -164,7 +165,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">2 Gratitude</td>
     <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
     <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
-		<td class="tg-cly1">Mr Muhammad Khairul Amshar Bin Anuar</td>
+		<td class="tg-cly1">Mr Tan Ghee Kiat</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
@@ -228,8 +229,7 @@ third_nav_title: Our Staff
 	<tr>
     <td class="tg-cly1">3 Integrity</td>
     <td class="tg-cly1">Mr Mohamad Razali B Jambari</td>
-    <td class="tg-cly1">Mr Ho Jia Ling Joycelyn</td>
-    <td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
+    <td class="tg-cly1">Ms Ho Jia Ling Joycelyn</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
@@ -319,12 +319,13 @@ third_nav_title: Our Staff
     <td class="tg-cly1">5 Respect</td>
     <td class="tg-cly1">Mr Mazher s/o Tayeb</td>
     <td class="tg-cly1">Mrs Camilia Cribbett</td>
-    <td class="tg-cly1">Mdm Poonguzhali Narayanasamy</td>
+    <td class="tg-cly1">Mdm Aishah Binte Mohamed Maideen</td>
   </tr>
   <tr>
     <td class="tg-cly1">5 Resilience</td>
     <td class="tg-cly1">Mr Muhammad Fadhli B Jamaluddin</td>
     <td class="tg-cly1">Mrs Ramakrishnan Naidu</td>
+		<td class="tg-cly1">Mr Foo Jun Wei</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
@@ -383,7 +384,8 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-cly1">6 Respect</td>
     <td class="tg-cly1">Mdm Erlin Bte Amir</td>
-    <td class="tg-cly1">Mr Khairul Usmab B Salim</td>
+    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
+		<td class="tg-cly1">Mr Khairul Usmab B Salim</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
@@ -394,8 +396,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">6 Responsibility</td>
-    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
     <td class="tg-cly1">Mdm Meenah Bte Mohd Salleh</td>
+		<td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>

@@ -22,8 +22,7 @@ While in the orientation years of the primary school, we aim to:
 
 In Angsana Primary School, we adapt Kraft and Sakofs (1988) experiential education model known as the Engage-Discover-Reflect (EDR) model: 
 
-![pal1.png](https://angsanapri.moe.edu.sg/qql/slot/u167/our_student_development/pal/pal1.png "Pedagogical Approaches")
-
+![EDR Model](/images/edr%20model2023.png)
 In addition, for PAL to be effective and achieving its intent, we employ other pedagogies which includes:
 
 *   Inquiry-based Learning
