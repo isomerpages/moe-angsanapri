@@ -14,11 +14,11 @@ description: ""
 ### **Music Room**
 ### **Basket Ball Court**
 ### **CCA Room**
-### **HALL**
-### **HALL**
-### **HALL**
-### **HALL**
-### **HALL**
+### **Computer Lab**
+### **Art Room**
+### **Classrooms**
+### **School Hall**
+### **School ISH**
 ### **HALL**
 ### **HALL**
 ### **HALL**
