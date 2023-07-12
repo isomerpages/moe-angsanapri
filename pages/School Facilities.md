@@ -3,8 +3,26 @@ title: School Facilities
 permalink: /school-facility/
 description: ""
 ---
+### **Canteen**
+### **Bus Bay (Foyer)**
+### **Bookshop**
+### **Student Care Centre**
+### **School Library**
+### **Outdoor Experiential Learning (School Garden)**
+### **Parade Square**
+### **PAL Rooms**
+### **Music Room**
+### **Basket Ball Court**
+### **CCA Room**
 ### **HALL**
-
+### **HALL**
+### **HALL**
+### **HALL**
+### **HALL**
+### **HALL**
+### **HALL**
+### **HALL**
+### **HALL**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
