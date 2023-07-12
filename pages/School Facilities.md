@@ -4,6 +4,29 @@ permalink: /school-facility/
 description: ""
 ---
 ### **Canteen**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-nrix"><img src="/images/Hall_1.jpeg" style="width:55%">
+</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><img src="/images/Hall_2.jpeg"></td>
+  </tr>
+</tbody>
+</table>
+
 ### **Bus Bay (Foyer)**
 ### **Bookshop**
 ### **Student Care Centre**
@@ -19,10 +42,7 @@ description: ""
 ### **Classrooms**
 ### **School Hall**
 ### **School ISH**
-### **HALL**
-### **HALL**
-### **HALL**
-### **HALL**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -83,9 +103,7 @@ description: ""
 
 # SPECIAL ROOMS
 
-### **LOWER PRIMARY CLASSROOMS**
 
-The heart and soul of the Primary 1 experience; where students feel most at home in school. The layout and furniture are undergoing a revamp and will be done up by year end. Once completed, our children can look forward to a cosy environment, ergonomically suited and age appropriate. A space they will thrive in.
 
 ![](/images/Lower%20Pri%20Classrooms.gif)
 
@@ -105,8 +123,8 @@ The heart and soul of the Primary 1 experience; where students feel most at home
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">ART ROOMS<img src="/images/Art%20Rooms.gif" style="width:100%"></td>
-    <td class="tg-wa1i">MUSIC ROOMS<img src="/images/MusicRooms.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Science Rooms<img src="/images/Art%20Rooms.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Maths Rooms<img src="/images/MusicRooms.gif" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
