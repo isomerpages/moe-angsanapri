@@ -108,8 +108,9 @@ description: ""
 
 
 ### **PAL Rooms**
+![pal room](/images/palroom1.JPG)
 
-
+![pal room](/images/palroom2.JPG)
 ### **Music Room**
 
 
