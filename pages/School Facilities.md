@@ -105,12 +105,26 @@ description: ""
 </table>
 
 ### **Parade Square**
+
+
 ### **PAL Rooms**
+
+
 ### **Music Room**
+
+
 ### **Basket Ball Court**
+
+
 ### **CCA Room**
+
+
 ### **Computer Lab**
+
+
 ### **Art Room**
+
+
 ### **Classrooms**
 ![](/images/Lower%20Pri%20Classrooms.gif)
 
