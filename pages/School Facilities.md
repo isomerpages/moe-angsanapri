@@ -50,6 +50,7 @@ description: ""
 </table>
 
 ### **Bookshop**
+![bookshop](/images/bookshop.gif)
 
 ### **Student Care Centre**
 ### **School Library**
