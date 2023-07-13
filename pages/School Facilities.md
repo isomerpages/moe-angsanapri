@@ -18,11 +18,11 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><img src="/images/Hall_1.jpeg" style="width:55%">
+    <td class="tg-nrix"><img src="/images/canteen2.jpeg" style="width:55%">
 </td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/Hall_2.jpeg"></td>
+    <td class="tg-nrix"><img src="/images/canteen1.jpeg"></td>
   </tr>
 </tbody>
 </table>
