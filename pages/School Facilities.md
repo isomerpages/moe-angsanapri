@@ -52,7 +52,7 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-wa1i">Desert Plants<img src="/images/desertplant.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Raised Garden Beds<img src="/images/MusicRooms.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Raised Garden Beds<img src="/images/planters.gif" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
