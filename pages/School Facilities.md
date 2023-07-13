@@ -121,7 +121,7 @@ description: ""
 
 
 ### **Computer Lab**
-
+![computer lab](/images/computerlab.gif)
 
 ### **Art Room**
 
