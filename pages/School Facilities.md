@@ -43,8 +43,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Garden<img src="/images/gardentrial.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Fish Pond<img src="/images/pondgarden.gif" style="width:85%"></td>
+    <td class="tg-wa1i">Covered Busbay<img src="/images/gardentrial.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Safety at Bay<img src="/images/pondgarden.gif" style="width:85%"></td>
   </tr>
 </tbody>
 </table>
