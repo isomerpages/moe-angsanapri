@@ -22,7 +22,7 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-nrix"><img src="/images/canteen 1.jpg"></td>
+    <td class="tg-nrix"><img src="/images/canteen1.JPG"></td>
   </tr>
 </tbody>
 </table>
