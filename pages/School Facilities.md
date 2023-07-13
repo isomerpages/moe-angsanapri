@@ -56,7 +56,7 @@ description: ""
 
 
 ### **School Library**
-
+![Library](/images/library.gif)
 
 ### **Outdoor Experiential Learning**
 <style type="text/css">
