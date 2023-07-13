@@ -50,6 +50,10 @@ description: ""
     <td class="tg-wa1i">Garden<img src="/images/gardentrial.gif" style="width:100%"></td>
     <td class="tg-wa1i">Fish Pond<img src="/images/MusicRooms.gif" style="width:100%"></td>
   </tr>
+	<tr>
+    <td class="tg-wa1i">Garden<img src="/images/gardentrial.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Fish Pond<img src="/images/MusicRooms.gif" style="width:100%"></td>
+  </tr>
 </tbody>
 </table>
 
