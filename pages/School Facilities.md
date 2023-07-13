@@ -78,7 +78,6 @@ description: ""
 </table>
 
 ![Library](/images/library.gif)
-
 ### **Outdoor Experiential Learning**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
