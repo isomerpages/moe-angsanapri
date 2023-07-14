@@ -219,7 +219,7 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-wa1i"><img src="/images/classroom5.jpg" style="width:100%"></td>
-		 <td class="tg-wa1i"><img src="/images/classroom6.JPG" style="width:100%"></td>
+		 <td class="tg-wa1i"><img src="/images/classroom6.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
