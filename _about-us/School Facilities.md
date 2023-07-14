@@ -47,8 +47,7 @@ description: ""
     <td class="tg-wa1i">Safety at Bay<img style="width:90%" src="/images/busbay2.jpeg"></td>
   </tr>
 	<tr>
-		<td> 
-    </td><td class="tg-wa1i">Open Space Foyer<img style="width:100%" src="/images/foyer1.jpeg"></td>
+		<td class="tg-wa1i">Open Space Foyer<img style="width:100%" src="/images/foyer1.jpeg"></td>
   </tr>
 </tbody>
 </table>
