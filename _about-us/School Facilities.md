@@ -219,7 +219,6 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-wa1i"><img src="/images/classroom5.jpg" style="width:100%"></td>
-
   </tr>
 </tbody>
 </table>
