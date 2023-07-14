@@ -46,6 +46,10 @@ description: ""
     <td class="tg-wa1i">Covered Busbay<img src="/images/busbay1.JPG" style="width:100%"></td>
     <td class="tg-wa1i">Safety at Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
   </tr>
+	<tr>
+    <td class="tg-wa1i">Covered Busbay<img src="/images/busbay1.JPG" style="width:100%"></td>
+    <td class="tg-wa1i">Safety at Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
+  </tr>
 </tbody>
 </table>
 
