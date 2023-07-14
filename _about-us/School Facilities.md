@@ -210,8 +210,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Science Rooms<img src="/images/classroom1.jpg" style="width:100%"></td>
-    <td class="tg-wa1i">Maths Rooms<img src="/images/classroom2.jpg" style="width:100%"></td>
+    <td class="tg-wa1i">Comducive Atmosphere<img src="/images/classroom1.jpeg" style="width:100%"></td>
+    <td class="tg-wa1i">Green Corridor<img src="/images/classroom2.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
