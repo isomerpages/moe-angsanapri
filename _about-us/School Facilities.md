@@ -195,9 +195,6 @@ description: ""
 </table>
 
 ### **Classrooms**
-![](/images/Lower%20Pri%20Classrooms.gif)
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -213,8 +210,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Science Rooms<img src="/images/Art%20Rooms.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Maths Rooms<img src="/images/MusicRooms.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Science Rooms<img src="/images/classroom1.jpg" style="width:100%"></td>
+    <td class="tg-wa1i">Maths Rooms<img src="/images/classroom2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
