@@ -211,7 +211,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-wa1i">Conducive Atmosphere<img src="/images/classroom1.jpeg" style="width:100%"></td>
-    <td class="tg-wa1i">Green Corridor<img src="/images/classroom2.jpeg" style="width:100%"></td>
+    <td class="tg-wa1i">Green Corridor<img src="/images/classroom2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
