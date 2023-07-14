@@ -217,7 +217,7 @@ description: ""
 </table>
 
 ### **School Hall**
-
+![school hall](/images/schoolhall2.JPG)
 
 ### **School ISH**
 
