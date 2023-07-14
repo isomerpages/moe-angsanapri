@@ -102,8 +102,8 @@ description: ""
     <td class="tg-wa1i">Raised Garden Beds<img src="/images/planters.gif" style="width:100%"></td>
   </tr>
 	<tr>
-    <td class="tg-wa1i">Desert Plants<img src="/images/gardenom.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Raised Garden Beds<img src="/images/gardenom1.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Lesson By The Pond<img src="/images/gardenom.png" style="width:100%"></td>
+    <td class="tg-wa1i">Teachable Moments <img src="/images/gardenom1.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
