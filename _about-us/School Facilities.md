@@ -51,6 +51,43 @@ description: ""
 </table>
 <img style="width:97%" src="/images/foyer1.jpeg">
 
+### **Field And Outdoor Playground**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+ 
+  <table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 350px">
+<col style="width: 350px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i">Covered Busbay<img src="/images/busbay1.JPG" style="width:100%"></td>
+    <td class="tg-wa1i">Safety at Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
+  </tr>
+</tbody>
+</table>
+<img style="width:97%" src="/images/foyer1.jpeg">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 350px">
+<col style="width: 350px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i">Covered Busbay<img src="/images/busbay1.JPG" style="width:100%"></td>
+    <td class="tg-wa1i">Safety at Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
+  </tr>
+</tbody>
+</table>
+<img style="width:97%" src="/images/foyer1.jpeg">
+
 ### **Bookshop**
 ![bookshop](/images/bookshop.gif)
 
