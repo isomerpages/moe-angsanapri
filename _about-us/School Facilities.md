@@ -301,8 +301,8 @@ description: ""
 ![Indoor Sport Hall](/images/ishhall1.gif)
 
 ### Science Room
-![Science Room](/images/science3.gif)
 
+<img style="width:97%" src="/images/science3.gif">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
