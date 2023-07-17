@@ -44,8 +44,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Covered Busbay<img src="/images/busbay1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i">Safety at Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
+    <td class="tg-wa1i">Covered Bus Bay<img src="/images/busbay1.JPG" style="width:100%"></td>
+    <td class="tg-wa1i">Safety At Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
   </tr>
 </tbody>
 </table>
@@ -213,7 +213,7 @@ description: ""
 </table>
 
 
-### **Basket Ball Court**
+### **Basketball Court**
 ![Basketball court](/images/basketball.gif)
 
 ### **Dance Studio**
