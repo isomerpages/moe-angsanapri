@@ -253,9 +253,7 @@ description: ""
 ![Indoor Sport Hall](/images/ishhall1.gif)
 
 ### Science Room
-
-![](/images/Lower%20Pri%20Classrooms.gif)
-
+![Science Room](/images/science3.gif)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -272,8 +270,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Science Rooms<img src="/images/Art%20Rooms.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Maths Rooms<img src="/images/MusicRooms.gif" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/science1.JPG" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/science2.JPG" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
