@@ -45,7 +45,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-wa1i">Covered Bus Bay<img src="/images/busbay1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i">Safety At Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
+    <td class="tg-wa1i">Safety At The Bus Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
   </tr>
 </tbody>
 </table>
