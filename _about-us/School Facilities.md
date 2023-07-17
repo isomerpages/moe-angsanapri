@@ -321,7 +321,7 @@ description: ""
 ### **School ISH**
 ![Indoor Sport Hall](/images/ishhall1.gif)
 
-### Science Room
+### **Science Room**
 
 <img style="width:97%" src="/images/science3.gif">
 <style type="text/css">
@@ -345,7 +345,7 @@ description: ""
 </tbody>
 </table>
 
-### Maths Room
+### **Maths Room**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
