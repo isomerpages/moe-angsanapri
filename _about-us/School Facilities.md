@@ -120,6 +120,30 @@ description: ""
 
 
 ### **Music Room**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 350px">
+<col style="width: 350px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i"><img src="/images/music1.JPG" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/music2.JPG" style="width:100%"></td>
+  </tr>
+	<tr>
+    <td class="tg-wa1i"><img src="/images/music3.JPG" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/music4.gif" style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### **Basket Ball Court**
