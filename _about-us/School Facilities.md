@@ -71,14 +71,12 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><img src="/images/students1.jpg" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/studentsc2.jpg" style="width:90%"></td>
+    <td class="tg-wa1i"><img src="/images/studentc1.jpg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/studentsc2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
-<img style="width:97%" src="/images/studentsc3.jpg">
-
-![student center]()
+<img style="width:96%" src="/images/studentsc3.jpg">
 
 ### **School Library**
 <style type="text/css">
