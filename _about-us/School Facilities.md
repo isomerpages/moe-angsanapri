@@ -67,8 +67,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">School Field<img src="/images/busbay1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i">Outdoor Playground<img src="/images/busbay2.jpeg" style="width:90%"></td>
+    <td class="tg-wa1i">School Field<img src="/images/field1.gif" style="width:100%"></td>
+    <td class="tg-wa1i">Outdoor Playground<img src="/images/ground1.jpeg" style="width:90%"></td>
   </tr>
 </tbody>
 </table>
