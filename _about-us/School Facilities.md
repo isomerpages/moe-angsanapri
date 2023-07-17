@@ -255,7 +255,6 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
@@ -274,7 +273,6 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 350px">
 <col style="width: 350px">
 </colgroup>
 <tbody>
