@@ -293,8 +293,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Science Rooms<img src="/images/Art%20Rooms.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Maths Rooms<img src="/images/MusicRooms.gif" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/mathroom1.JPG" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/mathroom2.gif" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
