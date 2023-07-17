@@ -245,7 +245,7 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<img style="width:96%" src="/images/bookshop.gif">
 
 ### **Classrooms**
 <style type="text/css">
