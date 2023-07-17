@@ -68,7 +68,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-wa1i">School Field<img src="/images/field1.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Outdoor Playground<img src="/images/ground1.gif" style="width:90%"></td>
+    <td class="tg-wa1i">Outdoor Playground<img src="/images/ground1.gif" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
