@@ -280,7 +280,8 @@ description: ""
 ### **School Hall**
 
 
-<img style="width:91%" src="/images/hallmovie.gif">
+<img style="width:97%" src="/images/hallmovie.gif">
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -296,8 +297,7 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><img src="/images/schoolhall1.jpeg" style="width:90%"></td>
-    <td class="tg-wa1i"><img src="/images/schoolhall2.JPG" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/schoolhall1.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
