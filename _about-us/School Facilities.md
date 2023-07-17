@@ -292,7 +292,7 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 625px">
+<col style="width: 325px">
 <col style="width: 150px">
 </colgroup>
 <tbody>
