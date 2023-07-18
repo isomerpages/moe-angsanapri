@@ -75,7 +75,7 @@ description: ""
 
 ### **Bookshop**
 
-<img style="width:80%" src="/images/bookshop.gif">
+<img style="width:70%" src="/images/bookshop.gif">
 
 ### **Student Care Centre**
 <style type="text/css">
