@@ -74,8 +74,7 @@ description: ""
 </table>
 
 ### **Bookshop**
-
-<img style="width:70%" src="/images/bookshop.gif">
+<img src="/images/bookshop.gif" style="width:474px;height:480px">
 
 ### **Student Care Centre**
 <style type="text/css">
