@@ -122,8 +122,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+<img src="/images/library.gif" style="width:592px;height:400px; float: center;border-radius:10%;">
 
-![Library](/images/library.gif)
 ### **Outdoor Experiential Learning**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
