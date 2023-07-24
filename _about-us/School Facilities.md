@@ -303,7 +303,7 @@ description: ""
 </table>
 
 ### **School ISH**
-![Indoor Sport Hall](/images/ishhall1.gif)
+<img src="/images/ishhall1.gif" style="width:692px;height:450px; float: center;border-radius:50%;">
 
 ### **Science Room**
 
