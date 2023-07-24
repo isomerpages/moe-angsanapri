@@ -307,7 +307,6 @@ description: ""
 
 ### **Science Room**
 
-<img style="width:97%" src="/images/science3.gif">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -328,6 +327,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+<img src="/images/science3.gif" style="width:592px;height:450px; float: center;border-radius:50%;">
 
 ### **Maths Room**
 
