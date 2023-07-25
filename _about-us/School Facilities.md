@@ -75,8 +75,8 @@ description: ""
 
 ### **Bookshop**
 
-<img style="width:70%" src="/images/bookshop.gif">
-
+<img src="/images/bookshop.gif" style="width:474px;height:480px; float: center;border-radius:10%;">
+		 
 ### **Student Care Centre**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -122,8 +122,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+<img src="/images/library.gif" style="width:592px;height:400px; float: center;border-radius:50%;">
 
-![Library](/images/library.gif)
 ### **Outdoor Experiential Learning**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -303,11 +303,10 @@ description: ""
 </table>
 
 ### **School ISH**
-![Indoor Sport Hall](/images/ishhall1.gif)
+<img src="/images/ishhall1.gif" style="width:692px;height:450px; float: center;border-radius:50%;">
 
 ### **Science Room**
 
-<img style="width:97%" src="/images/science3.gif">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -328,6 +327,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+<img src="/images/science3.gif" style="width:592px;height:450px; float: center;border-radius:50%;">
 
 ### **Maths Room**
 
