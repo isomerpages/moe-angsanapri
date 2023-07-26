@@ -114,7 +114,7 @@ A brief summary of talks that have been conducted and upcoming talks:
 <br>
 ![psg_2023_2](/images/psg_2023_2.jpg)
 
-<b>Busy preparing for Teacher's Day. Hush! It's a surprise</b>
+<b>Busy preparing for Teachers' Day. Hush! It's a surprise</b>
 <br>
 ![psg_2023_3](/images/psg_2023_3.jfif)
 
