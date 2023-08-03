@@ -117,7 +117,8 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <b>Busy preparing for Teachers' Day. Hush! It's a surprise</b>
 <br>
-![psg_2023_3](/images/psg_2023_3.jfif)
+
+<img src="/images/psg_2023_3.jfif" style="width:674px;height:480px; float: center;border-radius:60%;">
 
 <b>Working tirelessly for the Big Move!</b>
 ![psg_2023_4](/images/psg_2023_4.jpg)
