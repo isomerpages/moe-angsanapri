@@ -131,6 +131,5 @@ A brief summary of talks that have been conducted and upcoming talks:
 <br>
 
 <img src="/images/psg_2023_6.jfif" style="width:674px;height:380px; float: center;border-radius:50%;">
-<b>   </b>
-<img src="/images/psg_2023_7.jfif" style="width:674px;height:480px; float: center;border-radius:10%;">
 
+<img src="/images/psg_2023_7.jfif" style="width:674px;height:480px; float: center;border-radius:10%;">
