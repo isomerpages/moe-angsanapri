@@ -107,8 +107,8 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <b>Some of our vibrant and enthusiastic Parent Support Group members</b>
 <br>
-![psg_2023_1](/images/psg_2023_1.jpeg)
 
+<img src="/images/psg_2023_1.jpeg" style="width:674px;height:480px; float: center;border-radius:10%;">
 
 <b>A  member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
