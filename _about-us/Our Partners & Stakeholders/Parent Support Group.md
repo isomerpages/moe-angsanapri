@@ -112,7 +112,8 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <b>A  member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
-![psg_2023_2](/images/psg_2023_2.jpg)
+
+<img src="/images/psg_2023_2.jpg" style="width:674px;height:480px; float: center;border-radius:10%;">
 
 <b>Busy preparing for Teachers' Day. Hush! It's a surprise</b>
 <br>
