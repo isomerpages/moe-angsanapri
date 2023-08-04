@@ -124,12 +124,11 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <img src="/images/psg_2023_4.jpg" style="width:674px;height:680px; float: center;border-radius:10%;">
 
-
+<br>
 <img src="/images/jpg_2023_5.png" style="width:674px;height:680px; float: center;border-radius:50%;">
 
 <b>Bonding activity during PSG appreciation Day</b>
 <br>
-
 <img src="/images/psg_2023_6.jfif" style="width:674px;height:380px; float: center;border-radius:50%;">
-
+<br>
 <img src="/images/psg_2023_7.jfif" style="width:674px;height:480px; float: center;border-radius:10%;">
