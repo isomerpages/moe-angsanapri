@@ -33,7 +33,7 @@ Angsana Primary School relocated to our new campus at 51 Tampines St 61 on 6 Jun
 
 ### Qiaonan Primary School (1933 -2014)
 
-Previously named Kiau Nam School, Qiaonan Primary School was founded by  in 1933. From humble beginnings in a rented house in Lorong Koo Chye, the school expanded and moved to Lorong Tai Seng in 1938, and then to Paya Lebar Road in 1940. When World War II broke out in 1942, the school was forced to close down. After the war, the school was rebuilt by directors, teachers and alumni and reopened in October 1945 in Paya Lebar Road. On 1 April 1957, the school became a government-aided school, and in 1984, became a full government school. In 1985, Kiau Nam School merged with Pulau Tekong Primary School and was relocated to 15 Tampines Street 11, where it was officially renamed&nbsp;<b>Qiaonan Primary School</b>.
+Previously named Kiau Nam School, Qiaonan Primary School was founded in 1933. From humble beginnings in a rented house in Lorong Koo Chye, the school expanded and moved to Lorong Tai Seng in 1938, and then to Paya Lebar Road in 1940. When World War II broke out in 1942, the school was forced to close down. After the war, the school was rebuilt by directors, teachers and alumni and reopened in October 1945 in Paya Lebar Road. On 1 April 1957, the school became a government-aided school, and in 1984, became a full government school. In 1985, Kiau Nam School merged with Pulau Tekong Primary School and was relocated to 15 Tampines Street 11, where it was officially renamed&nbsp;<b>Qiaonan Primary School</b>.
 
 ### Griffiths Primary School (1950 -2014)
 
