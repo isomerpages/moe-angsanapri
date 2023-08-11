@@ -37,7 +37,7 @@ Click&nbsp;[here](/others/Announcements/school-attendance-matters/)&nbsp;to read
 ```
 
 ```
-<img src="/images/HBLAsps.png" style="width:150px;height:190px;margin-right:15px;" align="left">
+<img src="/images/hblasps.png" style="width:150px;height:160px;margin-right:15px;" align="left">
 
 
 ##### Home-Based Learning (HBL)
