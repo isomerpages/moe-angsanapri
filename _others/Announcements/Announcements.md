@@ -37,4 +37,9 @@ Click&nbsp;[here](/others/Announcements/school-attendance-matters/)&nbsp;to read
 ```
 
 ```
+<img src="/images/Home.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
+
+##### Home-Based Learning (HBL)
+
+[Read More...](https://sites.google.com/moe.edu.sg/aspshbl2020/home)
