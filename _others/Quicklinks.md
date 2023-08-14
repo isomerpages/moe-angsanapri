@@ -10,14 +10,6 @@ Quicklinks
 
 <img src="/images/Home.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
 
-
-##### Home-Based Learning (HBL)
-
-[Read More...](https://sites.google.com/moe.edu.sg/aspshbl2020/home)
-
-
-<img src="/images/Stu.jpeg" style="width:100px;height:150px;margin-right:15px;" align="left">
-
 ##### Student iCON
 
 [Read More...](https://workspace.google.com/dashboard)

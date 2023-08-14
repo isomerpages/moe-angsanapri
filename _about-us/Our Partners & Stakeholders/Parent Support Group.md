@@ -107,25 +107,29 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <b>Some of our vibrant and enthusiastic Parent Support Group members</b>
 <br>
-![psg_2023_1](/images/psg_2023_1.jpeg)
 
+<img src="/images/psg_2023_1.jpeg" style="width:674px;height:480px; float: center;border-radius:10%;">
 
 <b>A  member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
-![psg_2023_2](/images/psg_2023_2.jpg)
+
+<img src="/images/psg_2023_2.jpg" style="width:674px;height:480px; float: center;border-radius:10%;">
 
 <b>Busy preparing for Teachers' Day. Hush! It's a surprise</b>
 <br>
-![psg_2023_3](/images/psg_2023_3.jfif)
+
+<img src="/images/psg_2023_3.jfif" style="width:674px;height:480px; float: center;border-radius:60%;">
 
 <b>Working tirelessly for the Big Move!</b>
-![psg_2023_4](/images/psg_2023_4.jpg)
 
-![psg_2023_5](/images/jpg_2023_5.png)
+<img src="/images/psg_2023_4.jpg" style="width:674px;height:680px; float: center;border-radius:10%;">
+
+<br>
+<img src="/images/jpg_2023_5.png" style="width:674px;height:680px; float: center;border-radius:50%;">
 
 
 <b>Bonding activity during PSG appreciation Day</b>
 <br>
-![psg_2023_6](/images/psg_2023_6.jfif)
-
-![psg_2023_7](/images/psg_2023_7.jfif)
+<img src="/images/psg_2023_6.jfif" style="width:674px;height:380px; float: center;border-radius:50%;">
+<br>
+<img src="/images/psg_2023_7.jfif" style="width:674px;height:480px; float: center;border-radius:10%;">
