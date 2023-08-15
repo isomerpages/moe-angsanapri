@@ -231,9 +231,6 @@ description: ""
 
 ### **School Hall**
 
-
-<img style="width:97%" src="/images/hallmovie.gif">
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -244,7 +241,7 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 325px">
+<col style="width: 700px">
 <col style="width: 150px">
 </colgroup>
 <tbody>
