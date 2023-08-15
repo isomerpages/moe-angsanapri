@@ -23,12 +23,12 @@ description: ""
   <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 350px">
+<col style="width: 390px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-wa1i"><img src="/images/field2.jpeg" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/ground3.JPEG" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/ground3.JPG" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
