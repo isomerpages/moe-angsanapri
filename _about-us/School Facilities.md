@@ -58,8 +58,6 @@ description: ""
 </table>
 
 ### **Outdoor Experiential Learning Space**
-<img src="/images/pond01.JPG" style="width:700px;height:400px;">
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -71,14 +69,16 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 400px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
 	<tr>
     <td class="tg-wa1i"><img src="/images/desertplant.gif" style="width:100%"></td>
-		<td class="tg-wa1i"> <img src="/images/gardenom1.jpeg" style="width:100%"></td>
+		<td class="tg-wa1i"> <img src="/images/pond01.png" style="width:100%"></td>
   </tr>
-	
+	<tr>
+   <td class="tg-wa1i"> <img src="/images/gardenom1.jpeg" style="width:100%"></td>
+  </tr>
 </tbody>
 </table>
 
