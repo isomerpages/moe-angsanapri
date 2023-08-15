@@ -106,6 +106,7 @@ description: ""
 ![art room](/images/artroom1.JPG)
 
 ### **Classrooms**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -117,15 +118,16 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 350px">
+<col style="width: 195px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-wa1i"><img src="/images/classroom1.png" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/classroom2.jpg" style="width:54%"></td>
+     <td class="tg-wa1i"><img src="/images/classroom2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
 
 ### **School Hall**
 ![school hjall](/images/schoolhall1.jpeg)
