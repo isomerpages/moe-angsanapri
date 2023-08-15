@@ -8,27 +8,8 @@ description: ""
 <img src="/images/canteen1.JPG" style="width:700px;height:400px;">
 
 ### **Bus Bay (Foyer)**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
- 
-  <table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 700px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/busbay2.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
 
+<img src="/images/busbay2.jpeg" style="width:700px;height:400px;">
 
 ### **Field And Outdoor Playground**
 <style type="text/css">
