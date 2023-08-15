@@ -115,7 +115,7 @@ description: ""
 ![Basketball court](/images/basketball.JPG)
 
 ### **Dance Studio**
-![Dance Studio](/images/dance1.gif)
+![Dance Studio](/images/dance1.JPG)
 
 
 ### **Computer Lab**
