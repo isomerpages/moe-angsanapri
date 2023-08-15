@@ -223,16 +223,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Conducive Atmosphere<img src="/images/classroom1.jpeg" style="width:100%"></td>
-    <td class="tg-wa1i">Green Corridor<img src="/images/classroom2.jpg" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i">Start Of A Good Day<img src="/images/classroom3.jpg" style="width:100%"></td>
-    <td class="tg-wa1i">Classroom Lockers<img src="/images/classroom4.jpg" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i"><img src="/images/classroom5.jpg" style="width:100%"></td>
-		 <td class="tg-wa1i"><img src="/images/classroom6.jpg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/classroom1.jpeg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/classroom2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
