@@ -34,17 +34,16 @@ description: ""
  
   <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 350px">
+<col style="width: 700px">
 <col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Covered Bus Bay<img src="/images/busbay1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i">Safety At The Bus Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
+    <td class="tg-wa1i"><img src="/images/busbay2.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
-<img style="width:97%" src="/images/foyer1.jpeg">
+
 
 ### **Field And Outdoor Playground**
 <style type="text/css">
