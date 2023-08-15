@@ -158,16 +158,11 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 350px">
+<col style="width: 750px">
 <col style="width: 350px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/music1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/music2.JPG" style="width:100%"></td>
-  </tr>
 	<tr>
-    <td class="tg-wa1i"><img src="/images/music3.JPG" style="width:100%"></td>
     <td class="tg-wa1i"><img src="/images/music4.gif" style="width:100%"></td>
   </tr>
 </tbody>
