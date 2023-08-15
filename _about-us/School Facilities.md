@@ -28,7 +28,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-wa1i"><img src="/images/field2.jpeg" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/ground3.jpeg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/ground3.JPEG" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
