@@ -105,18 +105,17 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 350px">
+<col style="width: 400px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Fish Pond<img src="/images/pondgarden.gif" style="width:85%"></td>
+    <td class="tg-wa1i"><img src="/images/pondgarden.gif" style="width:100%"></td>
   </tr>
 	<tr>
-    <td class="tg-wa1i">Desert Plants<img src="/images/desertplant.gif" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/desertplant.gif" style="width:100%"></td>
+		<td class="tg-wa1i"> <img src="/images/gardenom1.jpeg" style="width:100%"></td>
   </tr>
-	<tr>
-    <td class="tg-wa1i">Teachable Moments <img src="/images/gardenom1.jpeg" style="width:100%"></td>
-  </tr>
+	
 </tbody>
 </table>
 
