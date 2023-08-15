@@ -109,15 +109,12 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Garden<img src="/images/gardentrial.gif" style="width:100%"></td>
     <td class="tg-wa1i">Fish Pond<img src="/images/pondgarden.gif" style="width:85%"></td>
   </tr>
 	<tr>
     <td class="tg-wa1i">Desert Plants<img src="/images/desertplant.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Raised Garden Beds<img src="/images/planters.gif" style="width:100%"></td>
   </tr>
 	<tr>
-    <td class="tg-wa1i">Borderless Classroom Learning<img src="/images/gardenom.png" style="width:100%"></td>
     <td class="tg-wa1i">Teachable Moments <img src="/images/gardenom1.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
