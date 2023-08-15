@@ -17,12 +17,7 @@ description: ""
 <col style="width: 700px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix"><img src="/images/canteen2.jpg" style="width:55%">
-</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"><img src="/images/canteen1.JPG"></td>
+    <tr><td class="tg-nrix"><img src="/images/canteen1.JPG"></td>
   </tr>
 </tbody>
 </table>
