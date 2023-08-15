@@ -90,7 +90,7 @@ description: ""
 
 
 ### **Music Room**
-
+![music room](/images/music01.JPG)
 
 ### **Basketball Court**
 ![Basketball court](/images/basketball.JPG)
