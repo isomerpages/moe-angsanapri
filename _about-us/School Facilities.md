@@ -123,8 +123,8 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><img src="/images/classroom1.jpeg" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/classroom2.jpg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/classroom1.png" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/classroom2.jpg" style="width:54%"></td>
   </tr>
 </tbody>
 </table>
