@@ -90,7 +90,9 @@ description: ""
 
 
 ### **Music Room**
-![music room](/images/music01.JPG)
+![music room](/images/music01.png)
+
+
 
 ### **Basketball Court**
 ![Basketball court](/images/basketball.JPG)
@@ -130,12 +132,10 @@ description: ""
 ### **School Hall**
 ![school hjall](/images/schoolhall1.jpeg)
 
-### **School ISH**
+### **Indoor Sports Hall**
 ![ish](/images/ishhall01.JPG)
 
 ### **Science Room**
-
-
 ![science room](/images/science1.JPG)
 
 ### **Maths Room**
