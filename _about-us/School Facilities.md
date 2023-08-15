@@ -119,7 +119,7 @@ description: ""
 
 
 ### **Computer Lab**
-![computer lab](/images/computerlab.gif)
+![computer lab](/images/computerlab.JPG)
 
 ### **Art Room**
 <style type="text/css">
