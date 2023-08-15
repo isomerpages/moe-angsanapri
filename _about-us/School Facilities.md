@@ -85,7 +85,7 @@ description: ""
 ### **Parade Square**
 <img src="/images/parade1.JPG" style="width:700px;height:400px;">
 
-### **PAL Rooms**
+### **PAL Room**
 ![pal room](/images/palroom1.JPG)
 
 
