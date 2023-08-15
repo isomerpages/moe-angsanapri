@@ -112,7 +112,7 @@ description: ""
 
 
 ### **Basketball Court**
-![Basketball court](/images/basketball.gif)
+![Basketball court](/images/basketball.JPG)
 
 ### **Dance Studio**
 ![Dance Studio](/images/dance1.gif)
