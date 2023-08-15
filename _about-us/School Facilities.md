@@ -93,8 +93,7 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 750px">
-<col style="width: 450px">
+<col style="width: 700px">
 </colgroup>
 <tbody>
   <tr>
