@@ -76,11 +76,9 @@ description: ""
     <td class="tg-wa1i"><img src="/images/desertplant.gif" style="width:100%"></td>
 		<td class="tg-wa1i"> <img src="/images/pond01.png" style="width:100%"></td>
   </tr>
-	<tr>
-   <td class="tg-wa1i"> <img src="/images/gardenom1.jpeg" style="width:100%"></td>
-  </tr>
 </tbody>
 </table>
+<img style="width:65%" src="/images/gardenom1.jpeg">
 
 ### **Parade Square**
 <img src="/images/parade1.JPG" style="width:700px;height:400px;">
