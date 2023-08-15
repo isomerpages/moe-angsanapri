@@ -92,7 +92,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-<img src="/images/library.gif" style="width:592px;height:400px; float: center;border-radius:50%;">
 
 ### **Outdoor Experiential Learning**
 <style type="text/css">
