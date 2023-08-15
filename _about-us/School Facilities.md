@@ -130,22 +130,17 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
+<col style="width: 750px">
+<col style="width: 450px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-wa1i"><img src="/images/parade1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/parade2.JPG" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i"><img src="/images/parade3.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/parade4.JPG" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
-![Parade Square](/images/parade5.JPG)
+
 
 
 ### **PAL Rooms**
