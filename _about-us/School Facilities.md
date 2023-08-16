@@ -139,5 +139,4 @@ description: ""
 ![science room](/images/science1.JPG)
 
 ### **Maths Room**
-
-![math room](/images/mathroom1.jpg)
+<img src="/images/mathroom1.jpg" style="width:700px;height:600px;">
