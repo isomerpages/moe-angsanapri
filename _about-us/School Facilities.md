@@ -140,4 +140,4 @@ description: ""
 
 ### **Maths Room**
 
-![math room](/images/mathroom1.JPG)
+![math room](/images/mathroom1.jpg)
