@@ -10,24 +10,6 @@ Announcements
 =============
 
 
-<img src="/images/lta.jpeg" style="width:150px;height:190px;margin-right:15px;" align="left"> 
-
-##### LTA Handbrake requirement for bicycles
-Click [here](/others/announcements/lta-handbrake-requirement-for-bicycles/)&nbsp;to read more.
-
-```
-
-```
-
-<img src="/images/welcome.jpeg" style="width:150px;height:190px;margin-right:15px;" align="left">
-
-##### Welcome to Angsana!
-Click&nbsp;[here](/others/Announcements/Welcome-to-Angsana/)&nbsp;to read more.
-
-```
-
-```
-
 
 <img src="/images/school.jpeg" style="width:150px;height:190px;margin-right:15px;" align="left">
 
