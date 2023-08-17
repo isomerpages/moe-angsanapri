@@ -49,5 +49,5 @@ Click&nbsp;[here](/others/Announcements/school-attendance-matters/)&nbsp;to read
 ```
 <img src="/images/hblasps.png" style="width:150px;height:160px;margin-right:15px;" align="left">
 
-##### ECHA Awards
+##### ECHA Award
 Click&nbsp;[here](/others/Announcements/school-attendance-matters/)&nbsp;to read more.
