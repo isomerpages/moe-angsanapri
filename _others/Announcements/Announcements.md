@@ -43,3 +43,11 @@ Click&nbsp;[here](/others/Announcements/school-attendance-matters/)&nbsp;to read
 ##### Home-Based Learning (HBL)
 
 [Read More...](https://sites.google.com/moe.edu.sg/aspshbl2020/home)
+
+```
+
+```
+<img src="/images/hblasps.png" style="width:150px;height:160px;margin-right:15px;" align="left">
+
+##### ECHA Awards
+Click&nbsp;[here](/others/Announcements/school-attendance-matters/)&nbsp;to read more.
