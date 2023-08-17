@@ -3,7 +3,7 @@ title: ECHA Award
 permalink: /echaaward/
 description: ""
 ---
-2023 MOE Edusave Character Award
+### 2023 MOE Edusave Character Award
 
 In 2012, MOE introduced the Edusave Character Award (ECHA) to enable schools to recognise
 students who demonstrate exemplary character and outstanding personal qualities through their
