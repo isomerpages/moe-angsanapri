@@ -19,5 +19,5 @@ conduct grade of either “Very Good” or ‘Excellent’ for the current year.
 representation of the awardees, the school will be gathering input from teachers, parents, students
 and other stakeholders, which include CCA coaches and school vendors. We would like to invite
 parents and other stakeholders to nominate students who are deserving of the award. You may
-download the form from the school website and submit it after completion to the school office by
+[download](/files/2023%20echa%20nomination%20form.pdf) the form from the school website and submit it after completion to the school office by
 Friday, 1 September 2023.
