@@ -14,10 +14,10 @@ schools broaden the qualities and achievements to be encouraged and applauded.
 At Angsana Primary School, we wish to recognise students who consistently live up to the school
 values and are good role models to others around them.
 
-To be eligible for the award, the student must be a Singapore Citizen. He/She should attain a
+To be eligible for the award, the student must be a <b><u>Singapore Citizen</u></b>. He/She should attain a
 conduct grade of either “Very Good” or ‘Excellent’ for the current year. For a more holistic
 representation of the awardees, the school will be gathering input from teachers, parents, students
 and other stakeholders, which include CCA coaches and school vendors. We would like to invite
 parents and other stakeholders to nominate students who are deserving of the award. You may
 [download](/files/2023%20echa%20nomination%20form.pdf) the form from the school website and submit it after completion to the school office by
-Friday, 1 September 2023.
+<b><u>Friday, 1 September 2023.</u></b>
