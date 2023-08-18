@@ -77,7 +77,7 @@ description: ""
 		<td class="tg-wa1i"> <img src="/images/pond01.png" style="width:100%"></td>
   </tr>
 	<tr>
-    <td class="tg-wa1i"><img src="/images/gardenom1.jpeg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/gardenom1.png" style="width:100%"></td>
 		<td class="tg-wa1i"> <img src="/images/stonechair.png" style="width:100%"></td>
   </tr>
 </tbody>
