@@ -57,7 +57,7 @@ Games and Engagement through Mathematics (GEM) @ Recess aims to inculcate the lo
 <br>
 Students will embark on station based learning trail that ties in the themes of community and neighbourhood. There will be station work where students will attempt questions and tasks related to topics in Mathematics.
 
-![](/images/Math4.png)
+![maths](/images/math04.png)
 
 <u> P5-P6 Learning Journey </u>
 <br>

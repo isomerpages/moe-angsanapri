@@ -4,54 +4,15 @@ permalink: /about-us/school-facility/
 description: ""
 ---
 ### **Canteen**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 700px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-nrix"><img src="/images/canteen2.jpg" style="width:55%">
-</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"><img src="/images/canteen1.JPG"></td>
-  </tr>
-</tbody>
-</table>
+
+<img src="/images/canteen1.JPG" style="width:700px;height:400px;">
 
 ### **Bus Bay (Foyer)**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
- 
-  <table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i">Covered Bus Bay<img src="/images/busbay1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i">Safety At The Bus Bay<img src="/images/busbay2.jpeg" style="width:90%"></td>
-  </tr>
-</tbody>
-</table>
-<img style="width:97%" src="/images/foyer1.jpeg">
+
+<img src="/images/busbay2.jpeg" style="width:700px;height:400px;">
 
 ### **Field And Outdoor Playground**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -63,18 +24,15 @@ description: ""
   <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 350px">
+<col style="width: 390px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">School Field<img src="/images/field1.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Outdoor Playground<img src="/images/ground1.gif" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/field2.jpeg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/ground3.JPG" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
-
-
-		 
 
 
 ### **School Library**
@@ -98,9 +56,8 @@ description: ""
   </tr>
 </tbody>
 </table>
-<img src="/images/library.gif" style="width:592px;height:400px; float: center;border-radius:50%;">
 
-### **Outdoor Experiential Learning**
+### **Outdoor Experiential Learning Garden**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -115,115 +72,45 @@ description: ""
 <col style="width: 350px">
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-wa1i">Garden<img src="/images/gardentrial.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Fish Pond<img src="/images/pondgarden.gif" style="width:85%"></td>
+	<tr>
+    <td class="tg-wa1i"><img src="/images/desertplant.gif" style="width:100%"></td>
+		<td class="tg-wa1i"> <img src="/images/pond01.png" style="width:100%"></td>
   </tr>
 	<tr>
-    <td class="tg-wa1i">Desert Plants<img src="/images/desertplant.gif" style="width:100%"></td>
-    <td class="tg-wa1i">Raised Garden Beds<img src="/images/planters.gif" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i">Borderless Classroom Learning<img src="/images/gardenom.png" style="width:100%"></td>
-    <td class="tg-wa1i">Teachable Moments <img src="/images/gardenom1.jpeg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/gardenom.png" style="width:100%"></td>
+		<td class="tg-wa1i"> <img src="/images/stonechair.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
 
 ### **Parade Square**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/parade1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/parade2.JPG" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i"><img src="/images/parade3.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/parade4.JPG" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<img src="/images/parade1.JPG" style="width:700px;height:400px;">
 
-![Parade Square](/images/parade5.JPG)
-
-
-### **PAL Rooms**
+### **PAL Room**
 ![pal room](/images/palroom1.JPG)
 
 
 ### **Music Room**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/music1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/music2.JPG" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i"><img src="/images/music3.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/music4.gif" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+![music room](/images/music01.png)
+
 
 
 ### **Basketball Court**
-![Basketball court](/images/basketball.gif)
+![Basketball court](/images/basketball.JPG)
 
 ### **Dance Studio**
-![Dance Studio](/images/dance1.gif)
+![Dance Studio](/images/dance1.JPG)
 
 
 ### **Computer Lab**
-![computer lab](/images/computerlab.gif)
+![computer lab](/images/computerlab.JPG)
 
 ### **Art Room**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/artroom1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/artroom2.JPG" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
-<img style="width:45%" src="/images/artroom.gif">
+![art room](/images/artroom1.JPG)
 
 ### **Classrooms**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -235,95 +122,25 @@ description: ""
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 350px">
-<col style="width: 350px">
+<col style="width: 195px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i">Conducive Atmosphere<img src="/images/classroom1.jpeg" style="width:100%"></td>
-    <td class="tg-wa1i">Green Corridor<img src="/images/classroom2.jpg" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i">Start Of A Good Day<img src="/images/classroom3.jpg" style="width:100%"></td>
-    <td class="tg-wa1i">Classroom Lockers<img src="/images/classroom4.jpg" style="width:100%"></td>
-  </tr>
-	<tr>
-    <td class="tg-wa1i"><img src="/images/classroom5.jpg" style="width:100%"></td>
-		 <td class="tg-wa1i"><img src="/images/classroom6.jpg" style="width:100%"></td>
+    <td class="tg-wa1i"><img src="/images/classroom1.png" style="width:100%"></td>
+     <td class="tg-wa1i"><img src="/images/classroom2.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
 
 ### **School Hall**
+![school hjall](/images/schoolhall1.jpeg)
 
-
-<img style="width:97%" src="/images/hallmovie.gif">
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 325px">
-<col style="width: 150px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/schoolhall1.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
-
-### **School ISH**
-<img src="/images/ishhall1.gif" style="width:692px;height:450px; float: center;border-radius:50%;">
+### **Indoor Sports Hall**
+![ish](/images/ishhall01.JPG)
 
 ### **Science Room**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/science1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/science2.JPG" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
-<img src="/images/science3.gif" style="width:592px;height:450px; float: center;border-radius:50%;">
+![science room](/images/science1.JPG)
 
 ### **Maths Room**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-wa1i"><img src="/images/mathroom1.JPG" style="width:100%"></td>
-    <td class="tg-wa1i"><img src="/images/mathroom2.gif" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<img src="/images/mathroom1.jpg" style="width:700px;height:600px;">
