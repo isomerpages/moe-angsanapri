@@ -28,7 +28,7 @@ Like the Angsana tree, Angsana Primary School aims to live up to the usefulness 
 
 Angsana Primary School relocated to our new campus at 51 Tampines St 61 on 6 June 2022. You can read about the histories of our pre-merger schools and of Angsana Primary School at :
 
-######  **[Singapore School Histories Online Repository](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories)**&nbsp;
+######  **[Singapore School Histories Online Repository](https://moehc.moe.edu.sg/moehc/school-histories/)**&nbsp;
 
 
 ### Qiaonan Primary School (1933 -2014)
