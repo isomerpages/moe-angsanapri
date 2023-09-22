@@ -29,6 +29,10 @@ third_nav_title: Our Staff
     <td class="tg-cly1">Desktop Engineer<br></td>
     <td class="tg-cly1">Mr Tan Eng Lee</td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Desktop Engineer<br></td>
+    <td class="tg-cly1">Mr Mohammad Irfaan Bin Mohd Juanda</td>
+  </tr>
   <tr>
     <td class="tg-cly1">Librarian<br></td>
     <td class="tg-cly1">Mdm Noraisah Bte Khair</td>
