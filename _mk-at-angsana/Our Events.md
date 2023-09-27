@@ -17,7 +17,11 @@ Our Events
 ![CNY 2023](/images/MK@Angsana/Chinese%20New%20Year%20Celebration%202023%20resized.jpg)
 
 * 28 April 2023 | Hari Raya Celebration
-![CNY 2023](/images/MK@Angsana/Chinese%20New%20Year%20Celebration%202023%20resized.jpg)
+![](/images/hari%20raya%20celebrations.png)
+
+* 24 May 2023 | Mid-Year Celebration
+![](/images/mid-year%20celebrations.png)
+
 
 <b>Upcoming:</b>
 
