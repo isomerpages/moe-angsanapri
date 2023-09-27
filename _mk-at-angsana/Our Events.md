@@ -12,7 +12,6 @@ Our Events
 * 3 January 2023 | First Day of School
 ![](/images/MK@Angsana/First%20Day%20of%20School%202023%20(New)%20resized.png)
 
-
 * 20 January 2023 | Chinese New Year Celebration
 ![CNY 2023](/images/MK@Angsana/Chinese%20New%20Year%20Celebration%202023%20resized.jpg)
 
@@ -22,6 +21,8 @@ Our Events
 * 24 May 2023 | Mid-Year Celebration
 ![](/images/mid-year%20celebrations.png)
 
+* 21 July 2023 | Racial Harmony Day 2023
+![](/images/racial%20harmony%20day_mk.png)
 
 <b>Upcoming:</b>
 
