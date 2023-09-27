@@ -33,7 +33,7 @@ Our Family
 <tbody>
   <tr>
     <td class="tg-vox4">Centre Leaders</td>
-    <td class="tg-cqfb">Ms Panmeline Wong <span style="font-weight:bold">(Centre Head)</span></td>
+    <td class="tg-cqfb">Ms Panmeline Wong <span style="font-weight:bold">(Centre Head)</span><br>Ms Nur Shahida<span style="font-weight:bold"> (Deputy Centre Head)</span></td>
   </tr>
   <tr>
     <td class="tg-vox4">English Language Team</td>
