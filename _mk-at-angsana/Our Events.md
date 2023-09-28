@@ -24,6 +24,9 @@ Our Events
 * 21 July 2023 | Racial Harmony Day 2023
 ![](/images/racial%20harmony%20day_mk.png)
 
+* 7 August 2023 | National Day Celebrations 
+![](/images/ndp%20celebrations2023.png)
+
 <b>Upcoming:</b>
 
 * 18 January 2023 I Open House
