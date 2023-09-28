@@ -29,6 +29,9 @@ Orientation Package
 	
 ![](/images/MK@Angsana/Calendar%20of%20Events%20(Term%201).png)
 
+<center><b><u> Orientations 2023 </u></b></center>
+	
+![](/images/MK@Angsana/orientation%202023%20poster.png)
 
 <center><b><u> Sample Snack Menu</u></b></center>
 
