@@ -31,10 +31,11 @@ Our KCare centre operates from 7am to 7pm on Mondays to Fridays, including schoo
 The KCare programme has been designed to complement the MOE Kindergarten’s curriculum. It emphasises the provision of time and space for children to play, explore and discover. The programme also focuses on the importance of providing opportunities for the children to develop confidence, self-help skills, social skills and values such as responsibility, care and respect in a safe and conducive environment.
 
 
+![](/images/MK@Angsana/mkprogramme.png)
+![](/images/MK@Angsana/mkfreeplay.png)
+![](/images/MK@Angsana/mktypicalday.png)
+![](/images/MK@Angsana/mktypicalday2.png)
 
-![](/images/MK@Angsana/KCare%20Programme.png)
-![](/images/Sample%20Timetable%20(AM).png)
-![](/images/Sample%20Timetable%20(PM).png)
 ![](/images/MK@Angsana/KCare%20Fee.jpeg)
 
 For more information on KCare, please visit&nbsp;[https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care).
