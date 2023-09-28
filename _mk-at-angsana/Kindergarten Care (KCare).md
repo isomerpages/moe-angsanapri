@@ -39,3 +39,7 @@ The KCare programme has been designed to complement the MOE Kindergarten’s cur
 ![](/images/MK@Angsana/KCare%20Fee.jpeg)
 
 For more information on KCare, please visit&nbsp;[https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care).
+
+        
+For any enquiries, they can be reached at
+Email: KCASN@rafflesstudentcare.com
