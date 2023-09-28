@@ -25,7 +25,7 @@ Orientation Package
 ![](/images/k1%20first%202%20days.png)
 
 	
-<center><b><u> Calendar of Events (Term 1) </u></b></center>
+<center><b><u> Calendar of Events (To be updated) (Term 1) </u></b></center>
 	
 ![](/images/MK@Angsana/Calendar%20of%20Events%20(Term%201).png)
 
