@@ -36,7 +36,7 @@ The KCare programme has been designed to complement the MOE Kindergarten’s cur
 ![](/images/MK@Angsana/mktypicalday.png)
 ![](/images/MK@Angsana/mktypicalday2.png)
 
-![](/images/MK@Angsana/KCare%20Fee.jpeg)
+![](/images/kcarefee.png)
 
 For more information on KCare, please visit&nbsp;[https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care).
 
