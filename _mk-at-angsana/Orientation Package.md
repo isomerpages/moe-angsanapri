@@ -22,7 +22,7 @@ Orientation Package
 
 <center><b><u> First 2 Days Programme </u></b></center>
 
-![](/images/MK@Angsana/K1%20First%202%20Days%20Programme.png)
+![](/images/k1%20first%202%20days.png)
 
 	
 <center><b><u> Calendar of Events (Term 1) </u></b></center>
