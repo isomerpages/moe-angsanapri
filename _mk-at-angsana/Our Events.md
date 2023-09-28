@@ -27,9 +27,12 @@ Our Events
 * 7 August 2023 | National Day Celebrations 
 ![](/images/ndp%20celebrations2023.png)
 
+* 31 August 2023 | Teachers' Day Celebration
+![](/images/MK@Angsana/teachers%20day%20celebration%202023.png)
+
 <b>Upcoming:</b>
 
-* 18 January 2023 I Open House
+* 5 October 2023 I Children's Day Celebration
 
 <b>Events (2022)</b>
 
