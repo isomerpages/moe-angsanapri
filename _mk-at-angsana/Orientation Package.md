@@ -18,11 +18,6 @@ Orientation Package
 
 ![](/images/OP2.png)
 
-<center><b><u>Important Information </u></b></center>
-
-![](/images/MK@Angsana/K1%20Important%20Information.jpg)
-
-![](/images/MK@Angsana/K2%20Important%20Information.jpg)
 
 
 <center><b><u> First 2 Days Programme </u></b></center>
