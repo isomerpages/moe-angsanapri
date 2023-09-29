@@ -18,7 +18,7 @@ The programme includes meals as well as activities designed to provide time and 
 *   Indoor and outdoor modular activities, such as tinkering, cookery and gardening activities.
 *   Indoor and outdoor play, such as dramatic play, and sand and water play.
 
-<img src="/images/raffles%20k%20care.png" style="width:290px;height:250px;margin-right:15px;" align="left">
+<img src="/images/raffles%20k%20care.png" style="width:230px;height:200px;margin-right:500px;" align="left">
       
 
 Raffles Student Care will be our new KCare Operator with the effect from 2 January 2024.Raffles Student Care Centre was established in 2008 and has been operating community and school-based student care and KCare centres at various locations across the country. Guided by our Company Vision of **Building Our Next Generation**, we inculcate core values and life skills to our young children to ensure they grow up well.
