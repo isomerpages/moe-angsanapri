@@ -37,7 +37,7 @@ Our Family
   </tr>
   <tr>
     <td class="tg-vox4">English Language Team</td>
-    <td class="tg-cqfb">Teacher Julia<span style="font-weight:bold"> (Level Head)</span><br>Teacher Liyana<br>Teacher Nitra<br>Teacher Aqida<br>Teacher Cecilia<br>Teacher Geralyn<br>Teacher Zakia<br>Teacher Vini</td>
+    <td class="tg-cqfb">Teacher Julia<span style="font-weight:bold"> (Level Head)</span><br>Teacher Liyana<br>Teacher Nitra<br>Teacher Aqida<br>Teacher Cecilia<br>Teacher Geralyn<br>Teacher Zakia<br>Teacher Sarvini</td>
   </tr>
   <tr>
     <td class="tg-vox4">Chinese Language Team</td>
@@ -45,7 +45,7 @@ Our Family
   </tr>
   <tr>
     <td class="tg-vox4">Malay Language Team</td>
-    <td class="tg-cqfb">Cikgu Ruzana<br>Cikgu Zima<br>Cikgu Lili</td>
+    <td class="tg-cqfb">Cikgu Ruzana<br>Cikgu Hazimah<br>Cikgu Suhail</td>
   </tr>
   <tr>
     <td class="tg-vox4">Tamil Language Team</td>
