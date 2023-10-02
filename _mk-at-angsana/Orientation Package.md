@@ -9,37 +9,9 @@ description: ""
 Orientation Package
 ===================
 
-<center><b><u>Key Features of the MK Curriculum </u></b></center>
-
-![](/images/OP.png)
 
 
-<center><b><u>Tips for parents/caregivers </u></b></center>
-
-![](/images/OP2.png)
-
-<center><b><u>Important Information </u></b></center>
-
-![](/images/MK@Angsana/K1%20Important%20Information.jpg)
-
-![](/images/MK@Angsana/K2%20Important%20Information.jpg)
-
-
-<center><b><u> First 2 Days Programme </u></b></center>
-
-![](/images/MK@Angsana/K1%20First%202%20Days%20Programme.png)
-
+<center><b><u> Orientations 2023 </u></b></center>
 	
-<center><b><u> Calendar of Events (Term 1) </u></b></center>
-	
-![](/images/MK@Angsana/Calendar%20of%20Events%20(Term%201).png)
+![](/images/MK@Angsana/orientation%202023%20poster.png)
 
-
-<center><b><u> Sample Snack Menu</u></b></center>
-
-![](/images/MK@Angsana/OP8.png)
-
-	
-[MOE Kindergarten Family Handbook](/files/2021%20MOE%20Kindergarten%20Family%20Handbook.pdf)
-
-[MK Family Handbook Acknowledgement Form](/files/MK%20Family%20Handbook%20Acknowledgement%20Form.pdf)
