@@ -3,7 +3,6 @@ title: Niche Enrichment Programmes
 permalink: /teaching-n-learning/niche-enrichment-programmes/
 description: ""
 ---
-
 ### Applied Learning Programme
 
 We guide our students in the development of Computational Thinking (CT) concepts and CT attitudes such as imagination, thinking out of the box, making productive mistakes, collaboration and persevering to find solutions.  The children learn to be curious, and create and learn to be eco-stewards and eco-advocates in promoting sustainable and smart living.
@@ -14,3 +13,7 @@ We are aware that we can no longer anticipate all the problems and challenges th
 ![](/images/ALP4.png)
 
 ![](/images/ALP%202023.jpg)
+
+### Learning for Life  Programme
+       
+In the programme, we guide students to lead self and to lead others through leadership concepts in the Leader in Me programme progressively across the levels.  Through a variety of learning experiences, the students will learn to care, learn and serve.
