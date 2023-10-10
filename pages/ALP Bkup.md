@@ -1,6 +1,6 @@
 ---
-title: Applied Learning Programme
-permalink: /teaching-n-learning/applied-learning-programme/
+title: ALP Bkup
+permalink: /permalink/
 description: ""
 ---
 ### Nurturing Problem Solvers using Computational Thinking
