@@ -4,16 +4,17 @@ permalink: /school-information/Student-Care-Centre/Student-Care-Centre/
 description: ""
 third_nav_title: Student Care Centre
 ---
-
-
 ![](/images/SchoolInformation.jpg)
 
 
 Student Care Centre
 ===================
 
-<img src="/images/SCC.jpeg" style="width:30%">
+<img src="/images/SCC.jpeg" style="width:190px;height:150px;margin-right:15px;" align="right">
 
+   Raffles Student Care will be our new operator for SCC with effect from 1 January 2024.<br>
+Website : [www.rafflesstudentcare.com ](www.rafflesstudentcare.com)<br>
+Email : [ASN@rafflesstudentcare.com](ASN@rafflesstudentcare.com)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -74,7 +75,7 @@ Student Care Centre
 </table>
 
 
-For more information, click [here](http://www.learningstudioeducare.com/)
+For more information, click&nbsp;[here](http://www.learningstudioeducare.com/)
 
 
 
