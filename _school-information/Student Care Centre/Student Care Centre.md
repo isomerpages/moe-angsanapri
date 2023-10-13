@@ -30,7 +30,7 @@ Student Care Centre
   
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Email</span></td>
-    <td class="tg-vzug"><a href="ASN@rafflesstudentcare.com"><span style="font-weight:600;text-decoration:underline;color:#009783">ASN@rafflesstudentcare.com</span></a></td>
+    <td class="tg-vzug"><a href="mailto:ASN@rafflesstudentcare.com"><span style="font-weight:600;text-decoration:underline;color:#009783">ASN@rafflesstudentcare.com</span></a></td>
   </tr>
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Website</span></td>
