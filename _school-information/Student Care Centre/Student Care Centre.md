@@ -39,8 +39,7 @@ Student Care Centre
 </tbody>
 </table>
 
-<img src="/images/SCC.jpeg" style="width:190px;height:150px;" align="right">
-
+<img style="width:30%" src="/images/SCC.jpeg">
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
