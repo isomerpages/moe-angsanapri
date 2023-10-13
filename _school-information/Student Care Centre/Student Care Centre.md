@@ -13,7 +13,7 @@ Student Care Centre
 <img src="/images/SCC.jpeg" style="width:190px;height:150px;margin-right:55px;" align="right">
 
    Raffles Student Care will be our new operator for SCC with effect from 1 January 2024.<br>
-Website : [www.rafflesstudentcare.com ](www.rafflesstudentcare.com)<br>
+Website : [www.rafflesstudentcare.com ](https://www.rafflesstudentcare.com)<br>
 Email : [ASN@rafflesstudentcare.com](ASN@rafflesstudentcare.com)
 
 <style type="text/css">
