@@ -10,7 +10,7 @@ third_nav_title: Student Care Centre
 Student Care Centre
 ===================
 
-<img src="/images/SCC.jpeg" style="width:190px;height:150px;margin-right:15px;" align="right">
+<img src="/images/SCC.jpeg" style="width:190px;height:150px;margin-right:55px;" align="right">
 
    Raffles Student Care will be our new operator for SCC with effect from 1 January 2024.<br>
 Website : [www.rafflesstudentcare.com ](www.rafflesstudentcare.com)<br>
