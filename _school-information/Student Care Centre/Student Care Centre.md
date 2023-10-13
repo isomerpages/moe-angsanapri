@@ -36,11 +36,11 @@ Student Care Centre
     <td class="tg-czno"><span style="font-weight:400;color:#000">Website</span></td>
     <td class="tg-vzug"><a href="https://www.rafflesstudentcare.com/"><span style="font-weight:600;text-decoration:underline;color:#009783">www.rafflesstudentcare.com</span></a></td>
   </tr>
-  
-  
 </tbody>
 </table>
-<img src="/images/SCC.jpeg" style="width:190px;height:150px;margin-right:10px;" align="right">
+
+<img src="/images/SCC.jpeg" style="width:190px;height:150px;" align="right">
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
