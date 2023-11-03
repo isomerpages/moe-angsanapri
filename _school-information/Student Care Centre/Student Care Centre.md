@@ -28,7 +28,14 @@ Student Care Centre
   </tr>
 </thead>
 <tbody>
-  
+  <tr>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">Operator</span></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">Raffles Student Care Centre</span></td>
+  </tr>
+  <tr>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">Telephone</span></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">8950 7293</span></td>
+  </tr>
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Email</span></td>
     <td class="tg-vzug"><a href="mailto:ASN@rafflesstudentcare.com"><span style="font-weight:600;text-decoration:underline;color:#009783">ASN@rafflesstudentcare.com</span></a></td>
@@ -40,6 +47,24 @@ Student Care Centre
 	<tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Registration</span></td>
     <td class="tg-vzug"><a href="https://www.rafflesstudentcare.com/Registration"><span style="font-weight:600;text-decoration:underline;color:#009783">www.rafflesstudentcare.com/Registration</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-czno" colspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">Operating Hours</span></td>
+    <td class="tg-czno"></td>
+  </tr>
+  <tr>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">Monday – Friday (School Term)</span></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">11.00 am – 7.00 pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">Monday – Friday (School Holiday)</span></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">7.30 am – 7.00 pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-czno" colspan="2"><span style="font-weight:400;color:#000">Closed on Centre Closure Days, Saturdays, Sundays and Gazetted Public Holidays.</span></td>
   </tr>
 </tbody>
 </table>
