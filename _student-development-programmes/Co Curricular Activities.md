@@ -32,7 +32,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 782px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 782px">
 <colgroup>
 <col style="width: 163px">
 <col style="width: 151px">
@@ -51,7 +51,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4" class="tg-cly1">Physical Sports</td>
+    <td class="tg-cly1" rowspan="4">Physical Sports</td>
     <td class="tg-0lax">Football</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">3.00pm - 5.30pm</td>
@@ -67,8 +67,8 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Badminton</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Ratna Sari Hussain<br>Mr Mazher s/o Tayeb<br>Mr Kiew Kwok Fong Victor</td>
-  </tr>
+    <td class="tg-0lax">Mdm Ratna Sari Hussain<br>Mr Mazher s/o Tayeb<br>
+  </td></tr>
   <tr>
     <td class="tg-0lax">Wushu</td>
     <td class="tg-0lax"> Friday</td>
@@ -76,7 +76,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Mdm Safura<br>Ms Ma Jingying<br>Mrs Tan-Ong Yian Ping<br></td>
   </tr>
   <tr>
-    <td rowspan="2" class="tg-cly1">Clubs &amp; Societies</td>
+    <td class="tg-cly1" rowspan="2">Clubs &amp; Societies</td>
     <td class="tg-0lax">Info Comm Club</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
@@ -89,11 +89,11 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Mr Hasvinnath Pillai Shastri<br>Ms Chung Sin Le<br></td>
   </tr>
   <tr>
-    <td rowspan="5" class="tg-cly1">Visual &amp; Performing Arts</td>
-    <td rowspan="2" class="tg-cly1">Concert Band</td>
+    <td class="tg-cly1" rowspan="5">Visual &amp; Performing Arts</td>
+    <td class="tg-cly1" rowspan="2">Concert Band</td>
     <td class="tg-0lax">Tuesday &amp; Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td rowspan="2" class="tg-0lax">Ms Maragatham d/o Sivalingam<br>Ms Toh Ying Han<br></td>
+    <td class="tg-0lax" rowspan="2">Ms Maragatham d/o Sivalingam<br>Ms Toh Ying Han<br></td>
   </tr>
   <tr>
   </tr>
@@ -101,7 +101,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Art Club</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Maszlita<br>Ms Joanne Ng Si Wei<br>
+    <td class="tg-0lax">Ms Joanne Ng Si Wei<br>
 		Mdm Jamilah Bte Abdullah<br>Ms Lam Ai Wei<br></td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Ms Li Siyi<br>Ms Nurul Arini Bte Junaidi<br>Mdm Estelle Goh<br></td>
   </tr>
   <tr>
-    <td rowspan="2" class="tg-cly1">Uniformed Groups</td>
+    <td class="tg-cly1" rowspan="2">Uniformed Groups</td>
     <td class="tg-0lax">Red Cross</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
@@ -127,7 +127,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Scouts</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Yam Choon Hian<br>Mr Goh Yong Sheng<br>Mdm Merwani</td>
+    <td class="tg-0lax">Mr Goh Yong Sheng<br>Mr Norhaziq Amalee Bin Jaafar<br>Mdm Merwani</td>
 	</tr>
 	<tr>
     <td class="tg-0lax"></td>
