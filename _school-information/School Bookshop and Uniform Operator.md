@@ -2,6 +2,7 @@
 title: School Bookshop and Uniform Operator
 permalink: /school-information/School-Bookshop-and-Uniform-Operator/
 description: ""
+variant: markdown
 ---
 ![](/images/SchoolInformation.jpg)
 
@@ -29,11 +30,11 @@ School Bookshop and Uniform Operator
 <tbody>
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Telephone</span></td>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">: 8803 6700</span></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">: 6764 3102</span></td>
   </tr>
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Website</span></td>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">:</span> <a href="http://www.asencio.com.sg/"><span style="font-weight:600;text-decoration:underline;color:#009783">www.asencio.com.sg</span></a></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">:</span> <a href="http://asenciobookshop.sg/"><span style="font-weight:600;text-decoration:underline;color:#009783">asenciobookshop.sg</span></a></td>
   </tr>
 </tbody>
 </table>
