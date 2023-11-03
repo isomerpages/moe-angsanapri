@@ -3,6 +3,7 @@ title: Student Care Centre
 permalink: /school-information/Student-Care-Centre/Student-Care-Centre/
 description: ""
 third_nav_title: Student Care Centre
+variant: markdown
 ---
 ![](/images/SchoolInformation.jpg)
 
@@ -35,6 +36,10 @@ Student Care Centre
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Website</span></td>
     <td class="tg-vzug"><a href="https://www.rafflesstudentcare.com/"><span style="font-weight:600;text-decoration:underline;color:#009783">www.rafflesstudentcare.com</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">Registration</span></td>
+    <td class="tg-vzug"><a href="https://www.rafflesstudentcare.com/Registration"><span style="font-weight:600;text-decoration:underline;color:#009783">www.rafflesstudentcare.com/Registration</span></a></td>
   </tr>
 </tbody>
 </table>
