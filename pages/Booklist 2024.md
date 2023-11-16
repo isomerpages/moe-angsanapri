@@ -4,18 +4,18 @@ permalink: /booklist-2024/
 description: ""
 variant: markdown
 ---
-[P1 Booklist](/files/Booklist-2024-P1.pdf)        
+[P1 Booklist](/files/booklist-2024-p1.pdf)        
 
-[P2 Booklist](/files/Booklist-2024-P2.pdf)     
+[P2 Booklist](/files/booklist-2024-p2.pdf)     
 
-[P3 Booklist](/files/Booklist-2024-P3.pdf)   
+[P3 Booklist](/files/booklist-2024-p3.pdf)   
 
-[P4 Booklist](/files/Booklist-2024-P4.pdf)  
+[P4 Booklist](/files/booklist-2024-p4.pdf)  
 
-[P5 Foundation Booklist](/files/Booklist-2024-P5-Foundation.pdf)  
+[P5 Foundation Booklist](/files/booklist-2024-p5-foundation.pdf)  
 
-[P5 Standard Booklist](/files/Booklist-2024-P5-Standard.pdf)  
+[P5 Standard Booklist](/files/booklist-2024-p5-standard.pdf)  
 
-[P6 Foundation Booklist](/files/Booklist-2024-P6-Foundation.pdf)  
+[P6 Foundation Booklist](/files/booklist-2024-p6-foundation.pdf)  
 
-[P6 Standard Booklist](/files/Booklist-2024-P6-Foundation.pdf)
+[P6 Standard Booklist](/files/booklist-2024-p6-foundation.pdf)
