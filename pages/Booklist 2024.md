@@ -18,4 +18,4 @@ variant: markdown
 
 [P6 Foundation Booklist](/files/booklist-2024-p6-foundation.pdf)  
 
-[P6 Standard Booklist](/files/booklist-2024-p6-foundation.pdf)
+[P6 Standard Booklist](/files/booklist-2024-p6-standard.pdf)
