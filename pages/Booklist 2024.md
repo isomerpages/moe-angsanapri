@@ -10,7 +10,7 @@ variant: markdown
 
 [P3 Booklist](/files/Booklist-2024-P3.pdf)   
 
-[P4 Booklist](/files/PBooklist-2024-P4.pdf)  
+[P4 Booklist](/files/Booklist-2024-P4.pdf)  
 
 [P5 Foundation Booklist](/files/Booklist-2024-P5-Foundation.pdf)  
 
