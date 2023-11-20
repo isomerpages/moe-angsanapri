@@ -21,11 +21,10 @@ Our Learning Environment
 ![](/images/MK@Angsana/ML%20TL%20Classroom.jpg)
 
 <b><u> Playground </u></b>
-
+![](/images/Playground.png)
 
 <b><u> Garden (Front) </u></b>
-
-![](/images/MK@Angsana/Garden%20(Front).png)
+![](/images/Garden__Front__NOV_update.jpeg)
 
 <b><u> Garden (Back) </u></b>
 
@@ -36,7 +35,7 @@ Our Learning Environment
 ![](/images/MK@Angsana/Music%20and%20Movement%20Room.png)
 
 <b><u> Motor Skills Development Room </u></b>
-
+![](/images/MSD_Room_NOV_update.jpeg)
 
 <b><u> Tricycle Play Area </u></b>
 ![](/images/MK@Angsana/Tricycle%20Play%20Area.jpg)
