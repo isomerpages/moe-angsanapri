@@ -2,12 +2,12 @@ collections:
   mk-at-angsana:
     output: true
     order:
-      - Orientation 2023.md
       - MK@Angsana.md
       - Our Vision, Mission, Values and Beliefs.md
       - Our Family.md
       - Our Learning Environment.md
       - Our Events.md
+      - Orientation 2023.md
       - Orientation Package.md
       - Kindergarten Care (KCare).md
       - Other Information.md
