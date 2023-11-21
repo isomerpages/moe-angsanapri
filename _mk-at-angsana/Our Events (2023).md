@@ -32,7 +32,7 @@ Our Events (2023)
 ![](/images/MK@Angsana/teachers%20day%20celebration%202023.png)
 
 * 5 October 2023 I Children's Day Celebration
+![](/images/Children_s_Day_Celebration.png)
 
-
-
-
+*  2023 I Deepavali and End-of-Year Celebrations
+![](/images/Deepavali___End_of_Year_Celebrations.png)
