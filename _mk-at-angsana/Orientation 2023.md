@@ -43,5 +43,10 @@ Orientation 2023
 [](/files/2__KCare_Orientation_Slides_2023.pdf)
 
 <b>Breakout Room Slides</b>
+[](/files/3__Breakout_Room_Slides.pdf)
 
+<b>Family Handbook 2023</b>
+[](/files/10__Family_Handbook_2023.pdf)
 
+<b>MK Family Handbook Acknowledgement Form</b>
+[](/files/11__MK_Family_Handbook_Acknowledgement_Form.pdf)
