@@ -12,6 +12,6 @@ Orientation 2023
 
 
 
-<center><b><u> Orientations 2023 </u></b></center>
+<center><b><u> Orientation 2023 </u></b></center>
 	
-![](/images/MK@Angsana/orientation%202023%20poster.png)
+	
