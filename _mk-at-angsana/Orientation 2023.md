@@ -34,4 +34,7 @@ Orientation 2023
 <b>Sample Snack Menu</b>
 ![](/images/7__Sample_Snack_Menu.png)
 
-[](/files/1__MK_Orientation_Slides_2023.pdf)
+
+
+[MK Orientation Slides]
+![](/files/1__MK_Orientation_Slides_2023.pdf)
