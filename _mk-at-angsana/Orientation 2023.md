@@ -37,7 +37,7 @@ Orientation 2023
 
 
 <b>MK Orientation Slides</b>
-![](/files/1__MK_Orientation_Slides_2023.pdf)
+[](/files/1__MK_Orientation_Slides_2023.pdf)
 
 <b>KCare Orientation Slides</b>
 [](/files/2__KCare_Orientation_Slides_2023.pdf)
