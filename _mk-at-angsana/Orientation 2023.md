@@ -24,3 +24,8 @@ Orientation 2023
 <b>Important Information</b>
 ![](/images/6a__Important_Information__K1_.jpg)
 ![](/images/6b__Important_Information__K2_.jpg)
+
+<b>K1 First 2 Days Programme</b>
+![](/images/4__First_2_Days_Programme_Nov.png)
+
+
