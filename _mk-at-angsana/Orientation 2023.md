@@ -13,5 +13,14 @@ Orientation 2023
 
 
 <center><b><u> Orientation 2023 </u></b></center>
-	
-	
+
+<b>Key Features of the MK Curriculum</b>
+![](/images/9__Key_Features_of_the_MK_Curriculum.jpg)
+
+<b>Tips for Parents/ Caregivers</b>
+![](/images/8a__Tips_for_parents_caregivers.jpg)
+![](/images/8b__Tips_for_parents_caregivers.jpg)
+
+<b>Important Information</b>
+![](/images/6a__Important_Information__K1_.jpg)
+![](/images/6b__Important_Information__K2_.jpg)
