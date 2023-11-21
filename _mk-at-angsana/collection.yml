@@ -2,7 +2,6 @@ collections:
   mk-at-angsana:
     output: true
     order:
-      - Orientation (2023).md
       - MK@Angsana.md
       - Our Vision, Mission, Values and Beliefs.md
       - Our Family.md
