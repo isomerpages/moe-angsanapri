@@ -31,7 +31,8 @@ Our Events (2023)
 * 31 August 2023 | Teachers' Day Celebration
 ![](/images/MK@Angsana/teachers%20day%20celebration%202023.png)
 
-<b>Upcoming:</b>
-
 * 5 October 2023 I Children's Day Celebration
+
+
+
 
