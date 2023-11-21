@@ -28,4 +28,8 @@ Orientation 2023
 <b>K1 First 2 Days Programme</b>
 ![](/images/4__First_2_Days_Programme_Nov.png)
 
+<b>Calendar of Events</b>
+![](/images/5__Calendar_of_Events__Term_1_.png)
 
+<b>Sample Snack Menu</b>
+![](/images/7__Sample_Snack_Menu.png)
