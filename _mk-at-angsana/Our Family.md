@@ -2,6 +2,7 @@
 title: Our Family
 permalink: /mk-at-angsana/our-family/
 description: ""
+variant: markdown
 ---
 ![](/images/MK-Angsana.jpg)
 
@@ -45,7 +46,7 @@ Our Family
   </tr>
   <tr>
     <td class="tg-vox4">Malay Language Team</td>
-    <td class="tg-cqfb">Cikgu Ruzana<br>Cikgu Hazimah<br>Cikgu Suhail</td>
+    <td class="tg-cqfb">Cikgu Ruzana<br>Cikgu Hazimah<br>Cikgu Suhaili</td>
   </tr>
   <tr>
     <td class="tg-vox4">Tamil Language Team</td>
