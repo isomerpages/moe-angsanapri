@@ -316,9 +316,9 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-cly1">4 Harmony</td>
-    <td class="tg-cly1">Ms </td>
-    <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
-		<td class="tg-cly1">Mdm Fong Lai San</td>
+    <td class="tg-cly1">Ms Maragathan d/o Sivalingam</td>
+    <td class="tg-cly1">Ms Lom Yi Wen</td>
+		<td class="tg-cly1">Mdm Suraya Bte Mustajab</td>
 		<td class="tg-0lax"></td>
   </tr>
 </tbody>
@@ -355,35 +355,15 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-cly1">5 Respect</td>
-    <td class="tg-cly1">Mr Mazher s/o Tayeb</td>
-    <td class="tg-cly1">Mrs Camilia Cribbett</td>
-    <td class="tg-cly1">Mdm Aishah Binte Mohamed Maideen</td>
+    <td class="tg-cly1">Mr Hasvinnath Pillai Shastri</td>
+    <td class="tg-cly1">Mdm Rashidah Bte Harun</td>
   </tr>
   <tr>
     <td class="tg-cly1">5 Resilience</td>
-    <td class="tg-cly1">Mr Muhammad Fadhli B Jamaluddin</td>
-    <td class="tg-cly1">Mrs Ramakrishnan Naidu</td>
-		<td class="tg-cly1">Mr Foo Jun Wei</td>
+    <td class="tg-cly1">Mdm Nur Yaisyah Bte Mohd Yasin</td>
+    <td class="tg-cly1">Ms Chim Wei Ching Jerene</td>
+		<td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
     <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">5 Responsibility</td>
-    <td class="tg-cly1">Mdm Jamilah Bte Abdullah</td>
-    <td class="tg-cly1">Mr Mohd Zafran B Mohd Osman</td>
-    <td class="tg-cly1">Ms Chim Wei Ching</td>
-		<td class="tg-cly1"></td>
-  </tr>
-	<tr>
-    <td class="tg-cly1">5 Integrity</td>
-    <td class="tg-cly1">Ms Nur Yaisyah Bte Mohd Yasin</td>
-    <td class="tg-cly1">Mr Yin Jian</td>
-		<td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">5 Kindness</td>
-    <td class="tg-cly1">Mr Jerome Leow Yong Long</td>
-    <td class="tg-cly1">Ms Ng Kay Gek</td>
-    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
@@ -421,23 +401,36 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-cly1">6 Respect</td>
-    <td class="tg-cly1">Mdm Erlin Bte Amir</td>
-    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
-		<td class="tg-cly1">Mr Khairul Usmab B Salim</td>
+    <td class="tg-cly1">Mr Lester Ting Huong San</td>
+    <td class="tg-cly1">Mrs Camilia Cribbert</td>
+		<td class="tg-cly1">Mdm Thamilchelvi </td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">6 Resilience</td>
-    <td class="tg-cly1">Mdm Ellianie Bte Sahrom</td>
-    <td class="tg-cly1">Mrs Tan - Lee Mi Liang</td>
+    <td class="tg-cly1">Mr Muhammad Fadhli B Jamaluddin</td>
+    <td class="tg-cly1">Mdm Heryani Bte Hamid</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">6 Responsibility</td>
-    <td class="tg-cly1">Mdm Meenah Bte Mohd Salleh</td>
-		<td class="tg-cly1">Mrs Cherlyn Koh-Tan Su Len</td>
+    <td class="tg-cly1">Mdm Jamilah Bte Abdullah</td>
+		<td class="tg-cly1">Mr Mohd Zafran B Mohd Osman</td>
     <td class="tg-0lax"></td>
   </tr>
+	<tr>
+    <td class="tg-cly1">6 Integrity</td>
+    <td class="tg-cly1">Mr Yin Jian</td>
+    <td class="tg-cly1">Mrs Tan-Lee Mi Liang</td>
+		<td class="tg-cly1"></td>
+  </tr>
+		<tr>
+    <td class="tg-cly1">6 Kindness</td>
+    <td class="tg-cly1">Ms Ng Kay Gek Nancy</td>
+    <td class="tg-cly1">Mrs Lim-Chan Pao Yin</td>
+		<td class="tg-cly1"></td>
+  </tr>
+	
 </tbody>
 </table>
 
