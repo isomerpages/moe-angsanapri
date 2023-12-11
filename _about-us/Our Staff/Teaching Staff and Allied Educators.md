@@ -233,14 +233,21 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-cly1">3 Integrity</td>
-    <td class="tg-cly1">Mdm Quraisya </td>
-    <td class="tg-cly1">Ms Ho Jia Ling Joycelyn</td>
+    <td class="tg-cly1">Mdm Quraisya Mirza Bte Zainal Abidin</td>
+    <td class="tg-cly1">Mr Rizanudin B Jusary</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">3 Kindness</td>
-    <td class="tg-cly1">Mr Jeremy Wong Chun Kiat</td>
-    <td class="tg-cly1">Mdm Lam Ai Wei</td>
+    <td class="tg-cly1">Ms Misliano Bte Abdul Ghani</td>
+    <td class="tg-cly1">Mdm Ma Jingying</td>
+		<td class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">3 Harmony</td>
+    <td class="tg-cly1">Mr Danial Tan Shao Wei</td>
+    <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
+		<td class="tg-cly1">Mdm Fong Lai San</td>
 		<td class="tg-0lax"></td>
   </tr>
 </tbody>
