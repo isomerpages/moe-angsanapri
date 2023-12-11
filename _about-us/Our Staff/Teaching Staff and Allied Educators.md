@@ -17,7 +17,7 @@ variant: markdown
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 720px">
 <colgroup>
-<col style="width: 131px">
+<col style="width: 135px">
 <col style="width: 201px">
 <col style="width: 179px">
 <col style="width: 209px">
@@ -106,7 +106,7 @@ variant: markdown
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 720px">
 <colgroup>
-<col style="width: 131px">
+<col style="width: 135px">
 <col style="width: 201px">
 <col style="width: 179px">
 <col style="width: 209px">
@@ -193,7 +193,7 @@ variant: markdown
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 720px">
 <colgroup>
-<col style="width: 131px">
+<col style="width: 135px">
 <col style="width: 201px">
 <col style="width: 179px">
 <col style="width: 209px">
@@ -266,7 +266,7 @@ variant: markdown
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 720px">
 <colgroup>
-<col style="width: 131px">
+<col style="width: 135px">
 <col style="width: 201px">
 <col style="width: 179px">
 <col style="width: 209px">
@@ -382,7 +382,7 @@ variant: markdown
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 720px">
 <colgroup>
-<col style="width: 131px">
+<col style="width: 135px">
 <col style="width: 201px">
 <col style="width: 179px">
 <col style="width: 209px">
