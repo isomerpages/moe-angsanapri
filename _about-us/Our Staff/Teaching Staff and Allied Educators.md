@@ -3,6 +3,7 @@ title: Teaching Staff and Allied Educators
 permalink: /about-us/Our-Staff/Teaching-Staff-and-Allied-Educators/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,14 +36,15 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">1 Respect</td>
-    <td class="tg-cly1">Mdm Huang Liyi</td>
-    <td class="tg-cly1">Mdm Siti Aliah Mahirah Bte Abdullah</td>
+    <td class="tg-cly1">Mrs Cynthia Tan-Lim Li Xia</td>
+    <td class="tg-cly1">Mdm Rosalina Binte Sulaiman</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Resilience</td>
-    <td class="tg-cly1">Ms Marianne Long Liling</td>
-    <td class="tg-cly1">Mdm Heryani Bte Hamid</td>
+    <td class="tg-cly1">Mr Norhaziq Amalee B Jaafar</td>
+    <td class="tg-cly1">Ms Lim Mei Hwa</td>
+		<td class="tg-cly1">Mdm Herda Bte Dolfata</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
