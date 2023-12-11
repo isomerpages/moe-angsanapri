@@ -125,53 +125,56 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-cly1">2 Respect</td>
-    <td class="tg-cly1">Ms Nur Amalina Bte Mohamed Ishak</td>
-    <td class="tg-cly1">Ms Cui Rong Rong</td>
-    <td class="tg-cly1">Mrs Wong-Leng Poh Lan</td>
+    <td class="tg-cly1">Mdm Huang Liyi</td>
+    <td class="tg-cly1">Mdm Tan Ruijuan</td>
   </tr>
   <tr>
     <td class="tg-cly1">2 Resilience</td>
-    <td class="tg-cly1">Mr Hasvinnath Pillai Shastri</td>
-    <td class="tg-cly1">Ms Sharon Tan Mei Ling</td>
+    <td class="tg-cly1">Ms Marianne Long Liling</td>
+    <td class="tg-cly1">Ms Nicole Lee Kah Hui</td>
   <td class="tg-cly1"></td>  
   </tr>
   <tr>
     <td class="tg-cly1">2 Responsibility</td>
-    <td class="tg-cly1">Mrs Sherry Wong - Chan Yoke Ying</td>
-    <td class="tg-cly1">Mr Hafizuddin Bin Zulkefeli</td>
-		<td class="tg-cly1">Mdm Roslina Binte Sulaiman</td>
+    <td class="tg-cly1">Ms Li Siyi</td>
+    <td class="tg-cly1">Mdm Nur Diyanah Amalina Bte Abdul Rashid</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">2 Integrity</td>
-    <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
-    <td class="tg-cly1">Mr Norhaziq Amalee B Jaafar</td>
-		<td class="tg-cly1">Mrs Belinda Cheng - Chia</td>
+    <td class="tg-cly1">Mdm Mayrah Abdullah Loh</td>
+    <td class="tg-cly1">Mrs Sangeet Bajaj</td>
+		<td class="tg-cly1">Mdm How Bi Ee</td>
     <td class="tg-cly1"></td>
 	</tr>
   <tr>
     <td class="tg-cly1">2 Kindness</td>
-    <td class="tg-cly1">Ms Nurul Arini Bte Junaidi </td>
-    <td class="tg-cly1">Mrs Lim - Low Hui Ling</td>
+    <td class="tg-cly1">Mdm Safura Bte Salim </td>
+    <td class="tg-cly1">Mdm Ignez</td>
   <td class="tg-cly1"></td>  
 	</tr>
   <tr>
     <td class="tg-cly1">2 Harmony</td>
-    <td class="tg-cly1">Mr Marcus Goh Yong Sheng</td>
-    <td class="tg-cly1">Mrs Tan - Ong Yian Ping</td>
+    <td class="tg-cly1">Mdm Sarah Amnah Bte Zaihan</td>
+    <td class="tg-cly1">Mr Victor Kiew</td>
 		<td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">2 Gratitude</td>
-    <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
-    <td class="tg-cly1">Mdm Fazilah Binte Hamid</td>
-		<td class="tg-cly1">Mr Tan Ghee Kiat</td>
+    <td class="tg-cly1">Ms Chung Sin Le</td>
+    <td class="tg-cly1">Ms Lim Yi Jen</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">2 Empathy</td>
-    <td class="tg-cly1">Mr Lee Sze Cheng</td>
-    <td class="tg-cly1">Mrs Sangeet Bajaj</td>
+    <td class="tg-cly1">Ms Toh Ying Han</td>
+    <td class="tg-cly1">Mdm Vivien Goh Yen Ling</td>
+		<td class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">2 Diligence</td>
+    <td class="tg-cly1">Mdm Sheila Chin Huimin</td>
+    <td class="tg-cly1">Ms Cui Rong Rong</td>
 		<td class="tg-0lax"></td>
   </tr>
 </tbody>
