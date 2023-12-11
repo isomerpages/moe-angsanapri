@@ -67,26 +67,27 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-cly1">1 Harmony</td>
-    <td class="tg-cly1">Mrs Weinie Tan - Teo Wei Chiew</td>
-    <td class="tg-cly1">Mrs Cynthia Tan - Lim Li Xia</td>
+    <td class="tg-cly1">Mr Richard Chng Lijie</td>
+    <td class="tg-cly1">Mdm Noorjanna Bte Md Hussain</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Gratitude</td>
-    <td class="tg-cly1">Ms Chung Sin Le</td>
-    <td class="tg-cly1">Ms Ma Jingying</td>
+    <td class="tg-cly1">Mrs Weinie Tan-Teo Wei Chiew</td>
+    <td class="tg-cly1">Mdm Siti Aliah Mahirah Bte Abdullah</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Empathy</td>
-    <td class="tg-cly1">Ms Toh Ying Han</td>
-    <td class="tg-cly1">Mdm Chia Jye Teng</td>
+    <td class="tg-cly1">Mdm Shainas Bte Hassan</td>
+    <td class="tg-cly1">Mrs Lim_Low Hui Ling</td>
+		<td class="tg-cly1">Ms Sharon Tan Mei Ling</td>
 		<td class="tg-cly1"></td>
    </tr>
 	<tr>
     <td class="tg-cly1">1 Diligence</td>
-    <td class="tg-cly1">Mdm Sheila Chin Huimin</td>
-    <td class="tg-cly1">Mr Richard Chng Lijie</td>
+    <td class="tg-cly1">Mdm Ellianie Bte Sahrom</td>
+    <td class="tg-cly1">Mrs Fazilah Binte Hamid</td>
 		<td class="tg-0lax"></td>
 	</tr>
 	</tbody>
