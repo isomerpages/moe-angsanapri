@@ -212,26 +212,28 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-cly1">3 Respect</td>
-    <td class="tg-cly1">Mdm </td>
-    <td class="tg-cly1">Mdm Joy Ho Shi Hui</td>
-    <td class="tg-cly1">Mr Mohamad Zakie Bin Mohd Aiksan</td>
+    <td class="tg-cly1">Mdm Meenah Bte Mohd Salleh </td>
+    <td class="tg-cly1">Ms Lee Woei Yan</td>
+    <td class="tg-cly1">Mr Foo Jun Wei</td>
 		<td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">3 Resilience</td>
-    <td class="tg-cly1">Mr Jonathan Tay Kim Loong</td>
-    <td class="tg-cly1">Mdm Rashidah Bte Harun</td>
+    <td class="tg-cly1">Ms Lee Sze Cheng</td>
+    <td class="tg-cly1">Mdm Chia Jye Teng</td>
+		<td class="tg-cly1">Mdm Rosina Bakam</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">3 Responsibilty</td>
-    <td class="tg-cly1">Ms Lam Yi Xin</td>
-    <td class="tg-cly1">Mrs Lim - Chan Pao Yin</td>
+    <td class="tg-cly1">Mdm Nur Hidayati Bte Abdul Rahman</td>
+    <td class="tg-cly1">Mr Chan Ng Poh Huat Paul</td>
+		<td class="tg-cly1">Mr Mohamad Zakie Bin Mohd Aiksan</td>
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
     <td class="tg-cly1">3 Integrity</td>
-    <td class="tg-cly1">Mr Mohamad Razali B Jambari</td>
+    <td class="tg-cly1">Mdm Quraisya </td>
     <td class="tg-cly1">Ms Ho Jia Ling Joycelyn</td>
 		<td class="tg-cly1"></td>
   </tr>
