@@ -49,23 +49,20 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-cly1">1 Responsibility</td>
-    <td class="tg-cly1">Ms Li Siyi</td>
-    <td class="tg-cly1">Mdm Merwani Bte Ahmad</td>
-		<td class="tg-cly1">Ms Vivien Goh Yen Ling</td>
+    <td class="tg-cly1">Mr Marcus Goh Yong Sheng</td>
+    <td class="tg-cly1">Ms Lim Pei Jing</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Integrity</td>
-    <td class="tg-cly1">Mdm Ratna Sari Bte Hussain</td>
-    <td class="tg-cly1">Mdm Mayrah Abdullah Loh </td>
-		<td class="tg-cly1">Ms How Bi Ee </td>
+    <td class="tg-cly1">Ms Nur AmalinaBte Mohamed Ishak</td>
+    <td class="tg-cly1">Mdm Tan Pei Ying Elana</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">1 Kindness</td>
-    <td class="tg-cly1">Mrs Gloria Jones-Lim Wei</td>
-    <td class="tg-cly1">Mdm Safura Bte Sallim</td>
-		<td class="tg-cly1">Mdm Khairunnisa Bte Abdul Samat</td>
+    <td class="tg-cly1">Mdm Nurul Arini Bte Junaidi</td>
+    <td class="tg-cly1">Ms Boon Xue Fang Adeline</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
