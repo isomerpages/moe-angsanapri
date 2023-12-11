@@ -285,14 +285,40 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-cly1">4 Respect</td>
-    <td class="tg-cly1">Mdm Nur Hidayati Bte Abdul Rahmant</td>
-    <td class="tg-cly1">Ms Lim Mei Wah</td>
+    <td class="tg-cly1">Mdm Erlin Bte Amir</td>
+    <td class="tg-cly1">Mdm Joy Ho Shi Hui</td>
+		<td class="tg-cly1">Mr Md Shafiee Bin Barahim</td>
     <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-cly1">4 Resilience</td>
-    <td class="tg-cly1">Mr Danial Tan Shao Wei </td>
-    <td class="tg-cly1">Mdm Shainas Bte Hassan</td>
+    <td class="tg-cly1">Mr Jonathan Tay Kim Loong</td>
+    <td class="tg-cly1">Mdm Ongn Seow Ping</td>
+		<td class="tg-0lax"></td>
+  </tr>
+		<tr>
+    <td class="tg-cly1">4 Responsibilty</td>
+    <td class="tg-cly1">Mdm Suhaila Bte Abdullah</td>
+    <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
+		<td class="tg-cly1"></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">4 Integrity</td>
+    <td class="tg-cly1">Mr Mohd Razali B jambari</td>
+    <td class="tg-cly1">Ms Ho Jia Ling Joycelyn</td>
+		<td class="tg-cly1"></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">4 Kindness</td>
+    <td class="tg-cly1">Ms Liaw Sock Pheng Audrey</td>
+    <td class="tg-cly1">Mr Hafizuddin Bin Zulkefeli</td>
+		<td class="tg-0lax"></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">4 Harmony</td>
+    <td class="tg-cly1">Ms </td>
+    <td class="tg-cly1">Mdm Joanne Ng Si Wei</td>
+		<td class="tg-cly1">Mdm Fong Lai San</td>
 		<td class="tg-0lax"></td>
   </tr>
 </tbody>
