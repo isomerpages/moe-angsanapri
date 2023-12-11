@@ -225,7 +225,7 @@ variant: markdown
 		<td class="tg-cly1"></td>
   </tr>
 	<tr>
-    <td class="tg-cly1">3 Responsibilty</td>
+    <td class="tg-cly1">3 Responsibility</td>
     <td class="tg-cly1">Mdm Nur Hidayati Bte Abdul Rahman</td>
     <td class="tg-cly1">Mr Chan Ng Poh Huat Paul</td>
 		<td class="tg-cly1">Mr Mohamad Zakie Bin Mohd Aiksan</td>
@@ -297,7 +297,7 @@ variant: markdown
 		<td class="tg-0lax"></td>
   </tr>
 		<tr>
-    <td class="tg-cly1">4 Responsibilty</td>
+    <td class="tg-cly1">4 Responsibility</td>
     <td class="tg-cly1">Mdm Suhaila Bte Abdullah</td>
     <td class="tg-cly1">Mdm Estelle Goh Siok Yan</td>
 		<td class="tg-cly1"></td>
