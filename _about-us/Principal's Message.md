@@ -4,8 +4,6 @@ permalink: /principal-message/
 description: ""
 variant: markdown
 ---
-
-
 <center><b>Forging A New Chapter, With Gratitude</b></center>
 
 2024 marks a milestone for Angsana Primary School as we embark on a new chapter in her illustrious journey. It is with deep gratitude and heartfelt appreciation that I acknowledge the remarkable legacy woven into the very fabric of this school as I take over the leadership. Angsana Primary School stands today as a testament to the visionary leadership and unwavering dedication of our founding principal, Ms Foong Yin Wei, who guided us through the merging of two storied institutions, Qiaonan and Griffiths Primary School back in 2015.
@@ -30,7 +28,7 @@ With gratitude for our past and enthusiasm for our future,
 
 <img style="width:40%" src="/images/Mr_Wong.png" align="left">
 
-<br><br><br><br><br><br><br><br>Mr Garbiel Wong 
+<br><br><br><br><br><br><br><br>Mr Gabriel Wong 
 <br>Principal
  <br>Angsana Primary School
  <br>树仁小学
