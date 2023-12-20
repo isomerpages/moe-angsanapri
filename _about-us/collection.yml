@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Test Page 2.md
+      - Principle's Message 2024.md
       - Principal's Message.md
       - School History.md
       - School Crest.md
