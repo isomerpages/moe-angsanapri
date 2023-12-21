@@ -26,9 +26,9 @@ Together, as a united community, we shall forge ahead, cherishing our past achie
 
 With gratitude for our past and enthusiasm for our future,
 
-<img style="width:40%" src="/images/Mr_Wong.png" align="left">
+<img src="/images/Mr_Wong.png" style="width:40%; float:left;margin-right:600px">
 
-<br><br><br><br><br><br><br><br>Mr Gabriel Wong 
+<br>Mr Gabriel Wong 
 <br>Principal
  <br>Angsana Primary School
  <br>树仁小学
