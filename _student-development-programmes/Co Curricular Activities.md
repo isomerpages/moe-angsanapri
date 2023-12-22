@@ -83,7 +83,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Mr Richard Chng(OIC)<br>Mr Foo Jun Wei<br>Ms Audrey Liaw</td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">Clubs &amp; Societies</td>
+    <td class="tg-cly1" rowspan="3">Clubs &amp; Societies</td>
     <td class="tg-0lax">Info Comm Club</td>
     <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
@@ -94,6 +94,12 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
     <td class="tg-0lax">Ms Chung Sin Le(OIC)<br>Mr Hasvinnath Pillai Shastri<br>Mr Paul Chan</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Drama Club</td>
+    <td class="tg-0lax">Tuesday</td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Ms Noorjanna(OIC)<br>Ms Suhailah Abdullah<br>Ms Vivien Goh</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="5">Visual &amp; Performing Arts</td>
