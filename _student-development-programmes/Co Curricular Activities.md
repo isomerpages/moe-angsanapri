@@ -133,13 +133,13 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Red Cross</td>
     <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Shainas Hassan(OIC)<br>Mr Tay Kim Loong Jonathan <br></td>
+    <td class="tg-0lax">Ms Shainas Hassan(OIC)<br>Mdm Chin Huimin Sheila <br>Mdm Meenah Mohd Salleh</td>
   </tr>
   <tr>
     <td class="tg-0lax">Scouts</td>
     <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Tay Kim Loong Jonathan <br>Mr Goh Yong Sheng<br>Mr Norhaziq Amalee Bin Jaafar<br>Mdm Merwani</td>
+    <td class="tg-0lax">Mr Tay Kim Loong Jonathan(OIC)<br>Mr Norhaziq Amalee Bin Jaafar<br>Ms Adeline Boon</td>
 	</tr>
 	<tr>
     <td class="tg-0lax"></td>
