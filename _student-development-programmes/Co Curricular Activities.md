@@ -85,15 +85,15 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-cly1" rowspan="2">Clubs &amp; Societies</td>
     <td class="tg-0lax">Info Comm Club</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
     <td class="tg-0lax">Mdm Ellianie Bte Sahrom(OIC)<br>Ms Tan Ruijian<br>Ms Quraisya Mirza</td>
   </tr>
   <tr>
     <td class="tg-0lax">Young Explorers</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Hasvinnath Pillai Shastri<br>Ms Chung Sin Le<br></td>
+    <td class="tg-0lax">Ms Chung Sin Le(OIC)<br>Mr Hasvinnath Pillai Shastri<br>Mr Paul Chan</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="5">Visual &amp; Performing Arts</td>
