@@ -54,7 +54,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-cly1" rowspan="5">Physical Sports</td>
     <td class="tg-0lax">Football</td>
-    <td class="tg-0lax">Tuesday<br>Thursday</td>
+    <td class="tg-0lax">Tuesday &amp; Thursday</td>
     <td class="tg-0lax">3.00pm - 5.30pm</td>
     <td class="tg-0lax">Mr Muhammad Fadhli bin Jamaluddin(OIC)<br>Mr Tan Shao Wei Danial<br>Mr Hafizuddin Bin Zulkefeli<br>Mr Mohamad Razali Jambari</td>
   </tr>
