@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /character-development/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ![](/images/School%20Development%20Programmes.jpg)
 
@@ -55,7 +56,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Football</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">3.00pm - 5.30pm</td>
-    <td class="tg-0lax">Mr Tan Shao Wei Danial<br>Mr Muhammad Fadhli bin Jamaluddin<br>Mr Mohamad Razali Jambari<br></td>
+    <td class="tg-0lax">Mr Muhammad Fadhli bin Jamaluddin(OIC)<br>Mr Tan Shao Wei Danial<br>Mr Hafizuddin Bin Zulkefeli<br>Mr Mohamad Razali Jambari<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Netball</td>
