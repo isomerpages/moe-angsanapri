@@ -87,7 +87,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Info Comm Club</td>
     <td class="tg-0lax">Friday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Wong Chun Kiat Jeremy<br>Mr Jerome Leow Yong Long<br>Mdm Ellianie Bte Sahrom<br></td>
+    <td class="tg-0lax">Mdm Ellianie Bte Sahrom(OIC)<br>Ms Tan Ruijian<br>Ms Quraisya Mirza</td>
   </tr>
   <tr>
     <td class="tg-0lax">Young Explorers</td>
