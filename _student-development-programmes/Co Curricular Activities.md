@@ -112,10 +112,9 @@ All CCAs emphasize social interaction by providing a common space for friendship
   </tr>
   <tr>
     <td class="tg-0lax">Art Club</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Joanne Ng Si Wei<br>
-		Mdm Jamilah Bte Abdullah<br>Ms Lam Ai Wei<br></td>
+    <td class="tg-0lax">Ms Elana Tan Pei Ying<br>Mdm Jamilah Bte Abdullah<br>Ms Joanne Ng Si Wei<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Choir</td>
