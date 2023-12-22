@@ -114,32 +114,32 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Art Club</td>
     <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Elana Tan Pei Ying<br>Mdm Jamilah Bte Abdullah<br>Ms Joanne Ng Si Wei<br></td>
+    <td class="tg-0lax">Ms Elana Tan Pei Ying(OIC)<br>Mdm Jamilah Bte Abdullah<br>Ms Joanne Ng Si Wei<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Choir</td>
     <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Marianne Long<br>Ms Cui Rong Rong<br>Ms Nicole Lee</td>
+    <td class="tg-0lax">Ms Marianne Long(OIC)<br>Ms Cui Rong Rong<br>Ms Nicole Lee</td>
   </tr>
   <tr>
     <td class="tg-0lax">International Dance</td>
     <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Li Siyi<br>Ms Nurul Arini Bte Junaidi<br>Mdm Estelle Goh<br></td>
+    <td class="tg-0lax">Ms Li Siyi(OIC)<br>Ms Nurul Arini Bte Junaidi<br>Mdm Estelle Goh<br></td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">Uniformed Groups</td>
     <td class="tg-0lax">Red Cross</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Chin Huimin Sheila<br>Ms Shainas<br>Mr Tay Kim Loong Jonathan <br></td>
+    <td class="tg-0lax">Ms Shainas Hassan(OIC)<br>Mr Tay Kim Loong Jonathan <br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Scouts</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Goh Yong Sheng<br>Mr Norhaziq Amalee Bin Jaafar<br>Mdm Merwani</td>
+    <td class="tg-0lax">Mr Tay Kim Loong Jonathan <br>Mr Goh Yong Sheng<br>Mr Norhaziq Amalee Bin Jaafar<br>Mdm Merwani</td>
 	</tr>
 	<tr>
     <td class="tg-0lax"></td>
