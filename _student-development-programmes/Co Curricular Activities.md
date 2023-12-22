@@ -66,9 +66,9 @@ All CCAs emphasize social interaction by providing a common space for friendship
   </tr>
   <tr>
     <td class="tg-0lax">Badminton</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Ratna Sari Hussain<br>Mr Mazher s/o Tayeb<br>
+    <td class="tg-0lax">Mdm Lee Sze Cheng<br>Ms Nur Diyanah Amalina<br>Ms Lim Yi Wen
   </td></tr>
   <tr>
     <td class="tg-0lax">Wushu</td>
