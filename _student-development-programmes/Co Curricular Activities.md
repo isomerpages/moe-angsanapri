@@ -54,15 +54,15 @@ All CCAs emphasize social interaction by providing a common space for friendship
   <tr>
     <td class="tg-cly1" rowspan="4">Physical Sports</td>
     <td class="tg-0lax">Football</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday<br>Thursday</td>
     <td class="tg-0lax">3.00pm - 5.30pm</td>
-    <td class="tg-0lax">Mr Muhammad Fadhli bin Jamaluddin(OIC)<br>Mr Tan Shao Wei Danial<br>Mr Hafizuddin Bin Zulkefeli<br>Mr Mohamad Razali Jambari<br></td>
+    <td class="tg-0lax">Mr Muhammad Fadhli bin Jamaluddin(OIC)<br>Mr Tan Shao Wei Danial<br>Mr Hafizuddin Bin Zulkefeli<br>Mr Mohamad Razali Jambari</td>
   </tr>
   <tr>
     <td class="tg-0lax">Netball</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">2.00pm - 5.00pm</td>
-    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew(OIC)<br>Ms Nur Amalina<br>Ms Lee Woei Yen<br></td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew(OIC)<br>Ms Nur Amalina<br>Ms Lee Woei Yen</td>
   </tr>
   <tr>
     <td class="tg-0lax">Badminton</td>
