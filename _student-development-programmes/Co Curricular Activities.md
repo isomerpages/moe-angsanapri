@@ -72,9 +72,9 @@ All CCAs emphasize social interaction by providing a common space for friendship
   </td></tr>
   <tr>
     <td class="tg-0lax">Wushu</td>
-    <td class="tg-0lax"> Friday</td>
+    <td class="tg-0lax"> Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Safura<br>Ms Ma Jingying<br>Mrs Tan-Ong Yian Ping<br></td>
+    <td class="tg-0lax">Ms Ma Jingying(OIC)<br>Ms Lim Yi Jen<br>Ms Lim Pei Jing</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">Clubs &amp; Societies</td>
