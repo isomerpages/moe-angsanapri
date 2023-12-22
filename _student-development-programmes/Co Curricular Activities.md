@@ -68,7 +68,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
     <td class="tg-0lax">Badminton</td>
     <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Lee Sze Cheng<br>Ms Nur Diyanah Amalina<br>Ms Lim Yi Wen
+    <td class="tg-0lax">Mdm Lee Sze Cheng(OIC)<br>Ms Nur Diyanah Amalina<br>Ms Lim Yi Wen
   </td></tr>
   <tr>
     <td class="tg-0lax">Wushu</td>
