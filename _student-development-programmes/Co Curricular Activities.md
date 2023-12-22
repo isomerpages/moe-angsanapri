@@ -124,7 +124,7 @@ All CCAs emphasize social interaction by providing a common space for friendship
   </tr>
   <tr>
     <td class="tg-0lax">International Dance</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
     <td class="tg-0lax">Ms Li Siyi<br>Ms Nurul Arini Bte Junaidi<br>Mdm Estelle Goh<br></td>
   </tr>
