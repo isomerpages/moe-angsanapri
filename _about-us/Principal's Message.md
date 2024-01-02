@@ -2,45 +2,33 @@
 title: Principal's Message
 permalink: /principal-message/
 description: ""
+variant: markdown
 ---
-Welcome to the website of Angsana Primary School! The contents will give you a good understanding of our school and our mission in preparing our students for the future.
+<center><b>Forging A New Chapter, With Gratitude</b></center>
 
-<b>A Little about me</b>
+2024 marks a milestone for Angsana Primary School as we embark on a new chapter in her illustrious journey. It is with deep gratitude and heartfelt appreciation that I acknowledge the remarkable legacy woven into the very fabric of this school as I take over the leadership. Angsana Primary School stands today as a testament to the visionary leadership and unwavering dedication of our founding principal, Ms Foong Yin Wei, who guided us through the merging of two storied institutions, Qiaonan and Griffiths Primary School back in 2015.
 
-I embarked on my career in education as a Chemistry and Mathematics teacher. Due to unique circumstances in the first few years, I had opportunities to teach various subjects in the secondary school curriculum. This experience allowed me to understand the significance of interdisciplinary learning. Through this exposure, I gained a deep appreciation for the fusion of knowledge and perspectives from various disciplines and the range of pedagogy for teaching different subjects. I led two other primary schools after a meaningful stint as a Vice-Principal in a Catholic secondary school before coming to Angsana Primary School.
+**_Gratitude_**
 
-<b>A merger of two great schools</b>
-         
-Angsana Primary School today is the result of [the merging of two long-established primary schools](/about-us/school-history/) in the Tampines. These two institutions have nurtured young minds for an impressive 145 years, giving us a vibrant heritage.
+Under her stewardship for the past 9 years, our school blossomed, merging rich histories and traditions while embracing a future brimming with promise and potential. In 2022, she led the school in the move to the new premise in 51 Tampines Street 61. This is an important milestone where staff and students get to benefit from the new school facilities and also be part of the community in Tampines. As we celebrate almost a decade of our establishment, we stand on the shoulders of those who laid the foundation, honoring their enduring legacy and embracing the infinite opportunities that lie ahead. Thank you Ms Foong for your steadfast leadership through the years!
 
-<b>Where we are now</b>
-        
-Initially, Angsana Primary School started on the premises of the former Griffiths Primary School. The building, constructed in 1985, held a significant position along the Tampines Heartmap Trail in 2015, as it was recognised as part of the history and heritage of Tampines when the estate commemorated the nation's Golden Jubilee that year. However, we bade a nostalgic farewell to the campus in the middle of 2022, as we relocated to our present campus in the north of Tampines estate. Today, our students are fortunate to benefit from new [facilities at our new school campus](/about-us/school-facility/), enriching their educational journey and enhancing their overall learning experiences.
+**_Forging a New Chapter_**
 
-The relocation to our new campus has opened up a world of possibilities and exciting learning opportunities for our dedicated staff and eager students. Embarking on this fresh new chapter, we have expanded our family to welcome MK@Angsana, which had a strong start on the new campus before the primary school moved in.
+The essence of Angsana’s journey is not only defined by its profound roots, but it is also marked by its youthful vigor and boundless possibilities. As the new Principal of the school, I am eagerly excited and energized by the myriad of prospects that await us. We stand at the crossroads of tradition and innovation, poised to carve a path that honors our heritage while pioneering new frontiers of excellence.
 
-<b>Our school values</b>
-        
+Central to our mission in the coming years will be the unwavering commitment to strengthen 21st-century competencies among our students. Our aim is not just to impart knowledge but to empower our students with the skills, resilience, and adaptability necessary to thrive in an ever-evolving world. We believe in nurturing their intellectual curiosity, adaptive and inventive thinking, civic literacy, and communication competencies among others.
 
-Our school derives its name from the majestic [Angsana tree](/about-us/school-history/), a common roadside tree in Singapore known for its exceptional shade-giving qualities. The name of our school in Chinese,&nbsp;**树仁**&nbsp;(shu rƏn), translated as Tree of Benevolence, holds deep symbolism, representing our school's fundamental purpose and commitment. We intentionally nurture and guide our students to embody benevolence and a genuine concern for others, fostering a culture of learning, service, and care. In addition, we support the Singapore Kindness Movement and work with partners to teach values in action.
+In the pursuit of nurturing 21st-century competencies among our students, we recognize the irreplaceable influence of parental involvement. Your insights, engagement, and constructive contributions not only enhance our educational programmes but also create a synergistic relationship between home and school—an alliance that empowers our students to thrive academically, socially, and emotionally.
 
-The acronym R3n represents our [school values](/about-us/school-values/); **R**espect,&nbsp;**R**esilience,&nbsp;**R**esponsibility, and I**n**tegrity. Our teachers are responsible for instilling these values within our students, creating an environment that fosters mutual care and support. Our ultimate objective is to cultivate confident leaders and caring citizens. Through our [Niche Enrichment Programmes (LLP)](/teaching-n-learning/niche-enrichment-programmes/),&nbsp;we provide our students with the necessary tools to develop their leadership skills, starting as early as Primary 1. We guide them through the transformative journey of learning the Leader in Me skills and embracing the Leadership Challenge Model. Our pupils are also equipped with Peer Support Skills to enable them to look out for and help each other.
+**_Joining Hands Together_**
 
-<b>Preparing our students to be ready for the future</b>
-         
-At our school, our primary goal is to actively engage and empower every student to become prepared for the future. Problem-solving and 21st-century competencies are vital to being future-ready. Since 2017, we have witnessed successive cohorts of students cultivating essential learning, computational thinking, and coding skills through our [Niche Enrichment Programmes (ALP)](/teaching-n-learning/niche-enrichment-programmes/), which aims to foster their creative problem-solving abilities. Additionally, we host regular Tinker Tuesday events designed to stimulate children's thinking while they engage in hands-on experimentation and exploration.
+Together, as a united community, we shall forge ahead, cherishing our past achievements while embracing the transformative journey that lies ahead. As the Chinese proverb goes &nbsp;“十年树木，百年树人(仁)” nurturing our young takes both time and effort from everyone.&nbsp; I invite each and every one of you—students, parents and staff—to join hands as we script this new chapter in the legacy of our beloved school, Angsana Primary School.
 
-Today we provide a good spread of Co-curricular Activities (CCAs) across four distinct categories: Sports and Games, Uniformed Groups, Clubs, and Performing Arts. These engaging activities are open to students from Primary 3 to Primary 6, fostering their holistic development and igniting their passions. As our enrolment continues to grow in the coming years, we can anticipate a corresponding expansion in the range of CCAs offered, ensuring an even more comprehensive array of enriching opportunities for our students.
+With gratitude for our past and enthusiasm for our future,
 
-<b>A heart of gratitude</b>
-         
-I sincerely thank our School Advisory Committee members, Parent Support Group members, and dedicated alumni for their unwavering support during last year's relocation. Your invaluable assistance and commitment were instrumental in ensuring a smooth transition for our school. In addition, I am deeply grateful for your ongoing involvement and encouragement as we forge ahead, embracing new learning opportunities for our students. Your steadfast support is very much appreciated.
+<img src="/images/Mr_Wong.png" style="width:40%; float:left;margin-right:600px">
 
-Our staff has displayed remarkable resilience and adaptability in navigating the many changes over the past two years. Our dedicated teaching and support staff have demonstrated unwavering commitment, investing tireless effort to cultivate a nurturing and enjoyable environment where every child is known, safe, inspired, challenged, and empowered. My deep gratitude goes to all of you for embodying the true essence of our school motto and consistently going above and beyond to fulfil our shared vision.
-
-
-
-We invite you to explore our website to find out more about our school programmes and our community.
-<img style="width:20%" src="/images/ms%20foong.JPG">
-<center>Ms Foong Yin Wei, Principal
-<p style="font-size:9px; margin-top:0px">Bsc,DipEd, DipEd Admin, MA(Applied Psychology)</p></center>
+<br>Mr Gabriel Wong 
+<br>Principal
+ <br>Angsana Primary School
+ <br>树仁小学

@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /character-development/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ![](/images/School%20Development%20Programmes.jpg)
 
@@ -51,83 +52,94 @@ All CCAs emphasize social interaction by providing a common space for friendship
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1" rowspan="4">Physical Sports</td>
+    <td class="tg-cly1" rowspan="5">Physical Sports</td>
     <td class="tg-0lax">Football</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday &amp; Thursday</td>
     <td class="tg-0lax">3.00pm - 5.30pm</td>
-    <td class="tg-0lax">Mr Tan Shao Wei Danial<br>Mr Muhammad Fadhli bin Jamaluddin<br>Mr Mohamad Razali Jambari<br></td>
+    <td class="tg-0lax">Mr Muhammad Fadhli bin Jamaluddin(OIC)<br>Mr Tan Shao Wei Danial<br>Mr Hafizuddin Bin Zulkefeli<br>Mr Mohamad Razali Jambari</td>
   </tr>
   <tr>
     <td class="tg-0lax">Netball</td>
     <td class="tg-0lax">Friday</td>
-    <td class="tg-0lax">2.00pm - 5.00pm</td>
-    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew<br>Mdm Nur Yaisyah Bte Md Yasin<br>Ms Nur Amalina<br></td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mrs Weinie Tan-Teo Wei Chiew(OIC)<br>Ms Nur Amalina<br>Ms Lee Woei Yen</td>
   </tr>
   <tr>
     <td class="tg-0lax">Badminton</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Ratna Sari Hussain<br>Mr Mazher s/o Tayeb<br>
+    <td class="tg-0lax">Mdm Lee Sze Cheng(OIC)<br>Ms Nur Diyanah Amalina<br>Ms Lim Yi Wen
   </td></tr>
   <tr>
     <td class="tg-0lax">Wushu</td>
-    <td class="tg-0lax"> Friday</td>
+    <td class="tg-0lax"> Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Safura<br>Ms Ma Jingying<br>Mrs Tan-Ong Yian Ping<br></td>
+    <td class="tg-0lax">Ms Ma Jingying(OIC)<br>Ms Lim Yi Jen<br>Ms Lim Pei Jing</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Floorball</td>
+    <td class="tg-0lax"> Thursday</td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Mr Richard Chng(OIC)<br>Mr Foo Jun Wei<br>Ms Audrey Liaw</td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">Clubs &amp; Societies</td>
+    <td class="tg-cly1" rowspan="3">Clubs &amp; Societies</td>
     <td class="tg-0lax">Info Comm Club</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Wong Chun Kiat Jeremy<br>Mr Jerome Leow Yong Long<br>Mdm Ellianie Bte Sahrom<br></td>
+    <td class="tg-0lax">Mdm Ellianie Bte Sahrom(OIC)<br>Ms Tan Ruijian<br>Ms Quraisya Mirza</td>
   </tr>
   <tr>
     <td class="tg-0lax">Young Explorers</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Hasvinnath Pillai Shastri<br>Ms Chung Sin Le<br></td>
+    <td class="tg-0lax">Ms Chung Sin Le(OIC)<br>Mr Hasvinnath Pillai Shastri<br>Mr Paul Chan</td>
+  </tr>
+	<tr>
+    <td class="tg-0lax">Drama Club</td>
+    <td class="tg-0lax">Tuesday</td>
+    <td class="tg-0lax">2.30pm - 4.30pm</td>
+    <td class="tg-0lax">Ms Noorjanna(OIC)<br>Ms Suhailah Abdullah<br>Ms Vivien Goh</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="5">Visual &amp; Performing Arts</td>
     <td class="tg-cly1" rowspan="2">Concert Band</td>
-    <td class="tg-0lax">Tuesday &amp; Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax" rowspan="2">Ms Maragatham d/o Sivalingam<br>Ms Toh Ying Han<br></td>
+    <td class="tg-0lax" rowspan="2">Ms Maragatham d/o Sivalingam(OIC)<br>Ms Toh Ying Han<br>Ms Joycelyn Ho<br>Mdm Mayrah Abdullah Loh</td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td class="tg-0lax">Art Club</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Joanne Ng Si Wei<br>
-		Mdm Jamilah Bte Abdullah<br>Ms Lam Ai Wei<br></td>
+    <td class="tg-0lax">Ms Elana Tan Pei Ying(OIC)<br>Mdm Jamilah Bte Abdullah<br>Ms Joanne Ng Si Wei<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">Choir</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Marianne Long<br>Ms Lam Yi Xin<br>Ms Cui Rong Rong<br></td>
+    <td class="tg-0lax">Ms Marianne Long(OIC)<br>Ms Cui Rong Rong<br>Ms Nicole Lee</td>
   </tr>
   <tr>
     <td class="tg-0lax">International Dance</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Tuesday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Ms Li Siyi<br>Ms Nurul Arini Bte Junaidi<br>Mdm Estelle Goh<br></td>
+    <td class="tg-0lax">Ms Li Siyi(OIC)<br>Ms Nurul Arini Bte Junaidi<br>Mdm Estelle Goh<br></td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">Uniformed Groups</td>
     <td class="tg-0lax">Red Cross</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mdm Chin Huimin Sheila<br>Ms Shainas<br>Mr Tay Kim Loong Jonathan <br></td>
+    <td class="tg-0lax">Ms Shainas Hassan(OIC)<br>Mdm Chin Huimin Sheila <br>Mdm Meenah Mohd Salleh</td>
   </tr>
   <tr>
     <td class="tg-0lax">Scouts</td>
-    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">Thursday</td>
     <td class="tg-0lax">2.30pm - 4.30pm</td>
-    <td class="tg-0lax">Mr Goh Yong Sheng<br>Mr Norhaziq Amalee Bin Jaafar<br>Mdm Merwani</td>
+    <td class="tg-0lax">Mr Tay Kim Loong Jonathan(OIC)<br>Mr Norhaziq Amalee Bin Jaafar<br>Ms Adeline Boon</td>
 	</tr>
 	<tr>
     <td class="tg-0lax"></td>
