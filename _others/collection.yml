@@ -1,0 +1,13 @@
+collections:
+  others:
+    output: true
+    order:
+      - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/School Attendance Matters.md
+      - Announcements/Cyber Wellness Tips.md
+      - Announcements/LTA Handbrake requirement for bicycles.md
+      - Announcements/Welcome to Angsana!.md
+      - Quicklinks.md
+      - Search.md
+      - FAQs.md
