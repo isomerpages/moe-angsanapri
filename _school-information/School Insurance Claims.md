@@ -24,4 +24,4 @@ c) submit follow up claims
 
 <img src="/images/QR.png" style="width:40%">
 
- Details on the insurance coverage can be found [Here](/files/2024%20GPAI%20for%20Students.pdf)
+ Details on the insurance coverage can be found [Here](/files/2024_GPAI_for_Students.pdf)
