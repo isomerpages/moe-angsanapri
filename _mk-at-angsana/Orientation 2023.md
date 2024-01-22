@@ -9,10 +9,15 @@ description: ""
 
 Orientation 2023
 ===================
+<b>Openhouse (17th February)</b>
+![](/images/Open_House_Poster_2024__1_.png)
 
-
+<b>Access to MK @ Angsana</b>
+![](/images/Access_to_MK_Angsana__1_.png)
 
 <center><b><u> Orientation 2023 </u></b></center>
+
+
 
 <b>Key Features of the MK Curriculum</b>
 ![](/images/9__Key_Features_of_the_MK_Curriculum.jpg)
