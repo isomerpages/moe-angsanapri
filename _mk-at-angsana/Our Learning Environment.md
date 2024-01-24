@@ -15,10 +15,7 @@ Our Learning Environment
 ![](/images/MK@Angsana/K1%20Patience%20resized.jpg)
 
 ![](/images/MK@Angsana/K2%20Kindness%20resized.jpg)
-	
-<b><u> ML/TL Classrooms </u></b>
 
-![](/images/MK@Angsana/ML%20TL%20Classroom.jpg)
 
 <b><u> Playground </u></b>
 ![](/images/Playground.png)
