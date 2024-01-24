@@ -2,6 +2,7 @@ collections:
   mk-at-angsana:
     output: true
     order:
+      - Openhouse 2024.md
       - MK@Angsana.md
       - Our Vision, Mission, Values and Beliefs.md
       - Our Family.md
