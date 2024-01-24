@@ -2,6 +2,7 @@
 title: Kindergarten Care (KCare)
 permalink: /mk-at-angsana/kindergarten-care-kcare/
 description: ""
+variant: markdown
 ---
 ![](/images/MK-Angsana.jpg)
 
@@ -10,18 +11,12 @@ Kindergarten Care (KCare)
 =========================
 
 
-<img src="/images/KCare.jpg" style="width:290px;height:250px;margin-right:15px;" align="left"> Kindergarten Care (KCare) is available in all MOE Kindergartens (MK) located within primary schools. If you register, your child can be in KCare before and after their MK session, providing the convenience of a full-day service. KCare operates from Monday to Friday, 7am to 7pm, including school holidays. It is closed on public holidays and up to 6 additional days each year.
 
 
-The programme includes meals as well as activities designed to provide time and space for children to play, explore and discover through:
-
-*   Indoor and outdoor modular activities, such as tinkering, cookery and gardening activities.
-*   Indoor and outdoor play, such as dramatic play, and sand and water play.
 
 <img src="/images/raffleskcare.png" style="width:230px;height:200px;margin-right:15px;" align="left">
       
-
-Raffles Student Care will be our new KCare Operator with the effect from 2 January 2024.Raffles Student Care Centre was established in 2008 and has been operating community and school-based student care and KCare centres at various locations across the country. Guided by our Company Vision of **Building Our Next Generation**, we inculcate core values and life skills to our young children to ensure they grow up well.
+Raffles Student Care Centre was established in 2008 and has been operating community and school-based student care and KCare centres at various locations across the country. Guided by our Company Vision of **Building Our Next Generation**, we inculcate core values and life skills to our young children to ensure they grow up well.
 
 &nbsp;KCare is a service offered to parents whose children attend MOE Kindergarten and need care services beyond the 4-hour programme of MK.
 
