@@ -1,12 +1,12 @@
 ---
-title: Our Events (2023)
+title: Events
 permalink: /mk-at-angsana/ourevents2023/
 variant: markdown
 description: ""
 ---
 ![](/images/MK-Angsana.jpg)
 
-Our Events (2023)
+Events (2023)
 ==========
 <b>Events (2023)</b>
 
