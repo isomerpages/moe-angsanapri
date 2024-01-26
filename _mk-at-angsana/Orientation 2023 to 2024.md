@@ -1,5 +1,5 @@
 ---
-title: Orientation 2023 and 2024
+title: Orientation 2023 to 2024
 permalink: /mk-at-angsana/orientation2023/
 variant: markdown
 description: ""
