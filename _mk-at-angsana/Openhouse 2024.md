@@ -18,9 +18,7 @@ description: ""
 <p><strong><u>Curriculum and Information</u></strong>
 </p>
 <p>Please click <a href="/files/Curriculum_and_Information_slides_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-    access the curriculum and information slides.</p>
-<p>
-    <br>
+    access the curriculum and information slides.
     <br>
 </p>
 <p></p>
