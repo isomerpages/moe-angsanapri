@@ -218,7 +218,7 @@ towards each other.</td>
 
   
 
-9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2024_SEd_Opt_Out_Form.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by&nbsp;**19/02/2024**.
+9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2024_SEd_Opt_Out_Form.pdf). The completed opt-out form is to be submitted by&nbsp;**19/02/2024**.
 
 
-10. Parents can contact your child’s form teacher or email the school at&nbsp;<b>angsana_pri@moe.edu.sg or call 67830427</b>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+10. Parents can contact your child’s form teacher or email the school at&nbsp;<b>angsana_pri@moe.edu.sg or call 67830427</b>&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
