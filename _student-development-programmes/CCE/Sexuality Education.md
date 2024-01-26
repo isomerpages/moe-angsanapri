@@ -192,7 +192,7 @@ and becoming infatuated with someone does not mean
 that they should be involved in a romantic relationship.
 Instead, they should focus on building strong and healthy
 friendships with their circles of friends.</td>
-    <td class="tg-nrix">Term 1 Week 10<br></td>
+    <td class="tg-nrix">Term 2 Week 2<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Are We More than Friends?
@@ -204,7 +204,7 @@ any relationship. They will also recognise the negative
 impact of teasing their peers who may be experiencing
 the feelings of infatuation and learn to behave maturely
 towards each other.</td>
-    <td class="tg-nrix">Term 2 Week 2<br></td>
+    <td class="tg-nrix">Term 2 Week 3<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Did You Know?*<br>(60 min)<br></td>
