@@ -92,7 +92,7 @@ Primary 5 and 6. Through these lessons, students learn healthy ways to manage th
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tzkj">UNIT<br></th>
+    <th class="tg-tzkj">CCE(FTGP) THEME<br></th>
     <th class="tg-amwm">LESSONS TITLE / DURATION<br></th>
     <th class="tg-amwm">LESSON OVERVIEW</th>
     <th class="tg-amwm">TIME PERIOD<br></th>
@@ -172,7 +172,7 @@ the discussions.</td>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm">UNIT<br></th>
+    <th class="tg-amwm">CCE(FTGP) THEME<br></th>
     <th class="tg-amwm">LESSONS / DURATION<br></th>
     <th class="tg-amwm">LESSON OVERVIEW<br></th>
     <th class="tg-amwm">TIME PERIOD<br></th>
