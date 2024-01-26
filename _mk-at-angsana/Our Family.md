@@ -38,7 +38,7 @@ Our Family
   </tr>
   <tr>
     <td class="tg-vox4">English Language Team</td>
-    <td class="tg-cqfb">Teacher Julia<span style="font-weight:bold"> (Level Head)</span><br>Teacher Liyana<br>Teacher Nitra<br>Teacher Aqida<br>Teacher Cecilia<br>Teacher Geralyn<br>Teacher Zakia<br>Teacher Sarvini<br>Teacher Naasiha<br>Teacher Aishah</td>
+    <td class="tg-cqfb">Teacher Julia<span style="font-weight:bold"> (Level Head)</span><br>Teacher Liyana<br>Teacher Nitra<br>Teacher Aqida<br>Teacher Cecilia<br>Teacher Zakia<br>Teacher Sarvini<br>Teacher Naasiha<br>Teacher Aishah</td>
   </tr>
   <tr>
     <td class="tg-vox4">Chinese Language Team</td>
