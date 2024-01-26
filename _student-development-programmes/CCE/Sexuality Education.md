@@ -59,7 +59,7 @@ b.  Character and Citizenship Education (CCE)
 Primary 5 and 6. Through these lessons, students learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.
 
 
-<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in&nbsp;2023:</b>
+<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024:</b>
 
 
 <style type="text/css">
