@@ -7,7 +7,7 @@ description: ""
 ![](/images/MK-Angsana.jpg)
 
 
-Orientation 2023 and 2024
+Orientation 2023 to 2024
 ==================
 <center><b><u> Orientation 2023 </u></b></center>
 
