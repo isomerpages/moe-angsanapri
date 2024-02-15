@@ -5,4 +5,212 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="1"><p>Designation<br></p></th><th rowspan="1" colspan="1"><p>Name<br></p></th></tr><tr><td rowspan="1" colspan="1"><p>Administration Manager<br></p></td><td rowspan="1" colspan="1"><p>Mdm Tang Yee Siam Irene<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager<br></p></td><td rowspan="1" colspan="1"><p>Mr Muhd Hirwan Bin Muhd Som<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager<br></p></td><td rowspan="1" colspan="1"><p>Mr Fida Mohamed Ghouse B Yahya<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>ICT Manager<br></p></td><td rowspan="1" colspan="1"><p>Mr Dave Tan Chuan Huat<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Administration Executive<br></p></td><td rowspan="1" colspan="1"><p>Ms Ng Chien Wei Cynthia<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Administration Executive<br></p></td><td rowspan="1" colspan="1"><p>Mdm Lydia Bte Aziz<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Administration Executive<br></p></td><td rowspan="1" colspan="1"><p>Mdm Siti Nur Baidura Bte Rahman<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Management Support Officer<br></p></td><td rowspan="1" colspan="1"><p>Mdm Sayani Bte Ahamad<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Management Support Officer<br></p></td><td rowspan="1" colspan="1"><p>Mdm Norly Binte Abdul Wahid</p></td></tr><tr><td rowspan="1" colspan="1"><p>Management Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Noraidah Bte Salleh</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer<br></p></td><td rowspan="1" colspan="1"><p>Mdm Liow Chuan Chin<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer<br></p></td><td rowspan="1" colspan="1"><p>Mdm Chia Lee Choo<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer<br></p></td><td rowspan="1" colspan="1"><p>Mdm Nguyen Do Thu Hien</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer<br></p></td><td rowspan="1" colspan="1"><p>Mdm Ng Meow Eng</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer<br></p></td><td rowspan="1" colspan="1"><p>Mr Mohamad Yusof Bin Md Som</p></td></tr></tbody></table><p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Yee Siam Irene
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Hirwan Bin Muhd Som
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Fida Mohamed Ghouse B Yahya
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dave Tan Chuan Huat
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Executive
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Chien Wei Cynthia
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Executive
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lydia Bte Aziz
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Executive
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nur Baidura Bte Rahman
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sayani Bte Ahamad
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norly Binte Abdul Wahid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Management Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraidah Bte Salleh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liow Chuan Chin
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Lee Choo
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nguyen Do Thu Hien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Meow Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Yusof Bin Md Som</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Chin Siong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Affendi Bin Sarib</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
