@@ -516,10 +516,10 @@ variant: tiptap
 <p>Mr Danial Tan Shao Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Lai San</p>
+<p>Mdm Joanne Ng Si Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanne Ng Si Wei</p>
+<p>Mdm Fong Lai San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
