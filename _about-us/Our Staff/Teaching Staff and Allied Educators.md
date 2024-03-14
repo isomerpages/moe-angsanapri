@@ -714,13 +714,13 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Yaisyah Bte Mohd Yasin</p>
+<p>Mrs Cherlyn Koh-Tan Su Len</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chim Wei Ching Jerene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cherlyn Koh-Tan Su Len</p>
+<p>Mdm Nur Yaisyah Bte Mohd Yasin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
