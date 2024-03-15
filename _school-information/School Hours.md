@@ -61,27 +61,27 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>7.30 am</p>
+<br>0730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 to 9.30 a.m.</p>
+<p>0900 to 0930</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 to 10.00 a.m.</p>
+<p>0930 to 1000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 to 10.30 a.m.</p>
+<p>1000 to 1030</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30 to 11.00 a.m.</p>
+<p>1030 to 1100</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.00 - 12.30 p.m. (P1 &amp; P2)
-<br>12.30 - 1.30 p.m. (P3 - P6)</p>
+<p>1200 - 1230 (P1 &amp; P2)
+<br>1230 - 1330 (P3 - P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>1.30 pm</p>
+<br>1330</p>
 </td>
 </tr>
 <tr>
