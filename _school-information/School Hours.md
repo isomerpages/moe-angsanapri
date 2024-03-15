@@ -2,6 +2,7 @@
 title: School Hours
 permalink: /school-information/School-Hours/
 description: ""
+variant: markdown
 ---
 ![](/images/SchoolInformation.jpg)
 
@@ -32,7 +33,7 @@ School Hours
 </thead>
 <tbody>
   <tr>
-    <td class="tg-amwm">Monday<br>Tuesday<br>Wednesday<br>Thursday<br>Friday</td>
+    <td class="tg-amwm">Monday<br>To<br>Friday</td>
     <td class="tg-amwm"><br>7.30 am</td>
     <td class="tg-amwm">9.30 am -<br>10.00 am</td>
     <td class="tg-amwm">10.00 am -<br>10.30 am</td>
