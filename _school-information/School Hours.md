@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>12.00 - 12.30 p.m. (P1 &amp; P2)
-<br>12.00 - 12.30 p.m. (P3 - P6)</p>
+<br>12.30 - 1.30 p.m. (P3 - P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
