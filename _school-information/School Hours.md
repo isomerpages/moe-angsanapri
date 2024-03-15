@@ -2,63 +2,124 @@
 title: School Hours
 permalink: /school-information/School-Hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/SchoolInformation.jpg)
-
-
-School Hours
-============
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Day</span><br></th>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Session Begins</span><br></th>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 1</span><br><span style="color:#666;background-color:#DDD">(P1R1, P1R2, P1R3, P1I &amp;</span><br><span style="color:#666;background-color:#DDD">All P4s)</span><br></th>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 2</span><br><span style="color:#666;background-color:#DDD">(P1K, P1H, P1G, P1E &amp;</span><br><span style="color:#666;background-color:#DDD">All P3s &amp; P5s)</span><br></th>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 3 (All P2s &amp; P6s)</span></th>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 4</span><br><span style="color:#666;background-color:#DDD">(P1K, P1H, P1G, P1E &amp;</span><br><span style="color:#666;background-color:#DDD">All P3s &amp; P5s)</span><br></th>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">10 min Snack Break</span><br></th>
-    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Dismissal</span><br></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolInformation.jpg">
+</div>
+<h1>School Hours</h1>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-amwm">Monday<br>To<br>Friday</td>
-    <td class="tg-amwm"><br>7.30 am</td>
-    <td class="tg-amwm">9.30 am -<br>10.00 am</td>
-    <td class="tg-amwm">10.00 am -<br>10.30 am</td>
-    <td class="tg-amwm">10.30 am -<br>11.00 am</td>
-    <td class="tg-amwm">Between<br>12.30 pm - 1.00 pm</td>
-    <td class="tg-amwm"><br>1.30 pm</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Session Begins
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess 1
+<br>(P1)
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess 2
+<br>(P2)
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess 3 (P3 &amp; P5)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess 4
+<br>(P4 &amp; P6)
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Snack Break
+<br>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dismissal
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday
+<br>To
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>7.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 to 9.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30 to 10.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00 to 10.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30 to 11.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.00 - 12.30p.m. (P1 &amp; P2)
+<br>12.00 - 12.30p.m. (P3 - P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>1.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-54l1{border-color:#ffffff;font-size:15px;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-54l1">Additional Remedial and Enrichment programmes are held in the afternoons,<br><span style="font-weight:400;font-style:normal;text-decoration:none">from 2.00 p.m. to 4.00 p.m.</span></td>
-  </tr>
-</thead>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Additional Remedial and Enrichment programmes are held in the afternoons,
+<br>from 2.00 p.m. to 4.00 p.m.</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
