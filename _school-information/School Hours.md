@@ -27,6 +27,7 @@ School Hours
     <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 1</span><br><span style="color:#666;background-color:#DDD">(P1R1, P1R2, P1R3, P1I &amp;</span><br><span style="color:#666;background-color:#DDD">All P4s)</span><br></th>
     <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 2</span><br><span style="color:#666;background-color:#DDD">(P1K, P1H, P1G, P1E &amp;</span><br><span style="color:#666;background-color:#DDD">All P3s &amp; P5s)</span><br></th>
     <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 3 (All P2s &amp; P6s)</span></th>
+    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Recess 4</span><br><span style="color:#666;background-color:#DDD">(P1K, P1H, P1G, P1E &amp;</span><br><span style="color:#666;background-color:#DDD">All P3s &amp; P5s)</span><br></th>
     <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">10 min Snack Break</span><br></th>
     <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Dismissal</span><br></th>
   </tr>
