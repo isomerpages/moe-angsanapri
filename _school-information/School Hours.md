@@ -77,7 +77,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>1200 - 1230 (P1 &amp; P2)
-<br>1230 - 1330 (P3 - P6)</p>
+<br>1230 - 1300 (P3 - P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
