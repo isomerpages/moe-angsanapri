@@ -25,6 +25,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jun Hao Desmond</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Hon. Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,14 +77,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assoc Prof Jason Ang Kwang Lin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Jun Hao Desmond</p>
 </td>
 </tr>
 <tr>
