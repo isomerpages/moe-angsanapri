@@ -16,4 +16,5 @@ visit
 [https://jeepsinguniform.com](https://jeepsinguniform.com/) and [https://beauvoix.com.sg](https://beauvoix.com.sg/.)
 
 **Waiting List Form **
-https://form.gov.sg/65b8a7ca89e93e26dd34f2c0 
+
+Please click [here](https://form.gov.sg/65b8a7ca89e93e26dd34f2c0)
