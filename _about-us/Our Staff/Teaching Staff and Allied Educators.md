@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -76,10 +83,10 @@ variant: tiptap
 <p>Mr Marcus Goh Yong Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Pei Jing</p>
+<p>Mdm Fong Lai San</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriani Bte Sokran</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,7 +100,7 @@ variant: tiptap
 <p>Ms Nur Amalina Bte Mohamed Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Pei Ying Elana</p>
+<p>Mdm Tan Pei Ying Elana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -161,7 +168,7 @@ variant: tiptap
 <p>Mdm Shainas Bte Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim_Low Hui Ling</p>
+<p>Ms Tan Si Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharon Tan Mei Ling</p>
@@ -189,7 +196,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -280,7 +294,7 @@ variant: tiptap
 <p>Mrs Sangeet Bajaj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm How Bi Ee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -311,10 +325,10 @@ variant: tiptap
 <p>Ms Elizabeth Wan Zhu En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarah Amnah Bte Zaihan</p>
+<p>Ms Nurul Ashiqin Bte Saneb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Victor Kiew</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -328,10 +342,10 @@ variant: tiptap
 <p>Ms Chung Sin Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosina Bakam</p>
+<p>Mr Eugene Goh Qi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Rosina Bakam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -345,10 +359,10 @@ variant: tiptap
 <p>Ms Toh Ying Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Vivien Goh Yen Ling</p>
+<p>Mdm Joanne Ng Si Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Marcia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -373,7 +387,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -419,7 +441,7 @@ variant: tiptap
 <p>Ms Lee Woei Yann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Jun Wei</p>
+<p>Mr Kevin Tan Chun Liang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -479,7 +501,7 @@ variant: tiptap
 <p>Mr Rizanudin B Jusary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yeo Hwee Khim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -516,10 +538,10 @@ variant: tiptap
 <p>Mr Danial Tan Shao Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joanne Ng Si Wei</p>
+<p>Mdm Adeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Lai San</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -530,7 +552,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -604,7 +633,7 @@ variant: tiptap
 <p>Mdm Estelle Goh Siok Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nurul Fadhilah Bte Mohammed Taufik</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -638,7 +667,7 @@ variant: tiptap
 <p>Mr Hafizuddin Bin Zulkefeli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Salim Bin Hassan Basalamah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -663,7 +692,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -714,13 +750,13 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cherlyn Koh-Tan Su Len</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chim Wei Ching Jerene</p>
+<p>Mdm Sarah Amnah Bte Zaihan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Yaisyah Bte Mohd Yasin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chim Wei Ching Jerene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -728,7 +764,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
@@ -844,7 +887,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
