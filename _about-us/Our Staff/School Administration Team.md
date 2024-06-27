@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,18 +61,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Dave Tan Chuan Huat
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Administration Executive
 <br>
 </p>
@@ -99,18 +91,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nur Baidura Bte Rahman
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sayani Bte Ahamad
 <br>
 </p>
 </td>
@@ -201,14 +181,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Affendi Bin Sarib</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
