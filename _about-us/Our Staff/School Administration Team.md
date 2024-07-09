@@ -49,18 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fida Mohamed Ghouse B Yahya
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Administration Executive
 <br>
 </p>
