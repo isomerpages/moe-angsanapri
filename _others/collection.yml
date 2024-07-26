@@ -4,6 +4,7 @@ collections:
     order:
       - Announcements/.keep
       - Announcements/Announcements.md
+      - Announcements/ECHA Award.md
       - Announcements/School Attendance Matters.md
       - Announcements/Cyber Wellness Tips.md
       - Announcements/LTA Handbrake requirement for bicycles.md
