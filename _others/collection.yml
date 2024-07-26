@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Announcements/ECHA Award.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/School Attendance Matters.md
