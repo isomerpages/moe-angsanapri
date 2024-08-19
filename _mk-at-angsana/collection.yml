@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Events/2024.md
-      - Events/Events.md
+      - Events/2023.md
       - Events/.keep
       - MK@Angsana.md
       - Our Vision, Mission, Values and Beliefs.md
