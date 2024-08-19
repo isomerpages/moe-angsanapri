@@ -4,13 +4,6 @@ permalink: /mk-at-angsana/orientation/orientation-2023-to-2024/
 variant: tiptap
 description: ""
 ---
-<h3><strong><a href="https://www.angsanapri.moe.edu.sg/orientation/orientation-2024-to-2025/" rel="noopener noreferrer nofollow" target="_blank">Orientation 2024 to 2025</a></strong></h3>
-<h3><strong><a href="https://www.angsanapri.moe.edu.sg/orientation/orientation-2023-to-2024/" rel="noopener noreferrer nofollow" target="_blank">Orientation 2023 to 2024</a></strong></h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h1>Orientation 2023 to 2024</h1>
 <p><strong><u>Orientation 2023</u></strong>
 </p>
