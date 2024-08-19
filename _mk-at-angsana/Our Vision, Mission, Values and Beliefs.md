@@ -41,3 +41,5 @@ Children are curious learners
 Children are active learners
 <br>
 Children are competent learners
+<br>
+Children are joyful learners 

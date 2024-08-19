@@ -15,6 +15,12 @@ uniforms. Please refer to attached flyers for more information on how to purchas
 visit
 [https://jeepsinguniform.com](https://jeepsinguniform.com/) and [https://beauvoix.com.sg](https://beauvoix.com.sg/.)
 
-**Waiting List Form **
 
-Please click [here](https://form.gov.sg/65b8a7ca89e93e26dd34f2c0)
+
+<b>MK-Early Years Centre (EYC) Partnership</b>
+
+PCF Sparkletots Preschool @ Tampines North Blk 647
+Blk 647 Tampines Street 62 #01-01, S520647
+(+65) 6610 9746
+
+  
