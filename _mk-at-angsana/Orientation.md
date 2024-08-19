@@ -7,6 +7,17 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK-Angsana.jpg">
 </div>
+<p></p>
+<p></p>
+<h2><a href="https://www.angsanapri.moe.edu.sg/mk-at-angsana/orientation/orientation-2024-to-2025/" rel="noopener noreferrer nofollow" target="_blank">Orientation 2024 to 2025</a></h2>
+<h2></h2>
+<h2><a href="https://www.angsanapri.moe.edu.sg/mk-at-angsana/orientation/orientation-2023-to-2024/" rel="noopener noreferrer nofollow" target="_blank">Orientation 2023 to 2024</a></h2>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h1>Orientation 2023 to 2024</h1>
 <p><strong><u>Orientation 2023</u></strong>
 </p>
