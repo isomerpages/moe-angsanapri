@@ -2,7 +2,6 @@ collections:
   mk-at-angsana:
     output: true
     order:
-      - Join Us!.md
       - MK@Angsana.md
       - Our Vision, Mission, Values and Beliefs.md
       - Our Family.md
@@ -16,3 +15,4 @@ collections:
       - Open House 2024.md
       - Kindergarten Care (KCare).md
       - Other Information.md
+      - Join Us!.md
