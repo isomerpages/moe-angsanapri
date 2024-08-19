@@ -8,7 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK-Angsana.jpg">
 </div>
 <h1>Orientation 2023 to 2024</h1>
-<p><strong><u> Orientation 2023</u></strong>
+<p><strong><u>Orientation 2023</u></strong>
 </p>
 <p><strong>Key Features of the MK Curriculum</strong>
 </p>
