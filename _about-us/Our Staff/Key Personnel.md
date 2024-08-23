@@ -125,6 +125,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Leong Hwee Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,18 +173,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST Music</p>
+<p>LT SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Kay Gek</p>
+<p>Mrs Lee Mi Liang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH English Language</p>
+<p>ST Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Leong Hwee Khim</p>
+<p>Ms Ng Kay Gek</p>
 </td>
 </tr>
 </tbody>
