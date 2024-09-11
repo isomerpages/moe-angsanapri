@@ -21,7 +21,14 @@ Competencies.</p>
 friendships and social integration amongst students of diverse backgrounds.
 Through CCA, students develop a sense of identity and belonging to the
 school.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -54,7 +61,7 @@ school.</p>
 <p>3.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Fadhli bin Jamaluddin(OIC)
+<p>Mr Muhammad Fadhli bin Jamaluddin (OIC)
 <br>Mr Tan Shao Wei Danial
 <br>Mr Hafizuddin Bin Zulkefeli
 <br>Mr Mohamad Razali Jambari</p>
@@ -68,12 +75,12 @@ school.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30pm - 5.00pm</p>
+<p>2.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Weinie Tan-Teo Wei Chiew(OIC)
-<br>Ms Nur Amalina
-<br>Ms Lee Woei Yann</p>
+<p>Mrs Weinie Tan-Teo Wei Chiew (OIC)</p>
+<p>Mdm Nur Yaisyah
+<br>Ms Nur Amalina</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +94,7 @@ school.</p>
 <p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Sze Cheng(OIC)
+<p>Mdm Lee Sze Cheng (OIC)
 <br>Ms Nur Diyanah Amalina
 <br>Ms Lim Yi Wen</p>
 </td>
@@ -103,7 +110,7 @@ school.</p>
 <p>2.15pm - 4.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ma Jingying(OIC)
+<p>Ms Ma Jingying (OIC)
 <br>Ms Lim Yi Jen
 <br>Ms Lim Pei Jing</p>
 </td>
@@ -119,9 +126,9 @@ school.</p>
 <p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Chng(OIC)
-<br>Mr Foo Jun Wei
-<br>Ms Audrey Liaw</p>
+<p>Mr Richard Chng (OIC)
+<br>Mr Foo Jun Wei</p>
+<p>Ms Audrey Liaw</p>
 </td>
 </tr>
 <tr>
@@ -138,9 +145,9 @@ school.</p>
 <p>3.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ellianie Bte Sahrom(OIC)
-<br>Ms Tan Ruijian
-<br>Ms Quraisya Mirza</p>
+<p>Mdm Ellianie Bte Sahrom (OIC)
+<br>Mrs Tan Ruijian
+<br>Mdm Quraisya Mirza</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +161,7 @@ school.</p>
 <p>2.15pm - 4.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chung Sin Le(OIC)
+<p>Ms Chung Sin Le (OIC)
 <br>Mr Hasvinnath Pillai Shastri
 <br>Mr Paul Chan</p>
 </td>
@@ -170,8 +177,8 @@ school.</p>
 <p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noorjanna(OIC)
-<br>Ms Suhailah Abdullah
+<p>Mdm Noorjanna (OIC)
+<br>Mdm Suhailah Abdullah
 <br>Ms Vivien Goh</p>
 </td>
 </tr>
@@ -189,7 +196,7 @@ school.</p>
 <p>2.30pm - 5.00pm</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Ms Maragatham d/o Sivalingam(OIC)
+<p>Ms Maragatham d/o Sivalingam (OIC)
 <br>Ms Toh Ying Han
 <br>Ms Joycelyn Ho
 <br>Mdm Mayrah Abdullah Loh</p>
@@ -214,7 +221,7 @@ school.</p>
 <p>2.15pm - 4.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elana Tan Pei Ying(OIC)
+<p>Ms Elana Tan Pei Ying (OIC)
 <br>Mdm Jamilah Bte Abdullah
 <br>Ms Joanne Ng Si Wei
 <br>
@@ -232,7 +239,7 @@ school.</p>
 <p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marianne Long(OIC)
+<p>Ms Marianne Long (OIC)
 <br>Ms Cui Rong Rong
 <br>Ms Nicole Lee</p>
 </td>
@@ -248,11 +255,9 @@ school.</p>
 <p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Siyi(OIC)
+<p>Ms Li Siyi (OIC)
 <br>Ms Nurul Arini Bte Junaidi
-<br>Mdm Estelle Goh
-<br>
-</p>
+<br>Mdm Estelle Goh</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +274,7 @@ school.</p>
 <p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shainas Hassan(OIC)
+<p>Ms Shainas Hassan (OIC)
 <br>Mdm Chin Huimin Sheila
 <br>Mdm Meenah Mohd Salleh</p>
 </td>
@@ -285,26 +290,9 @@ school.</p>
 <p>2.30pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Kim Loong Jonathan(OIC)
+<p>Mr Tay Kim Loong Jonathan (OIC)
 <br>Mr Norhaziq Amalee Bin Jaafar
 <br>Ms Adeline Boon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
