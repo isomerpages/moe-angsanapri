@@ -7,8 +7,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolInformation.jpg">
 </div>
-<h1>School Hours</h1>
-<table>
+<h2>School Hours</h2>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -17,9 +26,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Session Begins
-<br>
-</p>
+<p>School Hours</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Recess 1
@@ -47,11 +54,6 @@ variant: tiptap
 <br>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Dismissal
-<br>
-</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,66 +62,114 @@ variant: tiptap
 <br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>7.30 a.m. - 1.30 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m. - 9.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30 a.m. - 10.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00 a.m. - 10.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30 a.m. - 11.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.00 p.m. - 1230 p.m. (P1 &amp; P2)</p>
 <p>
-<br>0730</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0900 to 0930</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>0930 to 1000</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1000 to 1030</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1030 to 1100</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1200 - 1230 (P1 &amp; P2)
-<br>1230 - 1300 (P3 - P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>1330</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br>12.30 p.m. - 1.00 p.m. (P3 - P6)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Additional Remedial and Enrichment programmes are held in the afternoons,
-<br>from 2.00 p.m. to 4.00 p.m.</p>
+from 2.00 p.m. to 4.00 p.m.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h2>School Gate Hours</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Gate Number</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Opening Hours</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Next to main gate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+<p>6.45 a.m. - 7.30 a.m.</p>
+<p>1.30 p.m. - 2.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Next to MK@Angsana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+<p>7.00 a.m. - 7.30 a.m.</p>
+<p>1.30 p.m. - 2.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Next to bus stop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+<p>6.45 a.m. - 7.30 a.m.</p>
+<p>1.30 p.m. - 2.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 and 5</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>For Emergency Use Only</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>All visitors are required to report to the security personnel to obtain
+a Visitor's Pass before entering the school.</p>
+</li>
+</ul>
 <p></p>
