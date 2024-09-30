@@ -90,7 +90,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norly Binte Abdul Wahid</p>
+<p>Mdm Rosmi Bte Osman</p>
 </td>
 </tr>
 <tr>
@@ -169,6 +169,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Affendi Bin Sarib</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Front Desk Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Susan Teo</p>
 </td>
 </tr>
 </tbody>
