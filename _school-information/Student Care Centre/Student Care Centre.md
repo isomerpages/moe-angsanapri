@@ -20,7 +20,7 @@ variant: tiptap
 <p>Operator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raffles Student Care Centre</p>
+<p>Raffles Student Care Centre LLP</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:ASN@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank"><u>ASN@rafflesstudentcare.com</u></a></strong>
+<p><strong><a href="mailto:ASN@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank"><u>asn@rafflesstudentcare.com</u></a></strong>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.rafflesstudentcare.com/" rel="noopener noreferrer nofollow" target="_blank"><u>www.rafflesstudentcare.com</u></a></strong>
+<p><strong><a href="https://www.rafflesstudentcare.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://rafflesstudentcare.com/</u></a></strong>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ variant: tiptap
 <p>Registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.rafflesstudentcare.com/Registration" rel="noopener noreferrer nofollow" target="_blank"><u>www.rafflesstudentcare.com/Registration</u></a></strong>
+<p><strong><a href="https://www.rafflesstudentcare.com/Registration" rel="noopener noreferrer nofollow" target="_blank"><u>www.rafflesstudentcare.com/Interest</u></a></strong>
 </p>
 </td>
 </tr>
