@@ -24,10 +24,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Telephone</p>
+<p>Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>88003032</p>
+<p>6284 3032 (ext 213)</p>
+<p>8800 3032 (Whatsapp)</p>
+<p>9457 2373 (Call)</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +45,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.bedoktransport.com" rel="noopener nofollow" target="_blank">www.bedoktransport.com</a>
+<p><a href="https://www.bedoktransport.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.bedoktransport.com/</a>
 </p>
 </td>
 </tr>
