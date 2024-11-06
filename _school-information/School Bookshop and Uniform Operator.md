@@ -72,7 +72,7 @@ variant: tiptap
 <p>Recess Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>: 9.00 am to 11.30 am (priority for student)</p>
+<p>9.00 am to 11.30 am (priority for student)</p>
 </th>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ variant: tiptap
 <p>Lunch Break</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>: 12.00 pm to 1.00 pm</p>
+<p>12.00 pm to 1.00 pm</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ variant: tiptap
 <p>Parents Walk In</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>: 2.00 pm to 3.30 pm</p>
+<p>2.00 pm to 3.30 pm</p>
 </td>
 </tr>
 </tbody>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Operator</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>: My Uniform Shop (ASIA) Pte Ltd</p>
+<p>My Uniform Shop (ASIA) Pte Ltd</p>
 </th>
 </tr>
 <tr>
@@ -113,7 +113,7 @@ variant: tiptap
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>: 209 New Upper Changi Road #03-651 Singapore 460209</p>
+<p>209 New Upper Changi Road #03-651 Singapore 460209</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ variant: tiptap
 <p>Retail Outlet Telephone Number</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>: 6276 6689</p>
+<p>6276 6689</p>
 </td>
 </tr>
 <tr>
