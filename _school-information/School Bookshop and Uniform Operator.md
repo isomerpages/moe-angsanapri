@@ -20,7 +20,7 @@ variant: tiptap
 <p>Operator</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>: BL Marketing Private Limited</p>
+<p>BL Marketing Private Limited</p>
 </th>
 </tr>
 <tr>
@@ -28,7 +28,16 @@ variant: tiptap
 <p>Telephone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>: 6284 8785 (HQ Number)</p>
+<p>6284 8785 (9am - 4pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sales@blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">sales@blmarketing.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +45,16 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>: <strong><a href="http://www.blmarketing.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.blmarketing.sg</u></a></strong>
+<p><a href="http://www.blmarketing.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.blmarketing.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online Order</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.blmarketing.sg/register" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.sg/register</a>
 </p>
 </td>
 </tr>
