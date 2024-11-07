@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /school-information/Contact-Us/
 description: ""
+variant: markdown
 ---
 ![](/images/SchoolInformation.jpg)
 
@@ -26,11 +27,11 @@ Contact Us
 <tbody>
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Telephone</span></td>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">: 67830427</span></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">: 6783 0427</span></td>
   </tr>
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Fax</span></td>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">: 67845293</span></td>
+    <td class="tg-czno"><span style="font-weight:400;color:#000">: 6783 5293</span></td>
   </tr>
   <tr>
     <td class="tg-czno"><span style="font-weight:400;color:#000">Email</span></td>
