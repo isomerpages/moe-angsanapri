@@ -2,40 +2,60 @@
 title: Contact Us
 permalink: /school-information/Contact-Us/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/SchoolInformation.jpg)
-
-Contact Us
-==========
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-czno{border-color:#ffffff;font-size:16px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-czno"><span style="font-weight:400;color:#000">Address</span></th>
-    <th class="tg-czno"><span style="font-weight:400;color:#000">: 51 Tampines Street 61 Singapore 528565</span></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolInformation.jpg">
+</div>
+<h1>Contact Us</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">Telephone</span></td>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">: 6783 0427</span></td>
-  </tr>
-  <tr>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">Fax</span></td>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">: 6783 5293</span></td>
-  </tr>
-  <tr>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">Email</span></td>
-    <td class="tg-czno"><span style="font-weight:400;color:#000">:</span> <a href="mailto:angsana_pri@moe.edu.sg"><span style="font-weight:600;text-decoration:underline;color:#009783">angsana_pri@moe.edu.sg</span></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Address</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>51 Tampines Street 61 Singapore 528565</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.angsanapri.moe.edu.sg" rel="noopener nofollow" target="_blank">www.angsanapri.moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Telephone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6783 0427</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fax</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6783 5293</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:angsana_pri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>angsana_pri@moe.edu.sg</u></a></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
