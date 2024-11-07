@@ -18,10 +18,9 @@ variant: tiptap
 </p>
 <p><a href="/files/Booklist_2025_Angsana_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Booklist</a>
 </p>
-<p><a href="/files/Booklist_2025_Angsana_P6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation Booklist</a>
+<p><a href="/files/Booklist_2025_Angsana_P6_Foundation.pdf" rel="noopener nofollow" target="_blank">Primary 6 Foundation Booklist</a>
 </p>
-<p><a href="/files/Information_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Information for Parents</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:57%" height="auto" width="100%" src="/images/Nametag.png">
 </div>

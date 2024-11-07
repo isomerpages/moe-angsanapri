@@ -45,7 +45,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.blmarketing.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.blmarketing.sg</u></a>
+<p><a href="http://www.blmarketing.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://blmarketing.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ variant: tiptap
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.myuniformshop.com.sg</u></a>
+<p><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.myuniformshop.com.sg/</u></a>
 </p>
 </td>
 </tr>
