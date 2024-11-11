@@ -51,11 +51,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Order</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.blmarketing.sg/register" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.sg/register</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
