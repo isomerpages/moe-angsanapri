@@ -47,6 +47,5 @@ in a safe and conducive environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCare_Fee.png">
 </div>
-<p></p>
 <p>For more information on KCare, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>.</p>
 <p>For any enquiries, they can be reached at Email: KCASN@rafflesstudentcare.com</p>
