@@ -25,24 +25,34 @@ third_nav_title: Orientation
 </div>
 <p><strong>Important Information</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Important_Information__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Important_Information__2_.png">
+</div>
 <p><strong>K1 First 2 Days Programme</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_2_Days_Programme.png">
+</div>
 <p><strong>Calendar of Events</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar_of_Events__Term_1_.png">
+</div>
 <p><strong>Sample Snack Menu</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Sample_Snack_Menu.png">
 </div>
 <p></p>
-<p><strong><a href="/files/1__MK_Orientation_Slides_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Orientation Slides</a></strong>
+<p><a href="/files/MK_Orientation_Slides.pdf" rel="noopener nofollow" target="_blank">MK Orientation Slides</a>
 </p>
-<p><strong><a href="/files/2__KCare_Orientation_Slides_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">KCare Orientation Slides</a></strong>
+<p><a href="/files/KCare_Orientation_Slides.pdf" rel="noopener nofollow" target="_blank">KCare Orientation Slides</a>
 </p>
-<p><strong><a href="/files/3__Breakout_Room_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Breakout Room Slides</a></strong>
+<p>Breakout Slides</p>
+<p><a href="/files/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 MOE Kindergarten Family Handbook</a>
 </p>
-<p><strong><a href="/files/10__Family_Handbook_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Family Handbook 2023</a></strong>
-</p>
-<p><strong><a href="/files/11__MK_Family_Handbook_Acknowledgement_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Family Handbook Acknowledgement Form</a></strong>
+<p><a href="/files/MK_Family_Handbook_Acknowledgement_Form.pdf" rel="noopener nofollow" target="_blank">MK Family Handbook Acknowledgement Form</a>
 </p>
