@@ -51,7 +51,8 @@ third_nav_title: Orientation
 </p>
 <p><a href="/files/KCare_Orientation_Slides.pdf" rel="noopener nofollow" target="_blank">KCare Orientation Slides</a>
 </p>
-<p>Breakout Slides</p>
+<p><a href="/files/Breakout_room_slides__3__compressed.pdf" rel="noopener nofollow" target="_blank">Breakout Room</a>
+</p>
 <p><a href="/files/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 MOE Kindergarten Family Handbook</a>
 </p>
 <p><a href="/files/MK_Family_Handbook_Acknowledgement_Form.pdf" rel="noopener nofollow" target="_blank">MK Family Handbook Acknowledgement Form</a>
