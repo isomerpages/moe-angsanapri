@@ -37,6 +37,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal (EO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Carol Foo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,6 +57,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Belinda Cheng-Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head Middle Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Angeline Quek</p>
 </td>
 </tr>
 <tr>
@@ -85,10 +101,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE &amp; CCA</p>
+<p>HOD MTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rizanudin B Jusary</p>
+<p>Mdm Fong Lai San</p>
 </td>
 </tr>
 <tr>
@@ -109,10 +125,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD MTL</p>
+<p>HOD EdTech &amp; Knowledge Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Lai San</p>
+<p>Mr Oh Ming Yie</p>
 </td>
 </tr>
 <tr>
@@ -125,18 +141,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH English Language</p>
+<p>Assistant Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Leong Hwee Khim</p>
+<p>Mdm Nur Aini Bte Said</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Chinese Language</p>
+<p>LH Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mei Wah</p>
+<p>Mdm Ng Sze Hwei</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +160,15 @@ variant: tiptap
 <p>SH Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aliah Mahirah bte Abdullah</p>
+<p>Mdm Siti Aliah Mahirah Bte Abdullah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Mei Wah</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +181,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT</p>
+<p>SH EdTech &amp; Knowledge Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lester Ting Huong San</p>
@@ -176,7 +200,7 @@ variant: tiptap
 <p>LT SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Mi Liang</p>
+<p>Mrs Tan- Lee Mi Liang</p>
 </td>
 </tr>
 <tr>
