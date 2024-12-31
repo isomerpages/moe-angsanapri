@@ -49,6 +49,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Lutfi Bin Abdul Rashid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administration Executive
 <br>
 </p>
@@ -176,7 +184,7 @@ variant: tiptap
 <p>Front Desk Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Susan Teo</p>
+<p>Ms Susan Teo</p>
 </td>
 </tr>
 </tbody>
