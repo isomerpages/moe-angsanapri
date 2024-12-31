@@ -274,10 +274,10 @@ variant: tiptap
 <p>Mdm Tan Ruijuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suhaila Bte Abdullah</p>
+<p>Mdm Fong Lai San</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Lai San</p>
+<p>Mdm Suhaila Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -495,10 +495,10 @@ variant: tiptap
 <p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charmaine Phoon Mei Shan</p>
+<p>Mr Yin Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yin Jian</p>
+<p>Ms Charmaine Phoon Mei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
