@@ -21,8 +21,10 @@ Competencies.</p>
 friendships and social integration amongst students of diverse backgrounds.
 Through CCA, students develop a sense of identity and belonging to the
 school.</p>
-<table style="minWidth: 175px">
+<table style="minWidth: 225px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -50,15 +52,23 @@ school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Overall Teacher-In-Charge (OIC)</strong>
+<p><strong>Overall Teacher-in-Charge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-In-Charge</strong>
+<p><strong>Teacher-in-Charge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-In-Charge</strong>
+<p><strong>Teacher-in-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-Charge</strong>
 </p>
 </td>
 </tr>
@@ -79,13 +89,19 @@ school.</p>
 <p>2:30pm – 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Fadhli bin Jamaluddin</p>
+<p>Mr Muhammad Khairuddin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shao Wei Danial</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairuddin</p>
+<p>Mr Muhd Fadhli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Razali Jambari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -102,10 +118,16 @@ school.</p>
 <p>Mdm Nur Yaisyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Weinie Tan-Teo WeiChiew</p>
+<p>Ms Nur Amalina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Amalina</p>
+<p>Mrs Weinie Tan-Teo Wei Chiew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +147,13 @@ school.</p>
 <p>Ms Lim Yi Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafizuddin Zulkefeli</p>
+<p>Dhashni D/O Magogaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Md Hafizuddin Zulkefeli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -139,13 +167,19 @@ school.</p>
 <p>2:00pm – 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ma Jingying</p>
+<p>Mdm Ma Jingying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Yi Jen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kevin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +199,13 @@ school.</p>
 <p>Mr Eugene Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sri Nur Amanina Binte Kamil</p>
+<p>Ms Audrey Liaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -186,10 +226,16 @@ school.</p>
 <p>Mdm Ellianie Bte Sahrom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Liaw</p>
+<p>Mr Salim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cui Rong Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hafizah Bte Ismail (Sem 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -203,13 +249,19 @@ school.</p>
 <p>2:00pm – 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hasvinnath Pillai Shastri</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Paul Chan</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Hasvinnath Pillai Shastri</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Nurliyana Binte Mahat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharaniya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -231,6 +283,12 @@ school.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Elizabeth Wan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
@@ -248,13 +306,19 @@ school.</p>
 <p>2:00pm – 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elana Tan Pei Ying</p>
+<p>Ms Elana Tan Pei Ying&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamilah Bte Abdullah ***</p>
+<p>Mdm Jamilah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charmaine Phoon&nbsp;</p>
+<p>Ms Charmaine Phoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Si Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +338,13 @@ school.</p>
 <p>Ms Nurul Arini Bte Junaidi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Estelle Goh</p>
+<p>Ms Cheong Wan Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -288,13 +358,19 @@ school.</p>
 <p>2:00pm – 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Marianne Long</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Nicole Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shahira Binte Daud</p>
+<p>Ms Marianne Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharifah Salwah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -308,10 +384,16 @@ school.</p>
 <p>2:00pm – 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Ying Han</p>
+<p>Ms Mayrah Loh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ruijian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Yinghan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teng Xiu Ying Agneta</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Ain Binte Khairudin</p>
@@ -332,13 +414,19 @@ school.</p>
 <p>2:00pm – 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Kim Loong Jonathan&nbsp;</p>
+<p>Mr Tay Kim Loong Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Norhaziq Amalee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Nabila Binte Azman</p>
+<p>Mr Ng Jun Jie Terence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Nabila Bte Azman (Sem 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -355,10 +443,16 @@ school.</p>
 <p>Ms Shainas Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sheila Chin Huimin&nbsp;</p>
+<p>Mdm Sheila Chin Huimin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Meenah Mohd Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
