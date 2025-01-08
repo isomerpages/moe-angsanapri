@@ -165,13 +165,13 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Yaisyah Bte Mohd Yasin</p>
+<p>Mdm Nur Yaisyah Bte Md Yasin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suraya Bte Mustajab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Nabila Bte Azman</p>
+<p>Mdm Razana Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
