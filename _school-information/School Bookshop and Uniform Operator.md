@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Operating Hours (9.00 am to 3.30 pm)</h5>
+<h5>Operating Hours (8.30 am to 3.30 pm)</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>Parents Walk In</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm to 3.30 pm</p>
+<p>2.00 pm to 3.00 pm</p>
 </td>
 </tr>
 </tbody>
