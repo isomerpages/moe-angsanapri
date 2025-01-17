@@ -770,7 +770,7 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Salwah Bte Syed Ahmad</p>
+<p>Mdm Sharifah Salwah Bte Syed Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Razali Bin Jambari</p>
@@ -804,7 +804,7 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurliyana Bte Mahat</p>
+<p>Mdm Nurliyana Bte Mahat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cui Rong Rong</p>
