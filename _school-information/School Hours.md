@@ -8,8 +8,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolInformation.jpg">
 </div>
 <h2>School Hours</h2>
-<table style="minWidth: 175px">
+<table style="minWidth: 200px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -36,18 +37,21 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Recess 2
-<br>(P2)
+<br>(P3)
 <br>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Recess 3 (P3 &amp; P5)</p>
+<p>Recess 3 (P2)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Recess 4
-<br>(P4 &amp; P6)
+<br>(P5)
 <br>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recess 5 (P4 and P6)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Snack Break
@@ -77,22 +81,13 @@ variant: tiptap
 <p>10.30 a.m. - 11.00 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.00 p.m. - 1230 p.m. (P1 &amp; P2)</p>
-<p>
-<br>12.30 p.m. - 1.00 p.m. (P3 - P6)</p>
+<p>11.00 a.m. - 11.30 a.m.</p>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Additional Remedial and Enrichment programmes are held in the afternoons,
-from 2.00 p.m. to 4.00 p.m.</p>
+<p>9.30 a.m. - 10.00 a.m. (P4 &amp; P6)</p>
+<p>12.00 p.m. - 12.30 p.m. (P1 &amp; P3)</p>
+<p>
+<br>12.30 p.m. - 1.00 p.m. (P2 &amp; P5)</p>
 </td>
 </tr>
 </tbody>
