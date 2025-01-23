@@ -92,19 +92,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Additional Remedial and Enrichment programmes are held in the afternoons,
-from 2.00 p.m. to 4.00 p.m.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <h2>School Gate Hours</h2>
 <table style="minWidth: 75px">
