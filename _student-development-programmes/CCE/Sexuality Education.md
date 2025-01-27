@@ -37,7 +37,7 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education. 
 
 
-### Overview of Angsana Primary School’s Sexuality Education Programme for 2024
+### Overview of Angsana Primary School’s Sexuality Education Programme for 2025
 
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
@@ -59,7 +59,7 @@ b.  Character and Citizenship Education (CCE)
 Primary 5 and 6. Through these lessons, students learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.
 
 
-<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in&nbsp;2024:</b>
+<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</b>
 
 
 <style type="text/css">
@@ -192,7 +192,7 @@ and becoming infatuated with someone does not mean
 that they should be involved in a romantic relationship.
 Instead, they should focus on building strong and healthy
 friendships with their circles of friends.</td>
-    <td class="tg-nrix">Term 2 Week 2<br></td>
+    <td class="tg-nrix">Term 2 Week 4<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Are We More than Friends?
@@ -204,7 +204,7 @@ any relationship. They will also recognise the negative
 impact of teasing their peers who may be experiencing
 the feelings of infatuation and learn to behave maturely
 towards each other.</td>
-    <td class="tg-nrix">Term 2 Week 3<br></td>
+    <td class="tg-nrix">Term 2 Week 5<br></td>
   </tr>
 	<tr></tr>
 	<tr><td class="tg-0lax"></td>
@@ -218,7 +218,7 @@ towards each other.</td>
 
   
 
-9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2024_SEd_Opt_Out_Form.pdf). The completed opt-out form is to be submitted by&nbsp;**19/02/2024**.
+9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SED_Opt_out_Form.pdf). The completed opt-out form is to be submitted by&nbsp;**17/02/2025**.
 
 
 10. Parents can contact your child’s form teacher or email the school at&nbsp;<b>angsana_pri@moe.edu.sg or call 67830427</b>&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
