@@ -37,18 +37,21 @@ variant: tiptap
 <p>English Language Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Teacher Liyana
-<br>Teacher Nitra
+<p>Teacher Aisyah
 <br>Teacher Aqida
+<br>Teacher Candy
 <br>Teacher Cecilia
-<br>Teacher Sarvini
+<br>Teacher Hazimah
+<br>Teacher Liyana
 <br>Teacher Naasiha
-<br>Teacher Aishah
+<br>Teacher Nitra
+<br>Teacher Nur
 <br>Teacher Raashiny
+<br>Teacher Sabrina
+<br>Teacher Sarvini
+<br>Teacher Selwyn
+<br>Teacher Sheryl
 <br>Teacher Vetharupeni</p>
-<p>Teacher Hazimah</p>
-<p>Teacher Selweyn</p>
 </td>
 </tr>
 <tr>
