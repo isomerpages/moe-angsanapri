@@ -47,6 +47,19 @@ third_nav_title: Orientation
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Sample_Snack_Menu.png">
 </div>
 <p></p>
+<p><strong>Open House 2025</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Angsana/1.png">
+</div>
+<p></p>
+<p><strong>Click below to view our Curriculum Slides.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Angsana/2.png">
+</div>
+<p><a href="/files/Curriculum_and_Infomation_Slides.pdf" rel="noopener nofollow" target="_blank">Curriculum Slides 2025.pdf</a>
+</p>
 <p><a href="/files/MK_Orientation_Slides.pdf" rel="noopener nofollow" target="_blank">MK Orientation Slides</a>
 </p>
 <p><a href="/files/KCare_Orientation_Slides.pdf" rel="noopener nofollow" target="_blank">KCare Orientation Slides</a>
