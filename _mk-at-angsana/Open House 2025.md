@@ -15,6 +15,6 @@ description: ""
 <p></p>
 <p><strong>Click below to view our Curriculum Slides.</strong>
 </p>
-<p><a href="/files/Curriculum_and_Infomation_Slides.pdf" rel="noopener nofollow" target="_blank">Curriculum Slides 2025.pdf</a>
+<p><a href="/files/Curriculum_and_Infomation_Slides__compressed.pdf" rel="noopener nofollow" target="_blank">Curriculum and Information Slides 2025</a>
 </p>
 <p></p>
