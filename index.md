@@ -17,7 +17,7 @@ sections:
         - title: Quick Links
           description: For Staff
           url: /quicklinks/For-Staff/
-      background: /images/2022 Joy of Learning Science blurred.jpg
+      background: /images/School_Building.jpg
   - infobar:
       title: Announcements
       url: /others/Announcements/Announcements/
