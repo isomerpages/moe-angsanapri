@@ -2,10 +2,9 @@
 title: School Anthem
 permalink: /about-us/school-anthem/
 description: ""
+variant: markdown
 ---
-<audio controls="">
-        <source src="https://docs.google.com/uc?export=download&amp;id=1IoJ6LYpgRw7EVZhC_ttsjg9k9t1HBAXe" type="audio/mp3">
-</audio>
+
 
 ### Upwards Angsana!
 
