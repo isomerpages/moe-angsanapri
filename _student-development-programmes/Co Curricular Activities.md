@@ -4,8 +4,9 @@ permalink: /character-development/co-curricular-activities/
 description: ""
 variant: tiptap
 ---
+<h1></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Development%20Programmes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Observance_Ceremony.jpg">
 </div>
 <h1>Co-Curricular Activities</h1>
 <h3>Learning Outcomes</h3>
