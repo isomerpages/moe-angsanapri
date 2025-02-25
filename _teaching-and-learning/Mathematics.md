@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /teaching-n-learning/mathematics/
 description: ""
+variant: markdown
 ---
 ### Learning Outcomes
 
@@ -25,7 +26,7 @@ As we strive to nurture our students to be critical thinkers and effective probl
 <br>
 The Concrete, Pictorial and Abstract (CPA) approach is a system of learning that uses physical and visual aids to build a child’s understanding of abstract topics. Students are introduced to a new Mathematical concept through the use of concrete manipulatives likes fraction discs, linking cubes, number discs etc. to solve the problems. When students are comfortable solving problems with physical aids, they are given problems in pictorial representations which include drawings, graphs or diagrams for the students to read and interpret the information. In the abstract phase, students use symbolic representations such as numbers and letters to solve problems.
 
-![](/images/Math1.png)
+![](/images/Math_CPA.jpg)
 
 ### Key Programmes
 
@@ -41,23 +42,21 @@ E2K is an inquiry-based programme for P4 and P5 students who demonstrate interes
 
 <b> Math Activities </b>
 <br>
-<u> Financial Literacy </u>
-<br>
-The financial literacy programme aims to impart in our P1 and P2 students’ basic financial literacy skills through hands-on activities. We hope to inculcate good saving habits from young and equip our students with basic knowledge of managing their money.
 
-![](/images/Math2.png)
+
 
 <u> GEM@Recess </u>
 <br>
 Games and Engagement through Mathematics (GEM) @ Recess aims to inculcate the love for Mathematics in all our students by engaging them in fun activities through games and hands-on competitions.
 
-![](/images/Math3.png)
+![](/images/Mathemania_1.jpg)
 
-<u> P3-P4 Mathematics Trail </u>
+![](/images/Mathemania_2.jpg)
+
+<u> P1-P2 Supermarket Trail </u>
 <br>
-Students will embark on station based learning trail that ties in the themes of community and neighbourhood. There will be station work where students will attempt questions and tasks related to topics in Mathematics.
+The Supermarket Trail is an engaging and educational activity designed to teach students essential financial literacy skills in a hands-on way. Set up as a mock supermarket within the school, this interactive experience allows students to practice budgeting, making smart purchasing decisions, and understanding the value of money in a real-world context.
 
-![maths](/images/math04.png)
 
 <u> P5-P6 Learning Journey </u>
 <br>
