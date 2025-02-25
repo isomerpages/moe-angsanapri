@@ -2,6 +2,7 @@
 title: For Students
 permalink: /quicklinks/For-Students/
 description: ""
+variant: markdown
 ---
 ![](/images/About%20Us.jpg)
 
@@ -12,7 +13,6 @@ description: ""
 *   [Kindsville](https://kindsville.kindness.sg/)
 *   [KooBits Login](https://member.koobits.com/)
 *   [EPIC](https://www.getepic.com/)
-*   [eZhishi.Net](https://www.ezhishi.net/Contents/)
 *   [cpcll](http://www.cpcll.sg/)
 *   [Nat Geo](https://kids.nationalgeographic.com/)
 *   [My Skill Future Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
