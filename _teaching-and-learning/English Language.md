@@ -2,6 +2,7 @@
 title: English Language
 permalink: /teaching-n-learning/english-language/
 description: ""
+variant: markdown
 ---
 ### Learning Outcomes
 
@@ -16,7 +17,7 @@ The English Language programme at Angsana Primary School aims to:
 ### Pedagogical Approaches
 
 
-The school adopts the STELLAR (**St**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) programme in the teaching and learning of English Language. Learning tasks and activities are designed for students to learn language skills in authentic and meaningful contexts. The skills will be taught, revised and revisited at increasing levels of difficulty and complexity as the child progresses from the foundational level to higher levels of language use.
+The school adopts the STELLAR (**St**rategies for&nbsp;**E**nglish&nbsp;**L**anguage&nbsp;**L**earning&nbsp;**A**nd&nbsp;**R**eading) programme in the teaching and learning of English Language. Learning tasks and activities are designed for students to learn language skills in authentic and meaningful contexts. The skills will be taught, revised and revisited at increasing levels of difficulty and complexity as the child progresses from the foundational level to higher levels of language use.
   
 
 ### Key Programmes
@@ -25,11 +26,13 @@ The school adopts the STELLAR (**St**rategies for **E**nglish **L**anguage **
 <br>
 Englishtopia is a week-long celebration of the English Language in Angsana Primary School. It provides opportunities for students to explore the beauty of the English Language through various activities ranging from classroom quizzes and competitions to school-wide performances and talks by students and professionals.
 
-![](/images/EL1.png)
+![](/images/Englistopia_1.jpg)
 
-![](/images/EL2.png)
+![](/images/Englishtopia_2.jpg)
 
-![](/images/EL3.png)
+![](/images/Englishtopia_3.jpg)
+
+![](/images/Englishtopia_4.jpg)
 
 <figure><img src="/images/STELLAR.jpg" style="width:50%"><figcaption> <b>The STELLAR (STrategies for English Language Learning And Reading) Programme </b> </figcaption></figure>
 
@@ -55,32 +58,32 @@ Teaching and learning of English using more speaking and listening activities. C
 
 Each STELLAR unit includes:
 <br>
-A)    Focused reading using big books (P1 to P3a) and readers (P4 to P6)
+A)&nbsp;&nbsp; &nbsp;Focused reading using big books (P1 to P3a) and readers (P4 to P6)
 <br>
 *   reading for enjoyment
 *   reading for knowledge
 
-B)    Key Teaching Points
+B)&nbsp;&nbsp; &nbsp;Key Teaching Points
 <br>
 *   Concepts about print
 *   Vocabulary
 *   Word identification activities
 *   Grammar
 
-C)    Development of the four language skills
+C)&nbsp;&nbsp; &nbsp;Development of the four language skills
 
 *   Listening
 *   Speaking
 *   Reading
 *   Writing
 
-D)    Development of social skills
+D)&nbsp;&nbsp; &nbsp;Development of social skills
 
 *   Oral interaction among peers in non-threatening situations
 *   Working in partnership with other children
 *   Turn taking and respect for others during class discussion
 
-E)    Independent learning
+E)&nbsp;&nbsp; &nbsp;Independent learning
 
 *   Individual reading
 *   Individual writing
