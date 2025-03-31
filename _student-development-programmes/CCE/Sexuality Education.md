@@ -111,7 +111,7 @@ body is experiencing changes due to puberty.
 This lesson is conducted separately for boys and girls in different
 classrooms, so that the students will feel more comfortable during
 the discussions.</td>
-    <td class="tg-nrix">Term 2 Week 6<br></td>
+    <td class="tg-nrix">Term 2 Week 4<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Did You Know?<br>(60 min)<br></td>
