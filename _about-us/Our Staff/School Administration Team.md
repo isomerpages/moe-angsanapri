@@ -181,10 +181,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Front Desk Officer</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Susan Teo</p>
+<p>Mdm Tran Thanh Phung</p>
 </td>
 </tr>
 </tbody>
