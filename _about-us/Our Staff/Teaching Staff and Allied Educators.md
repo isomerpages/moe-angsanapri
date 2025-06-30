@@ -636,7 +636,7 @@ variant: tiptap
 <p>Mdm Chia Jye Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Wah</p>
+<p>Ms Kelly Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -793,7 +793,7 @@ variant: tiptap
 <p>Mrs Camilia Cribbett</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Estelle Goh</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
