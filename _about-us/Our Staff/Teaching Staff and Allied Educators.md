@@ -69,7 +69,7 @@ variant: tiptap
 <p>Mdm Jamilah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Neo Yuan Ting Sally</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,7 +134,7 @@ variant: tiptap
 <p>Ms Li Siyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fazilah Bte Hamid</p>
+<p>Ms Nurul Nabila Bte Azman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -151,10 +151,10 @@ variant: tiptap
 <p>Ms Nur Ain Bte Khairudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Mei Wah</p>
+<p>Ms Kaliraj Vaishnavi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Mei Wah / Ms Tee Hwei Yeen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
