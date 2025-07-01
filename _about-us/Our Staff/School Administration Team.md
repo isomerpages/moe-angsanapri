@@ -168,7 +168,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chin Siong</p>
+<p>Mr Affendi Bin Sarib</p>
 </td>
 </tr>
 <tr>
@@ -176,15 +176,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Affendi Bin Sarib</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Front Desk Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Susan Teo</p>
+<p>Mdm Tran Thanh Phung</p>
 </td>
 </tr>
 </tbody>
