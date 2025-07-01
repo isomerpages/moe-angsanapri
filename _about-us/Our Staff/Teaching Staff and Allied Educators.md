@@ -168,10 +168,10 @@ variant: tiptap
 <p>Mdm Nur Yaisyah Bte Md Yasin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suraya Bte Mustajab</p>
+<p>Ms Nur Hafizah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Razana Abdul Rahman</p>
+<p>Mdm Suraya Bte Mustajab</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
