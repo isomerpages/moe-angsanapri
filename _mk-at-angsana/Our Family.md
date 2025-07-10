@@ -63,7 +63,7 @@ variant: tiptap
 <br>Yang Lu Laoshi 杨老师
 <br>Hong Qiaobo Laoshi 洪老师
 <br>Lok Li Ying Laoshi 骆老师
-<br>Seah Xuyu Laoshi 佘溆渝</p>
+<br>Seah Xuyu Laoshi 余老师</p>
 </td>
 </tr>
 <tr>
