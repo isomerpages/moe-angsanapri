@@ -9,5 +9,6 @@ variant: tiptap
 </div>
 <h1>School Dental Health Service</h1>
 <p>Angsana Primary School Dental Clinic operated by HPB is now open.</p>
-<p>The Dental Clinic staff can be contacted via whatsapp at 9863 2732 for
-any enquiries and appointments.</p>
+<p>Please refer to the <a href="/files/Dental_Clinic_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">schedule</a> for more details.</p>
+<p>The Dental Clinic can be contacted via 9863 2732 for any enquiries and
+appointments.</p>

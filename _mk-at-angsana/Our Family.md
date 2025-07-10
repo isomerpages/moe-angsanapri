@@ -37,17 +37,16 @@ variant: tiptap
 <p>English Language Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher Aisyah
-<br>Teacher Aqida
+<p>Teacher Aishah
 <br>Teacher Candy
-<br>Teacher Cecilia
 <br>Teacher Hazimah
 <br>Teacher Liyana
 <br>Teacher Naasiha
 <br>Teacher Nitra
 <br>Teacher Nur
 <br>Teacher Raashiny
-<br>Teacher Sabrina
+<br>Teacher Sabrina</p>
+<p>Teacher Sandrea
 <br>Teacher Sarvini
 <br>Teacher Selwyn
 <br>Teacher Sheryl
@@ -64,7 +63,7 @@ variant: tiptap
 <br>Yang Lu Laoshi 杨老师
 <br>Hong Qiaobo Laoshi 洪老师
 <br>Lok Li Ying Laoshi 骆老师
-<br>Seah Xuyu Laoshi 佘溆渝</p>
+<br>Seah Xuyu Laoshi 余老师</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +73,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Cikgu Ruzana
 <br>Cikgu Suhaili</p>
+<p>Cikgu Zimah</p>
+<p>Cikgu Aini (FAJT)</p>
+<p>Cikgu Yana (FAJT)</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +83,7 @@ variant: tiptap
 <p>Tamil Language Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aasiriyai Afrah</p>
+<p>Aasiriyai Afrah (Senior Teacher, Child Development)</p>
 </td>
 </tr>
 </tbody>
