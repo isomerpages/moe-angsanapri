@@ -2,13 +2,13 @@ collections:
   school-information:
     output: true
     order:
-      - Home Based Learning (HBL).md
       - School Rules & Regulations.md
       - School Homework Policy.md
       - School Hours.md
       - School Library.md
       - School Dental Health Service.md
       - School Bookshop and Uniform Operator.md
+      - Home Based Learning (HBL).md
       - Student Care Centre/.keep
       - Student Care Centre/Student Care Centre.md
       - School Bus Operator.md
