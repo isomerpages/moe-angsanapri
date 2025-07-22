@@ -4,4 +4,4 @@ permalink: /home-based-learning-hbl/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Updates will be available here soon.</p>
