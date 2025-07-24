@@ -48,32 +48,27 @@ design our lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EdTech_Pedagogical_Scaffold.png">
 </div>
-<h3>Digital Literacy Programme</h3>
-<p>Apart from experiencing how technology is used to complement the learning
-in different subjects, school-wide routines and expectations for the use
-of technology is also put in place to equip our students with the necessary
-skills required to learn with technology. More details can be found in
-pages 45 to 55 of the Pupil’s Companion.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital%20Literacy%20Table.jpg">
-</div>
+<h3>Building Digital Confidence</h3>
+<p>We believe in preparing our students with the essential digital skills
+needed for effective learning through a spiral Digital Literacy Programme.
+Some of these skills include</p>
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Touch typing</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use digital platforms and tools to communicate
+and share information (e.g. Google Meet, Student iCON email)</p>
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create presentations and documents (e.g.
+MS Powerpoint &amp; Word)</p>
+<p>4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Present data using graphing tool (e.g.
+MS Excel)</p>
 <h3>Cyber Wellness Programme</h3>
 <p>To equip our students with life-long social-emotional competencies and
 sound values to be safe, respectful and responsible users of technology,
 cyber wellness values are taught through a variety of learning activities
-using a thematic approach (see table below).</p>
+using a thematic approach.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyber%20Wellness%20Topics%20Table.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CWP.png">
 </div>
-<h3>Tips for parents</h3>
-<p>Look out Angsana Tops (our monthly bulletin) for tips, resources and useful
-links to help you to reinforce Cyber Wellness education at home.</p>
-<h3>NEU PC Plus Programme</h3>
-<p>The availability of computing devices and internet access at home will
-enable our students to enjoy learning anytime, anywhere and even provide
-opportunities for meaningful online collaboration to consolidate and share
-what they have learnt with their peers. The NEU PC Plus Programme by Infocomm
-Media Development Authority (IMDA) offers students from low income households
-the opportunity to own a computer at affordable price. Please call 6684
-8858 for enquiries or go to&nbsp;<a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/programme-listing/neu-pc-plus</a>&nbsp;for
-more details.</p>
+<h3>Digital Access @ Home</h3>
+<p>DigitalAccess@Home programme by Infocomm Media Development Authority (IMDA)
+provides subsidised broadband and laptops/tablets to students from lower-income
+households to support their learning. Please visit <a rel="noopener noreferrer nofollow" target="_blank">https://imda.gov.sg/dah</a> for
+more information.</p>
