@@ -189,6 +189,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Physical Education &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Richard Chng Lijie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LT Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
