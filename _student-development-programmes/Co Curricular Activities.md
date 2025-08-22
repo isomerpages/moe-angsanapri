@@ -126,7 +126,7 @@ school.</p>
 <p>Mrs Weinie Tan-Teo Wei Chiew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mr Hafizuddin Zulkefeli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -152,10 +152,10 @@ school.</p>
 <p>Ms Dhashni D/O Magogaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hafizuddin Zulkefeli</p>
+<p>Mr Johnael Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Miss Khairunisa</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ school.</p>
 <p>Mr Kevin Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mdm Arani Zuliffah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -204,7 +204,7 @@ school.</p>
 <p>Ms Audrey Liaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Muhd Raiyan Bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
