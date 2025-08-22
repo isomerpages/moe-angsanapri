@@ -343,7 +343,7 @@ school.</p>
 <p>Ms Cheong Wan Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Ms Kaliraj Vaishnavi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -369,7 +369,7 @@ school.</p>
 <p>Mdm Sharifah Salwah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Nur Lydia Afiqah Bte Rozali&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -413,7 +413,7 @@ school.</p>
 <p>CCA Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm – 4:00pm</p>
+<p>2:30pm – 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Kim Loong Jonathan</p>
@@ -422,10 +422,10 @@ school.</p>
 <p>Mr Norhaziq Amalee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jun Jie Terence</p>
+<p>Ms Nur Hafizah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Nabila Bte Azman (Sem 2)</p>
+<p>Ms Nurul Nabila Bte Azman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -439,7 +439,7 @@ school.</p>
 <p>CCA Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm – 4:00pm</p>
+<p>2:30pm – 4:300pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shainas Hassan</p>
@@ -451,7 +451,7 @@ school.</p>
 <p>Mdm Meenah Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Ms Tee Hwee Yeen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
