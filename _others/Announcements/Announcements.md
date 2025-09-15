@@ -42,3 +42,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p>Please click <a href="https://www.angsanapri.moe.edu.sg/home-based-learning-hbl/" rel="noopener nofollow" target="_blank">here</a> to
+access the daily plans for the different levels.</p>
