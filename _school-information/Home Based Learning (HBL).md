@@ -39,7 +39,24 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p>Please click <a href="/files/2025_School_Based_HBL__25_29_September_.pdf" rel="noopener nofollow" target="_blank">here</a> to
-access the daily plans for the HBL period.</p>
+<p>Please refer to the following links for matters regarding HBL:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_School_Based_HBL__25_29_September_.pdf" rel="noopener nofollow" target="_blank">Daily plans</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For_Students__SLS_Account_Management.pdf" rel="noopener nofollow" target="_blank">SLS Account Management (for students)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/For_P1_Parents__Getting_Started_with_SLS.pdf" rel="noopener nofollow" target="_blank">Getting Started with SLS (For P1 Parents)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Helpline.pdf" rel="noopener nofollow" target="_blank">Helpline</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
