@@ -78,7 +78,7 @@ variant: tiptap
 <p>Lunch Break</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.00 pm to 1.00 pm</p>
+<p>11.30 am to 12.30 pm</p>
 </td>
 </tr>
 <tr>
