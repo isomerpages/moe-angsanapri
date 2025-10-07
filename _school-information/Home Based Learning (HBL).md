@@ -22,18 +22,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 and P5</p>
+<p>P1 and P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 and 26 September 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 and 30 September 2025</p>
+<p>13, 14 and 15 October</p>
 </td>
 </tr>
 </tbody>
@@ -42,7 +34,7 @@ description: ""
 <p>Please refer to the following links for matters regarding HBL:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_School_Based_HBL__25_29_September_.pdf" rel="noopener nofollow" target="_blank">Daily plans</a>
+<p><a href="/files/P1_and_P2_HBL.pdf" rel="noopener nofollow" target="_blank">Daily plans</a>
 </p>
 </li>
 <li>
