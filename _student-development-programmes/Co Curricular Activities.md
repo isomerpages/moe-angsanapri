@@ -251,9 +251,6 @@ school.</p>
 <p>2:00pm – 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Paul Chan</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Hasvinnath Pillai Shastri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,6 +258,9 @@ school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharaniya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
