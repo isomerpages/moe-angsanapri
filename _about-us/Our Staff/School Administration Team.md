@@ -62,18 +62,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Chien Wei Cynthia
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Executive
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Lydia Bte Aziz
 <br>
 </p>
