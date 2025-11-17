@@ -2,11 +2,11 @@ collections:
   mk-at-angsana:
     output: true
     order:
-      - Our Outdoor Environment.md
       - MK@Angsana.md
       - Our Vision, Mission, Values and Beliefs.md
       - Our Family.md
       - Our Learning Environment.md
+      - Our Outdoor Environment.md
       - Events/.keep
       - Events/2025.md
       - Events/2024.md
