@@ -37,7 +37,8 @@ variant: tiptap
 <p>English Language Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher Aishah
+<p>Teacher Aishah</p>
+<p>Teacher Angela (FAJT)
 <br>Teacher Candy
 <br>Teacher Hazimah
 <br>Teacher Liyana
