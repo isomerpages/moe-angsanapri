@@ -2,7 +2,6 @@ collections:
   mk-at-angsana:
     output: true
     order:
-      - Testimonials.md
       - MK@Angsana.md
       - Our Vision, Mission, Values and Beliefs.md
       - Our Family.md
@@ -15,4 +14,5 @@ collections:
       - Orientation/Orientation 2025 to 2026.md
       - Kindergarten Care (KCare).md
       - Other Information.md
+      - Testimonials.md
       - Join Us!.md
