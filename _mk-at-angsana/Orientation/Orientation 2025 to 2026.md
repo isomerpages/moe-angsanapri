@@ -8,7 +8,7 @@ third_nav_title: Orientation
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK-Angsana.jpg">
 </div>
-<h1>Orientation 2024 to 2025</h1>
+<h1><strong>Orientation 2025 to 2026</strong></h1>
 <p><strong>Key Features of the MK Curriculum</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -25,21 +25,25 @@ third_nav_title: Orientation
 </div>
 <p><strong>Important Information</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Important_Information__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Important_Information__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 <p><strong>K1 First 2 Days Programme</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_2_Days_Programme.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_2_Days_Programme_MK.png">
 </div>
-<p><strong>Calendar of Events</strong>
+<p><strong>Calendar of Events (Term 1)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar_of_Events__Term_1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar_of_Events_MK.png">
 </div>
 <p><strong>Sample Snack Menu</strong>
 </p>
