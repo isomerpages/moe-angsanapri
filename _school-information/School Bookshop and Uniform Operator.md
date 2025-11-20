@@ -152,3 +152,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p>Kindly refer <a href="/files/My_Uniform_Shop__ASIA__Pte_Ltd___Angsana_Primary_School_2025_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+information about uniform sales.</p>
+<p></p>
+<p></p>
