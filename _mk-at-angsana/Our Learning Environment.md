@@ -12,9 +12,9 @@ Our Learning Environment
 
 	
 <b><u> Our Classrooms </u></b>
-![](/images/MK@Angsana/K1%20Patience%20resized.jpg)
+![](/images/photo_6116232158100786053_y.jpg)
 
-![](/images/MK@Angsana/K2%20Kindness%20resized.jpg)
+![](/images/photo_6116232158100786054_y.jpg)
 
 
 <b><u> Playground </u></b>
