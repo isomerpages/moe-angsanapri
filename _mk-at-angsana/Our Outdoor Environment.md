@@ -15,6 +15,11 @@ description: ""
 <p><strong><em>First Flight Newsletter, Issue 19, MOE Kindergarten Learning Day &amp; 10th Anniversary Celebrations Edition</em></strong>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Learning_Day.png">
+</div>
+<p></p>
 <p><strong>Honourable Mention Award (MOE Staff – Our School Community): MK@Angsana's ‘Nature’s Classroom: Cultivating Knowledge in the Garden’ – OSOS Photo &amp; Video Contest</strong>
 </p>
 <p><strong><a href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/our-school-community/moe-staff" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/our-school-community/moe-staff</u></a></strong>
