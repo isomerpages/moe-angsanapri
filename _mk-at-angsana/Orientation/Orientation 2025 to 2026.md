@@ -27,17 +27,17 @@ third_nav_title: Orientation
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/K1_School_Hours.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/K2_School_Hours.png">
 </div>
 <p><strong>K1 First 2 Days Programme</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_2_Days_Programme_MK.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/K1_First_2_Days.png">
 </div>
 <p><strong>Calendar of Events (Term 1)</strong>
 </p>
