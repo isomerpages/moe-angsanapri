@@ -75,7 +75,7 @@ or scan the QR code.&nbsp;</p>
 <p></p>
 <p><em>Selected messages may be shared on our website or school platforms. All messages will be shared directly with the staff member.</em>
 </p>
-<p><strong>*link for message submission: <a href="https://go.gov.sg/clwrq2" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/clwrq2</u></a>&nbsp;</strong>
+<p><strong>*link for message submission: <a href="https://go.gov.sg/clwrq2" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/clwrq2</u></a></strong>
 </p>
 <p>
 <br>
