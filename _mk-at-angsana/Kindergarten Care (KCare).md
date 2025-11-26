@@ -18,34 +18,37 @@ we inculcate core values and life skills to our young children to ensure
 they grow up well.</p>
 <p>&nbsp;KCare is a service offered to parents whose children attend MOE
 Kindergarten and need care services beyond the 4-hour programme of MK.</p>
-<p>Our KCare centre operates from 7am to 7pm on Mondays to Fridays, including
-school holidays. We operate half-days on Christmas Eve, New Year’s Eve
-and Chinese New Year’s Eve. The centre will be closed up to 6 days each
-year, in addition to public holidays.</p>
+<p>Our KCare centre operates from 12pm to 7pm on Mondays to Fridays, including
+school holidays. KCare operates half-days on the eve of Christmas, New
+Year, Chinese New Year, Teacher’s Day, and Children’s Day. The centre will
+be closed for up to 6 days each year, in addition to public holidays.</p>
+<p></p>
 <p>The KCare programme has been designed to complement the MOE Kindergarten’s
 curriculum. It emphasises the provision of time and space for children
 to play, explore and discover. The programme also focuses on the importance
 of providing opportunities for the children to develop confidence, self-help
 skills, social skills and values such as responsibility, care and respect
 in a safe and conducive environment.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Angsana/mkprogramme.png">
-</div>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Angsana/mkfreeplay.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_KCare.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Angsana/mktypicalday.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Angsana/mktypicalday2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_KCare.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCare_Fee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_KCare.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_KCare.png">
 </div>
 <p>For more information on KCare, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>.</p>
 <p>For any enquiries, they can be reached at Email: KCASN@rafflesstudentcare.com</p>
