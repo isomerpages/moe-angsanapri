@@ -50,13 +50,27 @@ third_nav_title: Orientation
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Sample_Snack_Menu.png">
 </div>
-<p><a href="/files/MK_Orientation_Slides.pdf" rel="noopener nofollow" target="_blank">MK Orientation Slides</a>
+<ul>
+<li>
+<p><a href="/files/MK_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Orientation Slides</a>
 </p>
-<p><a href="/files/KCare_Orientation_Slides.pdf" rel="noopener nofollow" target="_blank">KCare Orientation Slides</a>
+</li>
+<li>
+<p><a href="/files/KCare_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">KCare Orientation Slides</a>
 </p>
-<p><a href="/files/Breakout_room_slides__3__compressed.pdf" rel="noopener nofollow" target="_blank">Breakout Room</a>
+</li>
+<li>
+<p><a href="/files/Breakout_room_slides__3__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Breakout Room Slides</a>
 </p>
-<p><a href="/files/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 MOE Kindergarten Family Handbook</a>
+</li>
+<li>
+<p><a href="/files/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 MOE Kindergarten Family Handbook</a>
 </p>
+</li>
+<li>
 <p><a href="/files/MK_Family_Handbook_Acknowledgement_Form.pdf" rel="noopener nofollow" target="_blank">MK Family Handbook Acknowledgement Form</a>
 </p>
+</li>
+</ul>
+<p></p>
+<p></p>
