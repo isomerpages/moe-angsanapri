@@ -61,6 +61,7 @@ third_nav_title: Orientation
 </li>
 <li>
 <p><a href="/files/Breakout_room_slides__3__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Breakout Room Slides</a>
+<a href="/files/Breakout_Room_Slides_2.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </li>
 <li>
