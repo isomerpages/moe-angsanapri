@@ -20,10 +20,13 @@ Our curriculum comprises 2 flagship programmes, the HI-Light Programme and Starl
 
 <u><b>Operating Hours</b></u>
 <br>
-MK: 8am – 5pm
+MK: 8am – 12pm
 <br>
-KCare: 7am – 7pm
+KCare: 12pm – 7pm*
 
+(School holidays: 7am- 7pm)
+
+If your child is enrolled in KCare, they may arrive from 7am onwards.
   
 
 Angsana Primary School 
