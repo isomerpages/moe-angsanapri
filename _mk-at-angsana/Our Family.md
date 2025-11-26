@@ -40,9 +40,12 @@ variant: tiptap
 <p>Teacher Aishah</p>
 <p>Teacher Angela (FAJT)
 <br>Teacher Candy
-<br>Teacher Hazimah
-<br>Teacher Liyana
-<br>Teacher Naasiha
+<br>Teacher Hazimah</p>
+<p>Teacher Isabelle</p>
+<p>Teacher Liyana
+<br>Teacher Naasiha</p>
+<p>Teacher Nadhirah</p>
+<p>Teacher Nadia
 <br>Teacher Nitra
 <br>Teacher Nur
 <br>Teacher Raashiny
