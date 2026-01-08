@@ -24,4 +24,4 @@ c) Submit follow up claims
 
 <img src="/images/QR.png" style="width:40%">
 
- Details on the insurance coverage can be found [here](/files/Product_Fact_Sheet__Year_2025_.pdf)
+ Details on the insurance coverage can be found [here](/files/Product_Fact_Sheet__Year_2026_.pdf)
