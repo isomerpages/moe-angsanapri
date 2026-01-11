@@ -56,7 +56,7 @@ variant: tiptap
 <p>Year Head Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Belinda Cheng-Chia</p>
+<p>Ms Rosnita Bte Abdul Rahim</p>
 </td>
 </tr>
 <tr>
@@ -125,10 +125,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD PAM/ CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Raauuf Bin Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD EdTech &amp; Knowledge Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Oh Ming Yie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD 21 CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheng-Chia Belinda</p>
 </td>
 </tr>
 <tr>
@@ -141,18 +157,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Primary)</p>
+<p>LH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Aini Bte Said</p>
+<p>Ms Agnes Leong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH English Language</p>
+<p>LH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Liu-Leong Choi Yen Agnes</p>
+<p>Ms Wong Shu Yi</p>
 </td>
 </tr>
 <tr>
@@ -189,6 +205,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elana Tan Pei-Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH PE/ CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Richard Chng Lijie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH EdTech &amp; Knowledge Management</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,10 +229,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Physical Education &amp; CCA</p>
+<p>SH Communications &amp; Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Chng Lijie</p>
+<p>Ms Cherie Chiang</p>
 </td>
 </tr>
 <tr>
@@ -225,6 +257,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Kay Gek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joyce Poh Teck Wei</p>
 </td>
 </tr>
 </tbody>
