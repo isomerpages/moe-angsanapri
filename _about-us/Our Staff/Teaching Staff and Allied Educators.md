@@ -1062,6 +1062,14 @@ variant: tiptap
 <p>Mdm Koh Bee Lay Sharon</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Saleha Bte Abu Hassan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
