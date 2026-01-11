@@ -26,16 +26,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
+<p><strong>Form Teacher 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p><strong>Form Teacher 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 3</p>
+<p><strong>Form Teacher 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -217,16 +221,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
+<p><strong>Form Teacher 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p><strong>Form Teacher 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 3</p>
+<p><strong>Form Teacher 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -412,16 +420,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
+<p><strong>Form Teacher 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p><strong>Form Teacher 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 3</p>
+<p><strong>Form Teacher 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -593,16 +605,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
+<p><strong>Form Teacher 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p><strong>Form Teacher 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 3</p>
+<p><strong>Form Teacher 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -750,16 +766,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
+<p><strong>Form Teacher 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p><strong>Form Teacher 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 3</p>
+<p><strong>Form Teacher 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -890,16 +910,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
+<p><strong>Class</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 1</p>
+<p><strong>Form Teacher 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 2</p>
+<p><strong>Form Teacher 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form Teacher 3</p>
+<p><strong>Form Teacher 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
