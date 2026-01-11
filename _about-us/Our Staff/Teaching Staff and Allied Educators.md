@@ -770,13 +770,13 @@ variant: tiptap
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liaw Sock Pheng Audrey</p>
+<p>Mdm Sarah Amnah Bte Zaihan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Heryani Bte Hamid</p>
+<p>Mdm Sri Nur Amanina Bte Kamil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jerene Chim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -787,13 +787,13 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Salwah Bte Syed Ahmad</p>
+<p>Mdm Mayrah Abdullah Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Razali Bin Jambari</p>
+<p>Ms Quah Swee Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Fong Lai San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -804,13 +804,13 @@ variant: tiptap
 <p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Chng Lijie</p>
+<p>Ms Pang Woei Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Camilia Cribbett</p>
+<p>Ms Agnes Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Joy Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -821,13 +821,13 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurliyana Bte Mahat</p>
+<p>Mr Salim Bin Hassan Bassalamah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cui Rong Rong</p>
+<p>Ms Ng Sze Hwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Thia Lee Lian/ Ms Mah Huimin (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -838,13 +838,13 @@ variant: tiptap
 <p>5 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Fadhli B Jamaluddin</p>
+<p>Mdm Nur Yaisyah Bte Md Yasin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Sze Hwei</p>
+<p>Mr Richard Chng Lijie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Celestina Sharmini (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -855,13 +855,13 @@ variant: tiptap
 <p>5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shahira Bte Daud</p>
+<p>Mdm Ellianie Bte Sahrom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Woei Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Zafran B Mohd Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -910,13 +910,13 @@ variant: tiptap
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hasvinnath Pillai Shastri</p>
+<p>Ms Audrey Liaw Sock Pheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah Bte Harun</p>
+<p>Mdm Heryani Bte Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim-Chan Pao Yin</p>
+<p>Mdm Chia Jye Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -927,13 +927,81 @@ variant: tiptap
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarah Amnah Bte Zaihan</p>
+<p>Mdm Sharifah Salwah Bte Syed Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Ying Han</p>
+<p>Mr Mohd Razali B Jambari/ Mdm Asimah Bte Abdul Aziz (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thamilchelvi</p>
+<p>Mr Oh Ming Yie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hasvinnath Pillai Shastri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Camilia Cribbett</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurliyana Bte Mahat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cui Rong Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lester Ting Huong San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Fadhli Bin Jamaluddin*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Thamilchelvi Mrs Ramakrishnan Naidu (FAJT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zahrul Zaiden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Mei Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
