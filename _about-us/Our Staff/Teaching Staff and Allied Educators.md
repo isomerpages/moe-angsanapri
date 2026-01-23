@@ -53,7 +53,7 @@ variant: tiptap
 <p>Mr Norhaziq Amalee B Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Ying Han*</p>
+<p>Ms Toh Ying Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
