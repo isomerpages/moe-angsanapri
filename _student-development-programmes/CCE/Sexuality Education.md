@@ -37,7 +37,7 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education. 
 
 
-### Overview of Angsana Primary School’s Sexuality Education Programme for 2025
+### Overview of Angsana Primary School’s Sexuality Education Programme for 2026
 
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
@@ -59,7 +59,7 @@ b.  Character and Citizenship Education (CCE)
 Primary 5 and 6. Through these lessons, students learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.
 
 
-<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in&nbsp;2025:</b>
+<b>At Angsana Primary School, the following Sexuality Education lessons will be taught in&nbsp;2026:</b>
 
 
 <style type="text/css">
@@ -218,7 +218,7 @@ towards each other.</td>
 
   
 
-9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SED_Opt_out_Form.pdf). The completed opt-out form is to be submitted by&nbsp;**13/02/2026**.
+9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2026_Info_on_SEd_for_schs_website__Primary_Schools__Opt_out_form.pdf)). The completed opt-out form is to be submitted by&nbsp;**13/02/2026**.
 
 
 10. Parents can contact your child’s form teacher or email the school at&nbsp;<b>angsana_pri@moe.edu.sg or call 67830427</b>&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
