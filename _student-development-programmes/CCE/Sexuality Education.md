@@ -111,7 +111,7 @@ body is experiencing changes due to puberty.
 This lesson is conducted separately for boys and girls in different
 classrooms, so that the students will feel more comfortable during
 the discussions.</td>
-    <td class="tg-nrix">Term 2 Week 4<br></td>
+    <td class="tg-nrix">Term 2 Week 2<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Did You Know?<br>(60 min)<br></td>
@@ -123,7 +123,7 @@ They will learn to evaluate their own responses when they
 encounter pornography by applying the strategy ‘Stop-Think-Do’.
 This lesson is conducted separately for boys and girls in different
 classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td class="tg-nrix">Term 2 Week 7<br></td>
+    <td class="tg-nrix">Term 2 Week 4<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Keeping Myself Safe<br>(60 min)<br></td>
@@ -135,7 +135,7 @@ their friends.
 This lesson is conducted separately for boys and girls in different
 classrooms, so that the students will feel more comfortable during
 the discussions.</td>
-    <td class="tg-nrix">Term 2 Week 8<br></td>
+    <td class="tg-nrix">Term 2 Week 5<br></td>
   </tr>
 <tr><td class="tg-0lax"></td>
 </tr></tbody>
@@ -192,7 +192,7 @@ and becoming infatuated with someone does not mean
 that they should be involved in a romantic relationship.
 Instead, they should focus on building strong and healthy
 friendships with their circles of friends.</td>
-    <td class="tg-nrix">Term 2 Week 4<br></td>
+    <td class="tg-nrix">Term 2 Week 6<br></td>
   </tr>
   <tr>
     <td class="tg-nrix">Are We More than Friends?
@@ -204,7 +204,7 @@ any relationship. They will also recognise the negative
 impact of teasing their peers who may be experiencing
 the feelings of infatuation and learn to behave maturely
 towards each other.</td>
-    <td class="tg-nrix">Term 2 Week 5<br></td>
+    <td class="tg-nrix">Term 2 Week 7<br></td>
   </tr>
 	<tr></tr>
 	<tr><td class="tg-0lax"></td>
@@ -218,7 +218,7 @@ towards each other.</td>
 
   
 
-9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SED_Opt_out_Form.pdf). The completed opt-out form is to be submitted by&nbsp;**17/02/2025**.
+9. Parents who wish to opt their children out of the&nbsp;<b>Sexuality Education lessons</b>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/SED_Opt_out_Form.pdf). The completed opt-out form is to be submitted by&nbsp;**13/02/2026**.
 
 
 10. Parents can contact your child’s form teacher or email the school at&nbsp;<b>angsana_pri@moe.edu.sg or call 67830427</b>&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
