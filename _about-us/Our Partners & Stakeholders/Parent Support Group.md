@@ -3,6 +3,7 @@ title: Parent Support Group
 permalink: /about-us/Our-Partners-and-Stakeholders/Parent-Support-Group/
 description: ""
 third_nav_title: Our Partners & Stakeholders
+variant: markdown
 ---
 ### The Angsana Primary School Parents Support Group
 
@@ -110,7 +111,7 @@ A brief summary of talks that have been conducted and upcoming talks:
 
 <img src="/images/psg_2023_1.jpeg" style="width:674px;height:480px; float: center;border-radius:10%;">
 
-<b>A  member showing or students how to play 'five stones' during Racial Harmony Day recess activities</b>
+<b>A  member showing our students how to play 'five stones' during Racial Harmony Day recess activities</b>
 <br>
 
 <img src="/images/psg_2023_2.jpg" style="width:674px;height:480px; float: center;border-radius:10%;">
