@@ -55,6 +55,7 @@ variant: tiptap
 <br>Teacher Selwyn
 <br>Teacher Sheryl
 <br>Teacher Vetharupeni</p>
+<p>Teacher Wan Yee</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +78,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Cikgu Ruzana
 <br>Cikgu Suhaili</p>
-<p>Cikgu Zimah</p>
+<p>Cikgu Azira</p>
 <p>Cikgu Aini (FAJT)</p>
 <p>Cikgu Yana (FAJT)</p>
 </td>
