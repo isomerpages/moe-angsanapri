@@ -11,7 +11,7 @@ MK@Angsana
 
 <img src="/images/Angsana%20colour.jpg" style="width:260px;height:200px;margin-right:15px;" align="left"> At MOE Kindergarten (MK) @ Angsana, our learning environment is designed with the child in mind. Our creative use of available space encourages children to discover and explore their surroundings. Safe outdoor spaces promote learning, engagement and active play while inviting and thoughtfully-designed classrooms support teaching and learning. Our curriculum and programmes are based on the Nurturing Early Learners (NEL) Framework that guides the development of kindergarten programmes in Singapore.
 
-We believe preschool children are curious, active and competent learners. They are keen to make sense of the world around them, and they learn best through active learning. We strive to make learning authentic and relevant for your child through activities with a distinctive Singapore flavour.
+We believe preschool children are joyful, curious, active and competent learners. They are keen to make sense of the world around them, and they learn best through active learning. We strive to make learning authentic and relevant for your child through activities with a distinctive Singapore flavour.
 
   
 
