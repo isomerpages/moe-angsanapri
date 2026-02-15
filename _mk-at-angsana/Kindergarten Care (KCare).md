@@ -30,25 +30,27 @@ of providing opportunities for the children to develop confidence, self-help
 skills, social skills and values such as responsibility, care and respect
 in a safe and conducive environment.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCare1__2_.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_KCare.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCare2__1_.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_KCare.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kcare3__1_.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_KCare.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KCare4__1_.png">
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_KCare.png">
-</div>
+<p></p>
+<p></p>
+<p></p>
 <p>For more information on KCare, please visit&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care</a>.</p>
 <p>For any enquiries, they can be reached at Email: KCASN@rafflesstudentcare.com</p>
