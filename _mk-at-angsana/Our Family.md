@@ -38,23 +38,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Aishah</p>
-<p>Teacher Angela (FAJT)
-<br>Teacher Candy
-<br>Teacher Hazimah</p>
+<p>Teacher Angela (FAJT)</p>
+<p>Teacher Candy</p>
+<p>Teacher Hazimah</p>
 <p>Teacher Isabelle</p>
-<p>Teacher Liyana
-<br>Teacher Naasiha</p>
+<p>Teacher Liyana</p>
+<p>Teacher Naasiha</p>
 <p>Teacher Nadhirah</p>
-<p>Teacher Nadia
-<br>Teacher Nitra
-<br>Teacher Nur
-<br>Teacher Raashiny
-<br>Teacher Sabrina</p>
-<p>Teacher Sandrea
-<br>Teacher Sarvini
-<br>Teacher Selwyn
-<br>Teacher Sheryl
-<br>Teacher Vetharupeni</p>
+<p>Teacher Nadia</p>
+<p>Teacher Nitra</p>
+<p>Teacher Nur</p>
+<p>Teacher Raashiny</p>
+<p>Teacher Sabrina</p>
+<p>Teacher Sandrea</p>
+<p>Teacher Sarvini</p>
+<p>Teacher Selwyn</p>
+<p>Teacher Sheryl</p>
+<p>Teacher Vetharupeni</p>
+<p>Teacher Wan Yee</p>
 </td>
 </tr>
 <tr>
@@ -63,11 +64,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhang Shan Laoshi 张老师 <strong>(Senior Teacher)</strong>
-<br>Luo Huangli Laoshi 罗老师
-<br>Yang Lu Laoshi 杨老师
-<br>Hong Qiaobo Laoshi 洪老师
-<br>Lok Li Ying Laoshi 骆老师
-<br>Seah Xuyu Laoshi 余老师</p>
+</p>
+<p>Luo Huangli Laoshi 罗老师</p>
+<p>Yang Lu Laoshi 杨老师</p>
+<p>Hong Qiaobo Laoshi 洪老师</p>
+<p>Lok Li Ying Laoshi 骆老师</p>
+<p>Seah Xuyu Laoshi 余老师</p>
 </td>
 </tr>
 <tr>
@@ -75,9 +77,9 @@ variant: tiptap
 <p>Malay Language Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cikgu Ruzana
-<br>Cikgu Suhaili</p>
-<p>Cikgu Zimah</p>
+<p>Cikgu Ruzana</p>
+<p>Cikgu Suhaili</p>
+<p>Cikgu Azira</p>
 <p>Cikgu Aini (FAJT)</p>
 <p>Cikgu Yana (FAJT)</p>
 </td>
