@@ -70,5 +70,8 @@ using a thematic approach.</p>
 <h3>Digital Access @ Home</h3>
 <p>DigitalAccess@Home programme by Infocomm Media Development Authority (IMDA)
 provides subsidised broadband and laptops/tablets to students from lower-income
-households to support their learning. Please visit <a rel="noopener noreferrer nofollow" target="_blank">https://imda.gov.sg/dah</a> for
+households to support their learning. Please click <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
+<p></p>
+<p></p>
+<p></p>
