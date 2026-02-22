@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Learning Environment 2/.keep
-      - Our Indoor Spaces.md
       - Our Outdoor Spaces.md
       - Openhouse 2026.md
       - MK@Angsana.md
