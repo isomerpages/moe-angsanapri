@@ -2,8 +2,6 @@ collections:
   mk-at-angsana:
     output: true
     order:
-      - Our Outdoor Spaces/Our Outdoor Environment.md
-      - Our Outdoor Spaces/.keep
       - Our Learning Environment 2/Our Indoor Spaces.md
       - Our Learning Environment 2/.keep
       - Openhouse 2026.md
