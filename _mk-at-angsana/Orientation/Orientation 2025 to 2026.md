@@ -60,11 +60,6 @@ third_nav_title: Orientation
 </p>
 </li>
 <li>
-<p><a href="/files/Breakout_room_slides__3__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Breakout Room Slides</a>
-<a href="/files/Breakout_Room_Slides_2.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
-</li>
-<li>
 <p><a href="/files/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 MOE Kindergarten Family Handbook</a>
 </p>
 </li>
