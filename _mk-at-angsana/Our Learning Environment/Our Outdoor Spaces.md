@@ -3,7 +3,7 @@ title: Our Outdoor Spaces
 permalink: /mk-at-angsana/our-outdoor-spaces/
 description: ""
 variant: markdown
-third_nav_title: Our Learning Environment 2
+third_nav_title: Our Learning Environment
 ---
 <b><u> Water Play Area </u></b>
 ![](/images/MK@Angsana/Water%20Play%20Area.png)
@@ -25,4 +25,3 @@ third_nav_title: Our Learning Environment 2
 
 <b><u> Tricycle Play Area </u></b>
 ![](/images/MK@Angsana/Tricycle%20Play%20Area.jpg)
-
