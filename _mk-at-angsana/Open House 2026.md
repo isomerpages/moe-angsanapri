@@ -17,6 +17,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Direction.png">
 </div>
 <p></p>
-<p>Please click <a href="/files/Curriculum_and_Information_Slides.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Please click <a href="/files/Curriculum_and_Information_Slides__2_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access the slides on curriculum and information.</p>
 <p></p>
