@@ -24,15 +24,10 @@ The school adopts the STELLAR (**St**rategies for&nbsp;**E**nglish&nbsp;**L**ang
 
 <b> Englishtopia </b>
 <br>
-Englishtopia is a week-long celebration of the English Language in Angsana Primary School. It provides opportunities for students to explore the beauty of the English Language through various activities ranging from classroom quizzes and competitions to school-wide performances and talks by students and professionals.
 
-![](/images/Englistopia_1.jpg)
+![](/images/Englishtopia_Montage.png)
 
-![](/images/Englishtopia_2.jpg)
-
-![](/images/Englishtopia_3.jpg)
-
-![](/images/Englishtopia_4.jpg)
+Englishtopia is a week-long celebration of the English Language in Angsana Primary School. It provides opportunities for students to explore and appreciate the English Language through various activities such as poetry recitation and readers' theatre to activities during recess such as Scavenger Hunt and a drama performance during assembly. Selected students and teachers also dressed up as storybook characters according to the theme.
 
 <figure><img src="/images/STELLAR.jpg" style="width:50%"><figcaption> <b>The STELLAR (STrategies for English Language Learning And Reading) Programme </b> </figcaption></figure>
 
@@ -58,7 +53,7 @@ Teaching and learning of English using more speaking and listening activities. C
 
 Each STELLAR unit includes:
 <br>
-A)&nbsp;&nbsp; &nbsp;Focused reading using big books (P1 to P3a) and readers (P4 to P6)
+A)&nbsp;&nbsp; &nbsp;Focused reading using big books (P1 to P3a) and readers (P3b to P6)
 <br>
 *   reading for enjoyment
 *   reading for knowledge
