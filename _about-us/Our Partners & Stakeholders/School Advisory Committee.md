@@ -83,6 +83,17 @@ variant: tiptap
 <p>Ms Cheng Shuxin Sherry</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hanif Husni</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
