@@ -48,30 +48,6 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdollah Bin Ibrahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lani Tjoawarmansjah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Azahari Bin Mohamed Said</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Yeo Yuen Kee</p>
 </td>
 </tr>
@@ -99,6 +75,25 @@ variant: tiptap
 <p>Mr Ang Kim Hwee Aaron</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheng Shuxin Sherry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hanif Husni</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
