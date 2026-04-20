@@ -663,13 +663,13 @@ variant: tiptap
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah Bte Harun</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Stanley Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan-Lee Mi Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -686,7 +686,7 @@ variant: tiptap
 <p>Mr Yin Jian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wee Chee Kok (FAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -847,7 +847,7 @@ variant: tiptap
 <p>Ms Ng Sze Hwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Thia Lee Lian/ Ms Mah Huimin (FAJT)</p>
+<p>Ms Thia Lee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
