@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /teaching-n-learning/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 ### Objective
 
@@ -27,13 +28,22 @@ We adopt a communicative approach towards the teaching of Mother Tongue Language
   
 ### Key Programmes
 
-We plan and implement several programmes to provide our students with diverse and authentic learning experiences. We believed that other than learning in a classroom, going beyond the boundaries of classroom, will enable our students to widen their horizon and enrich their learning. Having a bustling environment can enable our students to learn and use their Mother Tongue languages.
+We offer a diverse range of programmes designed to provide students with authentic learning experiences. By venturing beyond the classroom, students broaden their horizons, enrich their learning, and deepen their lifelong understanding and appreciation of Mother Tongue languages and cultures.
 
-*   Mother Tongue Language Fortnight   
-*   Mother Tongue Language Cultural Camp
-*   Celebration of Cultural Festivals
-*   Cultural Learning Journeys
-*   Language-related cultural performances
-*   Conversational Chinese and Malay
+•	Mother Tongue Language Fortnight
+An exciting annual affair where students immerse themselves in vibrant cultural activities, from batik painting to puppetry and making traditional snacks. Featuring an assembly talent showcase, this fortnight offers a wonderful opportunity for students to deepen their appreciation and understanding of their Mother Tongue languages and heritage.
 
- ![](/images/MTL%20collage.jpg)
+•	Mother Tongue Language Cultural Camp
+Specially curated for our Primary 2 students, this annual camp provides an immersive cultural experience. Through activities such as engaging storytelling sessions and hands-on traditional games, students connect deeply with their roots, fostering a lifelong love and appreciation for their own rich cultural heritage from an early age.
+
+•	Celebration of Cultural Festivals
+Our school community joyfully celebrates Chinese New Year, Hari Raya Puasa, and Deepavali each year. Through interactive classroom lessons, lively recess activities, and engaging assembly programmes, all students learn the deep significance of these festivals, fostering a strong sense of unity and multicultural harmony.
+
+•	Cultural Performance Exposure 
+Supported by MOE, this unique programme takes Primary 4 students on a creative journey through the performing arts. Whether in school or at the theatre, students watch captivating Mother Tongue language performances, allowing them to explore, enjoy, and appreciate their culture through dynamic storytelling.
+
+•	Conversational Chinese and Malay
+Available to Primary 3 and 4 students, this two-phase programme encourages students to learn a conversational second Mother Tongue language. By stepping into a peer's culture, students gain fresh global perspectives and valuable communication skills, broadening their horizons and understanding of the diverse world around them.
+![](/images/MTL_Photo1.jpg)
+
+![](/images/MTL_Photo2.jpg)
