@@ -12,22 +12,28 @@ variant: tiptap
 <p>PAL stands for Programme for Active Learning. It consists of modules in
 4 different domains namely Sports and Games, Outdoor Education, Visual
 Arts and Performing Arts, which provide broad exposure to the pupils.</p>
-<p>While in the orientation years of the primary school, we aim to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Provide our young pupils with not just the content knowledge, but also
-mastering skills and acquiring values to thrive in the future</p>
-</li>
-<li>
-<p>Develop our pupils holistically, as PAL contributes to a well-rounded
-curriculum</p>
-</li>
-<li>
-<p>Develop our pupils’ Social Emotional Learning (SEL). For example, we teach
-pupils to manage and express their emotions when they win or lose in a
-game</p>
-</li>
-</ul>
+<p>While in the orientation years of the primary school, we aim nurture students
+who:</p>
+<p>1) Show curiosity and find joy in the people and things around them:</p>
+<p>• Students are immersed in rich learning experiences that spark curiosity
+and a love for discovery, with lessons thoughtfully designed to draw meaning
+from the people and world around them, supporting their social emotional
+competencies and values, character and social-emotional well-being.</p>
+<p>• Students are given the space to build confidence by appreciating and
+reflecting on the experiences and relationships that shape their growth
+as learners.</p>
+<p>2) Work respectfully with others:</p>
+<p>• Students engage in collaborative learning activities that bring out
+the best in one another, with lessons built around the belief that every
+student has something valuable to contribute.</p>
+<p>Students are guided to navigate differences with care and respect, developing
+social emotional competencies and the awareness that how we speak and act
+has a real impact on those around us, strengthening their values, character
+and social-emotional well-being.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL_photo1.jpg">
+</div>
 <h3>Pedagogical Approaches</h3>
 <p>In Angsana Primary School, we adapt Kraft and Sakofs (1988) experiential
 education model known as the Engage-Discover-Reflect (EDR) model:</p>

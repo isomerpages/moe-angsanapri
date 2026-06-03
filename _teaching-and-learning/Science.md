@@ -2,53 +2,95 @@
 title: Science
 permalink: /teaching-n-learning/science/
 description: ""
+variant: markdown
 ---
-### Learning Outcomes
+# Welcome to the Science Department!
 
-We aim to do the following through the Science curriculum at Angsana Primary School:
+Guided by our vision of Connected Learning Through Science, we believe students learn best when they actively inquire, investigate and discover. Through meaningful hands-on experiences in and beyond the classroom, students deepen their understanding of scientific concepts, make connections to everyday life and develop a sense of care for the environment and community.
+Through Inquiry and Discovery Through Science, we nurture curious minds, caring hearts and capable hands as students grow into confident learners and responsible stewards of the environment around them.
 
-*   Provide pupils with experiences that will nurture their interest and arouse their curiosity about the environment
-*   Provide pupils with the opportunity to develop the necessary skills, attitudes and processes essential for scientific inquiry
-*   Impart pupils with the necessary skills that will allow them to explore and pursue their interests
-*   Allow pupils to understand how Science influences people and the environment
+**Student Outcomes**
 
-### Pedagogical Approaches
+Curious Minds:
+Students take the initiative to ask questions, investigate and discover through scientific inquiry.
 
-Our Science curriculum is designed around the 5E inquiry approach (Engage, Explore, Explain, Elaborate, Evaluate) in which learners actively construct meaning from their experiences in connection with their prior understanding. Opportunities are provided in and out of the classroom to pique pupils’ curiosity and allow them to explore the world, both in the classroom as well as beyond.
+Caring Hearts:
+Students appreciate the environment and act responsibly towards the world around them.
 
-  
+Capable Hands:
+Students apply scientific knowledge and process skills confidently through hands-on learning and problem-solving.
 
-Hands-on activities engage pupils as well as develop in them an understanding of scientific investigations and concepts. Carefully selected enrichment programmes, e.g. learning journey to Lee Kong Chian Natural History Museum and workshops conducted by the East Zone Centre of Excellence for Innovations in Science, are organised to augment learning amongst our pupils.
+Connected Learners:
+Students make meaningful connections between Science, everyday life and the world around them.
+ 
+**Inquiry and Discovery Through Science
+Signature Learning Experiences**
 
+Across the year, students experience Science through inquiry, discovery and authentic learning opportunities in and beyond the classroom. These experiences help students make meaningful connections between classroom learning, everyday life and the world around them.
+****
+**Garden Bingo: Plants Around Us**
 
-### Key Programmes
+(in collaboration with the English Department)
+Primary 3 students participated in a cross-curricular learning experience through Garden Bingo, where Science and English came together in an authentic outdoor setting.
+As students explored the school garden, they observed and identified plants while sharpening their observation skills and expanding their vocabulary. This meaningful collaboration allowed students to connect scientific observations with language learning as they learnt to notice, describe and appreciate the diversity of plant life and the unusual plants around them. The experience nurtured curiosity, close observation and a deeper appreciation of nature.
 
-<b><u> Engaging Students to Take Climate Action for a Sustainable Future </u></b>
-<br>
-Singapore has designated 2019 as the Year Towards Zero Waste. This involves getting Singaporeans to reduce, reuse, recycle more, and recycle right, to adopt lifestyle habits that minimise waste generation.
+![](/images/Garden_Bingo_1.jpg)
 
-In an effort to encourage the school community to reduce our carbon footprint, assembly programmes and classroom activities are organised to raise our pupils’ awareness of on how everyone can play a part in reducing waste and moving towards a sustainable future.
+![](/images/Garden_Bingo_2.jpg)
 
-Notwithstanding, our Environment Champions learn to manage food waste in a holistic manner by focussing on minimisation and recycling. They use food digesters to turn food waste into compost for plants in the school. Through their heightened awareness and active participation, pupils are exposed to reduce and recycle food waste and contribute towards Singapore becoming a Zero Waste Nation.
+![](/images/Garden_Bingo_3.jpg)
 
-![](/images/Sustainability%20Week%202022%20-%203.jpg)
+![](/images/Garden_Bingo_4.jpg)
 
-<b><u>Learn, Explore, Make Programme</u></b>
-<br>
-The Learn, Explore, Make program leverages on hands-on activities to develop concepts and stimulate students’ curiosity about themselves and their environment. In doing so, students develop skills, dispositions, and attitudes for scientific inquiry. The programme also integrates computational thinking routine in science.
+**Life Cycle of Animals and Food Sustainability**
 
-![](/images/LEM%202022.jpg)
+As part of their study of living things, Primary 3 students explored the life cycles of animals through hands-on learning experiences focused on mealworms and food sustainability.
+Students observed changes in the mealworms over time and learnt about the different stages of the life cycle. Through guided inquiry and discussion, they also discovered how living things can play a role in sustainable food systems and reducing food waste.
+This learning experience encouraged students to think about how Science connects with environmental responsibility and sustainable living.
+![](/images/Life_Cycle_and_Food_Sustainability_1.jpg)
 
-### Science Talent Programme
+![](/images/Life_Cycle_and_Food_Sustainability_2.jpg)
 
-<b><u>Science Olympiad</u></b>
-<br>
-This programme focuses on developing, building on the existing or prior knowledge of the pupils. Pupils are require to make use of their inquiry and critical thinking skills to understand the concept behind each topic covered. The lessons are based on the broad science themes in the primary science curriculum and are focused on introducing the various domains of Science to the pupils and also to enhance their general knowledge. Primary 5 pupils with suitable aptitude and skills will be selected to participate in the Singapore Primary Science Olympiads organised by Raffles Institution and NUS High School.
-![](/images/P5%20Science%20Olympiad%202022.jpg)
+**Adaptations Workshop at the Lee Kong Chian Natural History Museum**
 
-<b><u>Excellence 2000 (E2K) Science Programme </u></b>
-<br>
-This talent management programme aims to develop scientific inquiry process skills among high-ability primary pupils in science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+Primary 6 students participated in an enriching Adaptations Workshop at the museum, where they deepened their understanding of how plants and animals are adapted to survive in different environments.
+Through close observation of specimens and interactive learning experiences, students explored the relationship between structure, function and survival. The workshop provided authentic opportunities for students to apply concepts learnt in class and appreciate Singapore’s biodiversity and natural heritage.
+The experience strengthened students’ scientific inquiry skills while fostering a greater appreciation for the natural world.
 
-Selected Primary 4 pupils and 5 will learn science by going through the same process that scientists use to generate knowledge in science. Through collaborative learning and guidance provided by the teacher, pupils will practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
-![](/images/P4%20E2K%20Science%202022.jpg)
+![](/images/Lee_Kong_Chian_Natural_History_Museum_1.jpg)
+
+![](/images/Lee_Kong_Chian_Natural_History_Museum_2.jpg)
+
+![](/images/Lee_Kong_Chian_Natural_History_Museum_3.jpg)
+
+**Environmental Sustainability Week**
+
+Environmental Sustainability Week provides students with meaningful opportunities to explore environmental issues and understand how individual actions can contribute to a more sustainable future.
+Through hands-on experiences, exhibits and classroom-based activities, students investigated sustainability concepts and learnt how Science can help address real-world environmental challenges.
+These experiences encouraged students to make meaningful connections between Science, sustainability and everyday choices.
+![](/images/Environmental_Sustainability_Week_1.jpg)
+
+![](/images/Environmental_Sustainability_Week_2.jpg)![]
+
+![](/images/Environmental_Sustainability_Week_3.jpg)
+
+![](/images/Environmental_Sustainability_Week_4.jpg)
+
+![](/images/Environmental_Sustainability_5.jpg)
+
+**Enrichment & Talent Development
+E2K Science**
+
+Our E2K Science programme provides opportunities for students to extend their learning through higher-order thinking and inquiry-based experiences.
+Students engage in rich discussions, open-ended investigations and problem-solving tasks that encourage them to think critically, reason scientifically and communicate their ideas clearly.
+Through E2K Science, students deepen conceptual understanding while developing confidence and independence as learners.
+Science Olympiad
+Students with a strong passion for Science are given opportunities to participate in the Science Olympiad, where they apply their scientific knowledge and thinking skills through challenging questions and investigations.
+Through preparation and participation, students deepen their conceptual understanding, strengthen analytical thinking and develop confidence in applying scientific concepts in unfamiliar contexts.
+The experience also encourages perseverance, curiosity and a positive attitude towards tackling complex scientific problems.
+
+![](/images/Science_Talent_Programme_1.jpg)
+
+![](/images/Science_Talent_Programme_2.jpg)
+
+![](/images/Science_Talent_Programme_3.jpg)
