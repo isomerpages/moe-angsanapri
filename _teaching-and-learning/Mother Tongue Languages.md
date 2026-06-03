@@ -47,3 +47,32 @@ Available to Primary 3 and 4 students, this two-phase programme encourages stude
 ![](/images/MTL_Photo1.jpg)
 
 ![](/images/MTL_Photo2.jpg)
+
+**Opportunities to Stretch and Explore**
+
+We offer exciting opportunities for students to stretch their potential and explore their talents. Through participation in vibrant internal and external competitions, students challenge themselves and elevate their Mother Tongue language skills.
+
+Internal Competitions:
+•	Zi Bao Bao Game Design Parent Child Competition “字”有妙计亲子字宝宝游戏设计比赛
+Click here to watch the winning entries
+•	Malay Language Spelling Bee
+
+External Competitions:
+•	8th National Text Recital Competition
+第8届全国课文朗诵比赛
+Silver Award (Group)
+Zhu Yihan
+Wang Yufan
+Kayla Ma Jinxuan
+
+Silver Award (Individual)
+Cheong Rui Ying Sharic
+Yap Jingxuan (Ye JIngxuan)
+
+•	2026华文大比拼
+•	Pertandingan Katapella 2025 
+Choral Recitation Competition 2025
+•	Spelling Bee Competition by MediaCorp
+Thamizhodu Vilaiyaadu
+
+
