@@ -549,4 +549,3 @@ Through empathy, leadership, and innovation, our students learn that <strong>sma
 They embody the school’s vision of nurturing <strong>curious minds and serving hearts</strong>,
 while developing the 21st Century Competencies needed to thrive in an ever
 changing world.</p>
-<p></p>
