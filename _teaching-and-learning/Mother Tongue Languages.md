@@ -74,5 +74,3 @@ Yap Jingxuan (Ye JIngxuan)
 Choral Recitation Competition 2025
 •	Spelling Bee Competition by MediaCorp
 Thamizhodu Vilaiyaadu
-
-
