@@ -231,7 +231,7 @@ for Teachers’ Day appreciation activities.</p>
 and present their ideas. This experience encouraged them to think critically,
 collaborate effectively, and communicate confidently, while building empathy
 and creativity.</p>
-<p><strong>Habits Talk by Prefects </strong>
+<p><strong>Habits Talk by Prefects</strong>
 </p>
 <p>In line with learning the 7 Habits (Leader in Me), our prefects are given
 a platform to advocate these habits to the whole school. Once every term,
