@@ -4,7 +4,6 @@ permalink: /character-development/student-leadership-development/
 description: ""
 variant: markdown
 ---
-
 # Student Leadership Development
 
 ![](/images/SLD_Structure_2026.jpg)
@@ -36,7 +35,4 @@ Progressive Development
 •	Leadership training is introduced gradually from self management, to leading others, and finally to serving the community.
 
 •	All P3 to 6 student leaders undergo specialised training with external trainers, including team building activities and design thinking techniques. These sessions challenge them to step out of their comfort zones and practise exemplary leadership.
-Our students learn that leadership is not about titles, but about service, responsibility, and influence. 
-
-
-
+Our students learn that leadership is not about titles, but about service, responsibility, and influence.
